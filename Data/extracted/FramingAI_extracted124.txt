@@ -1,0 +1,119 @@
+
+
+                                                                                                        Page 1 of 3
+                       QANDA: IS THAT REAL? BOTS MAKE IT HARD TO RECOGNIZE TRUTH
+
+
+
+
+    QANDA: IS THAT REAL? BOTS MAKE IT HARD TO RECOGNIZE TRUTH
+                                                States News Service
+                                            October 30, 2024 Wednesday
+
+
+
+Copyright 2024 States News Service
+
+Length: 975 words
+Byline: States News Service
+Dateline: Charlottesville, VA
+
+Body
+
+
+The following information was released by the University of Virginia:
+
+Automated internet and social media sites are generating and sharing posts, often spreading information,
+disinformation and misinformation in hopes of influencing public opinion on behalf of some countries.
+
+Known as "bots," these sites may serve advertisers to influence spending, political organizations to influence voting,
+foreign governments to influence policies, or even create social discord.
+
+To find out more about bots and how they can affect everything from disaster relief to presidential elections, UVA
+Today talked with Ali Unlu, a researcher and policy analyst with the University of Virginia School of Education and
+Human Development.
+
+Q. What exactly are bots, and how can they influence public opinion?
+
+A. Bots on social media generally refer to automated accounts often used by organizations, like newspapers or
+businesses, to automatically share content such as news or event updates. Bots are popular because they reduce
+human labor and reach larger audiences quickly, often at a lower cost.
+
+We often don't know who controls these accounts or what their goals are. Recent advancements in AI, especially
+generative AI, allow bots to blur the line between human and machine. This makes it challenging for even experts
+to determine whether they're interacting with a person or a bot.
+
+Bots can influence public opinion by shaping what topics are discussed or "agenda setting." By flooding social
+media with posts on specific issues, bots can create a false sense of urgency or consensus, leading people to
+believe that certain topics are more significant than they are. This practice, known as "astroturfing," can deceive not
+only everyday users but also the media and government agencies.
+
+Additionally, bots play a major role in spreading misinformation and disinformation. With generative AI, they can
+create content tailored to specific audiences using humor, memes and even sarcasm to make messages more
+compelling. This makes it easier for bots to sway public opinion or mislead people on important issues.
+
+                                                                                                        Page 2 of 3
+                    QANDA: IS THAT REAL? BOTS MAKE IT HARD TO RECOGNIZE TRUTH
+
+Q. Who is using bots, and what are their motives?
+
+A. Bots are mainly used to influence public opinion (by entities), including domestic interest groups, extremist
+organizations and even foreign governments. While some bots are openly declared as official accounts, the majority
+operate without transparency.
+
+Malicious bots are often used to destabilize societies, increase public distrust, push specific issues onto the
+agenda, influence elections, or promote ideologies such as anti-vaccine or extremist movements. Without knowing
+who is behind these campaigns, it is difficult to determine their true intentions.
+
+For example, misinformation related to FEMA is often designed to undermine trust between citizens and federal
+agencies. This becomes especially problematic during crises, such as major hurricanes, when people are more
+emotionally vulnerable. Various studies show that misinformation spikes during disasters and crises, such as
+earthquakes, the COVID-19 pandemic, or conflicts like Russia-Ukraine and Israel-Gaza.
+
+Those behind bots exploit situations by pointing out government agencies' failures in crisis communication, delays
+in responses, or gaps in handling the event. The scale of the crisis often gives them more material to work with.
+Similarly, election periods are fertile ground for these groups. The competitive nature of elections, combined with
+the rhetoric used by political candidates, can provide opportunities to deepen political divides, foster mistrust and
+erode social cohesion.
+
+Q. How can the average person tell if something is bot-generated?
+
+A. With bots becoming more sophisticated, it is increasingly difficult for the average person to recognize them.
+People should be cautious when reading content on polarized or publicly debated issues, keeping in mind that they
+may be exposed to bot-generated messages. Since identifying account authenticity is challenging, social media
+platforms need to take greater responsibility.
+
+Research shows that people can evaluate content more effectively when they understand both the context and the
+source of the message. While it's challenging to reach a social consensus on which accounts should be suspended
+and who should make that decision people generally make better judgments when they know the origin of a
+message. For example, if someone is aware that a post comes from a Russian-affiliated account, the impact of the
+message is often reduced.
+
+Platforms have the technology to identify and categorize accounts by origin (human, bot, state-sponsored, party
+affiliated); device type (phone, computer, software); or location (foreign, domestic, local). They could improve
+transparency by clearly labeling these accounts. Additionally, governments could require platforms to distinguish
+between human and non-human users.
+
+Q. Bots are likely to get more sophisticated. What does the future of bots look like?
+
+A. In the future, we are likely to see bots that are nearly indistinguishable from human users, complete with detailed
+profiles and highly personalized interactions. These bots may adopt personas ranging from a farmer in rural
+America to a young professional in New York City, each representing distinct values and issues.
+
+Despite their relatable and human-like appearance, the underlying purpose could be to sway public opinion or
+promote specific agendas. This evolution will make bots appear as trusted voices within our communities, thus
+amplifying their potential influence.
+
+As bots become more embedded in our digital ecosystems, it will be crucial to maintain a critical perspective on the
+content we encounter. Understanding that these seemingly human accounts may be acting with specific
+manipulative intentions will be key to navigating the information landscape of the future.
+
+
+Load-Date: October 31, 2024
+
+                                                                              Page 3 of 3
+                  QANDA: IS THAT REAL? BOTS MAKE IT HARD TO RECOGNIZE TRUTH
+
+
+
+

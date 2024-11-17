@@ -1,0 +1,127 @@
+
+
+                                                                                                    Page 1 of 3
+               SoftBank Corp. and Intelsat Launch Landmark Collaboration to Create Ubiquitous Network
+
+
+
+
+      SoftBank Corp. and Intelsat Launch Landmark Collaboration to Create
+                               Ubiquitous Network
+                                                    Business Wire
+                                     September 16, 2024 Monday 12:00 AM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1080 words
+Dateline: MCLEAN, Va.
+
+Body
+
+
+SoftBank Corp. ("SoftBank") and Intelsat signed a groundbreaking collaboration agreement that will lead to the
+launch of a single "Ubiquitous Network" enabling customers to stay connected everywhere they go. SoftBank and
+Intelsat will jointly lead research and development of seamless 5G connections between terrestrial mobile networks
+and satellite communications networks.
+
+This      press      release     features   multimedia.              View       the       full     release       here:
+https://www.businesswire.com/news/home/20240916589802/en/
+
+In a society where everyone and everything is increasingly dependent on staying connected, convenient, and
+always-on, telecommunications are essential. However, despite the coming realization of autonomous mobility with
+automobiles, ships, drones and other vehicles, many areas are still without ground-based mobile network coverage
+and require separate devices and accounts to connect to non-terrestrial networks.
+
+Through the new collaboration, SoftBank and Intelsat plan to jointly develop a hybrid communication solution that
+allows users to stay connected via available networks, whether terrestrial or satellite, anywhere in the world with the
+convenience of one device and one account. The solution will build on the same standard architectures, interfaces
+and processes that enable roaming of devices between terrestrial cellular networks today and will help make the
+commercial adoption of mobility solutions based on new 3GPP 5G standards for non-terrestrial networks a reality
+much sooner.
+
+One of the key goals of the collaboration is to develop a universal device that will always stay connected regardless
+of where in the world it goes. For example, a future connected vehicle equipped with such a device will be able to
+seamlessly switch to a non-terrestrial satellite communication network when outside of terrestrial mobile network
+coverage. The targeted solution is expected to have wide commercial applicability, including in land mobile,
+maritime, and disaster response and recovery.
+
+Design, development, field testing and commercialization of new hybrid network products between Intelsat and
+SoftBank will be conducted in phases, aligned with the development of the new 3GPP 5G non-terrestrial network
+standards. The resulting hybrid solutions will allow for existing satellite terminals to be used in the near term and
+newer 5G-based terminals as they become available.
+
+                                                                                                 Page 2 of 3
+            SoftBank Corp. and Intelsat Launch Landmark Collaboration to Create Ubiquitous Network
+
+"Intelsat and SoftBank share a pioneering vision of Ubiquitous Networking and seamless interoperability between
+satellite and terrestrial networks," said Bruno Fromont, Intelsat Chief Technology Officer. "Until now, the challenge
+was aligning standards that allowed the two different networks to connect. With recent progress on 5G-based
+standardization of non-terrestrial networks led by Intelsat at 3GPP and this strategic collaboration with SoftBank, we
+are ideally positioned to accelerate the design and practical implementation of commercial hybrid services that will
+allow devices to freely roam between satellite and terrestrial networks."
+
+Hideyuki Tsukuda, Executive Vice President and CTO of SoftBank said, "By using technology that switches
+between terrestrial mobile networks and satellite communication networks through roaming, we can integrate the
+two previously separate networks and utilize satellite communication as an extension of mobile communication.
+Through this joint research and development, SoftBank and Intelsat will aim to build a Ubiquitous Network where
+people and things around the world can be connected to communication anytime, anywhere."
+
+About Intelsat
+
+Intelsat's global team of professionals is focused on providing seamless and secure, satellite-based
+communications to government, NGO and commercial customers through the company's next-generation
+worldwide network and managed services. Bridging the digital divide by operating one of the world's largest and
+most advanced satellite fleet and connectivity infrastructures, Intelsat enables people and their tools to speak over
+oceans, see across continents and listen through the skies to communicate, cooperate and coexist. Since its
+founding six decades ago, the company has been synonymous with satellite-industry "firsts" in service to its
+customers and the planet. Leaning on a legacy of innovation and focusing on addressing a new generation of
+challenges Intelsat team members now have their sights on the "next firsts" in space as they disrupt the field and
+lead in the digital transformation of the industry.
+
+About SoftBank Corp.
+
+Guided by the SoftBank Group's corporate philosophy, "Information Revolution - Happiness for everyone,"
+SoftBank Corp. (TOKYO: 9434) operates telecommunications and IT businesses in Japan and globally. In the fiscal
+year ended March 2024, SoftBank Corp. registered 6,084.0 billion yen of revenue, 876.1 billion yen of operating
+income and 489.1 billion yen of net income. SoftBank Corp. has 40 million mobile subscribers in Japan, and
+through its group companies, 63 million smartphone payment (PayPay) users, 85 million online media (Yahoo!
+JAPAN) users and 97 million communication app (LINE) users (as of May 9, 2024). Building on its strong business
+foundation, SoftBank Corp. is expanding into non-telecom fields in line with its "Beyond Carrier" growth strategy
+while further growing its telecom business by harnessing the power of 5G/6G, IoT, Digital Twin and Non-Terrestrial
+Network (NTN) solutions, including High Altitude Platform Station (HAPS)-based stratospheric telecommunications.
+While constructing AI data centers and developing homegrown LLMs specialized for the Japanese language with 1
+trillion parameters, SoftBank is applying AI to enhance radio access network performance (AI-RAN) with the aim of
+becoming a provider of next-generation social infrastructure. In recognition of its ESG initiatives, SoftBank Corp.
+was selected for inclusion in the Dow Jones Sustainability World Index (DJSI World) for 2022 and 2023, achieving
+the highest score in Japan and registering as the only company in the country to be selected for the
+Telecommunication Services industry group in 2023. To learn more, please visit https://www.softbank.jp/en/ .
+
+Follow Us on Social Media:
+
+Twitter/X: https://twitter.com/INTELSAT
+
+LinkedIn: https://www.linkedin.com/company/intelsat
+
+Instagram: https://www.instagram.com/intelsat/?hl=en
+
+YouTube: https://www.youtube.com/user/intelsatmedia
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240916589802/en/
+
+                                                                                                 Page 3 of 3
+            SoftBank Corp. and Intelsat Launch Landmark Collaboration to Create Ubiquitous Network
+
+
+
+CONTACT: Melissa Longo - melissa.longo@intelsat.com ; +1 240-308-1881
+
+
+http://www.businesswire.com
+
+
+Load-Date: September 16, 2024
+
+
+  

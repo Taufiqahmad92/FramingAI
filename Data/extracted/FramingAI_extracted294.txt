@@ -1,0 +1,735 @@
+
+
+                                                                                                   Page 1 of 13
+                                   Sensors Issues Research Articles in Vol. 24, Issue 18
+
+
+
+
+                    Sensors Issues Research Articles in Vol. 24, Issue 18
+                                                     Targeted News Service
+                                            October 7, 2024 Monday 8:00 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 5119 words
+Byline: Targeted News Service
+Dateline: BASEL, Switzerland
+
+Body
+
+
+Sensors, a peer-reviewed open access journal that says it provides a forum for the science and technology of
+sensors and Sept. 2, 2024, edition (Vol. 24, Issue 18):
+
+*Article - A Custom-Developed Device for Testing Tensile Strength and Elasticity of Vascular and Intestinal Tissue
+Samples for Anastomosis Regeneration Research
+
+*Article - A Deep Learning Method for Human Sleeping Pose Estimation with Millimeter Wave Radar
+
+*Article - A Joint Active Damping Strategy Based on LCL-Type Grid-Connected Inverters for Grid Current Feedback
+and PCC Voltage Unit Feedforward
+
+*Article - A LiDAR-Camera Joint Calibration Algorithm Based on Deep Learning
+
+*Article - A Low-Cost Sensor Network for Monitoring Peatland
+
+*Article - A Machine Vision Method for Identifying Blade Tip Clearance in Wind Turbines
+
+*Article - A Method for the Pattern Recognition of Acoustic Emission Signals Using Blind Source Separation and a
+CNN for Online Corrosion Monitoring in Pipelines with Interference from Flow-Induced Noise
+
+*Article - A Mixed Approach for Clock Synchronization in Distributed Data Acquisition Systems
+
+*Article - A Model-Based Systematic Innovative Design for Sonic Logging Instruments in Natural Gas Wells
+
+*Article - A Multi-Stage Progressive Pansharpening Network Based on Detail Injection with Redundancy Reduction
+
+*Article - A New Measure for Quantifying Four-Limb Coordination of Human Gait Based on Mobility Sensors
+
+                                                                                                    Page 2 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - A Novel Active Learning Framework for Cross-Subject Human Activity Recognition from Surface
+Electromyography
+
+*Article - A Novel Size-Based Centrifugal Microfluidic Design to Enrich and Magnetically Isolate Circulating Tumor
+Cells from Blood Cells through Biocompatible Magnetite-Arginine Nanoparticles
+
+*Article - A Photoelectrochemical Biosensor Mediated by CRISPR/Cas*
+
+*Article - A Proposed Algorithm Based on Variance to Effectively Estimate Crack Source Localization in Solids
+
+*Article - A Proposed Non-Destructive Method Based on Sphere Launching and Piezoelectric Diaphragm
+
+*Article - A Quasi-Isotropic Probe for High-Power Microwave Field Measurement
+
+*Article - A Recommendation System for Trigger-Action Programming Rules via Graph Contrastive Learning
+
+*Article - A Remote Two-Point Magnetic Localization Method Based on SQUID Magnetometers and Magnetic
+Gradient Tensor Invariants
+
+*Article - A Spatio-Temporal Capsule Neural Network with Self-Correlation Routing for EEG Decoding of Semantic
+Concepts of Imagination and Perception Tasks
+
+*Article - A Statistical Approach for Functional Reach-to-Grasp Segmentation Using a Single Inertial Measurement
+Unit
+
+*Article - A Study on Machine Learning-Based Feature Classification for the Early Diagnosis of Blade Rubbing
+
+*Article - A Support Tool for Emergency Management in Smart Campuses: Reference Architecture and Enhanced
+Web User Interfaces
+
+*Article - A Wide-Bandwidth Inexpensive Current Sensor Based on the Signal Fusion of Tunneling
+Magnetoresistance and a Current Transformer
+
+*Article - A Wide-Range TCSC Based ADN in Mountainous Areas Considering Hydropower-Photovoltaic-ESS
+Complementarity
+
+*Article - Accuracy Validation of a Sensor-Based Inertial Measurement Unit and Motion Capture System for
+Assessment of Lower Limb Muscle Strength in Older Adults--A Novel and Convenient Measurement Approach
+
+*Article - Accurate Low Complexity Quadrature Angular Diversity Aperture Receiver for Visible Light Positioning
+
+*Article - Active Region Mode Control for High-Power, Low-Linewidth Broadened Semiconductor Optical Amplifiers
+for Light Detection and Ranging
+
+*Article - Adaptation of a Differential Scanning Calorimeter for Simultaneous Electromagnetic Measurements
+
+*Article - Advanced Necklace for Real-Time PPG Monitoring in Drivers
+
+*Article - Aerogel-Lined Capillaries as Liquid-Core Waveguides for Raman Signal Gain of Aqueous Samples:
+Advanced Manufacturing and Performance Characterization
+
+*Article - AI-Enabled Sensor Fusion of Time-of-Flight Imaging and mmWave for Concealed Metal Detection
+
+*Article - An Adaptive and Automatic Power Supply Distribution System with Active Landmarks for Autonomous
+Mobile Robots
+
+*Article - An Adaptive RF Front-End Architecture for Multi-Band SDR in Avionics
+
+                                                                                                     Page 3 of 13
+                                Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - An Adaptive Spatial Target Tracking Method Based on Unscented Kalman Filter
+
+*Article - An Adaptive Vehicle Detection Model for Traffic Surveillance of Highway Tunnels Considering Luminance
+Intensity
+
+*Article - An Improved Instance Segmentation Method for Complex Elements of Farm UAV Aerial Survey Images
+
+*Article - An Industrial Internet-of-Things (IIoT) Open Architecture for Information and Decision Support Systems in
+Scientific Field Campaigns
+
+*Article - Analysis of Factors Influencing the Precision of Body Tracking Outcomes in Industrial Gesture Control
+
+*Article - Analysis of Road Roughness and Driver Comfort in 'Long-Haul' Road Transportation Using Random
+Forest Approach
+
+*Article - Anomaly Detection Method for Industrial Control System Operation Data Based on Time-Frequency
+Fusion Feature Attention Encoding
+
+*Article - AnyFace++: Deep Multi-Task, Multi-Domain Learning for Efficient Face AI
+
+*Article - Application of Attribute-Based Encryption in Military Internet of Things Environment
+
+*Article - Application of Hyperspectral Imaging and Multi-Module Joint Hierarchical Residual Network in Seed
+Cotton Foreign Fiber Recognition
+
+*Article - Application of Indoor Positioning Systems in Nursing Homes: Enhancing Resident Safety and Staff
+Efficiency
+
+*Article - Application of the Semi-Supervised Learning Approach for Pavement Defect Detection
+
+*Article - Architecture for Enhancing Communication Security with RBAC IoT Protocol-Based Microgrids
+
+*Article - Assessing the Quality of Solvent-Assisted Lipid Bilayers Formed at Different Phases and Aqueous Buffer
+Media: A QCM-D Study
+
+*Article - Assessment of Low-Cost and Higher-End Soil Moisture Sensors across Various Moisture Ranges and Soil
+Textures
+
+*Article - Assessment of the Impact of Sensor-Based Ischemic Preconditioning with Different Cycling Periods on
+Upper Limb Strength in Bodybuilding Athletes
+
+*Article - Asymmetric Stereo High Dynamic Range Imaging with Smartphone Cameras
+
+*Article - Augmented Physics-Based Models for High-Order Markov Filtering
+
+*Article - Automatic Measurement of Seed Geometric Parameters Using a Handheld Scanner
+
+*Article - Automatic Recognition of Multiple Emotional Classes from EEG Signals through the Use of Graph Theory
+and Convolutional Neural Networks
+
+*Article - Autonomous Planetary Liquid Sampler (APLS) for In Situ Sample Acquisition and Handling from Liquid
+Environments
+
+*Article - AVaTER: Fusing Audio, Visual, and Textual Modalities Using Cross-Modal Attention for Emotion
+Recognition
+
+*Article - Balancing of Resonant Differential Coils for Broadband Inductive Sensor Systems
+
+                                                                                                      Page 4 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Beamforming for Multi-Bit Intelligent Reflecting Surface with Phase Shift-Dependent Power Consumption
+Model
+
+*Article - Bee Together: Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring
+
+*Article - Bioelectrical Impedance Vector Analysis (BIVA) for Assessment of Hydration Status: A Comparison
+between Endurance and Strength University Athletes
+
+*Article - Calibration Methods for Large-Scale and High-Precision Globalization of Local Point Cloud Data Based on
+iGPS
+
+*Article - Calibration of Low-Cost Moisture Sensors in a Biochar-Amended Sandy Loam Soil with Different Salinity
+Levels
+
+*Article - CFD Analyses of Density Gradients under Conditions of Supersonic Flow at Low Pressures
+
+*Article - Charging Scheduling Method for Wireless Rechargeable Sensor Networks Based on Energy Consumption
+Rate Prediction for Nodes
+
+*Article - Cloud-Edge Collaborative Defect Detection Based on Efficient Yolo Networks and Incremental Learning
+
+*Article - Compact VHF/UHF Ultrawideband Discone Antenna with Consistent Pattern
+
+*Article - Comparative Study of Lightweight Target Detection Methods for Unmanned Aerial Vehicle-Based Road
+Distress Survey
+
+*Article - Comparison of Faster R-CNN, YOLO, and SSD for Third Molar Angle Detection in Dental Panoramic X-
+rays
+
+*Article - Comprehensive Assessment of Context-Adaptive Street Lighting: Technical Aspects, Economic Insights,
+and Measurements from Large-Scale, Long-Term Implementations
+
+*Article - Computationally Efficient Direction Finding for Conformal MIMO Radar
+
+*Article - Contrastive Learning-Based Personalized Tag Recommendation
+
+*Article - Correlation between Muscular Activity and Vehicle Motion during Double Lane Change Driving
+
+*Article - Cross-Country Ski Skating Style Sub-Technique Detection and Skiing Characteristic Analysis on Snow
+Using High-Precision GNSS
+
+*Article - Cubature Kalman Hybrid Consensus Filter for Collaborative Localization of Unmanned Surface Vehicle
+Cluster with Random Measurement Delay
+
+*Article - Current Mirror Improved Potentiostat (CMIPot) for a Three Electrode Electrochemical Cell
+
+*Article - Data Reconstruction Using Smart Sensor Placement
+
+*Article - Data-Driven Power Prediction for Proton Exchange Membrane Fuel Cell Reactor Systems
+
+*Article - Decimeter-Level Accuracy for Smartphone Real-Time Kinematic Positioning Implementing a Robust
+Kalman Filter Approach and Inertial Navigation System Infusion in Complex Urban Environments
+
+*Article - Deep Complex Gated Recurrent Networks-Based IoT Network Intrusion Detection Systems
+
+*Article - Deep Deterministic Policy Gradient-Based Resource Allocation Considering Network Slicing and Device-
+to-Device Communication in Mobile Networks
+
+                                                                                                        Page 5 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Design and Analysis of a Hand-Held Surgical Forceps with a Force-Holding Function
+
+*Article - Design and Evaluation of Real-Time Data Storage and Signal Processing in a Long-Range Distributed
+Acoustic Sensing (DAS) Using Cloud-Based Services
+
+*Article - Design of an FPGA-Based Controller for Fast Scanning Probe Microscopy
+
+*Article - Detection Method for Three-Phase Electricity Theft Based on Multi-Dimensional Feature Extraction
+
+*Article - Detection of GPS Spoofing Attacks in UAVs Based on Adversarial Machine Learning Model
+
+*Article - Detection of Movement-Related Brain Activity Associated with Hand and Tongue Movements from Single-
+Trial Around-Ear EEG
+
+*Article - Development and Application of a Novel Tsunami Monitoring System Based on Submerged Mooring
+
+*Article - Development and Assessment of Artificial Intelligence-Empowered Gait Monitoring System Using Single
+Inertial Sensor
+
+*Article - Development and Test of Low-Cost Multi-Channel Multi-Frequency Lock-In Amplifier for Health and
+Environment Sensing
+
+*Article - Development of Surface EMG for Gait Analysis and Rehabilitation of Hemiparetic Patients
+
+*Article - DGD-CNet: Denoising Gated Recurrent Unit with a Dropout-Based CSI Network for IRS-Aided Massive
+MIMO Systems
+
+*Article - Differences in Trunk Acceleration-Derived Gait Indexes in Stroke Subjects with and without Stroke-
+Induced Immunosuppression
+
+*Article - Dining Bowl Modeling and Optimization for Single-Image-Based Dietary Assessment
+
+*Article - DIO-SLAM: A Dynamic RGB-D SLAM Method Combining Instance Segmentation and Optical Flow
+
+*Article - Discrimination of Explosive Residues by Standoff Sensing Using Anodic Aluminum Oxide Microcantilever
+Laser Absorption Spectroscopy with Kernel-Based Machine Learning
+
+*Article - Distributed Embedded System for Multiparametric Assessment of Infrastructure Durability Using
+Electrochemical Techniques
+
+*Article - DSC-Net: Enhancing Blind Road Semantic Segmentation with Visual Sensor Using a Dual-Branch Swin-
+CNN Architecture
+
+*Article - Dual-Band Monopole MIMO Antenna Array for UAV Communication Systems
+
+*Article - Dynamic Fault Tree Generation and Quantitative Analysis of System Reliability for Embedded Systems
+Based on SysML Models
+
+*Article - Eddy Current Array for Defect Detection in Finely Grooved Structure Using MSTSA Network
+
+*Article - Eddy Current-Based Delamination Imaging in CFRP Using Erosion and Thresholding Approaches
+
+*Article - Effectiveness of Hospital Fit on Physical Activity in Hospitalized Patients: A Stepped-Wedge Cluster-
+Randomized Trial and Process Evaluation
+
+*Article - Effects of Vibroacoustic Stimulation on Psychological, Physiological, and Cognitive Stress
+
+                                                                                                   Page 6 of 13
+                                Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - eHealth Assistant AI Chatbot Using a Large Language Model to Provide Personalized Answers through
+Secure Decentralized Communication
+
+*Article - Electrical Impedance Tomography-Based Electronic Skin for Multi-Touch Tactile Sensing Using Hydrogel
+Material and FISTA Algorithm
+
+*Article - Electroencephalography Neurofeedback Training with Focus on the State of Attention: An Investigation
+Using Source Localization and Effective Connectivity
+
+*Article - Electronic Nose Humidity Compensation System Based on Rapid Detection
+
+*Article - Enhanced IoT Spectrum Utilization: Integrating Geospatial and Environmental Data for Advanced Mid-
+Band Spectrum Sharing
+
+*Article - Enhanced Model Predictive Control Using State Variable Feedback for Steady-State Error Cancellation
+
+*Article - Enhancing Bioluminescence Imaging of Cultured Tissue Explants Using Optical Telecompression
+
+*Article - Enhancing Cybersecurity in Healthcare: Evaluating Ensemble Learning Models for Intrusion Detection in
+the Internet of Medical Things
+
+*Article - Enhancing EEG-Based MI-BCIs with Class-Specific and Subject-Specific Features Detected by Neural
+Manifold Analysis
+
+*Article - Enhancing Reliability and Stability of BLE Mesh Networks: A Multipath Optimized AODV Approach
+
+*Article - Ensemble Techniques for Robust Fake News Detection: Integrating Transformers, Natural Language
+Processing, and Machine Learning
+
+*Article - ERIRMS Evaluation of the Reliability of IoT-Aided Remote Monitoring Systems of Low-Voltage Overhead
+Transmission Lines
+
+*Article - Error Analysis and Modeling of a Large Component Assembly Monitoring System Based on Multi-Sensor
+Fusion
+
+*Article - Estimation Model for Maize Multi-Components Based on Hyperspectral Data
+
+*Article - Estimation of Leaf Area Index across Biomes and Growth Stages Combining Multiple Vegetation Indices
+
+*Article - Evaluation and Validation on Sensitivity of Near-Infrared Diffuse Reflectance in Non-Invasive Human
+Blood Glucose Measurement
+
+*Article - Experimental Investigation on the Effect of Coil Shape on Planar Eddy Current Sensor Characteristic for
+Blade Tip Clearance
+
+*Article - Experimental Validation of Realistic Measurement Setup for Quantitative UWB-Guided Hyperthermia
+Temperature Monitoring
+
+*Article - Farm Monitoring System with Drones and Optical Camera Communication
+
+*Article - Few-Shot Image Classification of Crop Diseases Based on Vision-Language Models
+
+*Article - Field Test of the MiniRadMeter Gamma and Neutron Detector for the EU Project CLEANDEM
+
+*Article - First-Principles Investigation on Ru-Doped Janus WSSe Monolayer for Adsorption of Dissolved Gases in
+Transformer Oil: A Novel Sensing Candidate Exploration
+
+*Article - flyDetect: An Android Application for Flight Detection
+
+                                                                                                     Page 7 of 13
+                                Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Fog Density Analysis Based on the Alignment of an Airport Video and Visibility Data
+
+*Article - FusionOpt-Net: A Transformer-Based Compressive Sensing Reconstruction Algorithm
+
+*Article - Gas Detection and Classification Using Multimodal Data Based on Federated Learning
+
+*Article - Generic FPGA Pre-Processing Image Library for Industrial Vision Systems
+
+*Article - Gesture Recognition Framework for Teleoperation of Infrared (IR) Consumer Devices Using a Novel
+pFMG Soft Armband
+
+*Article - Hardware Development and Evaluation of Multihop Cluster-Based Agricultural IoT Based on Bluetooth
+Low-Energy and LoRa Communication Technologies
+
+*Article - Harnessing the Heart's Magnetic Field for Advanced Diagnostic Techniques
+
+*Article - High-Precision Bi-Directional Beam-Pointing Measurement Method Based on Space Solar Power Station
+System
+
+*Article - High-Resolution and Robust One-Bit Direct-of-Arrival Estimation via Reweighted Atomic Norm Estimation
+
+*Article - High-Voltage Power Supply for Four-Quadrant Dielectric Elastomer Actuators
+
+*Article - How Effective Are Forecasting Models in Predicting Effects of Exoskeletons on Fatigue Progression?
+
+*Article - Hybrid Multi-Access Method for Space-Based IoT: Adaptive Bandwidth Allocation and Beam Layout Based
+on User Distribution
+
+*Article - Hybrid Optimization Path Planning Method for AGV Based on KGWO
+
+*Article - Image Processing for Smart Agriculture Applications Using Cloud-Fog Computing
+
+*Article - Impact Load Localization Based on Multi-Scale Feature Fusion Convolutional Neural Network
+
+*Article - Implications of Aperiodic and Periodic EEG Components in Classification of Major Depressive Disorder
+from Source and Electrode Perspectives
+
+*Article - Improving the Accuracy of mmWave Radar for Ethical Patient Monitoring in Mental Health Settings
+
+*Article - Inertial Motion Capture-Driven Digital Human for Ergonomic Validation: A Case Study of Core Drilling
+
+*Article - Inferring ECG Waveforms from PPG Signals with a Modified U-Net Neural Network
+
+*Article - Integrated Approach for Human Wellbeing and Environmental Assessment Based on a Wearable IoT
+System: A Pilot Case Study in Singapore
+
+*Article - Intelligent Control System for Brain-Controlled Mobile Robot Using Self-Learning Neuro-Fuzzy Approach
+
+*Article - Investigation of Aircraft Conflict Resolution Trajectories under Uncertainties
+
+*Article - Investigation of Graphene Single Layer on P-Type and N-Type Silicon Heterojunction Photodetectors
+
+*Article - Investigation of the Reduction in Distributed Acoustic Sensing Signal Due to Perforation Erosion by Using
+CFD Acoustic Simulation and Lighthill's Acoustic Power Law
+
+*Article - Investigation of the Robust Integration of Distributed Fibre Optic Sensors in Structural Concrete
+Components
+
+                                                                                                     Page 8 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Joint Spatio-Temporal-Frequency Representation Learning for Improved Sound Event Localization and
+Detection
+
+*Article - Jointly Optimization of Delay and Energy Consumption for Multi-Device FDMA in WPT-MEC System
+
+*Article - Kinematical Effects of a Mandibular Advancement Occlusal Splint on Running until Exhaustion at Severe
+Intensity
+
+*Article - Laboratory Tests of Metrological Characteristics of a Non-Repetitive Low-Cost Mobile Handheld Laser
+Scanner
+
+*Article - Laser Scanner-Based Hyperboloid Cooling Tower Geometry Inspection: Thickness and Deformation
+Mapping
+
+*Article - Latent Diffusion Models to Enhance the Performance of Visual Defect Segmentation Networks in Steel
+Surface Inspection
+
+*Article - Latent Space Search-Based Adaptive Template Generation for Enhanced Object Detection in Bin-Picking
+Applications
+
+*Article - Learning Autonomous Navigation in Unmapped and Unknown Environments
+
+*Article - Lightweight Substation Equipment Defect Detection Algorithm for Small Targets
+
+*Article - LiteFer: An Approach Based on MobileViT Expression Recognition
+
+*Article - LLMDiff: Diffusion Model Using Frozen LLM Transformers for Precipitation Nowcasting
+
+*Article - Location Privacy Protection for the Internet of Things with Edge Computing Based on Clustering K-
+Anonymity
+
+*Article - Longitudinal-Torsional Frequency Coupling Design of Novel Ultrasonic Horns for Giant Magnetostrictive
+Transducers
+
+*Article - Looping Flexible Fluoropolymer Microcapillary Film Extends Analysis Times for Vertical Microfluidic Blood
+Testing
+
+*Article - Machine Learning-Based Gesture Recognition Glove: Design and Implementation
+
+*Article - Method of Motion Planning for Digital Twin Navigation and Cutting of Shearer
+
+*Article - Microfibrous Carbon Paper Decorated with High-Density Manganese Dioxide Nanorods: An
+Electrochemical Nonenzymatic Platform of Glucose Sensing
+
+*Article - Model and Method for Providing Resilience to Resource-Constrained AI-System
+
+*Article - Modeling and Analyzing the Availability of Technical Professional Profiles for the Success of Smart Cities
+Projects in Europe
+
+*Article - Monitoring Eastern White Pine Health by Using Field-Measured Foliar Traits and Hyperspectral Data
+
+*Article - Motion Planning for a Legged Robot with Dynamic Characteristics
+
+*Article - MRSNet: Multi-Resolution Scale Feature Fusion-Based Universal Density Counting Network
+
+*Article - Multi-Cluster Approaches to Radio Sensor Array Channel Modeling and Simulation
+
+*Article - Multi-Fingerprints Indoor Localization for Variable Spatial Environments: A Naive Bayesian Approach
+
+                                                                                                     Page 9 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Multilayer Fused Correntropy Reprsenstation for Fault Diagnosis of Mechanical Equipment
+
+*Article - Multimodal Social Sensing for the Spatio-Temporal Evolution and Assessment of Nature Disasters
+
+*Article - Multiple-Point Metamaterial-Inspired Microwave Sensors for Early-Stage Brain Tumor Diagnosis
+
+*Article - Multi-Spectral Radiation Temperature Measurement: A High-Precision Method Based on Inversion Using
+an Enhanced Particle Swarm Optimization Algorithm with Multiple Strategies
+
+*Article - Near-Surface Air Temperature Estimation Based on an Improved Conditional Generative Adversarial
+Network
+
+*Article - New, Optimized Skin Calorimeter Version for Measuring Thermal Responses of Localized Skin Areas
+during Physical Activity
+
+*Article - Norm Emergence through Conflict-Blocking Interactions in Industrial Internet of Things Environments
+
+*Article - Novel Multi-Classification Dynamic Detection Model for Android Malware Based on Improved Zebra
+Optimization Algorithm and LightGBM
+
+*Article - Numerical Investigation on the Influence of Turbine Rotor Parameters on the Eddy Current Sensor for the
+Dynamic Blade Tip Clearance Measurement
+
+*Article - Numerical Study and Structural Optimization of Water-Wall Temperature-Measurement Device for Ultra-
+Supercritical Boiler
+
+*Article - On the Development of an Acoustic Image Dataset for Unexploded Ordnance Classification Using Front-
+Looking Sonar and Transfer Learning Methods
+
+*Article - Optimization of the Pixel Design for Large Gamma Cameras Based on Silicon Photomultipliers
+
+*Article - Optimizing Real-Time MI-BCI Performance in Post-Stroke Patients: Impact of Time Window Duration on
+Classification Accuracy and Responsiveness
+
+*Article - OS-PSO: A Modified Ratio of Exponentially Weighted Averages-Based Optical and SAR Image
+Registration
+
+*Article - Performance of a Novel Electronic Nose for the Detection of Volatile Organic Compounds Relating to
+Starvation or Human Decomposition Post-Mass Disaster
+
+*Article - Player Experience Evaluation in Game-Based Systems for Older Adults
+
+*Article - Potential of Non-Contact Dynamic Response Measurements for Predicting Small Size or Hidden Damages
+in Highly Damped Structures
+
+*Article - Prediction of Vascular Access Stenosis by Lightweight Convolutional Neural Network Using Blood Flow
+Sound Signals
+
+*Article - Preservation and Protection of Cultural Heritage: Vibration Monitoring and Seismic Vulnerability of the
+Ruins of Carmo Convent (Lisbon)
+
+*Article - Quality of Service-Aware Multi-Objective Enhanced Differential Evolution Optimization for Time Slotted
+Channel Hopping Scheduling in Heterogeneous Internet of Things Sensor Networks
+
+*Article - Rapid and Resilient LoRa Leap: A Novel Multi-Hop Architecture for Decentralised Earthquake Early
+Warning Systems
+
+*Article - Real-Time Air-Writing Recognition for Arabic Letters Using Deep Learning
+
+                                                                                                   Page 10 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Regulating Modality Utilization within Multimodal Fusion Networks
+
+*Article - Reliability of Real-Time Kinematic (RTK) Positioning for Low-Cost Drones' Navigation across Global
+Navigation Satellite System (GNSS) Critical Environments
+
+*Article - Remotely Powered Two-Wire Cooperative Sensors for Bioimpedance Imaging Wearables
+
+*Article - Research on Fault Diagnosis of Rolling Bearing Based on Gramian Angular Field and Lightweight Model
+
+*Article - Research on Improved Algorithms for Cone Bucket Detection in Formula Unmanned Competition
+
+*Article - Research on Lightweight Method of Insulator Target Detection Based on Improved SSD
+
+*Article - Research on Multi-Core Curvature Sensing Measurement Based on PPP-BOTDA
+
+*Article - Research on Signal Noise Reduction and Leakage Localization in Urban Water Supply Pipelines Based on
+Northern Goshawk Optimization
+
+*Article - Research on the Depth Image Reconstruction Algorithm Using the Two-Dimensional Kaniadakis Entropy
+Threshold
+
+*Article - Research on the Motion Control Strategy of a Lower-Limb Exoskeleton Rehabilitation Robot Using the
+Twin Delayed Deep Deterministic Policy Gradient Algorithm
+
+*Article - Research on the Optimization Method of Visual Sensor Calibration Combining Convex Lens Imaging with
+the Bionic Algorithm of Wolf Pack Predation
+
+*Article - Research on the Performance of Thermoelectric Self-Powered Systems for Wireless Sensor Based on
+Industrial Waste Heat
+
+*Article - RT-CBAM: Refined Transformer Combined with Convolutional Block Attention Module for Underwater
+Image Restoration
+
+*Article - Safety, Efficiency, and Mental Workload in Simulated Teledriving of a Vehicle as Functions of Camera
+Viewpoint
+
+*Article - Sensitive Coatings Based on Molecular-Imprinted Polymers for Triazine Pesticides' Detection
+
+*Article - Signal Quality in Continuous Transcutaneous Bilirubinometry
+
+*Article - Smartphone Assessment of the Sitting Heel-Rise Test
+
+*Article - SMS Scam Detection Application Based on Optical Character Recognition for Image Data Using
+Unsupervised and Deep Semi-Supervised Learning
+
+*Article - Standard-Deviation-Based Adaptive Median Filter for Elimination of Batwing Effects in Step Microstructure
+Measurement Using Digital Holography
+
+*Article - Statistics of the Sum of Double Random Variables and Their Applications in Performance Analysis and
+Optimization of Simultaneously Transmitting and Reflecting Reconfigurable Intelligent Surface-Assisted Non-
+Orthogonal Multi-Access Systems
+
+*Article - Structural Damage Detection under Ambient Excitation Using Symbolic Three-Order Square Matrix
+Formed by Specific-Interval-Sampled Time-Domain Signals
+
+*Article - Structural Plastic Damage Warning and Real-Time Sensing System Based on Cointegration Theory
+
+*Article - Study of Acoustic Emission Signal Noise Attenuation Based on Unsupervised Skip Neural Network
+
+                                                                                                       Page 11 of 13
+                               Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - Study of Global Navigation Satellite System Receivers' Accuracy for Unmanned Vehicles
+
+*Article - Study of Ion-to-Electron Transducing Layers for the Detection of Nitrate Ions Using FPSX(TDDAN)-Based
+Ion-Sensitive Electrodes
+
+*Article - Superconducting Self-Shielded and Zero-Boil-Off Magnetoencephalogram Systems: A Dry Phantom
+Evaluation
+
+*Article - The Adaption of Recent New Concepts in Neural Radiance Fields and Their Role for High-Fidelity Volume
+Reconstruction in Medical Images
+
+*Article - The Determination of On-Water Rowing Stroke Kinematics Using an Undecimated Wavelet Transform of a
+Rowing Hull-Mounted Accelerometer Signal
+
+*Article - The Effects of Layout Order on Interface Complexity: An Eye-Tracking Study for Dashboard Design
+
+*Article - The FeetMe(R) Insoles System: Repeatability, Standard Error of Measure, and Responsiveness
+
+*Article - The Impact of 1030 nm fs-Pulsed Laser on Enhanced Rayleigh Scattering in Optical Fibers
+
+*Article - The Impact of Physiological and Psychological Fatigue on Work Efficiency: A Case Study of Parcel Sorting
+Work
+
+*Article - The Potential of Deep Learning in Underwater Wireless Sensor Networks and Noise Canceling for the
+Effective Monitoring of Aquatic Life
+
+*Article - The Use of Triaxial Accelerometers and Machine Learning Algorithms for Behavioural Identification in
+Domestic Dogs (Canis familiaris): A Validation Study
+
+*Article - The Zero-Velocity Correction Method for Pipe Jacking Automatic Guidance System Based on Fiber Optic
+Gyroscope
+
+*Article - Thyroid Screening Techniques via Bioelectromagnetic Sensing: Imaging Models and Analytical and
+Computational Methods
+
+*Article - Time-Synchronized Convergence Control for n-DOF Robotic Manipulators with System Uncertainties
+
+*Article - Tiny Security Hole: First-Order Vulnerability of Masked SEED and Its Countermeasure
+
+*Article - Triple-Camera Rectification for Depth Estimation Sensor
+
+*Article - Two-Step Contrast Source Learning Method for Electromagnetic Inverse Scattering Problems
+
+*Article - Underwater Acoustic Orthogonal Frequency-Division Multiplexing Communication Using Deep Neural
+Network-Based Receiver: River Trial Results
+
+*Article - Unimodular Multi-Input Multi-Output Waveform and Mismatch Filter Design for Saturated Forward
+Jamming Suppression
+
+*Article - Unveiling the Terahertz Nano-Fingerprint Spectrum of Single Artificial Metallic Resonator
+
+*Article - VAE-WACGAN: An Improved Data Augmentation Method Based on VAEGAN for Intrusion Detection
+
+*Article - Visual Feature-Guided Diamond Convolutional Network for Finger Vein Recognition
+
+*Article - Visual-Inertial RGB-D SLAM with Encoder Integration of ORB Triangulation and Depth Measurement
+Uncertainties
+
+                                                                                                 Page 12 of 13
+                              Sensors Issues Research Articles in Vol. 24, Issue 18
+
+*Article - WoodenCube: An Innovative Dataset for Object Detection in Concealed Industrial Environments
+
+*Article - YOLO-BFRV: An Efficient Model for Detecting Printed Circuit Board Defects
+
+*Communication - Development of Lasing Silica Microsphere for High-Speed DNA Molecular Detection
+
+*Communication - Inter-Mode Crosstalk Estimation between Cores for LPmn Modes in Weakly Coupled Few-Mode
+Multicore Fiber with Perturbations
+
+*Communication - Research on On-Line Monitoring of Grinding Wheel Wear Based on Multi-Sensor Fusion
+
+*Communication - Signal Separation Operator Based on Wavelet Transform for Non-Stationary Signal
+Decomposition
+
+*Review - A Comprehensive Review on the Viscoelastic Parameters Used for Engineering Materials, Including Soft
+Materials, and the Relationships between Different Damping Parameters
+
+*Review - A Survey on Reduction of Energy Consumption in Fog Networks--Communications and Computations
+
+*Review - A Synergistic Overview between Microfluidics and Numerical Research for Vascular Flow and
+Pathological Investigations
+
+*Review - Application of Object Detection Algorithms in Non-Destructive Testing of Pressure Equipment: A Review
+
+*Review - Applications of Artificial Intelligence for Heat Stress Management in Ruminant Livestock
+
+*Review - Automotive Cybersecurity: A Survey on Frameworks, Standards, and Testing and Monitoring
+Technologies
+
+*Review - Dual-Band Passive Beam Steering Antenna Technologies for Satellite Communication and Modern
+Wireless Systems: A Review
+
+*Review - Emerging Paradigms in Fetal Heart Rate Monitoring: Evaluating the Efficacy and Application of
+Innovative Textile-Based Wearables
+
+*Review - From Biosensors to Robotics: Pioneering Advances in Breast Cancer Management
+
+*Review - Gas Sensing Properties of Indium-Oxide-Based Field-Effect Transistor: A Review
+
+*Review - Multimodal Image-Based Indoor Localization with Machine Learning--A Systematic Review
+
+*Review - The Latest Developments in Spaceborne High-Resolution Wide-Swath SAR Systems and Imaging
+Methods
+
+*Review - The Role of Deep Learning and Gait Analysis in Parkinson's Disease: A Systematic Review
+
+*Review - Three-Dimensional Dense Reconstruction: A Review of Algorithms and Datasets
+
+The Sept. 2, 2024, edition of Sensors can be viewed at https://www.mdpi.com/1424-8220/24/18. The journal is
+published by MDPI.
+
+[Category: Science]
+
+Copyright Targeted News Services
+
+null-8862455 C24-SH-SudarshH
+
+                                                                                     Page 13 of 13
+                             Sensors Issues Research Articles in Vol. 24, Issue 18
+
+
+Load-Date: October 8, 2024
+
+
+  

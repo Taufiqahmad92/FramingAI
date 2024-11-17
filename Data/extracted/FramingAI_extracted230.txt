@@ -1,0 +1,82 @@
+
+
+                                                                                                        Page 1 of 2
+                             Nasuni Achieves AWS Manufacturing and Industrial Competency
+
+
+
+
+          Nasuni Achieves AWS Manufacturing and Industrial Competency
+                                                           PR Newswire
+                                           October 15, 2024 Tuesday 8:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 750 words
+Dateline: BOSTON, Oct. 15, 2024
+
+Body
+
+
+PR NewswireProgram Highlights Nasuni's Abilities to Simplify Data Management at a Global Scale for AWS
+Customers in the Manufacturing SectorBOSTON, Oct. 15, 2024 /PRNewswire/ --Nasuni, a leading enterprise data
+platform for hybrid cloud environments, announced today that it has achieved Amazon Web Services (AWS)
+Manufacturing and Industrial Competency status. This designation highlights Nasuni's ability to tackle the
+constraints caused by the hyper-growth of unstructured data, by helping customers achieve their manufacturing and
+industrial vertical goals pertaining to the cloud.
+
+ Achieving the AWS Manufacturing and Industrial Competency differentiates Nasuni as an AWS Partner Network
+(APN) member that provides specialized unstructured data management and hybrid cloud services designed to
+help enterprises adopt, develop, and deploy complex projects on AWS. To receive the designation, APN members
+must possess deep AWS expertise and deliver solutions seamlessly on AWS. "Nasuni's commitment to cloud
+partnerships and AWS is reflected in our latest achievement of the AWS Manufacturing and Industrial
+Competency," said Michael Sotnick, Senior Vice President of Corporate and Business Development at Nasuni.
+"The integration of our cloud-native file data services with AWS unlocks meaningful value for manufacturers in the
+form of greater global collaboration, stronger protection against ransomware, and increased scale."Today,
+manufacturing IT leaders find themselves at a crossroads, realizing the need to overhaul their infrastructure for
+enhanced resilience and performance. As a result, companies are turning to innovative hybrid cloud solutions, such
+as Nasuni, to scale operations efficiently, mitigate risks, optimize costs, and ensure fast performance wherever it is
+needed across the globe. Nasuni currently works with large global manufacturers such as Movado, AIXTRON,
+Western Digital, and Jakob Mueller.AWS is further providing for this need by enabling scalable, flexible, and cost-
+effective solutions from startups to global enterprises. To support the seamless integration and deployment of these
+solutions, AWS established theAWS Competency Programto help customers identify Consulting and Technology
+APN Partners with deep industry experience and expertise. "There was some initial resistance to a cloud-based
+solution, as we're not out to adopt new technology just to say we're on the cutting edge," explained Kenneth
+Borthwick, Senior Director of Infrastructure at Movado. "But we knew there had to be a better solution to our
+primary file storage and multi-site collaboration challenges. Some solutions offered a way to backup data to the
+cloud but didn't have the global file sharing component. Others offered global file sharing but were still too
+dependent on hardware which limited scale. Nasuni gives us both the global collaboration and data protection we
+were looking for. Overall it has greatly improved file sharing and made the whole process of managing unstructured
+data easier for Movado."For more information on how Nasuni can accelerate your manufacturing business goals,
+clickhere.About Nasuni
+
+                                                                                                       Page 2 of 2
+                         Nasuni Achieves AWS Manufacturing and Industrial Competency
+
+Nasuni is a scalable data platform for enterprises facing an explosion of unstructured data in an AI world. The
+Nasuni File Data Platform provides effortless scale with hybrid cloud storage that delivers secure data access at the
+edge and supports modern enterprise expectations for delivering AI-driven insights. Nasuni simplifies file data
+management while increasing access and performance. Its best-in-class file recovery protects customers against a
+range of cyber threats and eliminates the need for specialized backup and disaster recovery – all while cutting the
+cost of infrastructure by up to 65%.Organizations worldwide rely on Nasuni, spanning across the manufacturing,
+construction, energy, consumer goods, and public sectors. Nasuni's corporate headquarters is located in Boston,
+Massachusetts, and the company delivers services to over 70 countries. For more information,
+visitwww.nasuni.com.Social Media LinksLinkedIn:https://www.linkedin.com/company/nasuni
+X/Twitter:https://www.twitter.com/nasuni
+
+Instagram:https://www.instagram.com/nasuniMedia Contacts:US: Kristin Concannon
+Nasuni
+Phone: 617 416 2873
+Email: Europe: Beth Collinson
+Waters Agency
+Phone: +44 (0)7591 004 738
+Email: View original content to download multimedia:https://www.prnewswire.com/news-releases/nasuni-achieves-
+aws-manufacturing-and-industrial-competency-302272538.htmlSOURCE Nasuni
+
+
+Load-Date: October 15, 2024
+
+
+  

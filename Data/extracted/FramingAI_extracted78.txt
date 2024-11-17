@@ -1,0 +1,394 @@
+
+
+                                                                                                       Page 1 of 7
+                 Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+
+
+
+Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises
+                                 outlook
+                                                           PR Newswire
+                                          November 7, 2024 Thursday 4:01 PM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 6048 words
+Dateline: SCOTTSDALE, Ariz., Nov. 7, 2024
+
+Body
+
+
+PR NewswireSCOTTSDALE, Ariz., Nov. 7, 2024 /PRNewswire/ -- Axon Cloud & Services revenue grows 36% to
+$203 millionAnnual recurring revenue grows 36% to $885 millionNet income of $67 million supports non-GAAP net
+income of $113 million and Adjusted EBITDA of $145 millionRaises full year revenue outlook to approximately
+$2.07 billion, over 32% annual growth; expects full year Adjusted EBITDA margin of approximately 24.6%Fellow
+shareholders,Axon is proud to report strong third quarter results and raise our outlook for the remainder of the year
+once again. Robust demand for our products and services remains driven by our innovative product leadership and
+deep customer relationships. We delivered over 30% annual revenue growth in each of the first three quarters of
+2024, marking our 11th consecutive quarter of growth above 25%, achieved third quarter net income margin of
+12.3%, and Adjusted EBITDA margin of 26.7% — our highest in over three years.TASER revenue of $222 million
+grew 36% year over year, driven by demand for TASER 10 and associated cartridges and services.
+
+Axon Cloud & Services revenue of $203 million, grew 36% year over year. Strength in Axon Cloud & Services was
+driven by new customer adoption of Axon Evidence and continued expansion with our existing customers,
+supporting increased net revenue retention of 123%. Sensors & Other revenue of $120 million increased 18% year
+over year, driven by record demand for Axon Body cameras, with more than 100,000 units shipped in the
+quarter.Axon's third quarter results demonstrate strong product-market fit and support our increased outlook. We
+expect fourth quarter revenue in the range of $560 million to $570 million, representing over 30% year-over-year
+growth at the midpoint. We expect fourth quarter Adjusted EBITDA in the range of $130 million to $135 million, or
+approximately 23.5% Adjusted EBITDA margin. Our fourth quarter guidance implies full year 2024 revenue of
+approximately $2.07 billion, representing over 32% annual growth and full year Adjusted EBITDA margin of
+approximately 24.6%. We provide more detail on our product vision, most recent financial performance and
+improved outlook, below.Select Highlights:Axon AI — The AI Era PlanAxon has established itself as a leading
+technology vendor in public safety through our commitment to continually develop innovative solutions that enhance
+the customer experience with the Axon ecosystem. Axon AI further advances our leadership, featuring a suite of AI-
+powered products designed to increase operational efficiency, improve investigative accuracy and support proactive
+policing. Today, this includes Axon Auto-Transcribe, Draft One, automatic license plate reading (ALPR) and video
+redaction, to name a few.Beginning in Q4, our commitment has taken a new step forward with the introduction of
+the AI Era Plan. The AI Era Plan enables customers to subscribe to an expanding set of AI capabilities and
+features that further leverage our connected ecosystem as quickly as we can develop them. It provides new AI
+features in a subscription offering and gives customers access to unmatched value across our AI innovations by
+
+                                                                                                        Page 2 of 7
+               Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+including the newest AI products we bring to market. Its exponential value is fully unlocked when combined with our
+officer safety plans (OSP). Draft One is one illustrative example already live and in customers' hands today, utilizing
+real-time connected body cameras, cloud evidence management, video transcription and generative AI."Axon AI
+represents not just a single product, but acommitment to continuous innovation for our customers. We have
+developed a suite of AI-powered products and solutions designed to evolve with the demands of modern law
+enforcement — and our portfolio is only growing. As new capabilities emerge, we intend to integrate them
+seamlessly into our hardware and software solutions, enhancing our customers' workflows. This will enable officers
+to work smarter, faster, and more efficiently —driving real change in public safety."
+
+— Rick Smith, Axon Founder and CEOAxon believes we are most successful when we listen to our customers and
+seek to solve the most pertinent problems they face each day. Our development in AI is no different, and we are
+building this technology through deep collaboration and partnership with our customers. In October, we highlighted
+our vision for the AI Era Plan to more than 2,200 attendees at the 2024 International Association of Chiefs of Police
+(IACP) Annual Conference and more than 2,000 attendees at the Association of the United States Army (AUSA)
+Annual Meeting. Our demonstrations featured products available today and a roadmap of additional, in-
+development capabilities, enabling us to gather critical feedback on where we are headed over the next 1-2 years.
+The rapid and accelerating pace of AI innovation also supports us planning ahead for the next 5-10 years — early
+interest in our AI Era Plan indicates our customers are ready.Alongside Draft One, we showcased additional AI use
+cases including Axon Body 4 Live Translation. Axon Body 4 Live Translation utilizes Axon's cloud-connected body
+cameras to enable real-time translation between two speakers in over 100 languages, removing language barriers,
+fostering relationships and enhancing transparency. This feature is made possible through the Axon ecosystem,
+which connects our devices to our advanced cloud software. We expect to make Axon Body 4 Live Translation
+available to AI Era Plan subscribers in the first half of 2025.We are not stopping there. Our roadmap continues to
+expand, and our pace of innovation is accelerating. In addition to Draft One and Axon Body 4 Live translation, we
+previewed a suite of features in development for the AI Era Plan, including Evidence Translation, Form One, Brief
+One, Smart Capture, Policy Chat, and CAD Q&A. We also continue to improve existing features and products,
+including recent enhancements to our redaction tools delivering an estimated 70% time savings from our earlier
+generation Redaction Assistant."We've seen65-75% time savingsjust by being able to push a button to get a
+transcript."
+
+— Lieutenant Steve Ferrie, Rowlett Police Department"...one of thebiggest, [most] exciting changes in
+technology in policingthat I have seen..."
+
+— Chief Steve Redfearn, Boulder Police Department"We spend a lot of time thinking about what could go wrong.
+But we also need to think about what could go right.Can we do better than today?"
+
+— Rick Smith, Axon Founder and CEO67% decrease in time spent writing incident reports — Fort Collins Police
+Department with Draft One 32 minutes stolen vehicle recovery — Cobb County Police Department with Fusus AI
+Image Search 75% decrease in time spent redacting evidence — Rowlett Police Department with Redaction
+Assistant 400+ unauthorized drone detections — at Tulsa State Fair with Dedrone by Axon 1 camera = equivalent
+of 5 officers searching for vehicle — Fairfax County Police Department with Fleet 3 ALPRThe statistics related to
+Axon AI, such as time savings and productivity improvements, reflect data from select customer use cases and
+specific implementations. These results are not guaranteed and may vary based on a range of factors unique to
+each customer, including but not limited to the nature of their operations, the specific configurations of Axon AI
+products, and the integration of AI tools within their workflows. Actual outcomes depend on each customer's
+operational environment, training, and level of adoption. As with any technology deployment, results will vary, and
+customers may experience different levels of efficiency and effectiveness.Axon Air — Drone as First
+ResponderAxon's innovative momentum extends beyond AI into drones and robotics, where we are leading the
+way to power drone as first responder (DFR) operations. We are thrilled to announce the closing of our acquisition
+of Dedrone, bringing integrated airspace security technology — including comprehensive protection, detection,
+identification and mitigation of unauthorized drones in restricted airspace — into the Axon DFR solution.Along with
+Dedrone, Axon's DFR offering has continued to advance through our unmatched partnerships with Skydio and
+DroneSense. Together, our DFR solution includes U.S.-made drone hardware and a newly introduced autonomous
+docking solution from Skydio, enabling fully remote-controlled launches, landings, recharging and airspace
+
+                                                                                                        Page 3 of 7
+               Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+deconfliction for beyond visual line of sight (BVLOS) operations. In addition, our DFR solution integrates into Fusus,
+which provides unified situational awareness by allowing agencies to monitor live drone feeds, share footage and
+streamline coordinated responses. This combination positions us as the leader in powering scalable, end-to-end
+DFR operations.The differentiated capabilities of our DFR offering are evidenced by the Campbell Police
+Department in California recently receiving a first-of-its-kind waiver from the Federal Aviation Administration (FAA)
+for BVLOS operations as part of its DFR program. Their approval includes nighttime operations, enabling 24/7
+drone use, and allows the department to fly missions without the need for visual observers. We are excited to
+enable this ground-breaking advancement in DFR operations as we continue to invest in this market
+opportunity."This FAA approval is a major milestone for our department and our community. With the ability to
+conduct drone operations day or night without the need for visual observers, we can respond faster and more
+effectively to emergencies, improving both officer and public safety.This technology is a game changer in
+ensuring we have the tools to support our community when it matters most."
+
+— Chief Gary Berg, Campbell Police DepartmentAxon Aid — Partnering with first responders to support
+heroic effortsAxon is steadfast in our commitment to supporting first responders and the communities they serve.
+Helping our customers achieve better outcomes is at the center of everything we do. This is especially true in times
+of crisis. When hurricanes Helene and Milton devastated communities across the Southeast U.S., thousands were
+left grappling with extensive damage. Heroic first responders worked tirelessly around the clock conducting search
+and rescue missions, restoring power, and providing essential resources — all while overcoming significant
+communication challenges.Supporting their efforts, Axon Aid partnered with agencies, regardless of whether they
+were Axon customers, to assist in post-disaster assessments and recovery support at no cost. The Axon Aid
+emergency response team supported missions across four states, assisting more than 10 agencies and
+communities in what became Axon Aid's longest deployment effort to date, spanning more than 16 days. Axon is
+proud to play a small part in supporting our first responders on these critical missions, and we are inspired by their
+dedication to public safety and their communities in times of need."During Hurricane Helene in Fairview, I worked in
+conjunction with Axon Aid to enhance drone operations, coordinating real-time aerial footage to assess damage
+and improve resource allocation. This experience demonstrated theeffectiveness of integrating drone
+surveillance with Axon systems for rapid decision-making during emergency response."
+
+— Firefighter with Graham Fire DepartmentQ3 2024 Summary ResultsQuarterly revenueof $544 million grew
+32% year over year, exceeding our expectations, driven by growth in each of our product segments. Demand for
+our latest TASER and body camera products remained strong, driving growth in TASER and Sensors & Other
+revenue, while adoption of premium software offerings continued to fuel growth in Axon Cloud & Services.Total
+company gross marginof 60.8% declined 130 basis points year over year, driven by increased stock-based
+compensation expense and amortization of acquired intangibles in our cost of goods sold (COGS). Excluding the
+impacts of stock-based compensation and intangibles amortization, non-GAAP company gross margin of 63.2%
+increased 50 basis points year over year.Operating profitof $24 million decreased from $57 million year over year
+primarily due to increased stock-based compensation expense. Stock-based compensation expense of $102 million
+included $60 million of expenses related to broad-based equity incentive programs due to expected achievement of
+operational and time based service components.COGS of $214 million, 39.2% of revenue, included $10 million in
+stock-based compensation expense.SG&A expense of $192 million, 35.3% of revenue, included $55 million in
+stock-based compensation expense.R&D expense of $114 million, 21.0% of revenue, included $36 million in stock-
+based compensation expense.Net incomeof $67 million (12.3% net income margin), or $0.86 per diluted share,
+supported non-GAAP net income of $113 million (20.8% non-GAAP net income margin), or $1.45 per diluted
+share.Adjusted EBITDAof $145 million (26.7% Adjusted EBITDA margin) increased 54% year over year driven by
+higher revenue and operating leverage.Operating cash flowof $91 million increased 45% year over year,
+supporting free cash flow of $65 million and adjusted free cash flow of $68 million.As of September 30, 2024, Axon
+had $1.01 billion incash, cash equivalents and investments, and outstanding convertible notes in principal
+amount of $690 million, for a net cash position of $317 million, up $38 million sequentially.During the three months
+ended September 30, 2024, we revised our previously issued financial statements from 2021 through the second
+quarter of 2024 to reflect the impact of corrections of certain errors that we concluded were not material to any
+previously issued financial statements. For additional information related to this revision, see Note 1 to our
+condensed consolidated financial statements of the Quarterly Report on Form 10-Q for the quarter ended
+
+                                                                                                       Page 4 of 7
+               Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+September 30, 2024, which we expect to be available on November 8, 2024.Detailed definitions of our non-GAAP
+financial measures and caution on the use of non-GAAP measures are included later in this letter.Financial
+commentary by segmentAxon Cloud & Services revenue growth of 36% year over year was primarily driven by
+new customer adoption of Axon Evidence and expansion with existing customers adopting premium software
+offerings.Axon Cloud & Services gross margin of 72.3% decreased from 72.7% year over year. Excluding the
+impacts of stock-based compensation expense and intangibles amortization, Axon Cloud & Services adjusted gross
+margin of 75.2% increased from 73.7% year over year primarily due to a higher software mix revenue relative to
+professional services. Software-only gross margin continued to exceed our target of 80%.Sensors & Other revenue
+growth of 18% year over year was primarily driven by strong demand for Axon Body 4, partially offset by a decrease
+in Axon Fleet revenue.Sensors & Other gross margin of 41.4% decreased from 46.0% year over year. Excluding
+the impact of stock-based compensation and intangibles amortization, Sensors & Other adjusted gross margin of
+43.3% decreased from 46.5% year over year due to manufacturing overhead reallocations made in the prior
+year.TASER segment revenue growth of 36% year over year was primarily driven by strong demand for TASER 10
+devices and associated cartridges and services.TASER segment gross margin of 60.8% decreased from 62.5%
+year over year primarily due to increased stock based compensation expense. Excluding the impact of stock-based
+compensation expense, TASER segment adjusted gross margin of 63.0% increased from 62.8% year over year
+driven by investments in automation and cost reduction initiatives.Annual recurring revenue grew 36% year over
+year to $885 million. Growth in annual recurring revenue is primarily driven by new users adopting our cloud
+products and upgrades to premium offerings.Net revenue retention accelerated to 123% in the quarter, reflecting
+our ability to deliver additional value to our customers over time and de minimis attrition. We drive adoption of our
+cloud software solutions through integrated subscription plans, which include a variety of premium software options.
+This Software-as-a-Service (SaaS) metric excludes the hardware portion of customer subscriptions and is
+normalized to account for phased customer deployments throughout the year.Total company future contracted
+revenue of $7.7 billion increased sequentially and is up 33% year over year. We expect to recognize between 15%
+to 25% of this balance over the next 12 months and generally expect the remainder to be recognized over the
+following ten years.2024 OutlookThe following forward-looking statements reflect Axon's expectations as of
+November 7, 2024, and are subject to risks and uncertainties. Please refer to "Forward-looking Statements" below
+for more information.Q4 2024For the fourth quarter, we expect revenue within the range of $560 million to $570
+million, representing greater than 30% annual growth at the midpoint.We expect Adjusted EBITDA within the range
+of $130 million to $135 million, representing Adjusted EBITDA margin of approximately 23.5%.We provide Adjusted
+EBITDA guidance, rather than net income guidance, due to the inherent difficulty of forecasting certain types of
+expenses and gains such as stock-based compensation, income tax expenses and gains or losses on marketable
+securities and strategic investments, which affect net income but not Adjusted EBITDA. We are unable to
+reasonably estimate the impact of such expenses, which could be material, on net income. Accordingly, we do not
+provide a reconciliation of projected net income to projected Adjusted EBITDA.Full YearAxon's full year 2024
+revenue expectation has improved to approximately $2.07 billion, representing greater than 32% annual growth.
+This is an increase from our prior revenue guidance range of $2.00 billion to $2.05 billion, or 29.5% annual growth
+at the midpoint.Axon expects full year 2024 Adjusted EBITDA dollars of approximately $510 million, representing
+Adjusted EBITDA margin of approximately 24.6%. This is an increase from our prior Adjusted EBITDA guidance
+range of $460 million to $475 million, which implied Adjusted EBITDA margin of approximately 23.1%We expect
+stock-based compensation expenses to be approximately $360 million to $380 million, up from $355 million to $370
+million previously. Because our stock-based compensation expense may vary based on changes in our stock price
+or the actual timing of attainment of certain metrics, it is inherently difficult to forecast future stock-based
+compensation expense.Full year stock-based compensation expense includes approximately $210 million for
+broad-based equity compensation programs and a one-time enhanced equity compensation program provided to
+employees whose compensation is under a specific threshold. Approximately $170 million in full year expected
+stock-based compensation expense, primarily in SG&A and R&D, is related to the broad-based 2024 eXponential
+Stock Plan and the 2024 CEO Performance Award approved by our shareholders in May 2024. These
+performance-based incentive programs are achieved through stock price, operational and time-based requirements
+and are divided into seven substantially equal tranches. As of September 30, 2024, we have recognized expenses
+related to some tranches where we currently deem achievement to be probable. Approximately $43 million in
+expense, primarily in COGS, is related to a one-time enhanced equity compensation program provided to
+employees whose compensation is under a specified threshold.We expect 2024 CapEx to be in the range of $80
+
+                                                                                                       Page 5 of 7
+               Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+million to $95 million, unchanged from prior quarters. Our 2024 CapEx plans include investments in TASER 10
+automation and capacity expansion, including cartridge capacity, global facility build-out and upgrades, such as
+warehousing support for global shipping facilities.Quarterly conference call and webcastWe will host our Q3
+2024 earnings conference call webinar on Thursday, November 7, at 2 p.m. PT / 5 p.m. ET.The webcast will be
+available via a link on Axon's investor relations website athttps://investor.axon.comor can be accessed directly
+viahttps://axon.zoom.us/j/98297372356.Statistical DefinitionsAnnual recurring revenue: Annual recurring revenue
+is a performance indicator that management believes provides more visibility into the growth of our revenue
+generated by our highest margin, recurring services. Annual recurring revenue should be viewed independently of
+revenue and deferred revenue because it is an operating measure and is not intended to be combined with or to
+replace GAAP revenue or deferred revenue, as they can be impacted by contract start and end dates and renewal
+rates. Annual recurring revenue is not intended to be a replacement or forecast of revenue or deferred revenue. We
+calculate annual recurring revenue as monthly recurring license, integration, warranty, and storage revenue,
+annualized.Net revenue retention: Dollar-based net revenue retention is an important metric to measure our ability
+to retain and expand our relationships with existing customers. We calculate it as the software, camera and TASER
+warranty subscription and support revenue from a base set of agency customers from which we generated Axon
+Cloud subscription and warranty revenue in the last month of a quarter divided by the software and camera
+warranty subscription and support revenue from the year-ago month of that same customer base. This calculation
+includes high-margin warranty revenue but purposely excludes the lower-margin hardware subscription component
+of the customer contracts, as it is meant to be a SaaS metric that we use to monitor the health of the recurring
+revenue business we are building. This calculation also excludes the implied monthly revenue contribution of
+customers that were added since the year-ago quarter, and therefore excludes the benefit of new customer
+acquisition. The metric includes customers, if any, that terminated during the annual period, and therefore, this
+metric is inclusive of customer churn. This metric is downwardly adjusted to account for the effect of phased
+deployments — meaning that, for the year-ago period, we consider the total contractually obligated implied monthly
+revenue amount, rather than monthly revenue amounts that might have been in actuality smaller on a GAAP basis
+due to the customer not having yet fully deployed their Axon solution. For more information relative to our revenue
+recognition policies, please reference our filings with the Securities and Exchange Commission (SEC).Total
+company future contracted revenue: Total company future contracted revenue represents remaining performance
+obligations and includes both recognized contract liabilities as well as amounts that are expected to be invoiced and
+recognized in future periods. The remaining performance obligations are limited only to arrangements that meet the
+definition of a contract under Accounting Standards Codification Topic 606 as of September 30, 2024. We currently
+expect to recognize between 15% to 25% of this balance over the next 12 months, and generally expect the
+remainder to be recognized over the following ten years, subject to risks related to delayed deployments, budget
+appropriation or other contract cancellation clauses.Non-GAAP MeasuresTo supplement the Company's financial
+results presented in accordance with GAAP, we present the non-GAAP financial measures of EBITDA, Adjusted
+EBITDA, Adjusted EBITDA Margin, Adjusted Gross Margin, Non-GAAP Net Income, Non-GAAP Diluted Earnings
+Per Share, Free Cash Flow, and Adjusted Free Cash Flow. The Company's management uses these non-GAAP
+financial measures in evaluating the Company's performance in comparison to prior periods. We believe that both
+management and investors benefit from referring to these non-GAAP financial measures in assessing its
+performance, and when planning and forecasting our future periods. A reconciliation of GAAP to the non-GAAP
+financial measures is presented below.EBITDA (most comparable GAAP measure: net income) - Earnings before
+interest expense, investment interest income, income taxes, depreciation and amortization.Adjusted EBITDA (most
+comparable GAAP measure: net income) - Earnings before interest expense, investment interest income, income
+taxes, depreciation, amortization, non-cash stock-based compensation expense, fair value adjustments to strategic
+investments and marketable securities, transaction costs related to acquisitions and strategic investments, and
+other unusual, non-recurring pre-tax items that are not considered representative of our underlying operating
+performance (identified and listed below in the reconciliation).Adjusted EBITDA margin (most comparable GAAP
+measure: net income margin) – Adjusted EBITDA as a percentage of net sales.Adjusted gross margin (most
+comparable GAAP measure: gross margin) – Gross margin before noncash stock-based compensation expense
+and amortization of acquired intangible assets.Non-GAAP net income (most comparable GAAP measure: net
+income) - Net income excluding the costs of non-cash stock-based compensation, gain/loss/write-
+down/disposal/abandonment of property, equipment and intangible assets; fair value adjustments to strategic
+investments and marketable securities; transaction costs related to acquisitions and strategic investments; costs
+
+                                                                                                           Page 6 of 7
+                Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+related to antitrust litigation and other unusual, non-recurring pre-tax items that are not considered representative of
+our underlying operating performance (listed below). The Company tax-effects non-GAAP adjustments using the
+blended statutory federal and state tax rates for each period presented.Non-GAAP diluted earnings per share (most
+comparable GAAP measure: earnings per share) - Measure of Company's Non-GAAP Net Income divided by the
+weighted average number of diluted common shares outstanding during the period presented.Free cash flow (most
+comparable GAAP measure: cash flow from operating activities) - Cash flows provided by operating activities minus
+purchases of property and equipment and intangible assets.Adjusted free cash flow (most comparable GAAP
+measure: cash flow from operating activities) - Cash flows provided by operating activities minus purchases of
+property and equipment and intangible assets, excluding the net impact of investments in our new Scottsdale,
+Arizona campus and bond premium amortization.We believe that free cash flow and adjusted free cash flow
+excluding the impact of bond premium amortization and net campus investment are non-GAAP measures that are
+useful to investors and management to evaluate the Company's ability to generate cash. These non-GAAP
+measures can also be used to evaluate the Company's ability to generate cash flow from operations and the impact
+that this cash flow has on the Company's liquidity.Caution on Use of Non-GAAP MeasuresAlthough these non-
+GAAP financial measures are not consistent with GAAP, management believes investors will benefit by referring to
+these non-GAAP financial measures when assessing the Company's operating results, as well as when forecasting
+and analyzing future periods. However, management recognizes that:these non-GAAP financial measures are
+limited in their usefulness and should be considered only as a supplement to the Company's GAAP financial
+measures;these non-GAAP financial measures should not be considered in isolation from, or as a substitute for, the
+Company's GAAP financial measures;these non-GAAP financial measures should not be considered to be superior
+to the Company's GAAP financial measures; andthese non-GAAP financial measures were not prepared in
+accordance with GAAP or under a comprehensive set of rules or principles proposed by a third party.Further, these
+non-GAAP financial measures may be unique to the Company, as they may be different from similarly titled non-
+GAAP financial measures used by other companies. As such, this presentation of non-GAAP financial measures
+may not enhance the comparability of the Company's results to the results of other companies.About AxonAxon is
+a technology leader in global public safety. Our moonshot goal is to cut gun-related deaths between police and the
+public by 50% before 2033. Axon is building the public safety operating system of the future by integrating a suite of
+hardware devices and cloud software solutions that lead modern policing. Axon's suite includes TASER energy
+devices, body cameras, in-car cameras, cloud-hosted digital evidence management solutions, productivity software
+and real-time operations capabilities. Axon's growing global customer base includes first responders across
+international, federal, state and local law enforcement, fire, corrections and emergency medical services, as well as
+the justice sector, enterprises and consumers.Non-Axon trademarks are property of their respective owners.Axon,
+Axon Aid, Axon Air, Axon Body, Axon Evidence, Axon Fleet, Draft One, TASER, TASER 10, the Filled Bolt within
+Circle Logo and the Delta Logo are trademarks of Axon Enterprise, Inc., some of which are registered in the United
+States and other countries. For more information, visitwww.axon.com/legal. All rights reserved.Forward-looking
+StatementsForward-looking statements in this letter include, without limitation, statements regarding: proposed
+products and services and related development efforts and activities; expectations about the market for our current
+and future products and services, including statements related to our user base and customer profiles; the impact of
+pending litigation; strategies and trends relating to subscription plan programs and revenues; statements related to
+recently completed acquisitions; our anticipation that contracts with governmental customers will be fulfilled; our
+expectations about the future implementation of new strategies related to artificial intelligence; the timing and
+realization of future contracted revenue; the fulfillment of bookings; strategies and trends, including the amounts
+and benefits of, R&D investments; the sufficiency of our liquidity and financial resources; expectations about
+customer behavior; statements concerning projections, predictions, expectations, estimates or forecasts as to our
+business, financial and operational results and future economic performance, including our outlook for Q4 2024
+revenue, 2024 full year revenue, stock-based compensation expense, Adjusted EBITDA, Adjusted EBITDA margin,
+and capital expenditures; statements of management's strategies, goals and objectives and other similar
+expressions; as well as the ultimate resolution of financial statement items requiring critical accounting estimates,
+including those set forth in our Annual Report on Form 10-K for the year ended December 31, 2023 and our
+Quarterly Report on Form 10-Q for the quarter ended September 30, 2024. Such statements give our current
+expectations or forecasts of future events; they do not relate strictly to historical or current facts. Words such as
+"may," "will," "should," "could," "would," "predict," "potential," "continue," "expect," "anticipate," "future," "intend,"
+"plan," "believe," "estimate," and similar expressions, as well as statements in future tense, identify forward-looking
+
+                                                                                                          Page 7 of 7
+               Axon reports Q3 2024 revenue of $544 million, up 32% year over year, raises outlook
+
+statements. However, not all forward-looking statements contain these identifying words.We cannot guarantee that
+any forward-looking statement will be realized, although we believe we have been prudent in our plans and
+assumptions. Achievement of future results is subject to risks, uncertainties and potentially inaccurate assumptions.
+The following important factors could cause actual results to differ materially from those in the forward-looking
+statements: our exposure to cancellations of government contracts due to non-appropriation clauses, exercise of a
+cancellation clause, or non-exercise of contractually optional periods; the ability of law enforcement agencies to
+obtain funding, including based on tax revenues; our ability to design, introduce and sell new products, services or
+features; our ability to defend against litigation and protect our intellectual property, and the resulting costs of this
+activity; our ability to win bids through the open bidding process for governmental agencies; our ability to manage
+our supply chain and avoid production delays, shortages and impacts to expected gross margins; the impacts of
+inflation, macroeconomic conditions and global events; the impact of catastrophic events or public health
+emergencies; the impact of stock-based compensation expense, impairment expense, and income tax expense on
+our financial results; customer purchase behavior, including adoption of our software as a service delivery model;
+negative media publicity or sentiment regarding our products; the impact of various factors on projected gross
+margins; defects in, or misuse of, our products; changes in the costs of product components and labor; loss of
+customer data, a breach of security, or an extended outage, including by our third party cloud-based storage
+providers; exposure to international operational risks; delayed cash collections and possible credit losses due to our
+subscription model; changes in government regulations in the United States and in foreign markets, especially
+related to the classification of our products by the United States Bureau of Alcohol, Tobacco, Firearms and
+Explosives; our ability to integrate acquired businesses; the impact of declines in the fair values or impairment of
+our investments, including our strategic investments; our ability to attract and retain key personnel; litigation or
+inquiries and related time and costs; and counter-party risks relating to cash balances held in excess of federally
+insured limits. Many events beyond our control may determine whether results we anticipate will be achieved.
+Should known or unknown risks or uncertainties materialize, or should underlying assumptions prove inaccurate,
+actual results could differ materially from past results and those anticipated, estimated or projected. You should
+bear this in mind as you consider forward-looking statements. Our Quarterly Report on Form 10-Q for the quarter
+ended September 30 2024, which we expect to be available on November 8, 2024, lists various important factors
+that could cause actual results to differ materially from expected and historical results. These factors are intended
+as cautionary statements for investors within the meaning of Section 21E of the Securities Exchange Act of 1934,
+as amended, and Section 27A of the Securities Act of 1933, as amended. Readers can find them in Part II, Item 1A
+under the heading "Risk Factors" in our Quarterly Reports on Form 10‑Q, and investors should refer to them. You
+should understand that it is not possible to predict or identify all such factors. You should understand that it is not
+possible to predict or identify all such factors. Consequently, you should not consider any such list to be a complete
+set of all potential risks or uncertainties.Except as required by law, we undertake no obligation to publicly update
+forward-looking statements, whether as a result of new information, future events or otherwise. You are advised,
+however, to consult any further disclosures we make on related subjects in our Form 8-K, 10‑Q and 10‑K reports to
+the SEC. Our filings with the SEC may be accessed at the SEC's web site atwww.sec.gov.Additional
+DisclaimerThe AI Era roadmap is provided for informational purposes only and does not form part of any contract
+or agreement. It is not a commitment to deliver any specific material, code, or functionality, and should not be relied
+upon in making purchasing decisions. The development, release, timing, and pricing of any features or functionality
+described for products remain at the sole discretion of Axon Enterprise, Inc., and are subject to change without
+notice.CONTACT:Investor Relations
+Axon Enterprise, Inc.
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/axon-reports-q3-2024-
+revenue-of-544-million-up-32-year-over-year-raises-outlook-302299201.htmlSOURCE Axon
+
+
+Load-Date: November 7, 2024
+
+
+  

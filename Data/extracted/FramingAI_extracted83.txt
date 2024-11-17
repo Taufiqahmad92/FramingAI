@@ -1,0 +1,786 @@
+
+
+                                                                                                        Page 1 of 14
+                                      NCR Voyix Reports Third Quarter Results
+
+
+
+
+                                NCR Voyix Reports Third Quarter Results
+                                                   Business Wire
+                                     November 7, 2024 Thursday 11:30 AM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 5853 words
+Dateline: ATLANTA
+
+Body
+
+NCR Voyix Corporation (NYSE: VYX) ("NCR Voyix" or the "Company"), a leading global provider of digital
+commerce solutions, reported financial results today for the three and nine months ended September 30, 2024.
+
+"This quarter we successfully completed the sale of our Digital Banking business and subsequently paid down a
+significant portion of our outstanding debt and other obligations, which further streamlined our operations and
+strengthened our balance sheet," said David Wilkinson, NCR Voyix CEO. "While our third quarter results continue
+to reflect the hardware declines in point-of-sale and self-checkout, the positive trends in our software and services
+businesses position us well to execute on our go-forward growth strategy."
+
+Q3 2024 Financial Results
+    •     GAAP Revenue was $711 million compared to $809 million in the prior year.
+    •     Normalized Revenue was $708 million compared to $794 million in the prior year.
+    •     Net loss from continuing operations attributable to NCR Voyix was $31 million, compared with $266 million
+          in the prior year.
+    •     Adjusted EBITDA was $93 million compared to $103 million in the prior year.
+    •     Normalized Adjusted EBITDA was $101 million compared to $133 million in the prior year.
+    •     Diluted EPS from continuing operations was $(0.24), non-GAAP diluted EPS was $0.00.
+    •     Software & Services Revenue was $517 million compared to $540 million in the prior year.
+    •     Normalized Software & Services Revenue was $516 million compared to $528 million in the prior year.
+    •     Total Segment ARR was $1.60 billion compared to $1.56 billion in the prior year.
+    •     Software ARR was $742 million compared to $730 million in the prior year.
+
+             In millions                Q3      Q3      %          Q3 2024     Q3 2023       % Change
+                                        2024    2023    Chan       YTD         YTD
+                                        QTD     QTD     ge
+             Retail
+             Revenue                    $ 48    $ 55    (12    )   $ 1,495     $ 1,633       (8   )%
+                                          7       2            %
+
+                                                                                                        Page 2 of 14
+                                      NCR Voyix Reports Third Quarter Results
+
+            Adjusted EBITDA             $ 10    $ 12     (12   )       281          321      (12   )%
+                                          8       3            %
+
+            Restaurants
+            Revenue                     $ 21    $ 22     (8    )    $ 614        $ 663       (7    )%
+                                          1       9            %
+            Adjusted EBITDA             $ 66    $ 52     27    %       183          147      24    %
+
+
+
+Q3 2024 and Recent Highlights
+    •     On September 30, 2024 the Company announced the completion of the sale of its Digital Banking business
+          to Veritas Capital for a purchase price of $2.45 billion in cash plus future additional contingent
+          consideration of up to $100 million.
+    •     Following the completion of the Digital Banking sale, the Company announced the total reduction of $1.84
+          billion of its outstanding debt and other obligations using a portion of the proceeds from the sale. As a
+          result of these transactions, the Company significantly improved its net leverage ratio at the end of Q3
+          2024 based on the pro forma 2024 adjusted EBITDA.
+    •     The Company intends to utilize approximately $100 million of the Digital Banking sale proceeds to
+          complete repurchases of common stock under its existing share repurchase program over the course of
+          the next 12 months. The timing and amount of any repurchases under the share repurchase program will
+          depend upon market conditions.
+
+Financial Outlook
+
+The Company is maintaining its full year 2024 revenue and adjusted EBITDA guidance as follows:
+
+                                                                             Full Year
+        Software & Services Revenue                                          $2,040M - $2,080M
+        Hardware Revenue                                                     $765M - $780M
+        Total Revenue                                                        $2,805M - $2,860M
+        Adj. EBITDA (Cont. Ops.)                                             $355M - $375M
+        Adj. EBITDA (%)                                                      12.6% - 13.1%
+
+In this release, we use certain non-GAAP measures. These non-GAAP measures include "Adjusted EBITDA,"
+"Adjusted EBITDA Margin," "Non-GAAP diluted EPS," "Net Leverage Ratio," "Normalized Revenue," "Normalized
+Adjusted EBITDA," and "Normalized Adjusted EBITDA Margin," and others with the words "non-GAAP" or
+"normalized" in their titles. These non-GAAP measures are listed, described and reconciled for historic periods to
+their most directly comparable GAAP measures under the heading "Non-GAAP Financial Measures" later in this
+release. Our Adjusted EBITDA for historic periods after giving effect to the spin-off of NCR Atleos includes certain
+costs historically allocated to NCR Atleos that do not meet the definition of expenses related to discontinued
+operations for purposes of GAAP requirements regarding the reporting of discontinued operations. Accordingly, our
+guidance for Adjusted EBITDA in 2024 is more comparable to our historical Normalized Adjusted EBITDA, which
+includes an adjustment for these estimated costs. With respect to our Adjusted EBITDA outlook for full year 2024
+on an actual and pro forma basis and our pro forma outlook for our Net Leverage Ratio, our Adjusted EBITDA
+Margin, we do not provide a reconciliation of the GAAP measure because we are not able to predict with
+reasonable certainty the reconciling items that may affect the GAAP net income from continuing operations and
+GAAP cash flow provided by (used in) operating activities without unreasonable effort. The reconciling items are
+primarily the future impact of special tax items, capital structure transactions, restructuring, pension mark-to-market
+transactions, acquisitions or divestitures, or other events. These reconciling items are uncertain, depend on various
+factors and could significantly impact, either individually or in the aggregate, the GAAP measures. The Company
+also believes such reconciliations would imply a degree of precision that could be confusing or misleading to
+investors.
+
+                                                                                                           Page 3 of 14
+                                       NCR Voyix Reports Third Quarter Results
+
+Third Quarter 2024 Earnings Conference Call
+
+NCR Voyix management will host a conference call and webcast today at 8:00 a.m. Eastern Time to discuss the
+Company's results for the third quarter. Access to the webcast and the accompanying slides are available on the
+Investor Relations section of the Company's website at https://investor.ncrvoyix.com . Participants may access the
+live call by dialing 888-645-4404 (United States/Canada Toll-free) or +1 862-298-0702 (International Toll) and
+requesting to be connected to the conference call. A replay of the audio webcast will be archived on the Company's
+website following the live event.
+
+More information on the Company's third quarter earnings is available on the NCR Voyix Investor Relations section
+of the Company's website at https://investor.ncrvoyix.com .
+
+About NCR Voyix
+
+NCR Voyix Corporation (NYSE: VYX) is a leading global provider of digital commerce solutions for the retail and
+restaurant industries. NCR Voyix empowers retailers and restaurants to transform their customers experiences
+through a comprehensive cloud-based platform and extensive services capabilities. Headquartered in Atlanta,
+Georgia, it serves customers in more than 30 countries.
+
+Website: https://investor.ncrvoyix.com
+
+Twitter: https://www.x.com/ncr_voyix/
+
+Facebook: https://www.facebook.com/ncrcorp
+
+Instagram: https://www.instagram.com/ncrvoyix/
+
+LinkedIn: https://www.linkedin.com/company/ncrvoyix/
+
+YouTube: https://www.youtube.com/@ncrvoyix
+
+Cautionary Statements
+
+This release contains "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933,
+as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, pursuant to the safe harbor
+provisions of the Private Securities Litigation Reform Act of 1995 (the "Act"). Forward-looking statements use words
+such as "expect," "target," "anticipate," "outlook," "guidance," "intend," "plan," "confident," "believe," "will," "should,"
+"would," "potential," "positioning," "proposed," "planned," "objective," "likely," "could," "may," and words of similar
+meaning, as well as other words or expressions referencing future events, conditions or circumstances. We intend
+these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements
+contained in the Act. Statements that describe or relate to the Company's plans, goals, intentions, strategies, or
+financial outlook, and statements that do not relate to historical or current fact, are examples of forward-looking
+statements. Examples of forward-looking statements in this release include, without limitation, statements
+regarding: our expectations regarding our growth strategy, our expectations regarding the transition of our hardware
+business to an outsourced design and manufacturing model, our expected use of proceeds from the Digital Banking
+sale, our expectations regarding our share repurchase program and our anticipated future performance and
+financial outlook. Forward-looking statements are not guarantees of future performance, and there are a number of
+important factors that could cause actual outcomes and results to differ materially from the results contemplated by
+such forward-looking statements, including those factors relating to: our ability to achieve the expected benefits of
+the Digital Banking sale; the impact of the Digital Banking sale, including disruption of the Company's business in
+connection with the provision of transition services following the sale; our ability to realize the anticipated cost
+savings and other benefits related to the transition of our hardware business to an outsourced design and
+manufacturing model; challenges with transforming and growing our business, including our ability to attract new
+customers, increase use of our platform by existing customers and cross-sell additional products and solutions;
+
+                                                                                                          Page 4 of 14
+                                      NCR Voyix Reports Third Quarter Results
+
+development and introduction of new, competitive solutions on a timely, cost-effective basis; our ability to compete
+effectively against new and existing competitors; our ability to maintain a consistently high level of customer service;
+our ability to successfully manage our profitability and cost reduction initiatives; integration of acquisitions and
+management of other strategic transactions; the potential strategic benefits, synergies or opportunities expected
+from the Spin-Off may not be realized or may take longer to realize than expected; any unforeseen tax liabilities or
+impacts resulting from the Spin-Off, requests, requirements or penalties imposed by any governmental authorities
+related to certain existing liabilities; domestic and global economic and credit conditions; downturn or consolidation
+in the financial services industry; difficulties and risks associated with developing and selling complex new solutions
+and enhancements, including those using artificial intelligence; risks and uncertainties associated with our
+payments-related business; disruptions in our data center hosting and public cloud facilities; any failures or delays
+in our efforts to modernize our information technology infrastructure; retention and attraction of key employees;
+defects, errors, installation difficulties or development delays; failure of third-party suppliers; a major natural
+disaster or catastrophic event; geopolitical and macroeconomic challenges or events or acts of terrorism;
+environmental exposures from historical manufacturing activities; the impact of cybersecurity incidents on our
+business, including the April 2023 ransomware incident, and efforts to prevent or mitigate such incidents and any
+related impacts on our operations; efforts to comply with applicable data protection and data privacy laws; our level
+of indebtedness; the terms governing our indebtedness; incurrence of additional debt or other liabilities or
+obligations; access to the capital markets and other sources of financing; our cash flow sufficiency to service our
+indebtedness; interest rate risks and increased costs of borrowings; the impact of certain changes in control relating
+to acceleration of our indebtedness; our obligations under other financing arrangements, or required repurchase of
+our senior unsecured notes; any lowering or withdrawal of the ratings assigned to our debt securities by rating
+agencies; unforeseen tax liabilities or changes in tax law; our failure to maintain effective internal control over
+financial reporting and disclosure controls and procedures and our ability to remediate material weaknesses in our
+internal control over financial reporting; the write down of the value of certain significant assets; allegations or
+claims by third parties that our products or services infringe on intellectual property rights of others, including claims
+against our customers and claims by our customers to defend and indemnify them with respect to such claims;
+protection of our intellectual property; changes to our tax rates and additional income tax liabilities; and
+uncertainties regarding regulations, lawsuits and other related matters; rights preferences and privileges of holders
+of our Series A Convertible Stock compared to the rights of our common stockholders; impact of the terms of our
+Series A Convertible Preferred Stock relating to voting power, share dilution and market price of our common stock;
+actions or proposals from stockholders that do not align with our business strategies or the interest of our
+stockholders; and other factors presented in "Item 1A-Risk Factors" of our most recent Annual Report on Form 10-K
+for the year ended December 31, 2023 and subsequent filings we make with the U.S. Securities and Exchange
+Commission ("SEC"), including our Quarterly Reports on Form 10-Q, which we advise you to review.
+
+Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect,
+actual results may vary materially from those set forth in the forward-looking statements. Any forward-looking
+statement speaks only as of the date on which it is made and should not be relied upon as representing our plans
+and expectations as of any subsequent date. The Company does not undertake any obligation to publicly update or
+revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as
+required by law.
+
+Non-GAAP Financial Measures
+
+Non-GAAP Financial Measures. While the Company reports its results in accordance with Generally Accepted
+Accounting Principles in the United States, or GAAP, in this release the Company also uses the non-GAAP
+measures listed and described below. The Company's definitions and calculations of these non-GAAP measures
+may differ from similarly-titled measures reported by other companies and cannot, therefore, be compared with
+similarly-titled measures of other companies. These non-GAAP measures should not be considered as substitutes
+for, or superior to, results determined in accordance with GAAP.
+
+Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (Adjusted EBITDA) and Adjusted EBITDA
+margin. The Company determines Adjusted EBITDA for a given period based on its GAAP net income from
+continuing operations attributable to NCR Voyix plus interest expense, net; plus income tax expense (benefit); plus
+
+                                                                                                       Page 5 of 14
+                                     NCR Voyix Reports Third Quarter Results
+
+depreciation and amortization (excluding acquisition-related amortization of intangibles); plus stock-based
+compensation expense; plus other income (expense); plus pension mark-to-market adjustments and other special
+items, including amortization of acquisition-related intangibles, separation-related costs, cyber ransomware incident
+recovery costs (net of insurance recoveries), fraudulent ACH disbursements costs, transformation and restructuring
+charges (which includes integration, severance and other exit and disposal costs), acquisition-related costs, foreign
+currency devaluation related costs, and strategic initiative costs, among others. Separation-related costs include
+costs incurred as a result of the spin-off. Professional and other fees to effect the spin-off including separation
+management, organizational design, and legal fees have been classified within discontinued operations through
+October 16, 2023, the separation date. The Company also uses Adjusted EBITDA margin, which is calculated
+based on Adjusted EBITDA as a percentage of total revenue. The Company uses Adjusted EBITDA and Adjusted
+EBITDA margin to manage and measure the performance of its business segments. The Company also uses
+Adjusted EBITDA and Adjusted EBITDA margin to manage and determine the effectiveness of its business
+managers and as a basis for incentive compensation. The Company believes that Adjusted EBITDA and Adjusted
+EBITDA margin provide useful information to investors because they are indicators of the strength and performance
+of the Company's ongoing business operations, including its ability to fund discretionary spending such as capital
+expenditures, strategic acquisitions and other investments. Adjusted EBITDA and Adjusted EBITDA margin should
+not be considered as substitutes for, or superior to, net income from continuing operations attributable to NCR
+Voyix or net profit margin, respectively, under GAAP.
+
+Normalized Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (Normalized Adjusted
+EBITDA) and Normalized Revenue. The Company determines Normalized Adjusted EBITDA for a given period by
+further adjusting its Adjusted EBITDA for estimated costs historically allocated to NCR Atleos that do not meet the
+definition of expenses related to discontinued operations for purposes of GAAP requirements regarding the
+reporting of discontinued operations. Normalized Adjusted EBITDA and Normalized Revenue also removes
+revenue and for Normalized Adjusted EBITDA the costs associated with the transfer or pending transfer of NCR
+Atleos-related operations in all foreign countries that have not occurred by September 30, 2024 from Adjusted
+EBITDA. In addition, Normalized Adjusted EBITDA and Normalized Revenue adjusts for all divestitures that
+occurred in prior periods that are not treated as discontinued operations under GAAP. The Company uses
+Normalized Adjusted EBITDA and Normalized Revenue to estimate the performance of the continuing business
+following the spin-off. The Company believes that Normalized Adjusted EBITDA and Normalized Revenue provide
+useful information to investors because it is an indicator of the strength and performance of the Company's ongoing
+business operations following the spin-off and allow for more easy comparisons period over period.
+
+Non-GAAP Diluted Earnings Per Share (EPS). The Company determines Non-GAAP EPS by excluding, as
+applicable, pension mark-to-market adjustments, pension settlements, pension curtailments and pension special
+termination benefits, as well as other special items, including amortization of acquisition related intangibles, stock-
+based compensation expense, separation-related costs, cyber ransomware incident recovery costs, fraudulent ACH
+disbursements costs, strategic initiative costs, foreign currency devaluation costs, costs related to the disposal of
+businesses, and transformation and restructuring activities, from the Company's GAAP earnings per share. Due to
+the non-operational nature of these pension and other special items, the Company's management uses these non-
+GAAP measures to evaluate year-over-year operating performance. The Company believes this measure is useful
+for investors because it provides a more complete understanding of the Company's underlying operational
+performance, as well as consistency and comparability with the Company's past reports of financial results.
+
+Net Debt and Net Leverage Ratio. NCR Voyix management uses non-GAAP measures called "net debt" and "net
+leverage ratio" to assess the financial performance of the Company. We define net debt as total debt minus cash
+and cash equivalents. NCR Voyix's management considers net debt to be an important measure of liquidity and an
+indicator of our ability to meet ongoing obligations. Net leverage ratio is calculated as net debt divided by last-
+twelve-months Adjusted EBITDA. NCR Voyix's management considers net leverage ratio to be an important
+indicator of the Company's indebtedness in relation to its operating performance. The Company's definition of net
+debt and net leverage ratio may differ from other companies' definitions of each measure, and each measure
+should not be considered a substitute for, or superior to, comparable GAAP metrics.
+
+                                                                                                          Page 6 of 14
+                                       NCR Voyix Reports Third Quarter Results
+
+Non-GAAP Pro Forma Outlook. The supplemental non-GAAP pro forma financial outlook in this press release is not
+necessarily indicative of the operating results of the Company were the divestiture of the Digital Banking business
+and the application of the proceeds from the sale to pay off outstanding indebtedness, the ongoing expense
+reduction actions and the transition of the Company's POS and SCO hardware businesses to an ODM model
+effected as of or before January 1, 2024 or of the operating results of the Company in the future. The supplemental
+non-GAAP pro forma financial outlook included in this press release is not pro forma information prepared in
+accordance with Article 11 of Regulation S-X of the SEC, and the preparation of information in accordance with
+Article 11 would result in a different presentation. The Company has published historical pro forma financial
+information in accordance with Article 11 of Regulation S-X of the SEC to give effect to the divestiture of the Digital
+Banking business in connection with the closing of the transaction.
+
+Use of Certain Terms
+
+The term "recurring revenue" includes all revenue streams from contracts where there is a predictable revenue
+pattern that will occur at regular intervals with a relatively high degree of certainty. This includes hardware and
+software maintenance revenue, cloud revenue, payment processing revenue, and certain professional services
+arrangements, as well as term-based software license arrangements that include customer termination rights. NCR
+Voyix's management considers recurring revenue, and the other metrics derived therefrom, to be an important
+indicator of the predictability of revenue and part of our strategic plan.
+
+The term "annual recurring revenue" or "ARR" is recurring revenue, excluding software licenses (SWL) sold as a
+subscription, for the last three months times four. In addition, plus the rolling four quarters of term-based SWL
+arrangements that include customer termination rights.
+
+The term "Software ARR" includes recurring software license revenue, software maintenance revenue, SaaS
+revenue, standalone hosted contract revenue, professional services recurring revenue and payments revenue.
+
+The term "Software & Services Revenue" includes all software, services and payments revenue and excludes
+hardware revenue.
+
+The term "platform sites" includes all sites for which we bill for use of our Commerce platform.
+
+The term "payment sites" includes all sites which utilizes NCR Voyix's payment processing capabilities.
+        Reconciliation of Net Income from Continuing Operations Attributable to NCR Voyix (GAAP) to Adjusted
+        Earnings Before Interest, Depreciation, Taxes and Amortization (Adjusted EBITDA)
+
+        $ in millions                                           Q3          Q3 2023       Q3 2024       Q3 2023
+                                                                2024        QTD           YTD           YTD
+                                                                QTD
+        Net Income (Loss) from Continuing Operations            $ (    )    $ (26     )   $ (19     )   $ (45     )
+        Attributable to NCR Voyix (GAAP)                          3           6             3             7
+                                                                  1
+        Depreciation and amortization (excluding acquisition-     5            49            15            14
+        related amortization of intangibles)                      3                          3             0
+        Acquisition-related amortization of intangibles           7            11            22            31
+        Interest expense                                          4            83            12            25
+                                                                  0                          0             7
+        Interest income                                           (    )       (5     )      (5     )      (11    )
+                                                                  2
+        Acquisition-related costs                                 -            -             -             1
+        Income tax expense (benefit)                              (    )       18            3             20
+                                                                  1            7                           0
+        Stock-based compensation expense                          9            19            32            65
+        Transformation and restructuring costs                    1            1             90            5
+                                                                  6
+        Separation costs                                          1            10            9             18
+
+                                                                                                                Page 7 of 14
+                                 NCR Voyix Reports Third Quarter Results
+
+Loss (gain) on disposal of businesses                       -              (3       )          (14       )          (10       )
+Foreign currency devaluation                                -              -                   15                   -
+Fraudulent ACH disbursements                                (        )     5                   (4        )          10
+                                                            2
+Cyber ransomware incident recovery costs                    (        )     12                  (5        )          23
+                                                            1
+Strategic initiatives                                       1              -                   18                   -
+                                                            2
+Loss on debt extinguishment                                 (        )     -                   (8        )          -
+                                                            8
+Adjusted EBITDA (Non-GAAP)                                $ 9            $ 10            $ 23                 $ 27
+                                                            3              3               3                    2
+Less: Divestitures(1)                                       -              (5       )      -                    (18           )
+Less: NCR Atleos delayed country transfers                  2              (1       )      4                    (3            )
+Plus: Estimated costs historically allocated to NCR         -              31              -                    69
+Atleos
+Plus: Estimated costs historically allocated to Digital     6              5                   14             $ 16
+Banking
+Normalized Adjusted EBITDA (Non-GAAP)                   $ 1           $ 13           $ 25         $ 33
+                                                           0            3               1            6
+                                                           1
+(1)2023 Divestiture amounts shown in table represent the quarterly impact of the non-core payments and
+Austria-hardware divestitures?.
+
+Reconciliation of Revenue to Normalized Revenue
+
+$ in millions                                             Q3         Q3           Q3 2024      Q3 2023
+                                                          2024       2023         YTD          YTD
+                                                          QTD        QTD
+Revenue                                                   $ 7        $ 8          $ 2,1        $ 2,3
+                                                            1          0             44           82
+                                                            1          9
+Less: Divestitures(1)                                       -          (    )        -            (41 )
+                                                                       1
+                                                                       2
+Less: NCR Atleos delayed country transfers                (   )        (    )        (4    )      (9   )
+                                                          3            3
+Normalized Revenue                                     $ 7           $ 7          $ 2,1        $ 2,3
+                                                          0            9             40           32
+                                                          8            4
+(1)2023 Divestiture amounts shown in table represent the quarterly impact of the non-core payments and
+Austria-hardware divestitures.
+
+Reconciliation of Software & Services Revenue to Normalized Software & Services Revenue
+
+$ in millions                                             Q3             Q3             Q3 2024              Q3 2023
+                                                          2024           2023           YTD                  YTD
+                                                          QTD            QTD
+Software & Services Revenue                               $ 5            $ 5              1,5                  1,5
+                                                            1              4              34                   85
+                                                            7              0
+Less: Divestitures(1)                                       -              (    )         -                    (34        )
+                                                                           1
+                                                                           0
+Less: NCR Atleos delayed country transfers                  (    )         (    )         (2         )         (6         )
+                                                            1              2
+Normalized Software & Services Revenue                    $ 5            $ 5            $ 1,5                $ 1,5
+                                                            1              2              32                   45
+
+                                                                                                      Page 8 of 14
+                                 NCR Voyix Reports Third Quarter Results
+
+                                                            6            8
+  (1)2023 Divestiture amounts shown in table represent the quarterly impact of the non-core payments and
+  Austria-hardware divestitures.
+
+Reconciliation of Diluted Earnings Per Share from Continuing Operations (GAAP) to Non-GAAP Diluted
+Earnings Per Share from Continuing Operations (Non-GAAP)
+
+                                                                                    Q3 2024           Q3 2024
+                                                                                    QTD               YTD
+Diluted Earnings Per Share from Continuing Operations (GAAP)(1)                     $ (0.2  )         $ (1.4   )
+                                                                                      4                  2
+Acquisition-related amortization of intangibles                                       0.04               0.11
+Stock-based compensation expense                                                      0.06               0.20
+Transformation and restructuring costs                                                0.09               0.46
+Separation costs                                                                      0.01               0.05
+Loss (gain) on disposal of businesses                                                 -                  (0.0  )
+                                                                                                         7
+Foreign currency devaluation                                                               -             0.08
+Fraudulent ACH disbursements                                                               (0.0 )        (0.0  )
+                                                                                           1             2
+Cyber ransomware incident recovery costs                                                   (0.0 )        (0.0  )
+                                                                                           1             2
+Strategic initiatives                                                                      0.06          0.09
+Debt refinancing                                                                           (0.0 )        (0.0  )
+                                                                                           4             4
+Diluted Earnings Per Share from Continuing Operations (Non-GAAP)(1)                     $ -           $ (0.3   )
+                                                                                                         5
+(1) Non-GAAP diluted EPS is determined using the conversion of the Series A Convertible Preferred Stock into
+common stock in the calculation of weighted average diluted shares outstanding. GAAP EPS is determined using
+the most dilutive measure, either including the impact of dividends or deemed dividends on the Company's
+Series A Convertible Preferred Stock in the calculation of net income or loss available to common stockholders
+or including the impact of the conversion of the Series A Convertible Preferred Stock into common stock in the
+calculation of the weighted average diluted shares outstanding. Therefore, GAAP diluted EPS and non-GAAP
+diluted EPS may not mathematically reconcile.
+ $ in millions                                               Q3 2024       Q3         Q3 2024       Q3 2024
+                                                             QTD           2024       YTD           YTD
+                                                                           QTD                      Non-
+                                                                           Non-                     GAAP
+                                                                           GAA
+                                                                           P
+ Income (loss) from continuing operations attributable to
+ NCR Voyix common stockholders
+ Income (loss) from continuing operations (attributable to   $ (31     )   $ -        $ (19     )   $ (57     )
+ NCR Voyix)                                                                             3
+ Dividends on convertible preferred shares                     (4      )     -          (12     )     -
+ Income (loss) from continuing operations attributable to    $ (35     )   $ -        $ (20     )   $ (57     )
+ NCR Voyix common stockholders                                                          5
+ Weighted average outstanding shares:
+ Weighted average diluted shares outstanding                   14            14         14            14
+                                                               5.4           8.6        4.6           7.6
+ Weighted as-if converted preferred shares                     -             15.        -             15.
+                                                                             9                        9
+ Total shares used in diluted earnings per share               14            16         14            16
+                                                               5.4           4.5        4.6           3.5
+ Diluted earnings per share from continuing operations       $ (0.     )   $ -        $ (1.     )   $ (0.     )
+                                                               24                       42            35
+
+  NCR VOYIX CORPORATION CONSOLIDATED STATEMENTS OF OPERATIONS                                       Schedule A
+
+                                                                                                    Page 9 of 14
+                               NCR Voyix Reports Third Quarter Results
+
+(Unaudited) (in millions, except per share amounts)
+
+                                                     For the Period Ended September 30
+                                                     Three Months               Nine Months
+                                                       20             20           20           20
+                                                       24             23           24           23
+  Revenue
+  Product                                            $ 21         $ 29         $ 68           $ 87
+                                                       9            6            4              5
+  Service                                              49           51           1,4            1,5
+                                                       2            3            60             07
+  Total Revenue                                        71           80           2,1            2,3
+                                                       1            9            44             82
+  Cost of products                                     18           25           59             77
+                                                       5            3            4              1
+  Cost of services                                     36           36           1,1            1,0
+                                                       0            1            20             53
+  Total gross margin                                   16           19           43             55
+                                                       6            5            0              8
+  % of Revenue                                         23.   %      24.   %      20.    %       23.    %
+                                                       3            1            1              4
+  Selling, general and administrative expenses         11           14           34             42
+                                                       3            2            0              7
+  Research and development expenses                    38           29           12             98
+                                                                                 9
+  Income (loss) from operations                        15           24           (39    )       33
+  % of Revenue                                         2.1   %      3.0   %      (1.    )       1.4    %
+                                                                                 8      %
+  Interest expense                                     (40   )      (83   )      (12    )       (25    )
+                                                                                 0              7
+  Other income (expense), net                          (15   )      (20   )      (40    )       (33    )
+  Total interest and other expense, net                (47   )      (10   )      (15    )       (29    )
+                                                                    3            2              0
+  Income (loss) from continuing operations             (32   )      (79   )      (19    )       (25    )
+  before income taxes                                                            1              7
+  % of Revenue                                         (4.   )      (9.   )      (8.    )       (10    )
+                                                       5     %      8     %      9      %       .8     %
+  Income tax expense (benefit)                         (1    )      18           3              20
+                                                                    7                           0
+  Income (loss) from continuing operations             (31   )      (26   )       (19   )       (45    )
+                                                                    6             4             7
+  Income (loss) from discontinued operations,          1,1          13            1,1           35
+  net of tax                                           13           8             62            3
+  Net income (loss)                                    1,0          (12   )       96            (10    )
+                                                       82           8             8             4
+  Net income (loss) attributable to noncontrolling     -            -             (1    )       -
+  interests
+  Net income (loss) attributable to noncontrolling     -            1             -             1
+  interests of discontinued operations
+  Net income (loss) attributable to NCR Voyix        $ 1,0        $ (12   )    $ 96           $ (10    )
+                                                       82           9            9              5
+  Amounts attributable to NCR Voyix common
+  stockholders:
+  Income (loss) from continuing operations           $ (31   )    $ (26   )    $ (19    )     $ (45    )
+                                                                    6            3              7
+  Dividends on convertible preferred stock             (4    )      (4    )      (12    )       (12    )
+  Income (loss) from continuing operations             (35   )      (27   )      (20    )       (46    )
+
+                                                                                                       Page 10 of 14
+                             NCR Voyix Reports Third Quarter Results
+
+ attributable to NCR Voyix common                                     0               5               9
+ stockholders
+ Income (loss) from discontinued operations,       1,1              13                1,1             35
+ net of tax                                        13               7                 62              2
+ Net income (loss) attributable to NCR Voyix     $ 1,0            $ (13         )   $ 95            $ (11    )
+ common stockholders                               78               3                 7               7
+ Income (loss) per share attributable to NCR
+ Voyix common stockholders:
+ Income (loss) per common share from
+ continuing operations
+ Basic                                           $ (0.    )       $ (1.         )   $ (1.       )   $ (3.    )
+                                                   24               92                42              34
+ Diluted (1)                                     $ (0.    )       $ (1.         )   $ (1.       )   $ (3.    )
+                                                   24               92                42              34
+ Net income (loss) per common share
+ Basic                                           $ 7.4            $ (0.         )   $ 6.6           $ (0.    )
+                                                   1                94                2               83
+ Diluted (1)                                     $ 7.4            $ (0.         )   $ 6.6           $ (0.    )
+                                                   1                94                2               83
+ Weighted average common shares
+ outstanding
+ Basic                                                 14            14             14             14
+                                                       5.4           0.9            4.6            0.3
+ Diluted (1)                                           14            14             14             14
+                                                       5.4           0.9            4.6            0.3
+ (1) Diluted EPS is determined using the most dilutive measure, either including the impact of the
+ dividends and deemed dividends on the Company's Series A Convertible Preferred Shares in the
+ calculation of net income or loss per common share from continuing operations and net income or loss
+ per common share or including the impact of the conversion of such preferred stock into common stock
+ in the calculation of the weighted average diluted shares outstanding.
+NCR VOYIX CORPORATION REVENUE AND ADJUSTED EBITDA SUMMARY (Unaudited)                                 Schedule B
+(in millions)
+
+                                    For the Period Ended September 30
+                                    Three Months                  Nine Months
+                                      2            2      %          2                      2        %
+                                      0            0      Ch         0                      0        Chang
+                                      2            2      an         2                      2        e
+                                      4            3      ge         4                      3
+ Revenue by segment
+ Retail                             $ 4         $ 5           ( )         $ 1         $ 1            ( )%
+                                      8           5           1 %           ,           ,            8
+                                      7           2           2             4           6
+                                                                            9           3
+                                                                            5           3
+ Restaurants                           2           2          ( )           6           6            ( )%
+                                       1           2          8 %           1           6            7
+                                       1           9                        4           3
+ Corporate and Other(1)                1           2          (   )         3           8            ( )%
+                                       3           8          5   %         5           6            5
+                                                              4                                      9
+ Total revenue                      $ 7         $ 8           (   )       $ 2         $ 2            ( )%
+                                      1           0           1   %         ,           ,            1
+                                      1           9           2             1           3            0
+                                                                            4           8
+                                                                            4           2
+
+ Adjusted EBITDA by segment
+
+                                                                                                         Page 11 of 14
+                                 NCR Voyix Reports Third Quarter Results
+
+    Retail                               $ 1         $ 1          ( )      $ 2           $ 3           ( )%
+                                           0           2          1 %          8            2          1
+                                           8           3          2            1            1          2
+    Retail Adjusted EBITDA margin          2 %         2 %                     1 %          1 %
+    %                                      2           2                       8            9
+                                           .           .                       .            .
+                                           2           3                       8            7
+    Restaurants                            6           5            2 %        1            1          2 %
+                                           6           2            7          8            4          4
+                                                                               3            7
+    Restaurants Adjusted EBITDA               3 %          2 %                 2 %          2 %
+    margin %                                  1            2                   9            2
+                                              .            .                   .            .
+                                              3            7                   8            2
+    Segment Adjusted EBITDA                $ 1          $ 1         ( )    $ 4           $ 4           ( )%
+                                              7            7        1 %        6            6          1
+                                              4            5                   4            8
+    Segment Adjusted EBITDA                   2 %          2 %                 2 %          2 %
+    margin %                                  4            2                   2            0
+                                              .            .                   .            .
+                                              9            4                   0            4
+    Corporate and Other(1)                    ( )          ( )      1 %        (   )        (    )     1 %
+                                              8            7        3          2            1          8
+                                              1            2                   3            9
+                                                                               1            6
+    Total Adjusted EBITDA                  $ 9          $ 1         ( )    $ 2           $ 2           ( )%
+                                              3            0        1 %        3            7          1
+                                                           3        0          3            2          4
+    Total Adjusted EBITDA margin %            1 %          1 %                 1 %          1 %
+                                              3            2                   0            1
+                                              .            .                   .            .
+                                              1            7                   9            4
+    (1) Corporate and Other includes income and expenses related to corporate functions that are not
+    specifically attributable to any of our two individual reportable segments along with certain non-strategic
+    businesses that are considered immaterial operating segment(s) and certain countries which are
+    expected to transfer to NCR Atleos during the remainder of 2024, as well as commercial agreements
+    with NCR Atleos.
+  NCR VOYIX CORPORATION CONSOLIDATED BALANCE SHEETS (Unaudited) (in                                     Schedule C
+  millions, except per share amounts)
+In millions, except per share amounts                                                   Septembe         December
+                                                                                        r 30, 2024       31, 2023
+Assets
+Current assets
+Cash and cash equivalents                                                               $ 795            $ 259
+Accounts receivable, net of allowances of $28 and $29 as of September 30, 2024            623              414
+and December 31, 2023, respectively
+Inventories                                                                                208              250
+Restricted cash                                                                            26               21
+Prepaid and other current assets                                                           173              178
+Current assets of discontinued operations                                                  -                84
+Total current assets                                                                       1,82             1,20
+                                                                                           5                6
+Property, plant and equipment, net                                                         193              207
+Goodwill                                                                                   1,52             1,51
+                                                                                           1                9
+Intangibles, net                                                                           102              123
+Operating lease assets                                                                     236              231
+
+                                                                                               Page 12 of 14
+                                    NCR Voyix Reports Third Quarter Results
+
+Prepaid pension cost                                                               44           43
+Deferred income taxes                                                              225          237
+Other assets                                                                       528          532
+Noncurrent assets of discontinued operations                                       -          $ 892
+Total assets                                                                     $ 4,67       $ 4,99
+                                                                                   4            0
+Liabilities and stockholders' equity (deficit)
+Current liabilities
+Short-term borrowings                                                            $ -          $ 15
+Accounts payable                                                                   400          440
+Payroll and benefits liabilities                                                   119          126
+Contract liabilities                                                               186          157
+Settlement liabilities                                                             40           39
+Other current liabilities                                                          782          421
+Current liabilities of discontinued operations                                     -            135
+Total current liabilities                                                          1,52         1,33
+                                                                                   7            3
+Long-term debt                                                                     1,09         2,56
+                                                                                   8            3
+Pension and indemnity plan liabilities                                             165          160
+Postretirement and postemployment benefits liabilities                             38           43
+Income tax accruals                                                                59           64
+Operating lease liabilities                                                        253          251
+Other liabilities                                                                  247          253
+Noncurrent liabilities of discontinued operations                                  -            22
+Total liabilities                                                                  3,38         4,68
+                                                                                   7            9
+Commitments and Contingencies (Note 10)
+Series A convertible preferred stock: par value $0.01 per share, 3.0 shares        276           276
+authorized, 0.3 shares issued and outstanding as of September 30, 2024 and
+December 31, 2023; redemption amount and liquidation preference of $276 as of
+September 30, 2024 and December 31, 2023
+Stockholders' equity (deficit)
+NCR Voyix stockholders' equity (deficit)
+Preferred stock: par value $0.01 per share, 100.0 shares authorized, no shares     -             -
+issued and outstanding as of September 30, 2024 and December 31, 2023,
+respectively
+Common stock: par value $0.01 per share, 500.0 shares authorized, 145.5 and        1             1
+142.6 shares issued and outstanding as of September 30, 2024 and December 31,
+2023, respectively
+Paid-in capital                                                                    911           874
+Retained earnings (deficit)                                                        561           (421   )
+Accumulated other comprehensive loss                                               (460   )      (429   )
+Total NCR Voyix stockholders' equity (deficit)                                     1,01          25
+                                                                                   3
+Noncontrolling interests in subsidiaries                                           (2     )      -
+Total stockholders' equity (deficit)                                               1,01          25
+                                                                                   1
+Total liabilities and stockholders' equity (deficit)                             $ 4,67       $ 4,99
+                                                                                   4            0
+  NCR VOYIX CORPORATION CONSOLIDATED STATEMENTS OF CASH FLOWS                                 Schedule D
+  (Unaudited) (in millions)
+
+                                                                                              Page 13 of 14
+                               NCR Voyix Reports Third Quarter Results
+
+In millions                                                            Nine months ended September 30
+                                                                       20                 20
+                                                                       24                 23
+Operating activities
+Net income (loss)                                                      $    968          $    (104      )
+Adjustments to reconcile net income (loss) to net cash provided by
+(used in) operating activities:
+Loss (gain) on debt extinguishment                                          (8      )         -
+Depreciation and amortization                                               237               461
+Stock-based compensation expense                                            39                98
+Deferred income taxes                                                       11                201
+Gain on terminated interest rate derivative agreements                      -                 (103      )
+Impairment of other assets                                                  5                 7
+Loss (gain) on disposal of property, plant and equipment and other          -                 (2        )
+assets
+Loss (gain) on divestiture                                                  (1,56   )         (10       )
+                                                                            0
+Changes in assets and liabilities:
+Receivables                                                                 49                132
+Inventories                                                                 37                (12       )
+Current payables and accrued expenses                                       (41     )         17
+Contract liabilities                                                        38                (6        )
+Employee benefit plans                                                      (8      )         (10       )
+Other assets and liabilities                                                271               58
+Net cash provided by (used in) operating activities                    $    38           $    727
+Investing activities
+Expenditures for property, plant and equipment                         $    (23     )    $    (112      )
+Proceeds from sale of property, plant and equipment and other assets        -                 8
+Additions to capitalized software                                           (155    )         (194      )
+Business acquisitions, net of cash acquired                                 -                 (7        )
+Proceeds from divestiture, net                                              2,458             10
+Proceeds from disposition of corporate-owned life insurance policies        30                -
+Termination of trade receivable facility                                    (300    )         -
+Collections on purchased trade receivables                                  7                 -
+Purchases of short-term investments                                         -                 (10       )
+Net cash provided by (used in) investing activities                    $    2,017        $    (305      )
+Financing activities
+Payments on term credit facilities                                          (200    )         (77       )
+Payments on revolving credit facilities                                     (693    )         (2,04     )
+                                                                                              4
+Payments of senior unsecured notes                                          (1,17   )         -
+                                                                            7
+Borrowings on term credit facilities                                        -                 726
+Borrowings on revolving credit facilities                                   595               1,959
+Proceeds from senior unsecured and other notes                              -                 1,333
+Payments on other financing arrangements                                    -                 (2        )
+Cash dividend paid for Series A preferred shares dividends                  (12     )         (11       )
+Proceeds from employee stock plans                                          10                23
+Tax withholding payments on behalf of employees                             (12     )         (16       )
+Principal payments for finance lease obligations                            (7      )         (12       )
+Net cash provided by (used in) financing activities                    $    (1,49   )    $    1,879
+                                                                            6
+Effect of exchange rate changes on cash, cash equivalents and               (19     )         (28       )
+
+                                                                                           Page 14 of 14
+                                       NCR Voyix Reports Third Quarter Results
+
+        restricted cash
+        Increase (decrease) in cash, cash equivalents, and restricted cash   $   540   $   2,273
+        Cash, cash equivalents and restricted cash at beginning of period        285       740
+        Cash, cash equivalents, and restricted cash at end of period         $   825   $   3,013
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20241107955895/en/
+
+
+CONTACT: News Media Contact
+
+media.relations@ncrvoyix.com Investor Contact
+Alan Katz
+
+alan.katz@ncrvoyix.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: November 7, 2024
+
+
+  

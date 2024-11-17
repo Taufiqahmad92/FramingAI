@@ -1,0 +1,90 @@
+
+
+                                                                                             Page 1 of 2
+    DeepTempo Emerges from Stealth Mode with Deep Learning-Based Snowflake Native App for Cybersecurity
+                            Solution now available on Snowflake Marketplace
+
+
+
+
+        DeepTempo Emerges from Stealth Mode with Deep Learning-Based
+        Snowflake Native App for Cybersecurity; Solution now available on
+                            Snowflake Marketplace
+                                                   Business Wire
+                                     November 12, 2024 Tuesday 5:05 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 607 words
+Dateline: PALO ALTO, Calif.
+
+Body
+
+
+DeepTempo today announced its emergence from stealth mode with the launch of Tempo , a deep learning-based
+Snowflake Native App available now on the Snowflake Marketplace. Tempo leverages collective deep learning to
+improve the detection of potential cyberattacks while increasing the productivity of security teams. As part of the
+launch, DeepTempo will be demonstrating its capabilities at Snowflake's annual developer conference, BUILD , on
+November 14, following the successful collaboration with the Snowflake Native App Accelerator program.
+
+Organizations can now leverage AI-powered security capabilities directly within their Snowflake environment,
+maintaining data privacy and compliance while significantly enhancing their ability to detect and respond to evolving
+cyber threats. Snowflake users can try it in minutes, and apply it to their data for enhanced protection, improved
+security operations productivity, and cost savings.
+
+The DeepTempo solution is based upon a foundation Log Language Model (LLGM) built and trained by
+DeepTempo that detects anomalies in network traffic and provides additional context such as similar attack patterns
+from the MITRE ATT&CK matrix, potentially impacted entities, and other vital information needed by security
+operations teams for effective triage and response. Customers benefit from faster detection of attack indicators,
+including new and evolving threats, and can optimize their security spending by running the DeepTempo software
+on their existing security data lakes.
+
+"Attackers are using AI and collaboration to surpass defenders in innovation. Our mission at DeepTempo is to
+return the initiative to the defenders," said Evan Powell, founder and CEO of DeepTempo, an industry veteran with
+extensive expertise in building leading companies in networking, storage, data platforms, and DevOps. "We are
+opening our early access program to allow organizations to stay ahead of evolving cyber threats by using our
+purpose-built AI to detect and respond to threats faster than ever before. Also, by making available our AI-driven
+security solution as a Snowflake Native App, we are able to leverage Snowflake's high availability and disaster
+recovery along with their security reviews and controls. Our Tempo software is available now to the thousands of
+Snowflake customers."
+
+                                                                                            Page 2 of 2
+   DeepTempo Emerges from Stealth Mode with Deep Learning-Based Snowflake Native App for Cybersecurity
+                           Solution now available on Snowflake Marketplace
+
+"The launch of Tempo as a Snowflake Native App is just the latest example of how startups are leveraging
+Snowflake's ecosystem and platform to build and scale their businesses," said Tarik Dwiek, head of technology
+alliances, Snowflake. "Bringing DeepTempo into the Snowflake ecosystem provides our customers with even more
+choice when it comes to building their network and building applications securely in the AI Data Cloud."
+
+The Snowflake Native App Framework enables developers to build applications using Snowflake's core
+functionalities, distribute them globally on Snowflake Marketplace , and deploy them within a customer's Snowflake
+account.
+
+About DeepTempo
+
+DeepTempo builds AI-driven cybersecurity solutions that protect enterprises and service providers from
+sophisticated cyber threats. By leveraging deep learning and purpose-built Log Language Models, the company
+empowers organizations to defend their digital assets more effectively while optimizing security operations. Running
+on security data lakes, the DeepTempo solutions help organizations avoid lock-in and reduce unnecessary
+spending. To find out more, go to https://www.deeptempo.ai or check out our LinkedIn page, YouTube channel and
+Medium posts.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20241112360551/en/
+
+
+CONTACT: Georgiana Comsa
+Silicon Valley PR
+
+georgiana@siliconvalleypr.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: November 12, 2024
+
+
+  

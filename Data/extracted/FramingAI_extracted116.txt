@@ -1,0 +1,1205 @@
+
+
+                                                                                                        Page 1 of 20
+                                     Amazon.com Announces Third Quarter Results
+
+
+
+
+                          Amazon.com Announces Third Quarter Results
+                                                     Business Wire
+                                       October 31, 2024 Thursday 8:01 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 5078 words
+Dateline: SEATTLE
+
+Body
+
+Amazon.com, Inc. (NASDAQ:AMZN) today announced financial results for its third quarter ended September 30,
+2024.
+    •     Net sales increased 11% to $158.9 billion in the third quarter, compared with $143.1 billion in third quarter
+          2023. Excluding the $0.2 billion unfavorable impact from year-over-year changes in foreign exchange rates
+          throughout the quarter, net sales increased 11% compared with third quarter 2023.
+         •     North America segment sales increased 9% year-over-year to $95.5 billion.
+         •     International segment sales increased 12% year-over-year to $35.9 billion.
+         •     AWS segment sales increased 19% year-over-year to $27.5 billion.
+    •     Operating income increased to $17.4 billion in the third quarter, compared with $11.2 billion in third quarter
+          2023.
+         •     North America segment operating income was $5.7 billion, compared with operating income of $4.3
+               billion in third quarter 2023.
+         •     International segment operating income was $1.3 billion, compared with an operating loss of $0.1
+               billion in third quarter 2023.
+         •     AWS segment operating income was $10.4 billion, compared with operating income of $7.0 billion in
+               third quarter 2023.
+    •     Net income increased to $15.3 billion in the third quarter, or $1.43 per diluted share, compared with $9.9
+          billion, or $0.94 per diluted share, in third quarter 2023.
+    •     Operating cash flow increased 57% to $112.7 billion for the trailing twelve months, compared with $71.7
+          billion for the trailing twelve months ended September 30, 2023.
+    •     Free cash flow increased to $47.7 billion for the trailing twelve months, compared with $21.4 billion for the
+          trailing twelve months ended September 30, 2023.
+    •     Free cash flow less principal repayments of finance leases and financing obligations increased to $44.9
+          billion for the trailing twelve months, compared with $15.9 billion for the trailing twelve months ended
+          September 30, 2023.
+
+                                                                                                        Page 2 of 20
+                                  Amazon.com Announces Third Quarter Results
+
+    •   Free cash flow less equipment finance leases and principal repayments of all other finance leases and
+        financing obligations increased to $46.1 billion for the trailing twelve months, compared with $20.2 billion
+        for the trailing twelve months ended September 30, 2023.
+
+"As we get into the holiday season, we're excited about what we have in store for customers," said Andy Jassy,
+Amazon President & CEO. "We kicked off the holiday season with our biggest-ever Prime Big Deal Days and the
+launch of an all-new Kindle lineup that is significantly outperforming our expectations; and there's so much more
+coming, from tens of millions of deals, to our NFL Black Friday game and Election Day coverage with Brian Williams
+on Prime Video, to over 100 new cloud infrastructure and AI capabilities that we'll share at AWS re:Invent the week
+after Thanksgiving."
+
+Some other highlights since the company's last earnings announcement include that Amazon:
+    •   Held its annual Prime Big Deal Days shopping event, with record sales, number of items sold, and Prime
+        member participation, saving Prime members more than $1 billion with deals across its Store.
+    •   Announced its first-ever fuel savings offer for Prime, saving U.S. members 10 cents a gallon on fuel at
+        approximately 7,000 bp, Amoco, and ampm locations.
+    •   Expanded its selection of brands with AllSaints, Beats x Kim, Estée Lauder, kate spade new york, and
+        more.
+    •   Announced plans to expand Amazon Pharmacy Same-Day Delivery of medications to nearly half the U.S.
+        in 2025 by accelerating the roll out of new pharmacies in 20 more U.S. cities by the end of next year.
+    •   Launched new generative AI-powered features, including:
+        •   Rufus, a generative AI expert shopping assistant, becoming available in Canada, France, Germany,
+            India, Italy, Spain, and the UK.
+        •   AI Shopping Guides, which simplifies product research by using generative AI to pair information about
+            a product category with Amazon's wide selection, making it easier for customers to find the right
+            product for their needs.
+        •   Project Amelia, an AI assistant for sellers that offers tailored business insights to boost productivity and
+            drive seller growth.
+        •   Video generation and live image capabilities for advertisers that makes it fast and easy for brands to
+            deliver compelling creative for customers through short, animated campaign images.
+    •   Launched new foundation models in Amazon Bedrock and Amazon SageMaker, including AI21 Labs'
+        Jamba 1.5 family, Anthropic's upgraded Claude 3.5 Sonnet, Meta's Llama 3.2, Mistral Large 2, and multiple
+        Stability AI models.
+    •   Launched new memory-optimized, compute-optimized, and general purpose Amazon EC2 instances
+        based on AWS's latest generation Graviton4 processor, which delivers 75% more memory bandwidth and
+        30% better compute performance than the previous generation Graviton chips.
+    •   Launched Oracle Database@AWS for customers to easily and quickly migrate Oracle workloads to
+        dedicated infrastructure on AWS with minimal to no database or application changes.
+    •   Entered a strategic collaboration with Databricks to accelerate the development of custom models built with
+        Databricks Mosaic AI on AWS, and for Databricks to leverage AWS Trainium chips as the preferred AI chip
+        to help customers improve price-performance when building generative AI applications.
+    •   Signed AWS agreements with several large enterprise companies such as The Australia and New Zealand
+        Banking Group Limited, Booking.com, Capital One, Datadog, Epic Games, Fast Retailing, Itaú Unibanco,
+        Luma AI, National Australia Bank, Sony, T-Mobile, Toyota, and Veeva.
+    •   Launched Season 2 of The Lord of the Rings: The Rings of Power to positive reviews from customers and
+        critics alike, ranking as Prime Video's most watched returning season ever by hours watched.
+
+                                                                                                     Page 3 of 20
+                                  Amazon.com Announces Third Quarter Results
+
+    •   Drew more than 17 million viewers to the Cowboys-Giants Thursday Night Football game, the most-
+        streamed NFL regular season game ever.
+    •   Added Apple TV+ to Prime Video's collection of over 100 add-on subscription channels in the U.S.
+    •   Announced a new Kindle lineup, including a reimagined Kindle Scribe with generative AI, the Kindle
+        Colorsoft with a color display, and the fastest Kindle Paperwhite ever.
+    •   Announced investments in the Delivery Service Partner program of $2.1 billion in North America to support
+        safety programs, training, incentives, and more, as well as 25 billion yen in Japan to support last mile
+        delivery innovation, and safety and technology for drivers.
+    •   Announced plans to hire 250,000 people across its U.S. operations ahead of the holiday season. All
+        seasonal employees earn at least $18 per hour and have access to comprehensive benefits like health
+        care.
+    •   Announced plans for AWS to invest £8 billion over five years in the UK, supporting 14,000 jobs annually.
+    •   Removed plastic air pillows from all delivery packaging at fulfillment centers globally, including expanding
+        its use of paper filler made from 100% recycled content across North America to replace plastic air pillows.
+    •   Mobilized Disaster Relief by Amazon to support communities around the world impacted by natural
+        disasters. In the U.S., Amazon leveraged its Disaster Relief Hub in Atlanta to support communities
+        impacted by Hurricanes Helene and Milton with donated goods, logistics support, and technology. In
+        Europe, Amazon mobilized its global logistics infrastructure, inventory, teams, and technology to provide
+        rapid assistance for flooding across the region.
+
+For additional highlights from the quarter, visit aboutamazon.com/news/company-news/amazon-earnings-q3-2024-
+highlights.
+
+Financial Guidance
+
+The following forward-looking statements reflect Amazon.com's expectations as of October 31, 2024, and are
+subject to substantial uncertainty. Our results are inherently unpredictable and may be materially affected by many
+factors, such as fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and
+customer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor
+market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and
+emerging technologies, and the various factors detailed below.
+
+Fourth Quarter 2024 Guidance
+    •   Net sales are expected to be between $181.5 billion and $188.5 billion, or to grow between 7% and 11%
+        compared with fourth quarter 2023. This guidance anticipates an unfavorable impact of approximately 10
+        basis points from foreign exchange rates.
+    •   Operating income is expected to be between $16.0 billion and $20.0 billion, compared with $13.2 billion in
+        fourth quarter 2023.
+    •   This guidance assumes, among other things, that no additional business acquisitions, restructurings, or
+        legal settlements are concluded.
+
+Conference Call Information
+
+A conference call will be webcast live today at 2:00 p.m. PT/5:00 p.m. ET, and will be available for at least three
+months at amazon.com/ir. This call will contain forward-looking statements and other material information regarding
+the Company's financial and operating results.
+
+Forward-Looking Statements
+
+                                                                                                       Page 4 of 20
+                                   Amazon.com Announces Third Quarter Results
+
+These forward-looking statements are inherently difficult to predict. Actual results and outcomes could differ
+materially for a variety of reasons, including, in addition to the factors discussed above, the amount that
+Amazon.com invests in new business opportunities and the timing of those investments, the mix of products and
+services sold to customers, the mix of net sales derived from products as compared with services, the extent to
+which we owe income or other taxes, competition, management of growth, potential fluctuations in operating
+results, international growth and expansion, the outcomes of claims, litigation, government investigations, and other
+proceedings, fulfillment, sortation, delivery, and data center optimization, risks of inventory management, variability
+in demand, the degree to which the Company enters into, maintains, and develops commercial agreements,
+proposed and completed acquisitions and strategic transactions, payments risks, and risks of fulfillment throughput
+and productivity. Other risks and uncertainties include, among others, risks related to new products, services, and
+technologies, security breaches, system interruptions, government regulation and taxation, and fraud. In addition,
+global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events
+may give rise to or amplify many of these risks. More information about factors that potentially could affect
+Amazon.com's financial results is included in Amazon.com's filings with the Securities and Exchange Commission
+("SEC"), including its most recent Annual Report on Form 10-K and subsequent filings.
+
+Additional Information
+
+Our investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding
+information about us. We promptly make available on this website, free of charge, the reports that we file or furnish
+with the SEC, corporate governance information (including our Code of Business Conduct and Ethics), and select
+press releases, which may contain material information about us, and you may subscribe to be notified of new
+information posted to this site.
+
+About Amazon
+
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention,
+commitment to operational excellence, and long-term thinking. Amazon strives to be Earth's Most Customer-Centric
+Company, Earth's Best Employer, and Earth's Safest Place to Work. Customer reviews, 1-Click shopping,
+personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career
+Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate
+Pledge are some of the things pioneered by Amazon. For more information, visit amazon.com/about and follow
+@AmazonNews.
+          AMAZON.COM, INC. Consolidated Statements of Cash Flows (in millions) (unaudited)
+
+                                               Three Months          Nine Months           Twelve Months
+                                               Ended                 Ended                 Ended
+                                               September 30,         September 30,         September 30,
+                                                 2           2          2          2         2           2
+                                                 0           0          0          0         0           0
+                                                 2           2          2          2         2           2
+                                                 3           4          3          4         3           4
+
+
+
+          CASH, CASH EQUIVALENTS, AND          $ 5        $ 7        $ 5        $ 7        $ 3        $ 5
+          RESTRICTED CASH, BEGINNING             0          1          4          3          5          0
+          OF PERIOD                              ,          ,          ,          ,          ,          ,
+                                                 0          6          2          8          1          0
+                                                 6          7          5          9          7          8
+                                                 7          3          3          0          8          1
+          OPERATING ACTIVITIES:
+          Net income                              9          1          1          3          2          4
+                                                  ,          5          9          9          0          9
+                                                  8          ,          ,          ,          ,          ,
+                                                  7          3          8          2          0          8
+                                                  9          2          0          4          7          6
+
+                                                                                 Page 5 of 20
+                            Amazon.com Announces Third Quarter Results
+
+                                                  8         1        4     9      8
+Adjustments to reconcile net income
+to net cash from operating activities:
+Depreciation and amortization of         1        1         3        3     4      5
+property and equipment and               2        3         4        7     7      0
+capitalized content costs, operating     ,        ,         ,        ,     ,      ,
+lease assets, and other                  1        4         8        1     5      9
+                                         3        4         4        6     2      8
+                                         1        2         3        4     8      4
+Stock-based compensation                 5        5         1        1     2      2
+                                         ,        ,         7        7     3      3
+                                         8        3         ,        ,     ,      ,
+                                         2        3         7        0     3      3
+                                         9        3         0        1     1      3
+                                                            4        6     0      5
+Non-operating expense (income), net      ( )      ( )       ( )      2     3      2
+                                         9        1         4        ,     ,      ,
+                                         9        4         0        4     0      1
+                                         0        1         9        9     3      5
+                                                                     8     6      9
+Deferred income taxes                    ( )      ( )       ( )      ( )   ( )    ( )
+                                         1        1         4        3     7      4
+                                         ,        ,         ,        ,     ,      ,
+                                         1        3         4        0     7      5
+                                         9        1         1        4     7      0
+                                         6        7         2        0     9      4
+Changes in operating assets and
+liabilities:
+Inventories                              8        ( )       ( )      ( )   1      ( )
+                                         0        1         1        2     ,      1
+                                         8        ,         ,        ,     9      7
+                                                  5         1        8     8      5
+                                                  0         9        1     6
+                                                  9         4        8
+Accounts receivable, net and other       ( )      ( )       ( )      7     ( )    ( )
+                                         3        7         9        7     5      6
+                                         ,        0         0        4     ,      ,
+                                         5        1         1              6      6
+                                         8                                 4      7
+                                         4                                 1      3
+Other assets                             ( )      ( )       ( )      ( )   ( )    ( )
+                                         3        4         9        1     1      1
+                                         ,        ,         ,        0     3      3
+                                         1        5         4        ,     ,      ,
+                                         3        3         6        2     5      0
+                                         4        7         3        9     1      9
+                                                                     3     1      5
+Accounts payable                         2        ( )       ( )      ( )   4      5
+                                         ,        4         5        5     ,      ,
+                                         8        7         ,        ,     4      1
+                                         2        7         4        7     3      3
+                                         0                  1        5     7      4
+                                                            5        4
+Accrued expenses and other               ( )      1         ( )      ( )   ( )    ( )
+                                         1        2         9        6     3      3
+                                         ,        9         ,        ,     ,      5
+                                         3                  0        9     2      2
+                                         2                  2        4     4
+                                         1                  2        6     5
+Unearned revenue                         ( )      4         9        2     1      6
+
+                                                                                  Page 6 of 20
+                           Amazon.com Announces Third Quarter Results
+
+                                        2        2         4        ,       ,      ,
+                                        5        1         9        3       4      0
+                                                                    9       5      2
+                                                                    6       4      5
+Net cash provided by (used in)          2        2         4        7       7      1
+operating activities                    1        5         2        0       1      1
+                                        ,        ,         ,        ,       ,      2
+                                        2        9         4        2       6      ,
+                                        1        7         8        4       5      7
+                                        7        1         1        1       4      0
+                                                                                   6
+INVESTING ACTIVITIES:
+Purchases of property and equipment     ( )      ( )       ( )      (   )   ( )    (   )
+                                        1        2         3        5       5      6
+                                        2        2         8        5       4      9
+                                        ,        ,         ,        ,       ,      ,
+                                        4        6         1        1       7      7
+                                        7        2         4        6       3      5
+                                        9        0         1        5       3      3
+Proceeds from property and              1        1         3        3       4      4
+equipment sales and incentives          ,        ,         ,        ,       ,      ,
+                                        1        3         3        5       5      7
+                                        8        4         6        5       1      9
+                                        1        2         1        9       3      4
+Acquisitions, net of cash acquired,     ( )      ( )       ( )      (   )   ( )    (   )
+non-marketable investments, and         1        6         5        4       6      4
+other                                   ,        2         ,        ,       ,      ,
+                                        6        2         4        5       2      9
+                                        2                  5        4       8      2
+                                        9                  8        7       9      8
+Sales and maturities of marketable      1        8         4        1       9      1
+securities                              ,        ,         ,        2       ,      4
+                                        3        0         0        ,       7      ,
+                                        9        6         5        7       4      2
+                                        3        9         9        2       2      9
+                                                                    6              4
+Purchases of marketable securities      ( )      ( )       ( )      (   )   ( )    (   )
+                                        2        3         1        1       1      1
+                                        1        ,         ,        3       ,      3
+                                        9        0         0        ,       2      ,
+                                                 6         5        4       8      9
+                                                 8         3        7       6      0
+                                                                    2              7
+Net cash provided by (used in)          ( )      ( )       ( )      (   )   ( )    (   )
+investing activities                    1        1         3        5       4      6
+                                        1        6         7        6       8      9
+                                        ,        ,         ,        ,       ,      ,
+                                        7        8         2        8       0      5
+                                        5        9         3        9       5      0
+                                        3        9         2        9       3      0
+FINANCING ACTIVITIES:
+Proceeds from short-term debt, and      2        1         1        2       2      3
+other                                   1        ,         7        ,       8      ,
+                                        6        7         ,        5       ,      3
+                                                 2         3        8       0      2
+                                                 5         9        8       0      2
+                                                           5                2
+Repayments of short-term debt, and      ( )      ( )       ( )      ( )     ( )    ( )
+other                                   8        1         1        2       3      8
+                                        ,        ,         9        ,       5      ,
+
+                                                                                       Page 7 of 20
+                           Amazon.com Announces Third Quarter Results
+
+                                           0       8       ,         4         ,         7
+                                           9       2       3         5         1         9
+                                           5       0       3         3         3         1
+                                                           9                   6
+Proceeds from long-term debt               -       -       -         -         8         -
+                                                                               ,
+                                                                               2
+                                                                               3
+                                                                               5
+Repayments of long-term debt               -       ( )     (   )     (   )     (   )     (   )
+                                                   2       3         6         4         6
+                                                   ,       ,         ,         ,         ,
+                                                   1       3         6         6         9
+                                                   8       8         8         4         7
+                                                   3       6         2         3         2
+Principal repayments of finance            ( )     ( )     (   )     (   )     (   )     (   )
+leases                                     1       4       3         1         5         2
+                                           ,       0       ,         ,         ,         ,
+                                           0       2       6         7         2         4
+                                           0               0         1         4         8
+                                           5               5         0         5         9
+Principal repayments of financing          ( )     ( )     (   )     (   )     (   )     (   )
+obligations                                6       7       1         2         2         3
+                                           4       8       9         4         6         2
+                                                           8         7         0         0
+Net cash provided by (used in)             ( )     ( )     (   )     (   )     (   )     (   )
+financing activities                       8       2       9         8         9         1
+                                           ,       ,       ,         ,         ,         5
+                                           9       7       1         5         0         ,
+                                           4       5       3         0         4         2
+                                           8       8       3         4         7         5
+                                                                                         0
+Foreign currency effect on cash, cash      ( )     6       ( )       ( )       3         6
+equivalents, and restricted cash           5       9       2         5         4         4
+                                           0       0       8         1         9         0
+                                           2               8
+Net increase (decrease) in cash, cash      1       7       ( )       4         1         2
+equivalents, and restricted cash           4       ,       4         ,         4         8
+                                                   0       ,         7         ,         ,
+                                                   0       1         8         9         5
+                                                   4       7         7         0         9
+                                                           2                   3         6
+CASH, CASH EQUIVALENTS, AND              $ 5     $ 7     $ 5       $ 7       $ 5       $ 7
+RESTRICTED CASH, END OF                    0       8       0         8         0         8
+PERIOD                                     ,       ,       ,         ,         ,         ,
+                                           0       6       0         6         0         6
+                                           8       7       8         7         8         7
+                                           1       7       1         7         1         7
+SUPPLEMENTAL CASH FLOW
+INFORMATION:
+Cash paid for interest on debt, net of   $ 4     $ 2     $ 1       $ 1       $ 2       $ 2
+capitalized interest                       6       6       ,         ,         ,         ,
+                                           5       6       8         2         4         0
+                                                           2         1         5         0
+                                                           1         5         0         2
+Cash paid for operating leases             2       2       7         9         1         1
+                                           ,       ,       ,         ,         0         1
+                                           6       9       6         1         ,         ,
+                                           9       4       8         1         0         8
+                                           2       0       7         6         5         8
+
+                                                                                               Page 8 of 20
+                            Amazon.com Announces Third Quarter Results
+
+                                                                                       2         2
+ Cash paid for interest on finance       7          7          2           2           3         2
+ leases                                  6          1          3           1           1         9
+                                                               4           7           8         1
+ Cash paid for interest on financing     5          4          1           1           2         2
+ obligations                             0          7          5           6           0         0
+                                                               0           1           5         7
+ Cash paid for income taxes, net of      2          2          6           8           8         1
+ refunds                                 ,          ,          ,           ,           ,         2
+                                         6          0          9           1           6         ,
+                                         2          0          8           6           7         3
+                                         8          4          2           2           7         5
+                                                                                                 9
+ Assets acquired under operating         3          3          1           1           1         1
+ leases                                  ,          ,          1           1           5         4
+                                         3          5          ,           ,           ,         ,
+                                         4          7          0           2           8         2
+                                         5          1          7           3           4         1
+                                                               5           5           4         2
+ Property and equipment acquired         1          1          4           4           7         6
+ under finance leases, net of            8          8          3           0           4         2
+ remeasurements and modifications        3          6          1           9           8         0
+ Property and equipment recognized       9          2          3           8           6         1
+ during the construction period of       3          1          0           9           1         3
+ build-to-suit lease arrangements                              8                       8         8
+ Property and equipment                  4          -          1           -           3         1
+ derecognized after the construction     9                     ,                       ,         6
+ period of build-to-suit lease           2                     2                       0         2
+ arrangements, with the associated                             1                       6
+ leases recognized as operating                                2                       3
+
+
+AMAZON.COM, INC. Consolidated Statements of Operations (in millions, except per share data)
+(unaudited)
+
+                                                   Three Months Ended          Nine Months Ended
+                                                   September 30,               September 30,
+                                                     20           20              20          20
+                                                     23           24              23          24
+
+
+
+Net product sales                                  $ 63,           $ 67,       $ 17           $ 19
+                                                     17              60          9,1            0,0
+                                                     1               1           84             85
+Net service sales                                    79,             91,         22             26
+                                                     91              27          5,6            0,0
+                                                     2               6           40             82
+Total net sales                                      14              15          40             45
+                                                     3,0             8,8         4,8            0,1
+                                                     83              77          24             67
+Operating expenses:
+Cost of sales                                           75,          80,         21             22
+                                                        02           97          2,1            7,3
+                                                        2            7           86             95
+Fulfillment                                             22,          24,         64,            70,
+                                                        31           66          52             54
+                                                        4            0           4              3
+Technology and infrastructure                           21,          22,         63,            64,
+                                                        20           24          58             97
+
+                                                                                             Page 9 of 20
+                             Amazon.com Announces Third Quarter Results
+
+                                                     3           5            4           3
+Sales and marketing                                  10,         10,          31,         30,
+                                                     55          60           46          78
+                                                     1           9            8           3
+General and administrative                           2,5         2,7          8,8         8,4
+                                                     61          13           06          96
+Other operating expense (income), net                24          26           61          58
+                                                     4           2            3           7
+Total operating expenses                             13          14           38          40
+                                                     1,8         1,4          1,1         2,7
+                                                     95          66           81          77
+Operating income                                     11,         17,          23,         47,
+                                                     18          41           64          39
+                                                     8           1            3           0
+Interest income                                      77          1,2          2,0         3,4
+                                                     6           56           48          29
+Interest expense                                     (80   )     (60   )      (2,   )     (1,      )
+                                                     6           3            46          83
+                                                                              9           6
+Other income (expense), net                          1,0         (27   )      64          (2,      )
+                                                     31                       9           71
+                                                                                          8
+Total non-operating income (expense)                 1,0         62           22          (1,      )
+                                                     01          6            8           12
+                                                                                          5
+Income before income taxes                          12,          18,         23,          46,
+                                                    18           03          87           26
+                                                    9            7           1            5
+Provision for income taxes                          (2,    )     (2,   )     (4,    )     (6,      )
+                                                    30           70          05           94
+                                                    6            6           8            0
+Equity-method investment activity, net of tax       (4     )     (3    )     (12    )     (81      )
+Net income                                        $ 9,8        $ 15,       $ 19,        $ 39,
+                                                    79           32          80           24
+                                                                 8           1            4
+Basic earnings per share                          $ 0.9        $ 1.4       $ 1.9        $ 3.7
+                                                    6            6           3            6
+Diluted earnings per share                        $ 0.9        $ 1.4       $ 1.8        $ 3.6
+                                                    4            3           9            7
+Weighted-average shares used in computation of
+earnings per share:
+Basic                                                10,         10,          10,            10,
+                                                     32          50           28             44
+                                                     2           1            6              7
+Diluted                                              10,         10,          10,            10,
+                                                     55          73           45             70
+                                                     8           5            2              5
+
+
+AMAZON.COM, INC. Consolidated Statements of Comprehensive Income (in millions) (unaudited)
+
+                                                  Three Months Ended       Nine Months Ended
+                                                  September 30,            September 30,
+                                                    20           20           20          20
+                                                    23           24           23          24
+
+
+
+Net income                                        $ 9,8        $ 15,       $ 19,        $ 39,
+
+                                                                                                         Page 10 of 20
+                             Amazon.com Announces Third Quarter Results
+
+                                                           79             32             80                24
+                                                                          8              1                 4
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax       (1,   )        1,9            (73       )       17
+of $36, $(45), $4, and $43                                 38             11             8                 8
+                                                           8
+Available-for-sale debt securities:
+Change in net unrealized gains (losses), net of tax of     62             16             17                94
+$(18), $(55), $(52), and $(282)                                           7              4                 4
+Less: reclassification adjustment for losses (gains)       3              -              48                4
+included in "Other income (expense), net," net of tax
+of $0, $0, $(15), and $(1)
+Net change                                                 65             16             22                94
+                                                                          7              2                 8
+Other, net of tax of $0, $3, $0, and $1                    -              (3    )        -                 (4    )
+Total other comprehensive income (loss)                    (1,   )        2,0            (51       )       1,1
+                                                           32             75             6                 22
+                                                           3
+Comprehensive income                                     $ 8,5       $ 17,             $ 19,            $ 40,
+                                                           56          40                28               36
+                                                                       3                 5                6
+
+
+AMAZON.COM, INC. Segment Information (in millions) (unaudited)
+
+                                                  Three Months Ended                Nine Months Ended
+                                                  September 30,                     September 30,
+                                                    202            202                 202           202
+                                                    3              4                   3             4
+
+
+
+North America
+Net sales                                         $ 87,8         $ 95,5             $ 247,             $ 271,
+                                                    87             37                 314                911
+Operating expenses                                  83,5           89,8               238,               256,
+                                                    80             74                 898                200
+Operating income                                  $ 4,30         $ 5,66             $ 8,41             $ 15,7
+                                                    7              3                  6                  11
+
+International
+Net sales                                         $ 32,1         $ 35,8             $ 90,9             $ 99,4
+                                                    37             88                 57                 86
+Operating expenses                                  32,2           34,5               93,1               97,0
+                                                    32             87                 94                 09
+Operating income (loss)                           $ (95     )    $ 1,30             $ (2,2     )       $ 2,47
+                                                                   1                  37                 7
+
+AWS
+Net sales                                         $ 23,0         $ 27,4             $ 66,5             $ 78,7
+                                                    59             52                 53                 70
+Operating expenses                                  16,0           17,0               49,0               49,5
+                                                    83             05                 89                 68
+Operating income                                  $ 6,97         $ 10,4             $ 17,4             $ 29,2
+                                                    6              47                 64                 02
+
+Consolidated
+
+                                                                                                Page 11 of 20
+                               Amazon.com Announces Third Quarter Results
+
+  Net sales                                       $ 143,       $ 158,         $ 404,       $ 450,
+                                                    083          877            824          167
+  Operating expenses                                131,         141,           381,         402,
+                                                    895          466            181          777
+  Operating income                                  11,1         17,4           23,6         47,3
+                                                    88           11             43           90
+  Total non-operating income (expense)              1,00         626            228          (1,1      )
+                                                    1                                        25
+  Provision for income taxes                        (2,3   )     (2,7   )       (4,0   )     (6,9      )
+                                                    06           06             58           40
+  Equity-method investment activity, net of tax     (4     )     (3     )       (12    )     (81       )
+  Net income                                      $ 9,87       $ 15,3         $ 19,8       $ 39,2
+                                                    9            28             01           44
+
+  Segment Highlights:
+  Y/Y net sales growth:
+  North America                                     11     %     9      %        11    %        10     %
+  International                                     16           12              9              9
+  AWS                                               12           19              13             18
+  Consolidated                                      13           11              11             11
+  Net sales mix:
+  North America                                     61     %     60     %        61    %        60     %
+  International                                     23           23              23             22
+  AWS                                               16           17              16             18
+  Consolidated                                      100    %     100    %        100   %        100    %
+
+
+AMAZON.COM, INC. Consolidated Balance Sheets (in millions, except per share data) (unaudited)
+
+                                                                            December       September
+                                                                            31, 2023       30, 2024
+
+ASSETS
+Current assets:
+Cash and cash equivalents                                                   $ 73,387       $ 75,091
+Marketable securities                                                         13,393         12,960
+Inventories                                                                   33,318         36,103
+Accounts receivable, net and other                                            52,253         51,638
+Total current assets                                                          172,35         175,79
+                                                                              1              2
+Property and equipment, net                                                   204,17         237,91
+                                                                              7              7
+Operating leases                                                              72,513         76,527
+Goodwill                                                                      22,789         23,081
+Other assets                                                                  56,024         71,309
+Total assets                                                                $ 527,85       $ 584,62
+                                                                              4              6
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                                                            $ 84,981       $ 84,570
+Accrued expenses and other                                                    64,709         60,602
+Unearned revenue                                                              15,227         16,305
+Total current liabilities                                                     164,91         161,47
+                                                                              7              7
+
+                                                                                                             Page 12 of 20
+                                Amazon.com Announces Third Quarter Results
+
+Long-term lease liabilities                                                          77,297                  79,802
+Long-term debt                                                                       58,314                  54,890
+Other long-term liabilities                                                          25,451                  29,306
+Commitments and contingencies
+Stockholders' equity:
+Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or         -                       -
+outstanding)
+Common stock ($0.01 par value; 100,000 shares authorized; 10,898 and                 109                     110
+11,026 shares issued; 10,383 and 10,511 shares outstanding)
+Treasury stock, at cost                                                              (7,837       )         (7,837    )
+Additional paid-in capital                                                           99,025                 115,93
+                                                                                                            4
+Accumulated other comprehensive income (loss)                                     (3,040          )         (1,918    )
+Retained earnings                                                                 113,61                    152,86
+                                                                                  8                         2
+Total stockholders' equity                                                        201,87                    259,15
+                                                                                  5                         1
+Total liabilities and stockholders' equity                                      $ 527,85                  $ 584,62
+                                                                                  4                         6
+
+
+     AMAZON.COM, INC. Supplemental Financial Information and Business Metrics (in millions, except
+     per share data) (unaudited)
+
+                                                  Q2       Q3       Q4         Q1          Q2         Q3         Y/
+                                                  2023     2023     2023       2024        2024       2024       Y
+                                                                                                                 %
+                                                                                                                 Ch
+                                                                                                                 an
+                                                                                                                 ge
+     Cash Flows and Shares
+     Operating cash flow -- trailing twelve       $ 6      $ 7      $ 8        $ 9   $ 1   $              1   5 %
+     months (TTM)                                   1        1        4          9     0                  1   7
+                                                    ,        ,        ,          ,     7                  2
+                                                    8        6        9          1     ,                  ,
+                                                    4        5        4          4     9                  7
+                                                    1        4        6          7     5                  0
+                                                                                       2                  6
+     Operating cash flow -- TTM Y/Y growth           7 %      8 %      8 %       8 %   7 %                5 % N
+                                                     4        1        2         2     5                  7   /
+                                                                                                              A
+     Purchases of property and equipment, net     $ 5      $ 5      $ 4        $ 4         $ 5        $   6   2 %
+     of proceeds from sales and incentives --       3        0        8          8           4            4   9
+     TTM                                            ,        ,        ,          ,           ,            ,
+                                                    9        2        1          9           9            9
+                                                    6        2        3          9           7            5
+                                                    3        0        3          8           9            9
+     Principal repayments of finance leases --    $ 5      $ 5      $ 4        $ 3         $ 3        $   2   ( )
+     TTM                                            ,        ,        ,          ,           ,            ,   5 %
+                                                    7        2        3          7           0            4   3
+                                                    0        4        8          7           9            8
+                                                    5        5        4          4           2            9
+     Principal repayments of financing            $ 2      $ 2      $ 2        $ 3         $ 3        $   3   2 %
+     obligations -- TTM                             4        6        7          0           0            2   3
+                                                    4        0        1          4           6            0
+     Equipment acquired under finance leases --   $ 2      $ 2      $ 3        $ 3         $ 4        $   4   1 %
+     TTM (1)                                        6        3        1          0           2            9   0
+                                                    9        9        0          6           5            2   6
+
+                                                                                           Page 13 of 20
+                            Amazon.com Announces Third Quarter Results
+
+Principal repayments of all other finance      $ 6     $ 6   $   6   $   7   $   7   $   7   1 %
+leases -- TTM (2)                                3       9       8       6       9       8   3
+                                                 1       4       3       1       4       5
+Free cash flow -- TTM (3)                      $ 7     $ 2   $   3   $   5   $   5   $   4   1 %
+                                                 ,       1       6       0       2       7   2
+                                                 8       ,       ,       ,       ,       ,   3
+                                                 7       4       8       1       9       7
+                                                 8       3       1       4       7       4
+                                                         4       3       9       3       7
+Free cash flow less principal repayments of    $ 1     $ 1   $   3   $   4   $   4   $   4   1 %
+finance leases and financing obligations --      ,       5       2       6       9       4   8
+TTM (4)                                          9       ,       ,       ,       ,       ,   2
+                                                 2       9       1       0       5       9
+                                                 9       2       5       7       7       3
+                                                         9       8       1       5       8
+Free cash flow less equipment finance          $ 6     $ 2   $   3   $   4   $   5   $   4   1 %
+leases and principal repayments of all other     ,       0       5       8       1       6   2
+finance leases and financing obligations --      7       ,       ,       ,       ,       ,   8
+TTM (5)                                          3       2       5       7       4       1
+                                                 4       4       4       7       4       5
+                                                         1       9       8       8       0
+Common shares and stock-based awards             1       1       1       1       1       1   1 %
+outstanding                                      0       0       0       0       0       0
+                                                 ,       ,       ,       ,       ,       ,
+                                                 7       7       7       7       8       8
+                                                 9       9       8       8       7       7
+                                                 4       2       8       8       1       2
+Common shares outstanding                        1       1       1       1       1       1   2 %
+                                                 0       0       0       0       0       0
+                                                 ,       ,       ,       ,       ,       ,
+                                                 3       3       3       4       4       5
+                                                 1       3       8       0       9       1
+                                                 3       0       3       3       0       1
+Stock-based awards outstanding                   4       4       4       3       3       3   ( )
+                                                 8       6       0       8       8       6   2 %
+                                                 1       2       6       5       1       1   2
+Stock-based awards outstanding -- % of           4   %   4 %     3 %     3 %     3 %     3 % N
+common shares outstanding                        .       .       .       .       .       .   /
+                                                 7       5       9       7       6       4   A
+Results of Operations
+Worldwide (WW) net sales                       $ 1   $   1   $   1   $   1   $ 1 1   $
+                                                                                   1 %
+                                                 3       4       6       4     5 4 1
+                                                 4       3       9       3     8 7
+                                                 ,       ,       ,       ,     , ,
+                                                 3       0       9       3     8 9
+                                                 8       8       6       1     7 7
+                                                 3       3       1       3     7 7
+WW net sales -- Y/Y growth, excluding F/X        1 %     1 %     1 %     1 %     1 %
+                                                                               1 % N
+                                                 1       1       3       3     1 1 /
+                                                                                   A
+WW net sales -- TTM                            $ 5   $ 5   $ 5   $ 5   $ 6   $ 6   1 %
+                                                 3     5     7     9     0     2   2
+                                                 8     4     4     0     4     0
+                                                 ,     ,     ,     ,     ,     ,
+                                                 0     0     7     7     3     1
+                                                 4     2     8     4     3     2
+                                                 6     8     5     0     4     8
+WW net sales -- TTM Y/Y growth, excluding        1 %   1 %   1 %   1 %   1 %   1 % N
+F/X                                              3     2     2     2     2     2   /
+                                                                                   A
+
+                                                                                                      Page 14 of 20
+                              Amazon.com Announces Third Quarter Results
+
+    Operating income                              $ 7     $ 1   $       1     $ 1       $ 1     $ 1     5 %
+                                                    ,       1           3       5         4       7     6
+                                                    6       ,           ,       ,         ,       ,
+                                                    8       1           2       3         6       4
+                                                    1       8           0       0         7       1
+                                                            8           9       7         2       1
+    F/X impact -- favorable                       $ 1     $ 1   $       8     $ 7       $ 2     $ 1     N
+                                                    0       3           5       2         9       6     /
+                                                    4       2                                           A
+    Operating income -- Y/Y growth, excluding       1   %   3 %         3 %     2   %     9 %     5   % N
+    F/X                                             2       3           7       1         1       5     /
+                                                    8       8           9       9                       A
+    Operating margin -- % of WW net sales           5   %   7 %         7 %     1   %     9 %     1   % N
+                                                    .       .           .       0         .       1     /
+                                                    7       8           8       .         9       .     A
+                                                                                7                 0
+    Operating income -- TTM                       $ 1   $     2   $     3   $   4     $ 5   $     6   1 %
+                                                    7         6         6       7       4         0   3
+                                                    ,         ,         ,       ,       ,         ,   0
+                                                    7         3         8       3       3         5
+                                                    1         8         5       8       7         9
+                                                    7         0         2       5       6         9
+    Operating income -- TTM Y/Y growth,             1 %       9 %       1 %     2   %   2 %       1 % N
+    excluding F/X                                   0         9         9       5       0         2   /
+                                                                        7       2       5         9   A
+    Operating margin -- TTM % of WW net             3 %   4 %           6 %     8   %   9 %       9 % N
+    sales                                           .     .             .       .       .         .   /
+                                                    3     8             4       0       0         8   A
+    Net income                                    $ 6   $ 9   $         1   $   1     $ 1   $     1   5 %
+                                                    ,     ,             0       0       3         5   5
+                                                    7     8             ,       ,       ,         ,
+                                                    5     7             6       4       4         3
+                                                    0     9             2       3       8         2
+                                                                        4       1       5         8
+    Net income per diluted share                  $ 0      $ 0      $   1   $   0     $ 1   $     1   5 %
+                                                    .        .          .       .       .         .   3
+                                                    6        9          0       9       2         4
+                                                    5        4          0       8       6         3
+    Net income -- TTM                             $ 1      $ 2      $   3   $   3     $ 4   $     4   1 %
+                                                    3        0          0       7       4         9   4
+                                                    ,        ,          ,       ,       ,         ,   8
+                                                    0        0          4       6       4         8
+                                                    7        7          2       8       1         6
+                                                    2        9          5       4       9         8
+    Net income per diluted share -- TTM           $ 1      $ 1      $   2   $   3     $ 4   $     4   1 %
+                                                    .        .          .       .       .         .   4
+                                                    2        9          9       5       1         6   2
+                                                    6        3          0       6       8         7
+
+
+(    For the twelve months ended September 30, 2023 and 2024, this amount relates to equipment included in
+1    "Property and equipment acquired under finance leases, net of remeasurements and modifications" of
+)    $748 million and $620 million.
+(    For the twelve months ended September 30, 2023 and 2024, this amount relates to property included in
+2    "Principal repayments of finance leases" of $5,245 million and $2,489 million.
+)
+(    Free cash flow is cash flow from operations reduced by "Purchases of property and equipment, net of
+3    proceeds from sales and incentives."
+)
+(    Free cash flow less principal repayments of finance leases and financing obligations is free cash flow
+
+                                                                                                          Page 15 of 20
+                            Amazon.com Announces Third Quarter Results
+
+4   reduced by "Principal repayments of finance leases" and "Principal repayments of financing obligations."
+)
+(   Free cash flow less equipment finance leases and principal repayments of all other finance leases and
+5   financing obligations is free cash flow reduced by equipment acquired under finance leases, which is
+)   included in "Property and equipment acquired under finance leases, net of remeasurements and
+    modifications," principal repayments of all other finance lease liabilities, which is included in "Principal
+    repayments of finance leases," and "Principal repayments of financing obligations."
+
+
+     AMAZON.COM, INC. Supplemental Financial Information and Business Metrics (in millions)
+     (unaudited)
+
+                                           Q2       Q3        Q4       Q1        Q2       Q3        Y/Y %
+                                           2023     2023      2023     2024      2024     2024      Chang
+                                                                                                    e
+     Segments
+     North America Segment:
+     Net sales                             $ 8      $ 8    $ 1   $        8      $ 9      $ 9       9 %
+                                             2        7      0            6        0        5
+                                             ,        ,      5            ,        ,        ,
+                                             5        8      ,            3        0        5
+                                             4        8      5            4        3        3
+                                             6        7      1            1        3        7
+                                                             4
+     Net sales -- Y/Y growth,                 1 %      1 %   1 %          1 %       9 %       9 % N
+     excluding F/X                            1        1     3            2                       /
+                                                                                                  A
+     Net sales -- TTM                      $ 3   $ 3   $         3   $    3      $ 3      $   3   1 %
+                                             3     4             5        6        6          7   1
+                                             1     0             2        2        9          7
+                                             ,     ,             ,        ,        ,          ,
+                                             6     6             8        2        7          4
+                                             3     7             2        8        7          2
+                                             3     7             8        8        5          5
+     Operating income                      $ 3   $ 4   $         6   $    4      $ 5      $   5   3 %
+                                             ,     ,             ,        ,        ,          ,   1
+                                             2     3             4        9        0          6
+                                             1     0             6        8        6          6
+                                             1     7             1        3        5          3
+     F/X impact -- favorable               $ ( ) $ ( ) $         ( ) $    8      $ 8      $   ( ) N
+     (unfavorable)                           7     2             1                            2   /
+                                                   7             3                            8   A
+     Operating income -- Y/Y growth,         N     N             N        4 %   5 %           3 % N
+     excluding F/X                           /     /             /        5     8             2   /
+                                             A     A             A        4                       A
+     Operating margin -- % of North          3 %   4 %           6 %      5 %   5 %           5 % N
+     America net sales                       .     .             .        .     .             .   /
+                                             9     9             1        8     6             9   A
+     Operating income -- TTM               $ 3   $ 8   $         1   $    1   $ 2   $         2   1 %
+                                             ,     ,             4        8     0             2   7
+                                             4     1             ,        ,     ,             ,   1
+                                             5     7             8        9     8             1
+                                             7     6             7        6     1             7
+                                                                 7        2     6             2
+     Operating margin -- TTM % of             1 %      2 %       4 %      5 %   5 %           5 % N
+     North America net sales                  .        .         .        .     .             .   /
+                                              0        4         2        2     6             9   A
+     International Segment:
+     Net sales                             $ 2      $ 3       $ 4      $ 3       $ 3      $ 3       1 %
+
+                                                                                          Page 16 of 20
+                      Amazon.com Announces Third Quarter Results
+
+                                    9       2           0       1       1 5   2
+                                    ,       ,           ,       ,       , ,
+                                    6       1           2       9       6 8
+                                    9       3           4       3       6 8
+                                    7       7           3       5       3 8
+Net sales -- Y/Y growth,            1 %     1 %         1 %     1 %     1 %
+                                                                          1 % N
+excluding F/X                       0       1           3       1       0 2   /
+                                                                              A
+Net sales -- TTM                  $ 1     $ 1       $   1   $ 1   $ 1   $ 1   1 %
+                                    2       2           3     3     3     3   1
+                                    1       5           1     4     5     9
+                                    ,       ,           ,     ,     ,     ,
+                                    0       4           2     0     9     7
+                                    0       2           0     1     7     2
+                                    3       0           0     2     8     9
+Operating income (loss)           $ ( )   $ ( )     $   ( ) $ 9   $ 2   $ 1   N
+                                    8       9           4     0     7     ,   /
+                                    9       5           1     3     3     3   A
+                                    5                   9                 0
+                                                                          1
+F/X impact -- favorable           $ 3     $ 2       $   1   $ ( ) $ ( ) $ 4   N
+(unfavorable)                       2       2           6     3     9     3   /
+                                            8           0           4         A
+Operating income (loss) -- Y/Y      (   )   (   )       ( )   N     N     N   N
+growth (decline), excluding F/X     4   %   8   %       7 %   /     /     /   /
+                                    8       7           4     A     A     A   A
+Operating margin -- % of            (   )   (   )       ( )   2 %   0 %   3 % N
+International net sales             3   %   0   %       1 %   .     .     .   /
+                                    .       .           .     8     9     6   A
+                                    0       3           0
+Operating income (loss) -- TTM    $ (   ) $ (   )   $   ( ) $ ( ) $ 6   $ 2   N
+                                    6       4           2     5     6     ,   /
+                                    ,       ,           ,     0     2     0   A
+                                    8       4           6     6           5
+                                    3       6           5                 8
+                                    6       5           6
+Operating margin -- TTM % of        (   )   (   )       ( )   ( )   0 %   1 % N
+International net sales             5   %   3   %       2 %   0 %   .     .   /
+                                    .       .           .     .     5     5   A
+                                    6       6           0     4
+AWS Segment:
+Net sales                         $ 2   $   2   $       2   $   2   $   2   $   2   1 %
+                                    2       3           4       5       6       7   9
+                                    ,       ,           ,       ,       ,       ,
+                                    1       0           2       0       2       4
+                                    4       5           0       3       8       5
+                                    0       9           4       7       1       2
+Net sales -- Y/Y growth,            1 %     1 %         1 %     1 %     1 %     1 % N
+excluding F/X                       2       2           3       7       9       9   /
+                                                                                    A
+Net sales -- TTM                  $ 8     $ 8       $ 9       $ 9     $ 9     $ 1   1 %
+                                    5       7         0         4       8       0   7
+                                    ,       ,         ,         ,       ,       2
+                                    4       9         7         4       5       ,
+                                    1       3         5         4       8       9
+                                    0       1         7         0       1       7
+                                                                                4
+Operating income                  $ 5     $ 6       $ 7       $ 9     $ 9     $ 1   5 %
+                                    ,       ,         ,         ,       ,       0   0
+                                    3       9         1         4       3       ,
+
+                                                                                           Page 17 of 20
+                       Amazon.com Announces Third Quarter Results
+
+                                       6      7       6       2        3        4
+                                       5      6       7       1        4        4
+                                                                                7
+F/X impact -- favorable              $ 7   $ ( ) $    ( ) $   6   $ 1         $ 1     N
+(unfavorable)                          9     6        6       7     1                 /
+                                             9        2             5                 A
+Operating income -- Y/Y growth         ( )   3 %      3 %     8 %   7 %         5   % N
+(decline), excluding F/X               8 %   0        9       3     2           0     /
+                                                                                      A
+Operating margin -- % of AWS           2 %   3 %      2 %   3 %        3 %   3      % N
+net sales                              4     0        9     7          5     8        /
+                                       .     .        .     .          .     .        A
+                                       2     3        6     6          5     1
+Operating income -- TTM              $ 2   $ 2   $    2   $ 2   $      3   $ 3   6 %
+                                       1     2        4     8          2     6   0
+                                       ,     ,        ,     ,          ,     ,
+                                       0     6        6     9          8     3
+                                       9     6        3     2          9     6
+                                       6     9        1     9          8     9
+Operating margin -- TTM % of           2 %   2 %      2 %   3 %        3 %   3 % N
+AWS net sales                          4     5        7     0          3     5   /
+                                       .     .        .     .          .     .   A
+                                       7     8        1     6          4     3
+
+
+AMAZON.COM, INC. Supplemental Financial Information and Business Metrics (in millions,
+except employee data) (unaudited)
+
+                                       Q2     Q3      Q4      Q1       Q2       Q3        Y/Y
+                                       2023   2023    2023    2024     2024     2024      %
+                                                                                          Cha
+                                                                                          nge
+Net Sales
+Online stores (1)                      $ 5   $    5   $   7   $   5   $    5   $6   7 %
+                                         2        7       0       4        5    1
+                                         ,        ,       ,       ,        ,    ,
+                                         9        2       5       6        3    4
+                                         6        6       4       7        9    1
+                                         6        7       3       0        2    1
+Online stores -- Y/Y growth,             5 %      6 %     8 %     7 %      6 %  8 % N
+excluding F/X                                                                       /
+                                                                                    A
+Physical stores (2)                    $ 5   $    4   $   5   $   5     $ 5   $ 5   5 %
+                                         ,        ,       ,       ,       ,     ,
+                                         0        9       1       2       2     2
+                                         2        5       5       0       0     2
+                                         4        9       2       2       6     8
+Physical stores -- Y/Y growth,           7 %      6 %     4 %     6   %   4 %   5 % N
+excluding F/X                                                                       /
+                                                                                    A
+Third-party seller services (3)        $ 3   $    3   $   4   $   3     $ 3   $ 3   1 %
+                                         2        4       3       4       6     7   0
+                                         ,        ,       ,       ,       ,     ,
+                                         3        3       5       5       2     8
+                                         3        4       5       9       0     6
+                                         2        2       9       6       1     4
+Third-party seller services -- Y/Y       1 %      1 %     1 %     1   %   1 %   1 % N
+growth, excluding F/X                    8        8       9       6       3     0   /
+                                                                                    A
+Advertising services (4)               $ 1    $ 1     $ 1     $ 1       $ 1   $ 1   1 %
+
+                                                                                      Page 18 of 20
+                       Amazon.com Announces Third Quarter Results
+
+                                         0       2       4       1       2   4   9
+                                         ,       ,       ,       ,       ,   ,
+                                         6       0       6       8       7   3
+                                         8       6       5       2       7   3
+                                         3       0       4       4       1   1
+Advertising services -- Y/Y growth,      2 %     2 %     2 %     2 %     2 % 1 % N
+excluding F/X                            2       5       6       4       0   9   /
+                                                                                 A
+Subscription services (5)              $ 9   $ 1   $     1     $ 1   $ 1   $ 1   1 %
+                                         ,     0         0       0     0     1   1
+                                         8     ,         ,       ,     ,     ,
+                                         9     1         4       7     8     2
+                                         4     7         8       2     6     7
+                                               0         8       2     6     8
+Subscription services -- Y/Y growth,     1 %   1 %       1   %   1 %   1 %   1 % N
+excluding F/X                            4     3         3       1     1     1   /
+                                                                                 A
+AWS                                    $ 2   $   2   $   2     $ 2   $ 2   $ 2   1 %
+                                         2       3       4       5     6     7   9
+                                         ,       ,       ,       ,     ,     ,
+                                         1       0       2       0     2     4
+                                         4       5       0       3     8     5
+                                         0       9       4       7     1     2
+AWS -- Y/Y growth, excluding F/X         1 %     1 %     1   %   1 %   1 %   1 % N
+                                         2       2       3       7     9     9   /
+                                                                                 A
+Other (6)                              $ 1   $   1   $   1     $ 1   $ 1   $ 1   7 %
+                                         ,       ,       ,       ,     ,     ,
+                                         3       2       3       2     2     3
+                                         4       2       6       6     6     1
+                                         4       6       1       2     0     3
+Other -- Y/Y growth (decline),           2 %     ( )     8   %   2 %   ( )   5 % N
+excluding F/X                            6       3 %             3     6 %       /
+                                                                                 A
+
+Stock-based Compensation
+Expense
+Cost of sales                          $ 2     $ 1     $ 2     $ 1     $ 2     $ 1   ( )
+                                         5       9       2       7       6       9   1 %
+                                         1       3       7       4       6       3
+Fulfillment                            $ 9     $ 7     $ 8     $ 6     $ 9     $ 6   ( )
+                                         3       3       2       3       4       9   5 %
+                                         2       2       3       6       4       6
+Technology and infrastructure          $ 4     $ 3     $ 3     $ 2     $ 3     $ 2   ( )
+                                         ,       ,       ,       ,       ,       ,   1 %
+                                         0       2       5       7       6       9   0
+                                         4       8       3       7       7       6
+                                         3       4       3       2       0       1
+Sales and marketing                    $ 1     $ 1     $ 1     $ 9     $ 1     $ 1   ( )
+                                         ,       ,       ,       3       ,       ,   9 %
+                                         3       1       2       2       2       0
+                                         0       1       1               2       1
+                                         3       1       6               4       2
+General and administrative             $ 5     $ 5     $ 5     $ 4     $ 6     $ 4   ( )
+                                         9       0       2       4       1       7   8 %
+                                         8       9       0       7       8       1
+Total stock-based compensation         $ 7     $ 5     $ 6     $ 4     $ 6     $ 5   ( )
+expense                                  ,       ,       ,       ,       ,       ,   9 %
+                                         1       8       3       9       7       3
+                                         2       2       1       6       2       3
+
+                                                                                                                Page 19 of 20
+                                     Amazon.com Announces Third Quarter Results
+
+                                                         7        9        9         1        2        3
+              Other
+              WW shipping costs                       $ 2   $     2   $    2   $     2   $    2   $    2   8 %
+                                                        0         1        7         1        1        3
+                                                        ,         ,        ,         ,        ,        ,
+                                                        4         7        3         8        9        5
+                                                        1         9        2         3        6        0
+                                                        8         9        6         4        5        1
+              WW shipping costs -- Y/Y growth           6 %       9 %      1 %       1 %      8 %      8 % N
+                                                                           1         0                     /
+                                                                                                           A
+              WW paid units -- Y/Y growth (7)            9 %      9 %      1 %       1 %      1 %      1 % N
+                                                                           2         2        1        2   /
+                                                                                                           A
+              WW seller unit mix -- % of WW paid         6 %      6 %      6 %       6 %      6 %      6 % N
+              units (7)                                  0        0        1         1        1        0   /
+                                                                                                           A
+              Employees (full-time and part-time;        1        1        1         1        1        1   3 %
+              excludes contractors & temporary           ,        ,        ,         ,        ,        ,
+              personnel)                                 4        5        5         5        5        5
+                                                         6        0        2         2        3        5
+                                                         1        0        5         1        2        1
+                                                         ,        ,        ,         ,        ,        ,
+                                                         0        0        0         0        0        0
+                                                         0        0        0         0        0        0
+                                                         0        0        0         0        0        0
+              Employees (full-time and part-time;        ( )      ( )      ( )       4 %      5 %      3 % N
+              excludes contractors & temporary           4 %      3 %      1 %                             /
+              personnel) -- Y/Y growth (decline)                                                           A
+
+
+      (      Includes product sales and digital media content where we record revenue gross. We leverage our retail
+      1      infrastructure to offer a wide selection of consumable and durable goods that includes media products
+      )      available in both a physical and digital format, such as books, videos, games, music, and software. These
+             product sales include digital products sold on a transactional basis. Digital media content subscriptions that
+             provide unlimited viewing or usage rights are included in "Subscription services."
+      (      Includes product sales where our customers physically select items in a store. Sales to customers who
+      2      order goods online for delivery or pickup at our physical stores are included in "Online stores."
+      )
+      (      Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+      3
+      )
+      (      Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through
+      4      programs such as sponsored ads, display, and video advertising.
+      )
+      (      Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video,
+      5      audiobook, digital music, e-book, and other non-AWS subscription services.
+      )
+      (      Includes sales related to various other offerings, such as health care services, certain licensing and
+      6      distribution of video content, and shipping services, and our co-branded credit card agreements.
+      )
+      (      Excludes the impact of Whole Foods Market.
+      7
+      )
+
+Amazon.com, Inc.
+Certain Definitions
+
+Customer Accounts
+
+                                                                                                    Page 20 of 20
+                                  Amazon.com Announces Third Quarter Results
+
+   •    References to customers mean customer accounts established when a customer places an order through
+        one of our stores. Customer accounts exclude certain customers, including customers associated with
+        certain of our acquisitions, Amazon Payments customers, AWS customers, and the customers of select
+        companies with whom we have a technology alliance or marketing and promotional relationship.
+        Customers are considered active when they have placed an order during the preceding twelve-month
+        period.
+
+Seller Accounts
+   •    References to sellers means seller accounts, which are established when a seller receives an order from a
+        customer account. Sellers are considered active when they have received an order from a customer during
+        the preceding twelve-month period.
+
+AWS Customers
+   •    References to AWS customers mean unique AWS customer accounts, which are unique customer account
+        IDs that are eligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users
+        accessing AWS services via one account ID are counted as a single account. Customers are considered
+        active when they have had AWS usage activity during the preceding one-month period.
+
+Units
+   •    References to units mean physical and digital units sold (net of returns and cancellations) by us and sellers
+        in our stores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not
+        include units associated with AWS, certain acquisitions, certain subscriptions, rental businesses, or
+        advertising businesses, or Amazon gift cards.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20241030305950/en/
+
+
+CONTACT: Amazon Investor Relations
+
+amazon-ir@amazon.com
+amazon.com/irAmazon Public Relations
+
+amazon-pr@amazon.com
+amazon.com/pr
+
+
+http://www.businesswire.com
+
+
+Load-Date: October 31, 2024
+
+
+  

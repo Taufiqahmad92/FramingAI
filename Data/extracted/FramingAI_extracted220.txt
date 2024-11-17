@@ -1,0 +1,477 @@
+
+
+                                                                                                   Page 1 of 8
+                         NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+
+
+
+        NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+                                                      US Fed News
+                                         October 16, 2024 Wednesday 12:32 PM EST
+
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+
+
+Length: 2077 words
+
+Body
+
+
+WASHINGTON, Oct. 16 -- The U.S. Air Force issued the following press release:
+
+* Published Oct. 16, 2024
+
+*
+
+By Army Sgt. 1st Class Zach Sheely
+
+* National Guard Bureau
+
+ARLINGTON, Va. (AFNS) --
+
+Gen. Steven Nordhaus assumed responsibility as chief of the National Guard Bureau during a ceremony Oct. 15 at
+Joint Base Myer-Henderson Hall.
+
+Navy Adm. Christopher Grady, the vice chairman of the Joint Chiefs of Staff, presided over the ceremony following
+an earlier promotion ceremony in which Nordhaus received his fourth star.
+
+"To the Citizen-Soldiers, the 430,000 men and women of the National Guard, thank you for manning the watch as
+we sit here today. Thank you for being Always Ready, Always There," Grady said.
+
+Nordhaus takes the helm as the National Guard's top officer and a member of the Joint Chiefs of Staff, succeeding
+Army Gen. Daniel Hokanson, who retired in August.
+
+05:25
+
+document.getElementById('dvid8563769').addEventListener('loadedmetadata', function () {
+
+ANALYTICSLIBRARY.init(["940312", "265"]);
+
+ANALYTICSLIBRARY.loadAnalyticsParam();
+
+}, false);
+
+                                                                                                    Page 2 of 8
+                           NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+document.getElementById('dvid8563769').addEventListener('play', function () {
+
+ANALYTICSLIBRARY.init(["940312", "265"]);
+
+ANALYTICSLIBRARY.playAnalyticsParam();
+
+}, false);
+
+document.getElementById('dvid8563769').addEventListener('ended', function () {
+
+ANALYTICSLIBRARY.init(["940312", "265"]);
+
+ANALYTICSLIBRARY.endAnalyticsParam();
+
+}, false);
+
+VIDEO | 05:25
+
+|
+
+Navy Adm. Christopher Grady, vice chairman of the Joint Chiefs of Staff, passes the guidon to Gen. Steven
+Nordhaus during an assumption of responsibility ceremony for the chief of the National Guard Bureau at Joint Base
+Myer Henderson Hall, Arlington, Va., Oct. 15, 2024. Nordhaus will serve as the 30th CNGB and a member of the
+Joint Chiefs of Staff, succeeding Army Gen. Daniel Hokanson, who retired in August. (U.S. Air National Guard video
+by Master Sgt. Brandy Fowler)
+
+$(document).ready(function () {
+
+let isDesktopInit = false;
+
+let detailSize = "full";
+
+let displayhgt = "95vh";
+
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
+
+buttons: ['share'],
+
+caption: function (instance, item) {
+
+var caption = '';
+
+if (item.type === 'image') {
+
+if (isMobile()) {
+
+caption += '' +
+
+'' +
+
+'
+
+'+
+
+$(this).find('figcaption').html() +
+
+getDetailsURL($(this).parent()) +
+
+getDownloadURL($(this).parent()) +
+
+                                                                                                        Page 3 of 8
+                         NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+showFBShare() +
+
+'' +
+
+'' +
+
+'
+
+SHOW PHOTO DETAILS ';
+
+}
+
+else {
+
+caption += $(this).find('figcaption').html() +
+
+getDetailsURL($(this).parent()) +
+
+getDownloadURL($(this).parent()) +
+
+showFBShare();
+
+}
+
+}
+
+return caption;
+
+},
+
+afterLoad: function (instance, current) {
+
+//initial desktop view
+
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
+
+if (isMobile())
+
+$(".fancybox-caption__body").addClass("mobile");
+
+},
+
+afterShow: function (instance, current) {
+
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+
+if (isMobile())
+
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+
+},
+
+afterClose: function () {
+
+}
+
+}));
+
+let debounceTimer;
+
+                                                                                                Page 4 of 8
+                         NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+$(window).on("resize", function (event) {
+
+if (isMobile())
+
+return;
+
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+
+event.stopImmediatePropagation();
+
+$(".fancybox-caption__body").removeClass("half");
+
+isDesktopInit = false;
+
+captionToggle();
+
+debounceTimer = setTimeout(function () {
+
+clearTimeout(debounceTimer);
+
+debounceTimer = null;
+
+recalculateImageSize();
+
+}, 1000);
+
+}
+
+});
+
+function recalculateImageSize() {
+
+// Fancy box miscalculates because of race conditions with new layout
+
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+
+var winWth = $(window).innerWidth();
+
+var winHgt = $(window).innerHeight()
+
+var ratio = Math.min(winWth / origImgWth,
+
+winHgt / origImgHgt);
+
+var newImgWth = (origImgWth * ratio);
+
+var newImgHgt = (origImgHgt * ratio);
+
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+
+$(".fancybox-content").removeAttr("style");
+
+$(".fancybox-content").css("width", newImgWth + "px");
+
+$(".fancybox-content").css("height", newImgHgt + "px");
+
+                                                                                                     Page 5 of 8
+                      NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+$(".fancybox-content").css("transform",
+
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+
+}
+
+function captionToggle() {
+
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+
+// Animation complete.
+
+closeDetails();
+
+});
+
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+
+}
+
+else {
+
+$(".fancybox-caption__body").addClass("af3-caption-body");
+
+$(".af3-caption-body").addClass(detailSize);
+
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+
+$(".fancybox-caption").addClass("af3-caption-bg");
+
+$(".base-caption-info").addClass("full-height");
+
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+
+$(".fancybox-button").css("display", "none");
+
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+
+$(".fancybox-caption__body").prepend(prependClosing());
+
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+
+}
+
+}
+
+function getDetailsURL(fbObj) {
+
+return 'DETAILS';
+
+}
+
+function getDownloadURL(fbObj) {
+
+return 'DOWNLOAD';
+
+}
+
+                                                                                                                Page 6 of 8
+                        NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+function showFBShare() {
+
+return 'SHARE';
+
+}
+
+function closeDetails() {
+
+$(".af3-caption-body").removeClass(detailSize);
+
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+
+$(".fancybox-caption").removeClass("af3-caption-bg");
+
+$(".base-caption-info").removeClass("full-height");
+
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+
+$(".fancybox-button").css("display", "block");
+
+if (detailSize === "half") {
+
+detailSize = "full";
+
+displayhgt = "90vh";
+
+$(".fancybox-caption").removeClass("desktop-init");
+
+}
+
+}
+
+function prependClosing() {
+
+return ''
+
+}
+
+function isMobile() {
+
+var isMobile = false; //initiate as false
+
+// device detection
+
+if
+(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
+|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
+os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
+(ce|phone)|xda|xiino/i.test(navigator.userAgent)
+
+||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
+)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
+)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
+|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
+7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
+i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
+|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
+g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
+
+                                                                                                           Page 7 of 8
+                      NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
+3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
+|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
+2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
+)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
+|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
+)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
+9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
+| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+
+isMobile = true;
+
+}
+
+return isMobile;
+
+}
+
+});
+
+"I'd like to thank the men and women of the National Guard - an elite and ready warfighting force," Nordhaus said.
+"They are well-integrated with the Joint Force, our allies and partners, the interagency and local communities.
+
+"They are critical to our national defense, and I am proud to represent them," he said.
+
+Nordhaus most recently served as the commander of the Continental U.S. North American Aerospace Defense
+Command Region - First Air Force (Air Forces Northern and Air Forces Space) at Tyndall Air Force Base, Florida.
+
+He brings experience working at the National Guard Bureau in and around the Pentagon, having served as the
+NGB's director of operations from 2019 to 2022 and commander of the Air National Guard Readiness Center at
+Joint Base Andrews, Maryland, from 2017 to 2019. He was an executive assistant to Army Gen. Frank Grass, the
+27th chief of the National Guard Bureau, from 2013 to 2015.
+
+Nordhaus has served at every level of Air Force command and is rated as a command pilot, with more than 3,000
+flight hours in various aircraft, including T-37, T-38, F-16A, F-16C/D Block 30/40/42/50/52 and F-35A. He has flown
+combat missions in operations Southern Watch, Vigilant Warrior, Northern Watch, Iraqi Freedom and Enduring
+Freedom.
+
+Nordhaus was inspired to fly fighter jets at a young age and earned his commission through the U.S. Air Force
+Academy in 1989.
+
+"Over the course of my service flying in the active duty and the National Guard, my experiences took me far beyond
+the cockpit when General Grass brought me to the Pentagon," Nordhaus said.
+
+"There, I learned just how dynamic, versatile, resilient and responsive our National Guard is as a warfighting force,
+with strategic depth and as an operational reserve for our services, yet able to respond across our nation from over
+2,500 communities to serve our citizens," he said.
+
+As Nordhaus takes the office of the chief of the National Guard Bureau, there are about 46,000 Guardsmen on
+duty. More than 7,400 Guardsmen from 17 states are mobilized to the southeast to help communities devastated by
+Hurricane Helene and Hurricane Milton. Another 9,000 are focused on steady-state homeland defense and security.
+More than 21,000 are deployed worldwide in support of geographic combatant commands.
+
+Thousands more stand ready to answer the call at home and abroad.
+
+                                                                                                       Page 8 of 8
+                     NORDHAUS ASSUMES ROLE OF NATIONAL GUARD BUREAU CHIEF
+
+Nordhaus shared his first personal encounter with the National Guard. It came in 1992 when, as a young officer in
+the active-duty Air Force, Hurricane Andrew destroyed his first home and two cars at Homestead Air Force Base in
+South Florida.
+
+"The National Guard was there for me," he said. "Just as right now, our Guardsmen are working tirelessly to
+respond to Hurricane Helene and Hurricane Milton. They are saving families in devastated communities. They are
+clearing roads and establishing distribution sites so our fellow Americans can regain access to life-saving food and
+water.
+
+"They are not only bringing supplies and expertise to these communities - they are bringing hope and compassion
+to our neighbors in need," he said.
+
+That hope is part of Nordhaus' philosophy - three tenets he calls his standard operating procedures: service,
+optimism and passion.
+
+"I am committed to bringing service, optimism and passion to each day as I serve alongside you in my new role," he
+said.
+
+Nordhaus said he will be focused on people, readiness, partnerships and modernization to ensure the National
+Guard remains well-postured in a time of Great Power Competition globally and responsive in times of crisis at
+home.
+
+"Everything I do in this role will be in the service of our people so we can ensure mission success," he said. "Every
+policy we improve, every nation and community we visit and every decision we make will put our elite Soldiers,
+Airmen and civilians front and center.
+
+"You bring strength, courage and honor to this organization; without you, we cannot succeed," he said.
+
+The chief of the National Guard and the National Guard Bureau ensure proper training, equipping and staffing of the
+Army and the Air National Guard so they can perform their missions as the primary combat reserve of the Army and
+the Air Force to fight and win the nation's wars, protect the homeland and assist communities in times of natural or
+human-caused disaster.
+
+Nordhaus is the fifth chief of the National Guard Bureau to serve as a member of the Joint Chiefs of Staff, which
+Congress elevated to a four-star position in 2012.
+
+U.S. Air Force Logo For any query with respect to this article or any other content requirement, please contact
+Editor at contentservices@htdigital.in
+
+
+Load-Date: October 18, 2024
+
+
+  

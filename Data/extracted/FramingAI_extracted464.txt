@@ -1,0 +1,84 @@
+
+
+                                                                                                   Page 1 of 2
+   Flexential Survey of Enterprise IT Leaders Reveals AI Creating New Cybersecurity and Resilience Challenges
+
+
+
+
+        Flexential Survey of Enterprise IT Leaders Reveals AI Creating New
+                     Cybersecurity and Resilience Challenges
+                                                           PR Newswire
+                                          September 9, 2024 Monday 9:05 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 850 words
+Dateline: CHARLOTTE, N.C., Sept. 9, 2024
+
+Body
+
+
+PR NewswireThe 2024 State of AI Infrastructure Report indicates almost half of IT teams do not understand how to
+protect AI applications and workloads.CHARLOTTE, N.C. , Sept. 9, 2024 /PRNewswire/ --Flexential, a leading
+provider of secure and flexible data center solutions, unveiled new insights from its2024 State of AI Infrastructure
+Report, revealing growing concern among IT leaders about the cybersecurity risks associated with AI investments.
+
+ The findings are based on a survey of 350 IT leaders at organizations with over $100 million in annual revenue,
+including 100 respondents at organizations with over $2 billion in annual revenue. The survey suggests that
+organizations must address multiple challenges related to cybersecurity and data protection to achieve their AI
+objectives, indicating the increased need forproactive disaster recovery planning, resilient infrastructure design and
+testing, and an emphasis on reliable uptime to ensure secure, scalable, and high-performant AI
+deployments.Flexential's survey found that nearly all IT leaders (95%) believe that their organization's increased
+investment in AI has made them more vulnerable to cyberthreats. Shockingly, 40% of respondents said their
+cybersecurity teams don't understand how to protect AI applications and workloads.Additionally, 42% of
+organizations have strategically shifted AI applications and workloads away from the public cloud to colocation
+environments. This move, driven by heightened data privacy and security concerns, indicates a cautious approach
+among enterprises. By opting for colocation, they are ensuring tighter control over sensitive data withinon-premise
+or third-party data centers and private clouds."As AI becomes more embedded into business processes, it's clear
+that enterprises need help safeguarding their organization's critical data as well as educating and up-skilling their
+entire staff," said Jason Carolan, Chief Innovation Officer at Flexential. "Our report findings reinforce the importance
+of resilient and secure IT infrastructure solutions that can reduce vulnerability while supporting the high-
+performance demands of AI workloads. Organizations need the right internal and external partners and experts in
+place to help them account for these risks and alleviate the pressure on their already stretched IT teams."Other
+notable findings from Flexential's report include:Over half (54%) of respondents stated that the complexity of AI
+applications creates a larger, inherently more vulnerable attack surface for their organizations.Due to AI
+investments, 39% of IT leaders claimed they are storing and processing more sensitive data than before.Around
+half of respondents (51%) noted their AI investments have led them to move where they store sensitive data, such
+as closer to the edge of the network, increasing their organizations' cybersecurity vulnerability."As AI use increases
+across sectors and business functions, so do the risks that can jeopardize business operations if not properly
+addressed," said Will Bass, VP of Cybersecurity Services at Flexential. "In response, enterprises need to have
+robust disaster recovery strategies that go beyond basic protection measures. This includes building resiliency into
+
+                                                                                                   Page 2 of 2
+   Flexential Survey of Enterprise IT Leaders Reveals AI Creating New Cybersecurity and Resilience Challenges
+
+every layer of IT infrastructure, rigorously testing disaster recovery plans, and ensuring uptime while also
+enhancing detection and response capabilities. By embedding these practices into the infrastructure solutions
+handling AI deployments from the start, enterprises can avoid disruptions and keep their AI projects on track."Visit
+flexential.com to access the full2024 State of AI Infrastructure Report.Flexential will be onsite atDRJ Fall 2024! Visit
+booth 304 to learn more about the report findings and discover how your organization can enhance disaster
+recovery planning to ensure enterprise resilience in the age of AI. Flexential's Will Bass, VP of Cybersecurity
+Services and Mark Leyda, Cloud & Data Protection Specialist, will also be presenting at DRJ Fall on how to team
+up with your IT organization for business continuity success.For more information on Flexential,
+visit:www.flexential.com.About Flexential:Flexential empowers the IT journey of the most complex businesses by
+offering customizable IT solutions designed for today's demanding high-density computing requirements. With
+colocation, cloud, connectivity, data protection, and professional services, the FlexAnywhere® platform anchors our
+services in 42 data centers across 19 highly connected markets on a 100Gbps private network backbone. Flexential
+solutions are strategically engineered to meet the most stringent challenges in security, compliance, and resiliency.
+Experience the power of IT flexibility and how we enable digital transformation atwww.flexential.com.Company
+Contact:Alison Brooker
+Senior Director, Corporate Marketing
+610-745-2697
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/flexential-survey-of-
+enterprise-it-leaders-reveals-ai-creating-new-cybersecurity-and-resilience-challenges-302241621.htmlSOURCE
+Flexential
+
+
+Load-Date: September 9, 2024
+
+
+  

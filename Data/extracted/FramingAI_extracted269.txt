@@ -1,0 +1,144 @@
+
+
+                                                                                                 Page 1 of 3
+  Oracle Helps Financial Institutions Manage Balance Sheet Risk and Fuel Growth in New Treasury and Finance
+                                                   Solutions
+
+
+
+
+    Oracle Helps Financial Institutions Manage Balance Sheet Risk and Fuel
+                Growth in New Treasury and Finance Solutions
+                                                     Targeted News Service
+                                         October 9, 2024 Wednesday 9:17 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1015 words
+Byline: Targeted News Service
+Dateline: REDWOOD SHORES, California
+
+Body
+
+
+Oracle, a developer of hardware and software products, issued the following news release on Oct. 8, 2024:
+
+***
+
+Solutions enable banks with deep insights and complex reporting on profitability, interest rate risk, and balance
+sheet trends
+
+***
+
+Helping financial institutions boost profitability, grow revenue, and manage balance sheet risk, Oracle today
+announced Oracle Financial Services Profitability and Balance Sheet Management Cloud Services. With Asset
+Liability Management, Cash Flow Engine, Funds Transfer Pricing, and Profitability Management applications, the
+new suite of SaaS solutions provides banks deep insights into profitability, interest margins, interest rate risk, and
+balance sheet trends to make critical business decisions faster, while meeting complex risk management reporting
+requirements. The services are now available globally.
+
+"Oracle has set the standard in the financial services industry for running integrated analytical applications across
+finance, risk, treasury, financial planning and analysis, and compliance," said Sonny Singh, executive vice president
+and general manager, Oracle Financial Services. "With these cloud-native services for profitability and balance
+sheet management, we are empowering financial institutions to optimize operations, and drive more sustainable
+growth by using advanced analytics and integrated AI to gain critical insights, such as drain on profitability, or a risk-
+adjusted view of performance to immediately adjust to market realities."
+
+The suite of solutions provides a framework for multi-dimensional profitability and balance sheet management by
+helping financial institutions better understand profitability across business dimensions, use flexible forecast
+assumptions to accurately model Net Interest Income (NII), and address risk management requirements. The
+
+                                                                                                 Page 2 of 3
+  Oracle Helps Financial Institutions Manage Balance Sheet Risk and Fuel Growth in New Treasury and Finance
+                                                   Solutions
+
+applications leverage the integration of Generative AI and Natural Language Generation (NLG) to enhance data
+interpretation by automatically generating detailed insights.
+
+Built on the high performance, security, and scalability of Oracle Cloud Infrastructure, the services use Oracle
+Autonomous Database, Oracle Analytics, and a domain-driven microservices architecture. With quarterly updates,
+banks can eliminate the need for costly upgrades while benefiting from continuous innovation that helps improve
+total-cost-of-ownership.
+
+Oracle Profitability and Balance Sheet Management Cloud Services include:
+
+* Profitability management: provides a highly scalable allocation engine that allows users to construct detailed P&L
+analysis using pre-packaged reports and data visualizations to model profitability across multiple dimensions,
+including product, customer, account, channel, business unit, geography, relationship manager, and line of
+business. With the solution, organizations can answer questions such as, "Which customers are the most
+profitable?" or "What products or services should we invest in or divest?"
+
+* Funds transfer pricing: determines the spread earned on assets and liabilities, and allows for more accurate
+profitability assessment and effective interest rate risk management.
+
+* Asset liability management: delivers accurate valuations, views of earnings stability, and balance sheet risk
+sensitivity through advanced analytics and scenario-based what-if analysis.
+
+* Cash flow engine: measures and models cash inflows and outflows for financial instruments, and provides
+detailed insights into liquidity and cash management.
+
+"Financial institutions are under constant pressure to improve efficiency and reduce costs, and Oracle's new cloud
+services directly address the challenges around automating complex tasks, reporting, and developing analytics and
+visualization," said Sid Dash, chief researcher, Chartis. "Moreover, the ability to analyze profitability and balance
+sheet risk in real-time, with the granularity that Oracle offers, will be crucial for institutions to thrive."
+
+These services are part of the Oracle Financial Services Suite of componentized and composable cloud
+applications. Built on a platform and AI-first microservices architecture, these services help banks modernize their
+business capabilities faster and with less risk. The services can run standalone or work together and coexist with
+existing applications to provide faster provisioning and availability. They also feature automated patching and
+shorten disaster recovery switchover times that can help lower IT costs and reduce management burdens. For
+more information about Oracle Financial Service Profitability and Balance Sheet Management cloud services visit:
+https://www.oracle.com/financial-services/banking/profitability-balance-sheet-management/
+
+***
+
+About Oracle
+
+Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more
+information about Oracle (NYSE: ORCL), please visit us at www.oracle.com.
+
+***
+
+About Oracle Financial Services
+
+Oracle Financial Services provides solutions for retail banking, corporate banking, payments, asset management,
+life insurance, annuities, and healthcare payers. With our comprehensive set of integrated digital and data
+platforms, banks and insurers are empowered to deliver next-generation financial services. We enable customer-
+centric transformation, support collaborative innovation, and drive efficiency. Our data and analytical platforms help
+financial institutions drive customer insight, integrate risk and finance, fight financial crime, and comply with
+regulations. To learn more, visit our website at https://wwww.oracle.com/financial-services/
+
+                                                                                                 Page 3 of 3
+  Oracle Helps Financial Institutions Manage Balance Sheet Risk and Fuel Growth in New Treasury and Finance
+                                                   Solutions
+
+***
+
+Trademarks
+
+Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud
+company--ushering in the new era of cloud computing.
+
+***
+
+Original text here: https://www.oracle.com/news/announcement/oracle-helps-financial-institutions-manage-balance-
+sheet-risk-and-fuel-growth-in-new-treasury-and-finance-solutions-2024-10-08/
+
+[Category: BizComputer Technology]
+
+Contact: Judi Palmer, judi.palmer@oracle.com
+
+Copyright Targeted News Services
+
+MSTRUCK-8866487 MSTRUCK
+
+
+Load-Date: October 9, 2024
+
+
+  

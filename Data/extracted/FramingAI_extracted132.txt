@@ -1,0 +1,586 @@
+
+
+                                                                                                    Page 1 of 10
+                              Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+
+
+
+             Energies Journal Issues Research Articles in Vol. 17, Issue 20
+                                                     Targeted News Service
+                                           October 29, 2024 Tuesday 6:10 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 4103 words
+Byline: Targeted News Service
+Dateline: BASEL, Switzerland
+
+Body
+
+
+Energies, a peer-reviewed journal of technology development, engineering policy and management studies,
+published research articles on the following topics in its Oct. 2, 2024, edition (Vol. 17, Issue 20):
+
+* Article - A Cooperative Multi-Agent Q-Learning Control Framework for Real-Time Energy Management in Energy
+Communities
+
+* Article - A Coordinated Emergency Frequency Control Strategy Based on Output Regulation Approach for an
+Isolated Industrial Microgrid
+
+* Article - A Digital Iterative Learning Based Peak Current Mode Control for Interleaved Totem Pole PFC Circuit
+
+* Article - A Generalized Deep Reinforcement Learning Model for Distribution Network Reconfiguration with Power
+Flow-Based Action-Space Sampling
+
+* Article - A Global Perspective on Renewable Energy Implementation: Commitment Requires Action
+
+* Article - A Machine Learning Approach to Forecasting Hydropower Generation
+
+* Article - A Method for Evaluating Demand Response Potential of Industrial Loads Based on Fuzzy Control
+
+* Article - A New Magnetic Coupler with High Misalignment Tolerance and Inherent Constant Current-Constant
+Voltage for Underground Wireless Charging
+
+* Article - A New Topology of Multi-Input Bidirectional DC-DC Converters for Hybrid Energy Storage Systems
+
+* Article - A Novel Formula for Calculating the Dynamic Torque of an Engine Based on Its Geometric Parameters
+and Static Measurements
+
+                                                                                                        Page 2 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - A Novel Point of Common Coupling Direct Power Control Method for Grid Integration of Renewable
+Energy Sources: Performance Evaluation among Power Quality Phenomena
+
+* Article - A Post-Disaster Fault Recovery Model for Distribution Networks Considering Road Damage and Dual
+Repair Teams
+
+* Article - Active Battery Voltage Equalization Based on Chain-Loop Comparison Strategy
+
+* Article - Active Support Pre-Synchronization Control and Stability Analysis Based on the Third-Order Model of
+Synchronous Machine
+
+* Article - Addressing VAWT Aerodynamic Challenges as the Key to Unlocking Their Potential in the Wind Energy
+Sector
+
+* Article - Advanced Energy Management in a Sustainable Integrated Hybrid Power Network Using a Computational
+Intelligence Control Strategy
+
+* Article - An Experimental Study of an Autonomous Heat Removal System Based on an Organic Rankine Cycle for
+an Advanced Nuclear Power Plant
+
+* Article - An Experimental Study of Boiling Heat Transfer and Quench Front Propagation Velocity During
+Quenching of a Cylinder Rod in Subcooled Water
+
+* Article - An Open-Source Tool for Composite Power System Reliability Assessment in Julia(TM)
+
+* Article - Analysis of Energy Efficiency Parameters of a Hybrid Vehicle Powered by Fuel with a Liquid Catalyst
+
+* Article - Analysis of Energy Transfer in the Ignition System for High-Speed Combustion Engines
+
+* Article - Analysis of Spatiotemporal Predictions and Drivers of Carbon Storage in the Pearl River Delta Urban
+Agglomeration via the PLUS-InVEST-GeoDetector Model
+
+* Article - Analysis of the Impact of Clusters on Productivity of Multi-Fracturing Horizontal Well in Shale Gas
+
+* Article - Analysis of the Interplay between Indoor Air Quality and Thermal Comfort in University Classrooms for
+Enhanced HVAC Control
+
+* Article - Application of a GIS-Based Multi-Criteria Decision-Making Approach to the Siting of Ocean Thermal
+Energy Conversion Power Plants: A Case Study of the Xisha Sea Area, China
+
+* Article - Application of Dual-Tree Complex Wavelet Transform in Islanding Detection for a Hybrid AC/DC Microgrid
+with Multiple Distributed Generators
+
+* Article - Application of the FDTD Method for Multivariate Analysis of the Influence of Conductivity and the
+Arrangement of Hollows Inside Bricks on the Values of Electric Field Intensity
+
+* Article - Application of the FDTD Method to Analyze the Influence of Brick Complexity on Electromagnetic Wave
+Propagation
+
+* Article - Application of the Salp Swarm Algorithm to Optimal Design of Tuned Inductive Choke
+
+* Article - Assess the Economic and Environmental Impacts of the Energy Transition in Selected Asian Economies
+
+* Article - Assessing SOC Estimations via Reverse-Time Kalman for Small Unmanned Aircraft
+
+* Article - Assessing Stability in Renewable Microgrid Using a Novel-Optimized Controller for PVBattery Based
+Micro Grid with Opal-RT-Based Real-Time Validation
+
+                                                                                                        Page 3 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - Assessing the Impact of Phase-Change Materials on Enhancing the Thermal Efficiency of Buildings in
+Tropical Climates
+
+* Article - Assessing the Impact of Vertical Greenery Systems on the Thermal Performance of Walls in
+Mediterranean Climates
+
+* Article - Assessment of Cooling Conditions of Thermoplastic Insulation and Uniformity of Breakdown Strength for
+Medium-Voltage Direct Current Extruded Cable Insulation
+
+* Article - Autoencoder-Driven Training Data Selection Based on Hidden Features for Improved Accuracy of ANN
+Short-Term Load Forecasting in ADMS
+
+* Article - Can Technological Advancement Empower the Future of Renewable Energy? A Panel Autoregressive
+Distributed Lag Approach
+
+* Article - Centralised Control and Energy Management of Multiple Interconnected Standalone AC Microgrids
+
+* Article - Challenges in the Valorization of Green Waste in the Central European Region: Case Study of Warsaw
+
+* Article - Clamping Pressure and Catalyst Distribution Analyses on PEMFC Performance Improvement
+
+* Article - Collaborative Optimization Framework for Coupled Power and Transportation Energy Systems
+Incorporating Integrated Demand Responses and Electric Vehicle Battery State-of-Charge
+
+* Article - Combined Wind Turbine Protection System
+
+* Article - Comparative Analysis and Integrated Methodology for the Electrical Design and Performance Evaluation
+of Thermoelectric Generators (TEGs) in Energy Harvesting Applications
+
+* Article - Comparative Analysis of Domestic Production and Import of Hard Coal in Poland: Conclusions for Energy
+Policy and Competitiveness
+
+* Article - Comparative Policy Analysis of Renewable Energy Expansion in Mongolia and Other Relevant Countries
+
+* Article - Comparative Study on Artificial Fracture Modeling Schemes in Tight Reservoirs--For Enhancing the
+Production Efficiency of Tight Oil and Gas
+
+* Article - Comparison of Effects of Partial Discharge Echo in Various High-Voltage Insulation Systems
+
+* Article - Computing the Network's Equilibrium Point at the Fault Clearing Instant in Transient Stability Studies
+
+* Article - Control of Liquid Hydrocarbon Combustion Parameters in Burners with Superheated Steam Supply
+
+* Article - Design and Performance Analysis of Windings Considering High Frequency Loss and Connection Mode
+of a Starter Generator
+
+* Article - Detection of Impedance Inhomogeneity in Lithium-Ion Battery Packs Based on Local Outlier Factor
+
+* Article - Development and Optimization of a Micro-Baffle for the Enhancement of Heat Transfer in Film Boiling
+
+* Article - Development of an Intelligent Coal Production and Operation Platform Based on a Real-Time Data
+Warehouse and AI Model
+
+* Article - Development of the Separation Column's Temperature Field Monitoring System
+
+* Article - Differences in the Genesis and Sources of Hydrocarbon Gas Fluid from the Eastern and Western Kuqa
+Depression
+
+                                                                                                       Page 4 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - Dynamic Modeling of Distribution Power Systems with Renewable Generation for Stability Analysis
+
+* Article - Effect of Energy Poverty Alleviation on High-Quality Economic Development: An Empirical Study Based
+on China
+
+* Article - Effect of Potassium on the Co-Combustion Process of Coal Slime and Corn Stover
+
+* Article - Effect of Tungsten Doping on the Properties of Titanium Dioxide Dye-Sensitized Solar Cells
+
+* Article - Electrochemical Behavior of Tantalum Nitride Protective Layers for PEMFC Application
+
+* Article - Energy and Economic Analysis of a New Combination Cascade Waste Heat Recovery System of a
+Waste-to-Energy Plant
+
+* Article - Enhanced Wavelet Transform Dynamic Attention Transformer Model for Recycled Lithium-Ion Battery
+Anomaly Detection
+
+* Article - Enhancing Semiconductor Chiller Performance: Investigating the Performance Characteristics of Ultra-
+Low-Temperature Chillers Applying a Liquid Receiver
+
+* Article - Envelope Deficiencies and Thermo-Hygrometric Challenges in Warehouse-Type Buildings in Subtropical
+Climates: A Case Study of a Nori Distribution Center
+
+* Article - Environmental Benefits of Hydrogen-Powered Buses: A Case Study of Coke Oven Gas
+
+* Article - EOS: Impact Evaluation of Electric Vehicle Adoption on Peak Load Shaving Using Agent-Based Modeling
+
+* Article - Evaluating and Prioritizing Circular Supply Chain Alternatives in the Energy Context with a Holistic Multi-
+Indicator Decision Support System
+
+* Article - Evaporation Characteristics of Two Interacting Moving Droplets
+
+* Article - Evidence of Microbial Activity in Coal Seam Production Water and Hydrochemical Constraints
+
+* Article - Experimental Implementation of Reinforcement Learning Applied to Maximise Energy from a Wave
+Energy Converter
+
+* Article - Exploring the Nexus between Greenhouse Emissions, Environmental Degradation and Green Energy in
+Europe: A Critique of the Environmental Kuznets Curve
+
+* Article - Fault Diagnosis Method for Hydropower Units Based on Dynamic Mode Decomposition and the Hiking
+Optimization Algorithm-Extreme Learning Machine
+
+* Article - Forecasting Motor Vehicle Ownership and Energy Demand Considering Electric Vehicle Penetration
+
+* Article - Functionality of Bearings in the Shafts of a Vertical-Axis Wind Turbine
+
+* Article - Fusion Forecasting Algorithm for Short-Term Load in Power System
+
+* Article - Fuzzy Decision-Making Valuation Model for Urban Green Infrastructure Implementation
+
+* Article - Gas Flow Blockage Treatment in Shale Gas: Case Study of Qusaiba Hot Shale, Saudi Arabia
+
+* Article - Generating Payloads of Power Monitoring Systems Compliant with Power Network Protocols Using
+Generative Adversarial Networks
+
+* Article - Global Horizontal Irradiance in Brazil: A Comparative Study of Reanalysis Datasets with Ground-Based
+Data
+
+                                                                                                     Page 5 of 10
+                            Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - Heating Industrial Buildings with Heat Pump Air Systems: Is It Always the Most Advantageous Option?
+
+* Article - Identification of Sub-Synchronous Oscillation Mode Based on HO-VMD and SVD-Regularized TLS-Prony
+Methods
+
+* Article - Impact of Organic Load on Methane Yields and Kinetics during Anaerobic Digestion of Sugarcane
+Bagasse: Optimal Feed-to-Inoculum Ratio and Total Solids of Reactor Working Volume
+
+* Article - Implementation of Regenerative Thermal Oxidation Device Based on High-Heating Device for Low-
+Emission Combustion
+
+* Article - Importance of Clay Swelling on the Efficacy of Cyclic Steam Stimulation in the East Moldabek Formation
+in Kazakhstan
+
+* Article - Improvement of Heat Transfer Correlation for Fluoroplastic Steel Heat Exchanger and Theoretical
+Analysis of Application Characteristics
+
+* Article - Improvement of Power Production Efficiency Following the Application of the GD InC Maximum Power
+Point Tracking Method in Photovoltaic Systems
+
+* Article - Improvement of the Source Current Quality for a Shunt Active Power Filter Operating Using Hysteresis
+Technique with Stabilized Switching Frequency
+
+* Article - Influence of Blending Ratio on Spray Characteristics of Gasoline-Hydrogenated Catalytic Biodiesel
+Blended Fuel
+
+* Article - Initial Characteristics of Submillimeter Metal Particles in GIS under Impact Vibration
+
+* Article - Investigation into the Effect of Permeable Boundary Sealing on the Behavior of Hydrate Exploitation via
+Depressurization Combined with Heat Injection
+
+* Article - ISOS-SAB DC/DC Converter for Large-Capacity Offshore Wind Turbine
+
+* Article - Jerusalem Artichoke: Nitrogen Fertilization Strategy and Energy Balance in the Production Technology of
+Aerial Biomass
+
+* Article - Long-Term Forecasting Models of Oil Demand Emerging from the Global Petrochemical Sector
+
+* Article - Loss and Thermal Analysis of a High-Power-Density Permanent Magnet Starter/Generator
+
+* Article - Machine Learning and Cointegration for Wind Turbine Monitoring and Fault Detection: From a
+Comparative Study to a Combined Approach
+
+* Article - Machine Learning-Aided Dual-Function Microfluidic SIW Sensor Antenna for Frost and Wildfire Detection
+Applications
+
+* Article - Machine Learning-Based Predictions of Flow and Heat Transfer Characteristics in a Lid-Driven Cavity
+with a Rotating Cylinder
+
+* Article - Mean Droplet Size Prediction of Twin Swirl Airblast Nozzle at Elevated Operating Conditions
+
+* Article - Medium- and Long-Term Power System Planning Method Based on Source-Load Uncertainty Modeling
+
+* Article - Methodology for Testing Selected Parameters of Low-Current Vacuum Electric Arc
+
+* Article - Methodology of Multiple-Criteria Decision Making for Selecting a Refrigerant to Be Used in Commercial
+Refrigeration Equipment
+
+                                                                                                    Page 6 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - Modeling and Numerical Investigations of Flowing N-Decane Partial Catalytic Steam Reforming at
+Supercritical Pressure
+
+* Article - Modeling and Simulation of Hybrid Electric Vehicles for Sustainable Transportation: Insights into Fuel
+Savings and Emissions Reduction
+
+* Article - Modeling Nuclear-Centric Scenarios for Ukraine's Low-Carbon Energy Transition Using Diffusion and
+Regression Techniques
+
+* Article - Multi-Agent Reinforcement Learning for Smart Community Energy Management
+
+* Article - Multi-Criteria Decision-Making Approach for Optimal Energy Storage System Selection and Applications
+in Oman
+
+* Article - Multi-Objective Optimization Operation of Multi-Agent Active Distribution Network Based on Analytical
+Target Cascading Method
+
+* Article - Multi-Objetive Dispatching in Multi-Area Power Systems Using the Fuzzy Satisficing Method
+
+* Article - Multiphysics Field Coupled to a Numerical Simulation Study on Heavy Oil Reservoir Development via
+Electromagnetic Heating in a SAGD-like Process
+
+* Article - Multiple Load Forecasting of Integrated Renewable Energy System Based on TCN-FECAM-Informer
+
+* Article - Multi-Stage Rolling Grid Expansion Planning for Distribution Networks Considering Conditional Value at
+Risk
+
+* Article - Multi-Temperature State-of-Charge Estimation of Lithium-Ion Batteries Based on Spatial Transformer
+Network
+
+* Article - Multi-Terminal DC Transformer for Renewable Energy Cluster Grid Connection
+
+* Article - Navigating Economies of Scale and Multiples for Nuclear-Powered Data Centers and Other Applications
+with High Service Availability Needs
+
+* Article - Neutronics Analysis on High-Temperature Gas-Cooled Pebble Bed Reactors by Coupling Monte Carlo
+Method and Discrete Element Method
+
+* Article - New Thermochemical Salt Hydrate System for Energy Storage in Buildings
+
+* Article - Nonlinear Model Predictive Control of Heaving Wave Energy Converter with Nonlinear Froude-Krylov
+Forces
+
+* Article - Novel Droop-Based Techniques for Dynamic Performance Improvement in a Linear Active Disturbance
+Rejection Controlled-Dual Active Bridge for Fast Battery Charging of Electric Vehicles
+
+* Article - Novel Multi-Criteria Decision Analysis Based on Performance Indicators for Urban Energy System
+Planning
+
+* Article - Numerical Analysis of Hydrogen Behavior Inside Hydrogen Storage Cylinders under Rapid Refueling
+Conditions Based on Different Shapes of Hydrogen Inlet Ports
+
+* Article - Numerical Investigation of Different Cooling Methods for Battery Packs
+
+* Article - Numerical Simulation of Secondary Hydrate Formation Characteristics and Effectiveness of Prevention
+Methods
+
+                                                                                                        Page 7 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - Numerical Study on Heat Transfer Efficiency and Inter-Layer Stress of Microchannel Heat Sinks with
+Different Geometries
+
+* Article - On-Grid Hybrid Wind-Solar Power Plants in Ukraine's Residential Sector: Economic Justification of
+Installation Under Different Support Schemes
+
+* Article - Online Evaluation for the POI-Level Inertial Support to the Grid via Ambient Measurements
+
+* Article - Optimal Integration of Renewable Energy, Energy Storage, and Indonesia's Super Grid
+
+* Article - Optimization of Organic Rankine Cycle for Hot Dry Rock Power System: A Stackelberg Game Approach
+
+* Article - Optimization of Triply Periodic Minimal Surface Heat Exchanger to Achieve Compactness, High
+Efficiency, and Low-Pressure Drop
+
+* Article - Optimized Fault-Tolerant Control of Dual Three-Phase PMSM Under Open-Switch Faults
+
+* Article - Optimizing Energy Efficiency in a Peltier-Module-Based Cooling Microunit through Selected Control
+Algorithms
+
+* Article - Optimizing Energy Efficiency with a Cloud-Based Model Predictive Control: A Case Study of a Multi-
+Family Building
+
+* Article - Optimizing S Chemical Looping Combustion with Cu-Fe Combined Oxygen Carriers: Performance and
+Mechanistic Insights
+
+* Article - Oscillation Suppression of Grid-Following Converters by Grid-Forming Converters with Adaptive Droop
+Control
+
+* Article - Parametrical Choice of the Optimized Fusion System for a FFHR
+
+* Article - Phase Field Modeling of Hydraulic Fracturing with Length-Scale Insensitive Degradation Functions
+
+* Article - Photovoltaic Power Intermittency Mitigating with Battery Storage Using Improved WEEC Generic Models
+
+* Article - Power Oscillation Source Location Based on the Combination of Energy Function and Normal Distribution
+in a Fully Data-Driven Approach
+
+* Article - Premixed Combustion Characteristics of Hydrogen/Air in a Micro-Cylindrical Combustor with Double Ribs
+
+* Article - Pressure Change in a Duct with a Flow of a Homogeneous Gaseous Substance in the Presence of a
+Point Mass and Momentum Sink of Gas
+
+* Article - Profitability of Energy Sector Companies in Poland: Do Internal Factors Matter?
+
+* Article - Proposal of Three Methods for Deriving Representative Mean Radiant Temperatures Considering Zone
+Spatial Distributions
+
+* Article - PV Module Soiling Detection Using Visible Spectrum Imaging and Machine Learning
+
+* Article - Recovering Low-Grade Heat from Flue Gas in a Coal-Fired Thermal Power Unit
+
+* Article - Recurrence Multilinear Regression Technique for Improving Accuracy of Energy Prediction in Power
+Systems
+
+* Article - Research on a Thirteen-Level Switched Capacitor Inverter with Low Switching Loss
+
+                                                                                                      Page 8 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - Research on Electric Hydrogen Hybrid Storage Operation Strategy for Wind Power Fluctuation
+Suppression
+
+* Article - Research on Energy-Saving Transformation of Rural Residential Building Envelope Structures and
+Heating Modes in Northeast China
+
+* Article - Research on Large Hybrid Electric Aircraft Based on Battery and Turbine-Electric
+
+* Article - Research on Regulation Method of Variable-Air-Volume Air Conditioning System with "Personal Space"
+
+* Article - Research on the Driving Factors and Policy Guidance for a Reduction in Electricity Consumption by
+Urban Residents
+
+* Article - Research on the Dynamic Leaking and Diffusion Law of Hydrogen-Blended Natural Gas under the Soil-
+Atmosphere Coupled Model
+
+* Article - Research on the Flicker Effect in Modern Light Sources Powered by an Electrical Network
+
+* Article - Research on the Influence of Moisture in the Solid Insulation Impregnated with an Innovative Bio-Oil on
+AC Conductivity Used in the Power Transformers
+
+* Article - Short-Term Optimal Operation Method for Hydro-Wind-Thermal Systems Considering Wind Power
+Uncertainty
+
+* Article - Site Selection Decision-Making for Offshore Wind-to-Hydrogen Production Bases Based on the Two-
+Dimensional Linguistic Cloud Model
+
+* Article - Space-Time Forecasting of Heating & Cooling Energy Needs as an Energy Poverty Measure in Romania
+
+* Article - Storing Excess Solar Power in Hot Water on Household Level as Power-to-Heat System
+
+* Article - Studying Dynamical and Hydraulic Characteristics of the Hydraulically Suspended Passive Shutdown
+Subassembly (HS-PSS) and Validating with a Prototypic Test Sample
+
+* Article - The Coefficient of Reactivity and Activation Energy as the Criteria of Assessment of the Influence of
+Sustainable Aviation Fuels on Combustion Process in a Rapid Compression Combustion Machine and a Turbine
+Engine
+
+* Article - The Consequences of Economy Servitization for Ensuring Energy Sustainability--The Case of Developed
+and Developing Countries
+
+* Article - The Economic Efficiency of Micro Biogas Plants: A Sustainable Energy Solution in Slovenia--Case Study
+
+* Article - The Effect of a Reduction in the Catalyst Loading on a Mini Passive Direct Methanol Fuel Cell
+
+* Article - The Effect of Air Humidity on the Performance of DC Link Capacitor Components
+
+* Article - The Emissions of a Compression-Ignition Engine Fuelled by a Mixture of Crude Oil and Biodiesel from the
+Lipids Accumulated in the Waste Glycerol-Fed Culture of Schizochytrium sp.
+
+* Article - The Green Economy in the Energy Transformation Process--Comparative Analysis of the European
+Union Member States
+
+* Article - The Impact of Abrupt Sunlight Reduction Scenarios on Renewable Energy Production
+
+* Article - The Impact of Industrial Robots on Green Total Factor Energy Efficiency: Empirical Evidence from
+Chinese Cities
+
+                                                                                                     Page 9 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Article - The Joint Use of a Phase Heat Accumulator and a Compressor Heat Pump
+
+* Article - The Problem of Power Variations in Wind Turbines Operating under Variable Wind Speeds over Time and
+the Need for Wind Energy Storage Systems
+
+* Article - The Role of Deadwood in Forests between Climate Change Mitigation, Biodiversity Conservation, and
+Bioenergy Production: A Comparative Analysis Using a Bottom-Up Approach
+
+* Article - Time-Domain Fault Detection and Location Scheme for Flexible DC Distribution Networks
+
+* Article - Transient Stability Assessment in Power Systems: A Spatiotemporal Graph Convolutional Network
+Approach with Graph Simplification
+
+* Article - Transition from Electric Vehicles to Energy Storage: Review on Targeted Lithium-Ion Battery Diagnostics
+
+* Article - Two-Stage Optimization Scheduling of Integrated Energy Systems Considering Demand Side Response
+
+* Article - Two-Stage Robust Resilience Enhancement of Distribution System against Line Failures via Hydrogen
+Tube Trailers
+
+* Article - Unconventional Fracture Networks Simulation and Shale Gas Production Prediction by Integration of
+Petrophysics, Geomechanics and Fracture Characterization
+
+* Article - U-Net Semantic Segmentation-Based Calorific Value Estimation of Straw Multifuels for Combined Heat
+and Power Generation Processes
+
+* Article - Utility-Scale Grid-Connected Microgrid Planning Framework for Sustainable Renewable Energy
+Integration
+
+* Article - Validation of a Model Predictive Control Strategy on a High Fidelity Building Emulator
+
+* Article - Wall Shading Losses of Photovoltaic Systems
+
+* Article - Zero-Trust Zero-Communication Defence against Hybrid Cyberattacks in Distributed Energy Resources
+Using Mean Field Reinforcement Leaning
+
+* Review - A Review on the Recent Development of High-Frequency Inverters for Wireless Power Transfer
+
+* Review - A Survey of Computer Vision Detection, Visual SLAM Algorithms, and Their Applications in Energy-
+Efficient Autonomous Systems
+
+* Review - Applications of Machine Learning Technologies for Feedstock Yield Estimation of Ethanol Production
+
+* Review - Assessing Carbon Dioxide Emissions in Manufacturing Industries: A Systematic Review
+
+* Review - Bionic Strategies for Pump Anti-Cavitation: A Comprehensive Review
+
+* Review - Biosurfactants: Chemical Properties, Ecofriendly Environmental Applications, and Uses in the Industrial
+Energy Sector
+
+* Review - Comprehensive Assessment of the Impact of Green Roofs and Walls on Building Energy Performance:
+A Scientific Review
+
+* Review - Comprehensive Review of Biomass Pyrolysis: Conventional and Advanced Technologies, Reactor
+Designs, Product Compositions and Yields, and Techno-Economic Analysis
+
+* Review - Effects of Water Injection in Diesel Engine Emission Treatment System--A Review in the Light of EURO
+7
+
+                                                                                               Page 10 of 10
+                           Energies Journal Issues Research Articles in Vol. 17, Issue 20
+
+* Review - Exploring the Impact of Environmental Conditions and Bioreactors on Microalgae Growth and
+Applications
+
+* Review - Fuel Cell Electric Buses: A Systematic Literature Review
+
+* Review - Innovations for Holistic and Sustainable Transitions
+
+* Review - Interactive Cycles between Energy Education and Energy Preferences: A Literature Review on Empirical
+Evidence
+
+* Review - Key Issues of Salt Cavern Flow Battery
+
+* Review - Model Order Reduction Methods for Rotating Electrical Machines: A Review
+
+* Review - Pharmaceutical Wastewater and Sludge Valorization: A Review on Innovative Strategies for Energy
+Recovery and Waste Treatment
+
+* Review - Research Developments and Applications of Ice Slurry
+
+* Review - Resource Adequacy and Integration of Renewables in Light of US, EU, and Pakistan's Evolving Power
+Sector
+
+* Review - Smart Grid Forecasting with MIMO Models: A Comparative Study of Machine Learning Techniques for
+Day-Ahead Residual Load Prediction
+
+* Review - Solar Organic Rankine Cycle (ORC) Systems: A Review of Technologies, Parameters, and Applications
+
+The Oct. 2, 2024, edition of Energies can be viewed at https://www.mdpi.com/1996-1073/17/20. The journal is
+published by MDPI.
+
+[Category: Energy]
+
+Copyright Targeted News Services
+
+MSTRUCK-8898786 MSTRUCK
+
+
+Load-Date: October 29, 2024
+
+
+  

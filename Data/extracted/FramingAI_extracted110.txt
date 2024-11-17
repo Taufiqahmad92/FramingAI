@@ -1,0 +1,108 @@
+
+
+                                                                                                Page 1 of 2
+   HYCU® Recognized as CRN 2024 Product of the Year Finalist R-Cloud Noted for Enterprise Class Automated
+                      Backup, Granular Recovery, Data Migration, and Disaster R....
+
+
+
+
+    HYCU® Recognized as CRN 2024 Product of the Year Finalist; R-Cloud
+   Noted for Enterprise Class Automated Backup, Granular Recovery, Data
+   Migration, and Disaster Recovery for On-premises, Multicloud, and SaaS
+                                Applications
+                                                         GlobeNewswire
+                                            October 31, 2024 Thursday 5:30 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: COMPANY ANNOUNCEMENT; PRODUCT / SERVICES ANNOUNCEMENT; PRESS RELEASES;
+CONTESTS/AWARDS
+Length: 857 words
+
+Body
+
+Boston, Massachusetts, Oct. 31, 2024 (GLOBE NEWSWIRE) -- HYCU, Inc., a leader for modern data protection
+for on-prem, cloud services, and SaaS, and one of the fastest growing companies in the industry, announced today
+that CRN®, a brand of The Channel Company, has recognized its HYCU R-Cloud™ as a finalist in the 2024
+Product of the Year Awards in the Data Protection, Management and Resiliency category.
+
+The CRN Products of the Year Awards recognize the leading partner-friendly products in the IT channel today that
+either launched or were significantly updated over the last year. These innovative product offerings stand out for
+their responsiveness to the fast-changing needs of IT solution providers and their customers.
+
+The 2024 finalists were chosen by the CRN editorial team in 30 different technology categories. The winners will be
+selected through a survey of solution providers who will rate the finalists across three criteria (technology, revenue
+and profit, and customer need) based on their real-world experience with the products.
+
+Developed as an integrated SaaS platform, HYCU R-Cloud offers enterprise class automated backup, granular
+recovery, data migration, and disaster recovery across on-premises, multi-cloud platforms, cloud services, and
+SaaS applications. HYCU R-Cloud is built on an agentless architecture, eliminating the need for additional
+hardware or software. HYCU R-Graph, a key component of HYCU R-Cloud, provides data estate discovery and
+visualization, supporting more than 90 data sources. From the HYCU Generative AI Initiative that seamlessly
+integrates generative AI technology, including Anthropics' AI assistant Claude with R-Cloud, users and partners can
+
+                                                                                               Page 2 of 2
+  HYCU® Recognized as CRN 2024 Product of the Year Finalist R-Cloud Noted for Enterprise Class Automated
+                     Backup, Granular Recovery, Data Migration, and Disaster R....
+
+create new, easy-to-use SaaS integrations. This innovation reduces the time to build new data protection modules
+from weeks to hours.
+
+“Finalists for the 2024 CRN Products of the Year Awards have proven their dedication to developing leading-edge
+technology that benefits solution provider partners and their customers,” said Jennifer Follett, VP, U.S. Content and
+Executive Editor, CRN, The Channel Company. “We are pleased to showcase the outstanding products and
+services of the finalists and look forward to seeing the winners selected by solution providers later this year.”
+
+"We're witnessing a dramatic shift in how enterprises operate - the average global company now uses 371 SaaS
+applications, up from 217 just last year. While this SaaS explosion has unleashed unprecedented business agility
+and innovation, it's also created a complex web of data vulnerability," said Simon Taylor, Founder and CEO, HYCU,
+Inc. "Most organizations don't realize that SaaS providers aren't responsible for protecting their data - that
+responsibility falls squarely on the users' shoulders. The recent CrowdStrike outage served as a stark reminder that
+even industry leaders aren't immune to disruption, and without proper protection, companies risk losing critical
+business data in seconds. This new reality demands a fundamentally different approach to data protection - one
+that seamlessly spans SaaS, on-premises, and multicloud environments. It's precisely why we developed R-Cloud,
+and we're honored that CRN's editors continue to recognize our innovation in addressing this critical market need."
+
+Finalists were announced online at CRN.com on October 30, 2024. Winners of the 2024 Products of the Year
+Awards will be announced in the December issue of CRN Magazine and online at CRN.com/PotY on December
+2nd.
+
+About HYCUHYCU is the fastest-growing leader in the multi-cloud and SaaS data protection as a service industry.
+By bringing true SaaS-based data backup and recovery to on-premises, cloud-native, and SaaS IT environments,
+the company provides unrivaled data protection, migration, disaster recovery, and ransomware protection to
+thousands of companies worldwide. The company's award-winning R-Cloud platform eliminates complexity, risk,
+and the high cost of legacy-based solutions, providing data protection simplicity to make it the #1 SaaS Data
+Protection platform. With an industry leading NPS score of 91, HYCU has raised $140M in VC funding to date and
+is based in Boston, Mass. Learn more at www.hycu.com.
+
+About The Channel Company The Channel Company enables breakthrough IT channel performance with our
+dominant media, engaging events, expert consulting and education, and innovative marketing services and
+platforms. As the channel catalyst, we connect and empower technology suppliers, solution providers, and end
+users. Backed by more than 40 years of unequalled channel experience, we draw from our deep knowledge to
+envision innovative new solutions for ever-evolving challenges in the technology marketplace.
+thechannelcompany.com
+
+Follow The Channel Company: LinkedIn, X, and Facebook.
+
+© 2024 The Channel Company, Inc. CRN is a registered trademark of The Channel Company, Inc. All rights
+reserved.
+
+   Attachment
+
+
+    •   HYCU Named CRN 2024 Product of the Year Finalist
+Don Jennings HYCU, Inc. 617-791-1710         don.jennings@hycu.com        Kristin   Dasilva   The   Channel   Company
+kdasilva@thechannelcompany.com
+
+
+
+Load-Date: October 31, 2024
+
+
+  

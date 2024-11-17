@@ -1,0 +1,121 @@
+
+
+                                                                                                   Page 1 of 3
+  Nutanix Expands Partnership with AWS New partnership will simplify cloud migrations and offer access to AWS
+                           services for on-premises customers leveraging Nutani....
+
+
+
+
+Nutanix Expands Partnership with AWS; New partnership will simplify cloud
+ migrations and offer access to AWS services for on-premises customers
+               leveraging Nutanix Cloud Clusters on AWS
+                                                         GlobeNewswire
+                                           November 7, 2024 Thursday 6:01 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: PARTNERSHIPS
+Length: 1132 words
+
+Body
+
+SAN JOSE, Calif., Nov. 07, 2024 (GLOBE NEWSWIRE) -- Nutanix (NASDAQ: NTNX), a leader in hybrid
+multicloud computing, today announced an expanded strategic collaboration with Amazon Web Services, Inc.
+(AWS) to accelerate cloud migration and provide options for customers managing workloads across on-premises
+and cloud environments. This aims to reduce the friction required for IT modernization, making it easier for
+customers to leverage AWS services to drive innovation.
+
+Through this collaboration, customers can leverage Nutanix Cloud Clusters (NC2) on AWS, which will enable them
+to seamlessly extend their on-premises Nutanix environment to AWS. This integration allows organizations to run
+their applications on a consistent environment across both on-premises and AWS, and benefit from access to AWS
+services, including AWS Databases, Amazon Simple Storage Service (Amazon S3), and advanced artificial
+intelligence (AI) and machine learning (ML) services, as well as the security, resiliency, and scalability AWS offers.
+
+“90% of organizations are taking a ‘cloud smart’ approach to their infrastructure strategy – leveraging the best
+environment for each of their applications,” said Tarkan Maner, Chief Commercial Officer at Nutanix. “Our
+expanded strategic partnership with AWS is a win-win-win for both companies and our customers, as it will help
+simplify their cloud migration journeys, accelerate their adoption of AWS using NC2, and open the door to hybrid
+cloud and on-prem Nutanix opportunities.”
+
+“Our expanded collaboration with Nutanix represents a significant step forward in simplifying cloud migration, and
+helping customers innovate,” said Chris Sullivan, Vice President, Americas Channels & Alliances at AWS. “This
+partnership will empower more customers to accelerate their digital transformation journey, allowing them to
+leverage the scalability, security, resiliency, and innovation of AWS and its services.”
+
+                                                                                                   Page 2 of 3
+  Nutanix Expands Partnership with AWS New partnership will simplify cloud migrations and offer access to AWS
+                           services for on-premises customers leveraging Nutani....
+
+NC2 on AWS delivers a cost-effective solution with disaster recovery, data center extension, and application
+migration and modernization. This enables intelligent workload placement of applications and data with zero code
+changes, and helps break down silos within the IT organization. Additional customer benefits include:
+    •   Faster, low-risk app migrations. Move workloads quickly and predictably with the Nutanix Move migration
+        tool, without costly application refactoring and, at the same time, minimize migration risks with bi-directional
+        portability.
+    •   Effortless scale and flexibility. Drive IT automation across the entire hybrid cloud stack, on-premises and in
+        the cloud leveraging the elasticity of AWS to manage expected and unexpected capacity demands.
+    •   Increase cloud efficiency. Increase cloud resource efficiency to reduce cloud costs through use of bare-
+        metal platforms in AWS with a unified control plane, consistent automation mechanisms and lifecycle
+        management for virtual machines. Simplify procurement by using AWS Marketplace for all your Nutanix
+        software licensing needs.
+
+As part of the collaboration, AWS will also make available promotional credits to support customer migrations and
+proof of concepts. Leveraging the AWS VMware Migration Accelerator, customers can gain access to promotional
+credits for migrating VMWare on AWS workloads to NC2 on AWS. Additionally, customers migrating workloads
+from other clouds or on-premises will also have access to the AWS Migration Acceleration Program benefits,
+including a free proof-of-concept trials, migration assessment and support with AWS credits, as well as Nutanix
+licensing pricing promotions.
+
+“The collaboration between Nutanix and AWS to offer NC2 on AWS represents a significant leap forward for
+Accenture to help clients manage diverse workloads, bridging on-premises and cloud environments,” said Andy
+Tay, Cloud First Global Lead at Accenture. “By combining the strengths of Nutanix and AWS, with our industry
+knowledge and cloud expertise, we're setting a new standard for clients to be ready for business reinvention
+through a strong, integrated digital core, enabling businesses to be more agile and innovative.”
+
+“Today’s enterprises face growing uncertainty in their IT landscapes, but the partnership between Nutanix and AWS
+emerges as a strategic solution to enable more seamless migrations to Nutanix Cloud Clusters on AWS. This
+collaboration aims to provide customers with the speed and agility needed to navigate today’s dynamic business
+environment," Dave Pearson, Research Vice President, IDC.
+
+For more information, please visit www.nutanix.com/aws.
+
+About NutanixNutanix is a global leader in cloud software, offering organizations a single platform for running
+applications and managing data, anywhere. With Nutanix, companies can reduce complexity and simplify
+operations, freeing them to focus on their business outcomes. Building on its legacy as the pioneer of
+hyperconverged infrastructure, Nutanix is trusted by companies worldwide to power hybrid multicloud environments
+consistently, simply, and cost-effectively. Learn more at www.nutanix.com or follow us on social media @nutanix.
+
+© 2024 Nutanix, Inc. All rights reserved. Nutanix, the Nutanix logo, and all Nutanix product and service names
+mentioned herein are registered trademarks or unregistered trademarks of Nutanix, Inc. (“Nutanix”) in the United
+States and other countries. Other brand names or marks mentioned herein are for identification purposes only and
+may be the trademarks of their respective holder(s). This press release is for informational purposes only and
+nothing herein constitutes a warranty or other binding commitment by Nutanix. This release may contain express
+and implied forward-looking statements, which are not historical facts and are instead based on Nutanix’s current
+expectations, estimates and beliefs, including statements about: the expanded strategic collaboration, including
+AWS’s plans for supporting this collaboration ; and the expected benefits of the collaboration and planned
+investment to customers. The accuracy of such statements involves risks and uncertainties and depends upon
+future events, including those that may be beyond Nutanix’s control, and actual results may differ materially and
+adversely from those anticipated or implied by such statements, including, among others: unexpected difficulties or
+delays in realizing the full benefits of the collaboration and planned investment; and our ability to achieve the
+specified milestones underlying the investment. Any forward-looking statements included herein speak only as of
+
+                                                                                                   Page 3 of 3
+  Nutanix Expands Partnership with AWS New partnership will simplify cloud migrations and offer access to AWS
+                           services for on-premises customers leveraging Nutani....
+
+the date hereof and, except as required by law, Nutanix assumes no obligation to update or otherwise revise any of
+such forward-looking statements to reflect subsequent events or circumstances.
+
+Nutanix Media Contact pr@nutanix.com
+
+
+Load-Date: November 7, 2024
+
+
+  

@@ -1,0 +1,489 @@
+
+
+                                                                                                     Page 1 of 9
+                             Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+
+
+
+           Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+                                                     Targeted News Service
+                                          November 9, 2024 Saturday 8:20 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 3294 words
+Byline: Targeted News Service
+Dateline: BASEL, Switzerland
+
+Body
+
+
+Electronics, a peer-reviewed open access journal on the science of electronics and its applications, published
+research articles on the following topics in its Nov. 1, 2024, edition (Vol. 13, Issue 21):
+
+* Article - 23.5-27.5 GHz Band Doherty Power Amplifier Integrated Circuit Using 28 nm Bulk CMOS Process Based
+on Dynamic Power Dividing Network
+
+* Article - A 23-29 GHz GaN Low-Noise Amplifier with Drain-to-Source Coupling Feedback
+
+* Article - A 5 mW 28 nm CMOS Low-Noise Amplifier with Transformer-Based Electrostatic Discharge Protection for
+60 GHz Applications
+
+* Article - A 60 GHz Power Amplifier with Neutralization Capacitors and Compensation Inductors
+
+* Article - A Blockchain and Zero Knowledge Proof Based Data Security Transaction Method in Distributed
+Computing
+
+* Article - A Classification and Segmentation Model for Diamond Abrasive Grains Based on Improved Swin-Unet-
+SAM
+
+* Article - A Genetic Optimized Federated Learning Approach for Joint Consideration of End-to-End Delay and Data
+Privacy in Vehicular Networks
+
+* Article - A Linear Quadratic Regulation Controller Based on Radial Basis Function Network Approximation
+
+* Article - A Methodology for the Design of a Compliant Electrocardiograph: A Case Study
+
+* Article - A Multidimensional Financial Data Model for User Interface with Process Mining Systems
+
+                                                                                                       Page 2 of 9
+                          Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - A Novel Fast Contact Operating Mechanism of the Medium and Low Voltage Hybrid DC Current Limiting
+Circuit Breaker
+
+* Article - A Picture May Be Worth a Hundred Words for Visual Question Answering
+
+* Article - A Practical Pole-to-Ground Fault Current Calculation Method for Symmetrical Monopole DC Grids
+
+* Article - A Provably Secure and Lightweight Two-Factor Authentication Protocol for Wireless Sensor Network
+
+* Article - A Real-Time System Status Evaluation Method for Passive UHF RFID Robots in Dynamic Scenarios
+
+* Article - A Smart Healthcare System for Remote Areas Based on the Edge-Cloud Continuum
+
+* Article - A Strip Steel Surface Defect Salient Object Detection Based on Channel, Spatial and Self-Attention
+Mechanisms
+
+* Article - A Study of Recommendation Methods Based on Graph Hybrid Neural Networks and Deep Crossing
+
+* Article - A Study on Ways to Expand the Speed Operation Range of Dental Laboratory Handpiece Motors Using
+Low-Cost Hall Sensors
+
+* Article - A Temporal-Geospatial Deep Learning Framework for Crop Yield Prediction
+
+* Article - A Test Report Optimization Method Fusing Reinforcement Learning and Genetic Algorithms
+
+* Article - A Unified Model for Chinese Cyber Threat Intelligence Flat Entity and Nested Entity Recognition
+
+* Article - ACMamba: A State Space Model-Based Approach for Multi-Weather Degraded Image Restoration
+
+* Article - Active Impulsive Noise Control with Missing Input Data Based on FxImdMCC Algorithm
+
+* Article - Adaptive Transmission of Cognitive Radio- and Segmented zeRIS-Aided Symbiotic Radio
+
+* Article - Adaptive Virtual Synchronous Generator Control Strategy Based on Frequency Integral Compensation
+
+* Article - Adaptive Weighted Particle Swarm Optimization for Controlling Multiple Switched Reluctance Motors with
+Enhanced Deviatoric Coupling Control
+
+* Article - Advancing Sustainable Mobility: A Data Acquisition System for Light Vehicles and Active Mobility
+
+* Article - An Automated Penetration Testing Framework Based on Hierarchical Reinforcement Learning
+
+* Article - An Energy Management System for Distributed Energy Storage System Considering Time-Varying Linear
+Resistance
+
+* Article - An Energy-Efficient Scheme Design for NOMA-Based UAV-Assisted MEC Systems
+
+* Article - Analysis of Mueller-Muller Clock and Data Recovery Circuits with a Linearized Model
+
+* Article - Analysis of the Flash Phenomenon in Rotor Targets with a Scatter Point Model
+
+* Article - Application of Digital Twins in Designing Safety Systems for Robotic Stations
+
+* Article - Assessing Urban Mobility Resilience: An Exploratory Approach Using Hazard-Based Duration Models
+
+* Article - Asynchronous Sliding Mode Control of Networked Markov Jump Systems via an Asynchronous Observer
+Approach Based on a Dynamic Event Trigger
+
+* Article - Attribute-Aware Graph Convolutional Network Recommendation Method
+
+                                                                                                      Page 3 of 9
+                          Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - Balancing Security and Efficiency: A Power Consumption Analysis of a Lightweight Block Cipher
+
+* Article - Beam Orbital Parameter Prediction Based on the Deployment of Cascaded Neural Networks at Edge
+Intelligence Acceleration Nodes
+
+* Article - Bit Sufi-Dance: Covert Data Exfiltration from Air-Gapped Networks via Electricity Meter
+
+* Article - Blockchain Bottleneck Analysis Based on Performance Metrics Causality
+
+* Article - BTIP: Branch Triggered Instruction Prefetcher Ensuring Timeliness
+
+* Article - Capacity Optimization of Wind-Solar-Storage Multi-Power Microgrid Based on Two-Layer Model and an
+Improved Snake Optimization Algorithm
+
+* Article - Categorical Multi-Query Subgraph Matching on Labeled Graph
+
+* Article - Charge Transport Characteristics in Doped Organic Semiconductors Using Hall Effect
+
+* Article - Cloud-Based Automatic Configuration and Disaster Recovery of Communication Systems Applied in
+Engineering Training
+
+* Article - Comprehensive Analysis and Reconstruction of Sensor Faults in Interleaved Buck Converters Using
+Sliding Mode Observers
+
+* Article - Comprehensive Analysis of Improved Hunter-Prey Algorithms in MPPT for Photovoltaic Systems Under
+Complex Localized Shading Conditions
+
+* Article - Computing Unit and Data Migration Strategy under Limited Resources: Taking Train Operation Control
+System as an Example
+
+* Article - Conditional Community Search Based on Weight Information
+
+* Article - Container-Based Electronic Control Unit Virtualisation: A Paradigm Shift Towards a Centralised
+Automotive E/E Architecture
+
+* Article - Course Success Prediction and Early Identification of At-Risk Students Using Explainable Artificial
+Intelligence
+
+* Article - CPEQA: A Large Language Model Based Knowledge Base Retrieval System for Chinese Confidentiality
+Knowledge Question Answering
+
+* Article - Cracking the Core: Hardware Vulnerabilities in Android Devices Unveiled
+
+* Article - Creating Digital Twins of Robotic Stations Using a Laser Tracker
+
+* Article - Current Compensation for Faulted Grid-Connected PV Arrays Using a Modified Voltage-Fed Quasi-Z-
+Source Inverter
+
+* Article - Decentralized Machine Learning Framework for the Internet of Things: Enhancing Security, Privacy, and
+Efficiency in Cloud-Integrated Environments
+
+* Article - DecoupleCLIP: A Novel Cross-Modality Decouple Model for Painting Captioning
+
+* Article - Deep Convolutional Transformer Network for Stock Movement Prediction
+
+* Article - Deep Unsupervised Homography Estimation for Single-Resolution Infrared and Visible Images Using
+GNN
+
+                                                                                                       Page 4 of 9
+                         Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - Design Considerations for Power-Efficient Fully Integrated 3:1 Switched Capacitor DC-DC Converter for
+PV Modules
+
+* Article - Design of a Fast Robotic Total Station Through Ad Hoc Virtual Experiments and Its Digital Twin
+
+* Article - Design of Voltage-Current Reference Source in CMOS Technology
+
+* Article - Diagnosing and Characterizing Chronic Kidney Disease with Machine Learning: The Value of Clinical
+Patient Characteristics as Evidenced from an Open Dataset
+
+* Article - Digitalisation and Cybersecurity: Towards an Operational Framework
+
+* Article - Double Counterfactual Regret Minimization for Generating Safety-Critical Scenario of Autonomous Driving
+
+* Article - DQKNet: Deep Quasiconformal Kernel Network Learning for Image Classification
+
+* Article - Dq-YOLOF: An Effective Improvement with Deformable Convolution and Sample Quality Optimization
+Based on the YOLOF Detector
+
+* Article - Dynamic Black-Box Model Watermarking for Heterogeneous Federated Learning
+
+* Article - Edge Artificial Intelligence for Electrical Anomaly Detection Based on Process-In-Memory Chip
+
+* Article - EEG Data Augmentation Method for Identity Recognition Based on Spatial-Temporal Generating
+Adversarial Network
+
+* Article - Effect of Mechanical Keyboard Switch and Backlight Status on Typing Performance and User Experience
+
+* Article - Empowering Consumer Decision-Making: Decoding Incentive vs. Organic Reviews for Smarter Choices
+Through Advanced Textual Analysis
+
+* Article - Evolving Transparent Credit Risk Models: A Symbolic Regression Approach Using Genetic Programming
+
+* Article - Fake Review Detection Model Based on Comment Content and Review Behavior
+
+* Article - FL-APB: Balancing Privacy Protection and Performance Optimization for Adversarial Training in
+Federated Learning
+
+* Article - FPGA-Based Design of a Ready-to-Use and Configurable Soft IP Core for Frame Blocking Time-Sampled
+Digital Speech Signals
+
+* Article - Fuel Cell-Based Distributed Robust Optimal Scheduling for Combined Heat and Power Supply
+
+* Article - GAO-FCNN-Enabled Beamforming of the RIS-Assisted Intelligent Communication System
+
+* Article - Generalized NTRU Algorithms on Algebraic Rings
+
+* Article - Global Path Optimal Planning Method for Autonomous Vehicles Based on Image Feature Extraction
+
+* Article - Graph Neural Network-Based Speech Emotion Recognition: A Fusion of Skip Graph Convolutional
+Networks and Graph Attention Networks
+
+* Article - Hardware-in-the-Loop Simulations and Experiments of Anti-Lock Braking System for Cornering
+Motorcycles
+
+* Article - HT-PGFV: Security-Aware Hardware Trojan Security Property Generation and Formal Security
+Verification Scheme
+
+                                                                                                     Page 5 of 9
+                         Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - Hybrid Duplex Medium Access Control Protocol for Tsunami Early Warning Systems in Underwater
+Networks
+
+* Article - Impact of Air Gaps Between Microstrip Line and Magnetic Sheet on Near-Field Magnetic Shielding
+
+* Article - Implementation of a Whisper Architecture-Based Turkish Automatic Speech Recognition (ASR) System
+and Evaluation of the Effect of Fine-Tuning with a Low-Rank Adaptation (LoRA) Adapter on Its Performance
+
+* Article - Improving Top-Down Attention Network in Speech Separation by Employing Hand-Crafted Filterbank and
+Parameter-Sharing Transformer
+
+* Article - Inertial Measurement Unit Self-Calibration by Quantization-Aware and Memory-Parsimonious Neural
+Networks
+
+* Article - Intelligent Control Algorithms for Enhanced Frequency Stability in Single and Interconnected Power
+Systems
+
+* Article - Joint Design of Transmit Waveform and Altitude for Unmanned Aerial Vehicle-Enabled Integrated Sensing
+and Wireless Power Transfer Systems
+
+* Article - Joint Wideband Spectrum Sensing and Carrier Frequency Estimation in the Multi-Path Propagation
+Environment Based on Sub-Nyquist Sampling
+
+* Article - L-GraphSAGE: A Graph Neural Network-Based Approach for IoV Application Encrypted Traffic
+Identification
+
+* Article - Linguistic Secret Sharing via Ambiguous Token Selection for IoT Security
+
+* Article - Logic Diagnosis Based on Logic Built-In Self-Test Signatures Collected In-Field from Failing System-on-
+Chips
+
+* Article - Melt Characteristics of a Deposited Layer on Rail Surface under Different Contact Models for
+Electromagnetic Launching
+
+* Article - Memoization in Model Checking for Safety Properties with Multi-Swarm Particle Swarm Optimization
+
+* Article - Millimeter-Wave Radar Clutter Suppression Based on Cycle-Consistency Generative Adversarial Network
+
+* Article - Mission Planning Method for Dense Area Target Observation Based on Clustering Agile Satellites
+
+* Article - Mitigating Thermal Side-Channel Vulnerabilities in FPGA-Based SiP Systems Through Advanced
+Thermal Management and Security Integration Using Thermal Digital Twin (TDT) Technology
+
+* Article - Model Reduction Method for Spacecraft Electrical System Based on Singular Perturbation Theory
+
+* Article - Modeling and Simulation of Wide-Frequency Characteristics of Electromagnetic Standard Voltage
+Transformer
+
+* Article - Modeling Cybersecurity Risk: The Integration of Decision Theory and Pivot Pairwise Relative Criteria
+Importance Assessment with Scale for Cybersecurity Threat Evaluation
+
+* Article - Multi-Agent Deep Reinforcement Learning for Blockchain-Based Energy Trading in Decentralized Electric
+Vehicle Charger-Sharing Networks
+
+* Article - Natural Language Processing and Machine Learning-Based Solution of Cold Start Problem Using
+Collaborative Filtering Approach
+
+                                                                                                      Page 6 of 9
+                         Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - Noncontace Monitoring of Respiration and Heartbeat Based on Two-Wave Model Using a Millimeter-
+Wave MIMO FM-CW Radar
+
+* Article - Nonlinear Control System for Flat Plate Structures Considering Interference Based on Operator Theory
+and Optimization Method
+
+* Article - Object Tracking Algorithm Based on Integrated Multi-Scale Templates Guided by Judgment Mechanism
+
+* Article - On the Design of a Simulation-Assisted Human-Centered Quasi-Stiffness-Based Actuator for Ankle
+Orthosis
+
+* Article - On-Chip Data Reduction and Object Detection for a Feature-Extractable CMOS Image Sensor
+
+* Article - Online Three-Dimensional Fuzzy Reinforcement Learning Modeling for Nonlinear Distributed Parameter
+Systems
+
+* Article - Optimization of Hybrid Energy Systems Based on MPC-LSTM-KAN: A Case Study of a High-Altitude
+Wind Energy Work Umbrella Control System
+
+* Article - PANDA: A Polarized Attention Network for Enhanced Unsupervised Domain Adaptation in Semantic
+Segmentation
+
+* Article - Patent Keyword Analysis Using Regression Modeling Based on Quantile Cumulative Distribution Function
+
+* Article - PBNet: Combining Transformer and CNN in Passport Background Texture Printing Image Classification
+
+* Article - Phase-Angle-Encoded Snake Optimization Algorithm for K-Means Clustering
+
+* Article - Physics-Driven Image Dehazing from the Perspective of Unmanned Aerial Vehicles
+
+* Article - PII-GCNet: Lightweight Multi-Modal CNN Network for Efficient Crowd Counting and Localization in UAV
+RGB-T Images
+
+* Article - Power Transformer Fault Diagnosis Based on Random Forest and Improved Particle Swarm
+Optimization-Backpropagation-AdaBoost
+
+* Article - Predicting the Impact of Distributed Denial of Service (DDoS) Attacks in Long-Term Evolution for Machine
+(LTE-M) Networks Using a Continuous-Time Markov Chain (CTMC) Model
+
+* Article - Prompt Update Algorithm Based on the Boolean Vector Inner Product and Ant Colony Algorithm for Fast
+Target Type Recognition
+
+* Article - Public Authentic-Replica Sampling Mechanism in Distributed Storage Environments
+
+* Article - Quantum Effects Induced by Defects in Thin-Film Structures: A Hybrid Modeling Approach to
+Conductance and Transmission Analysis
+
+* Article - Random-Coupled Neural Network
+
+* Article - Receiving Paths Improvement of Digital Phased Array Antennas Using Adaptive Dynamic Range
+
+* Article - Recognition of Street Landscape Patterns in Kunming City Based on Intelligent Decision Algorithm and
+Regional Cultural Expression
+
+* Article - Reconfigurable Frequency Response Masking Multi-MAC Filters for Software Defined Radio
+Channelization
+
+* Article - Reconfiguring Vehicles for Drivers with Disability: A Knowledge-Based Decision Support System
+
+                                                                                                     Page 7 of 9
+                         Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - Reducing Interface Resistance in Semiconductor System Through the Integration of Graphene
+
+* Article - Research on Stator Sections Switching Process of High-Thrust Linear Motors
+
+* Article - Research on Sub-Module Fluctuating Power Decoupling Strategy for Modular Multilevel Converter-Based
+Medium-Voltage Motor Drive System with Wide Speed Range
+
+* Article - Research on the Technology of Improving the Compatibility of DC Measurement Devices Based on the
+Operation Experience of Siemens Hardware Solutions
+
+* Article - Resonance Capacitance Selection Method for Minimizing Leakage Magnetic Fields and Achieving Zero
+Phase Angles in Wireless Power Transfer Systems
+
+* Article - Rethinking Data Democratization: Holistic Approaches Versus Universal Frameworks
+
+* Article - RNEP: Random Node Entropy Pairing for Efficient Decentralized Training with Non-IID Local Data
+
+* Article - SafeMD: Ownership-Based Safe Memory Deallocation for C Programs
+
+* Article - Scene Measurement Method Based on Fusion of Image Sequence and Improved LiDAR SLAM
+
+* Article - Short-Term Prediction Model of Wave Energy Converter Generation Power Based on CNN-BiLSTM-
+DELA Integration
+
+* Article - Signal Processing to Characterize and Evaluate Nonlinear Acoustic Signals Applied to Underwater
+Communications
+
+* Article - Simplified Modelling Techniques for Dynamic Wireless Power Transfer
+
+* Article - Small Target Detection Algorithm Based on Improved YOLOv5
+
+* Article - Small-Sample Data Pricing Based on Data Augmentation and Meta-Learning
+
+* Article - Smart Sleep Monitoring: An Integrated Application for Tracking and Analyzing Babies' Sleep--BabyCare
+
+* Article - Spare Parts Management Strategy of High-Speed Railway Running Department Based on Performance
+Prediction
+
+* Article - Spiking Neural Networks for Real-Time Pedestrian Street-Crossing Detection Using Dynamic Vision
+Sensors in Simulated Adverse Weather Conditions
+
+* Article - SS-Trans (Single-Stream Transformer for Multimodal Sentiment Analysis and Emotion Recognition): The
+Emotion Whisperer--A Single-Stream Transformer for Multimodal Sentiment Analysis
+
+* Article - Sudden Cardiac Death Risk Prediction Based on Noise Interfered Single-Lead ECG Signals
+
+* Article - Synthesis of High-Selectivity Two-Dimensional Filter Banks Using Sigmoidal Function
+
+* Article - Text Command Intelligent Understanding for Cybersecurity Testing
+
+* Article - Textile Fabric Defect Detection Using Enhanced Deep Convolutional Neural Network with Safe Human-
+Robot Collaborative Interaction
+
+* Article - The Design of Fast Type-V Discrete Cosine Transform Algorithms for Short-Length Input Sequences
+
+* Article - The Dynamic Response of Dual Cellular-Connected UAVs for Random Real-Time Communication
+Requests from Multiple Hotspots: A Deep Reinforcement Learning Approach
+
+                                                                                                    Page 8 of 9
+                         Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+* Article - Three-Level Double LLC Resonant Converter with Ripple-Free Input Current for DC Microgrid Application
+
+* Article - Toward Energy Efficient Battery State of Charge Estimation on Embedded Platforms
+
+* Article - Training by Pairing Correlated Samples Improves Deep Network Generalization
+
+* Article - Transformer-Based GAN with Multi-STFT for Rotating Machinery Vibration Data Analysis
+
+* Article - Transmit Power Optimization in Multihop Amplify-and-Forward Relay Systems with Simultaneous
+Wireless Information and Power Transfer
+
+* Article - TSRDet: A Table Structure Recognition Method Based on Row-Column Detection
+
+* Article - Ultrasonic A-Scan Signals Data Augmentation Using Electromechanical System Modelling to Enhance
+Cataract Classification Methods
+
+* Article - Unraveling the Nuclear Debate: Insights Through Clustering of Tweets
+
+* Article - Utilizing Attention-Enhanced Deep Neural Networks for Large-Scale Preliminary Diabetes Screening in
+Population Health Data
+
+* Article - Worker Presence Monitoring in Complex Workplaces Using BLE Beacon-Assisted Multi-Hop IoT
+Networks Powered by ESP-NOW
+
+* Communication - SOAMC: A Semi-Supervised Open-Set Recognition Algorithm for Automatic Modulation
+Classification
+
+* Review - A Narrative Review of Identity, Data and Location Privacy Techniques in Edge Computing and Mobile
+Crowdsourcing
+
+* Review - A Review of Advanced Thermal Interface Materials with Oriented Structures for Electronic Devices
+
+* Review - Comparison of Advanced Flexible Alternating Current Transmission System (FACTS) Devices with
+Conventional Technologies for Power System Stability Enhancement: An Updated Review
+
+* Review - How Artificial Intelligence (AI) Is Powering New Tourism Marketing and the Future Agenda for Smart
+Tourist Destinations
+
+* Review - Hybridization of Learning Techniques and Quantum Mechanism for IIoT Security: Applications,
+Challenges, and Prospects
+
+* Review - Predicting Work-in-Process in Semiconductor Packaging Using Neural Networks: Technical Evaluation
+and Future Applications
+
+* Review - Recent Status and Prospects of Low-Temperature Drift Resistors
+
+The Nov. 1, 2024, edition of Electronics can be viewed at https://www.mdpi.com/2079-9292/13/21. The journal is
+published by MDPI.
+
+[Category: Electronic Products]
+
+Copyright Targeted News Services
+
+MSTRUCK-8916810 MSTRUCK
+
+
+Load-Date: November 9, 2024
+
+                                                                                      Page 9 of 9
+                  Electronics Journal Issues Research Articles in Vol. 13, Issue 21
+
+
+
+

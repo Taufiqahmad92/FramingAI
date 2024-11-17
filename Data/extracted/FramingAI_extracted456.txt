@@ -1,0 +1,106 @@
+
+
+                                                                                               Page 1 of 2
+   Zerto Sponsored Research Finds Backup-Only Recovery Solutions Are Failing Organizations One-Third of the
+                          Time Report Highlights the Need for "Unified Solution" ....
+
+
+
+
+   Zerto Sponsored Research Finds Backup-Only Recovery Solutions Are
+ Failing Organizations One-Third of the Time; Report Highlights the Need for
+                   "Unified Solution" to DR/CR Challenges
+                                                   Business Wire
+                                     September 10, 2024 Tuesday 1:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 805 words
+Dateline: BOSTON
+
+Body
+
+
+Zerto , a Hewlett Packard Enterprise company, recently commissioned IDC to conduct a major ransomware and
+disaster preparedness survey, which revealed the extent to which backup-related issues are currently failing
+organizations across the globe. These backup-related issues are currently the number one cause of data loss -
+responsible for 32% of incidents - despite the fact that backup and recovery was cited as the number one priority for
+IT software investment this year.
+
+The IDC White Paper, titled ' The State of Disaster Recovery and Cyber-Recovery, 2024-2025: Factoring in AI ,'
+pulls its insights from a survey carried out across North America, Western Europe, India, and Australia, among
+organizations with 500 to 10,000+ employees. Respondents reported an average of 4.2 data disruptions per year
+requiring an IT response with one ransomware attack and one internal attack per year on average.
+
+Across respondents, the weakness of a backup-only recovery strategy was evident. For instance, 48% of
+organizations in the survey that paid a ransom indicated they did so despite having valid backups, with the most
+common reasons cited being a desire for a speedier recovery or minimized data loss. Nonetheless, only 20% of
+ransom-payers were able to fully recover their data after payment, creating a "worst of both worlds" situation in
+which organizations deploy and maintain backup environments without any concrete advantages in the event of an
+attack.
+
+These challenges are exacerbated by worsening personnel issues: according to the report, the most commonly
+cited disaster recovery (DR) challenges for organizations are "IT personnel time and resource availability" and "IT
+personnel skills and knowledge." The same applies to cyber recovery, with 34% of respondents citing "keeping
+recovery processes up to date" as a primary challenge in this arena and 31% of respondents citing "staff knowledge
+and skill sets."
+
+In response to these challenges, the report highlights the importance of a holistic approach to DR and cyber
+recovery (CR) in which "backup and recovery, disaster recovery, and cyber-recovery" build on each other and
+provide a higher degree of data protection. Continuous data protection (CDP) in particular provides essential
+support here, allowing organizations to recover to a point just prior to the attack and consequently minimize any
+
+                                                                                              Page 2 of 2
+  Zerto Sponsored Research Finds Backup-Only Recovery Solutions Are Failing Organizations One-Third of the
+                         Time Report Highlights the Need for "Unified Solution" ....
+
+data loss. Unified solutions like these enable organizations to scale systems without proportionally adding staff - an
+essential benefit since, per IDC, IT organizations tend to take a cautious approach to hiring.
+
+At the same time, businesses remain split on the future of AI. While most respondents claim that AI will have a
+"significant" impact on DR/CR down the line, a strong majority - 59% - don't think current AI is trustworthy for
+DP/CR. Meanwhile, although the vast majority of organizations are using cloud for backup/DR, 58% are still
+protecting a majority of their apps purely on-premises, suggesting that on-prem remains a highly viable backup/DR
+solution. Overall, 40% believe AI will provide a greater benefit than a threat.
+
+"It's unfortunate to see organizations funneling resources into backup processes only to realize that it was all for
+naught - paying the ransom money and losing the data," said Phil Goodwin, research vice president, IDC. "What's
+clear is that only a holistic approach can eliminate these negative outcomes and keep organizations safe. In
+particular, CDP will prove increasingly central to unified data protection efforts in months and years to come."
+
+"Organizations are increasingly responsible for data environments whose complexity they are unequipped to handle
+and whose integrity they are ill-prepared to safeguard," said Caroline Seymour, vice president, storage product
+marketing, HPE. "This is not the fault of any individual organization, but it does demand a more sophisticated
+approach to data protection - one in which traditional backup is not the be-all-end-all but instead one of a suite of
+complementary tools, including CDP."
+
+To review the full report from Zerto and IDC, click here .
+
+About Zerto
+
+Zerto, a Hewlett Packard Enterprise company, empowers customers to run an always-on business by simplifying
+the protection, recovery, and mobility of on-premises and cloud applications. Zerto eliminates the risk and
+complexity of modernization and cloud adoption across private, public, and hybrid deployments. The simple,
+software-only solution uses continuous data protection at scale to solve for ransomware resilience, disaster
+recovery, and multi-cloud mobility. Zerto is trusted by over 9,500 customers globally and is powering offerings for
+Google, IBM, Microsoft, and Oracle and more than 350 managed service providers.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240910352430/en/
+
+
+CONTACT: Derrick Shannon
+Touchdown PR
+
+zerto@touchdownpr.com
+512-599-4015
+
+
+http://www.businesswire.com
+
+
+Load-Date: September 10, 2024
+
+
+  

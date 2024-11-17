@@ -1,0 +1,225 @@
+
+
+                                                                                                  Page 1 of 5
+                        Intermap Announces Third Quarter Revenue Grew 241% Year-Over-Year
+
+
+
+
+    Intermap Announces Third Quarter Revenue Grew 241% Year-Over-Year
+                                                         GlobeNewswire
+                                           November 14, 2024 Thursday 1:00 PM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: EARNINGS RELEASES AND OPERATING RESULTS; CONFERENCE CALLS/ WEBCASTS
+Length: 2071 words
+
+Body
+
+Company reported revenue of $5 million, net income of $1.1 million
+
+Airborne platform accelerating data collection for Indonesian mapping program
+
+Affirming 2024 guidance of $16-18 million in revenue with ~25% adjusted EBITDA margin
+
+Conference call today at 4:30 pm EST to discuss results
+
+DENVER, Nov. 14, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF)
+(“Intermap” or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today
+announced results for the third quarter of 2024.
+
+Financial Highlights
+    •     Revenue of $5 million, up 241% from $1.5 million in the third quarter of 2023
+    •     Acquisition Services revenue grew to $2.9 million from nil in the third quarter of 2023 as the Company
+          accelerated data collection for the Indonesian mapping program
+    •     Value-added Data revenue increased to $1.1 million, compared with $0.4 million in the third quarter of
+          2023
+    •     30% adjusted EBITDA margin, compared with a loss in the third quarter of 2023 as the Company benefited
+          from operating leverage with higher revenue and attractive contribution margins
+
+“Intermap is building long-term, sustainable value for shareholders and executing our business strategy,” said
+Patrick A. Blott, Intermap Chairman and CEO. “We’re deployed in Indonesia where we’re leveraging specialized
+sensors, proprietary processing and advanced AI/ML technology to deliver mission-critical, strategic geospatial
+solutions. We look forward to a long-term, multi-faceted partnership with Indonesia.”
+
+                                                                                                        Page 2 of 5
+                       Intermap Announces Third Quarter Revenue Grew 241% Year-Over-Year
+
+“Our global perils and defense businesses are thriving because there is no substitute for Intermap’s exquisite
+global-scale, military quality location data,” Mr. Blott continued. “In a time of unprecedented natural catastrophes
+and conflict, Intermap provides clients around the world with precision elevation data that saves lives and property.
+As our customers see the value of this data in the wake of recent events, they are renewing and expanding their
+contracts.”
+
+Intermap continues to execute on its Indonesia mapping program, leveraging AI/ML and other advanced proprietary
+technology. With recent advances in production processing automation combined with unmatched expertise and
+experience in feature extraction and radar interpretation, Intermap completed the first 5,900+ map sheets at
+1:5,000-scale in fewer than 3.5 months from day one of data acquisition. This set of map sheets represents over
+25,000 square kilometers of contiguous area coverage of elevation and multi-band, orthorectified radar imagery
+deliverables; it also includes an orthorectified, full-feature stack with land, feature and object classifications. The
+initial processing was accomplished in parallel with ongoing production of the remaining 85% of Phase 1 of the
+project. All remaining deliverables will follow in a shorter timeframe relative to the initial delivery.
+
+Financial Results, Business Highlights and Business Outlook by Segment
+
+Acquisition Services
+    •   Financial Results
+        •    Revenue for the quarter totaled $2.9 million, compared with nil for the prior year quarter. The increase
+             is due to acceleration of data collection for the Sulawesi contract. Last year, Intermap experienced a
+             delay in the award of key government contracts, reducing its acquisition services revenue
+    •   Business Highlights
+        •    Acquired 15% of the data as part of the Company’s Sulawesi contract, which represents approximately
+             10% of Indonesia’s land mass
+    •   Business Outlook
+        •    As Indonesia’s partner for phase one of Indonesia’s national topographic basemap program, Intermap
+             is establishing the foundation for a multiyear Acquisition and Value-added Data partnership to support
+             Indonesia’s One Map initiative through 2028
+        •    One Map’s progress and World Bank’s recent approval for a $653 million Integrated Land
+             Administration and Spatial Planning project underscores the importance of precise 3D geospatial data
+             to fulfill mission-critical strategic data infrastructure requirements
+        •    Intermap is well positioned to capitalize on this trend and anticipates further wins and the expansion of
+             existing contracts throughout Southeast Asia
+
+Value-added Data
+    •   Financial Results
+        •    Revenue increased to $1.1 million for the quarter compared with $0.4 million for the prior year quarter.
+             The increase was primarily due to the expansion of the U.S. Air Force contract
+    •   Business Highlights
+        •    Selected with CACI, Inc. by the National Geospatial-Intelligence Agency as one of the qualified
+             vendors for an important program, with a total project value of up to $290 million over five years – 10x
+             the size of the initial budget
+        •    Won a second phase in its prime contract with the U.S. Air Force to support its development of
+             navigation solutions for GPS-denied environments. Revenue in this second phase is 5x the size of
+             phase one
+    •   Business Outlook
+
+                                                                                                       Page 3 of 5
+                     Intermap Announces Third Quarter Revenue Grew 241% Year-Over-Year
+
+        •   Customers continue to renew and add capacity as their usage surpasses their expectations and
+            contract limits. Further bolstering subscription revenue, customers are adding on Intermap’s innovative
+            solutions
+
+Software and Solutions
+    •   Financial Results
+        •   Revenue decreased slightly to $1.0 million from $1.1 million for the third quarters of 2024 and 2023,
+            respectively. While recurring subscription revenue increased 3%, 2023 included $0.2 of one-time set
+            up fees that were not duplicated in the third quarter of 2024
+        •   Excluding one-time payments from two European accounts, Intermap’s continuing global customers
+            grew subscription revenue 8% to $0.8 million in the third quarter compared with the same period a year
+            ago
+        •   For the first nine months of 2024, Software and Solutions revenue represented 30% of total revenue
+    •   Business Highlights
+        •   Expanded the multiyear subscription contract value with a Top-15 global insurance carrier by over 50%
+    •   Business Outlook
+        •   The Company projects its insurance software subscription business to continue growing at a CAGR of
+            approximately 20% over the next few years
+
+Operating Costs
+    •   Increased to $3.5 million, compared with $2.1 million for the prior year quarter, driven by an increase of
+        $1.2 million in Purchased Services & Materials and $162 thousand in deployment travel
+    •   Both cost increases were related to increased activity, subcontractor and other project related costs for the
+        data acquisition project that accelerated in the third quarter of 2024
+
+Balance Sheet & Capital Expenditures
+
+Cash and accounts receivable totaled $1.5 million at September 30, 2024. Cash milestone payments for Indonesia
+are heavily weighted towards finished product deliveries during the fourth quarter of 2024 and first quarter of 2025.
+
+In the third quarter, the Company raised aggregate gross proceeds of approximately CAD $3,305,956 through the
+issuance of an aggregate 7.3 million Class “A” common shares at a price of CAD $0.45 per common share.
+Aggregate net proceeds are being used for the execution of contracts with the Indonesian government, U.S. Air
+Force and other clients as well as for working capital.
+
+Following a successful capital upgrade and certification of its sensor payload and airborne platform to meet
+stringent geospatial data specifications in Indonesia, total assets increased by $4.4 million to $8.9 million.
+
+2024 GuidanceIntermap affirms its 2024 guidance for total bookings in the range of $20 – 25 million, with revenue
+in the range of $16 – 18 million and Adjusted EBITDA margin of approximately 25%.
+
+Q3 2024 Conference Call today at 4:30pm EST
+
+Intermap’s CEO Patrick A. Blott, CFO Jennifer Bakken and COO Jack Schneider will host a live webinar today, at
+4:30 pm ET / 2:30 pm MT to review the results, provide Company updates and answer investor questions following
+the presentation.
+
+Intermap invites shareholders, analysts, investors, media representatives and other stakeholders to attend the
+earnings webinar to discuss Q3 2024 results.
+
+Webinar Details
+
+                                                                                                           Page 4 of 5
+                      Intermap Announces Third Quarter Revenue Grew 241% Year-Over-Year
+
+                     DATE:                                      Thursday, November 14, 2024
+       TIME:         4:30 pm ET / 2:30 pm MT
+       WEBINAR:      Register
+
+Investor ConferencesIntermap Chairman and CEO Patrick Blott presented on September 26, 2024 at Planet
+MicroCap Showcase: VANCOUVER 2024 and will continue to meet investors at industry conferences.
+
+Quarterly FilingThe Company’s consolidated financial statements for the quarter ended September 30, 2024, along
+with management’s discussion and analysis for the corresponding period and related management certifications for
+third quarter financial results will be filed on SEDAR+ at www.sedarplus.ca on November 14, 2024.
+
+Adjusted EBITDA is a non-GAAP measure. The term Earnings before interest, taxes, depreciation and amortization
+(EBITDA) consists of net loss and excludes interest (financing costs), taxes, and depreciation. Adjusted EBITDA
+also excludes share-based compensation, fair value adjustments and foreign currency translation.
+
+See “Reconciliation of Non-GAAP Measures” in Company’s Management’s Discussion and Analysis filed on
+SEDAR+ at www.sedarplus.ca.
+
+Learn more about Intermap at intermap.com/investors.
+
+Intermap Reader AdvisoryCertain information provided in this news release constitutes forward-looking statements,
+including reference to revenue, bookings and adjusted EBITDA projections or growth. The words "anticipate",
+"expect", "project", "estimate", "forecast", “will be”, “will consider”, “intends” and similar expressions are intended to
+identify such forward-looking statements. Although Intermap believes that these statements are based on
+information and assumptions which are current, reasonable and complete, these statements are necessarily subject
+to a variety of known and unknown risks and uncertainties. Intermap’s forward-looking statements are subject to
+risks and uncertainties pertaining to, among other things, cash available to fund operations, availability of capital,
+revenue fluctuations, nature of government contracts, economic conditions, loss of key customers, retention and
+availability of executive talent, competing technologies, common share price volatility, loss of proprietary
+information, software functionality, internet and system infrastructure functionality, information technology security,
+breakdown of strategic alliances, and international and political considerations, as well as those risks and
+uncertainties discussed Intermap’s Annual Information Form and other securities filings. While the Company makes
+these forward-looking statements in good faith, should one or more of these risks or uncertainties materialize, or
+should underlying assumptions prove incorrect, actual results may vary significantly from those expected.
+Accordingly, no assurances can be given that any of the events anticipated by the forward-looking statements will
+transpire or occur, or if any of them do so, what benefits that the Company will derive therefrom. All subsequent
+forward-looking statements, whether written or oral, attributable to Intermap or persons acting on its behalf are
+expressly qualified in their entirety by these cautionary statements. The forward-looking statements contained in
+this news release are made as at the date of this news release and the Company does not undertake any obligation
+to update publicly or to revise any of the forward-looking statements made herein, whether as a result of new
+information, future events or otherwise, except as may be required by applicable securities law.
+
+About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
+OTCQX: ITMSF) is a global leader in geospatial intelligence solutions. The Company’s proprietary 3D NEXTMap®
+elevation datasets and value-added geospatial collection, processing, analytics, fusion and orthorectification
+software and solutions are utilized across a range of industries that rely on accurate, high-resolution elevation data.
+Intermap helps governments build authoritative geospatial datasets and provides solutions for base mapping,
+transportation, environmental monitoring, topographic mapping, disaster mitigation, smart city integration, public
+safety and defense. The Company’s commercial applications include aviation and UAV flight planning, flood and
+wildfire    insurance, environmental and renewable      energy planning, telecommunications, engineering,       critical
+infrastructure monitoring, hydrology, land management, oil and gas and transportation. For more information,
+please visit www.intermap.com.
+
+                                                                                           Page 5 of 5
+                    Intermap Announces Third Quarter Revenue Grew 241% Year-Over-Year
+
+For more information, please contact: Jennifer BakkenExecutive Vice President and CFOCFO@intermap.com +1
+(303) 708-0955
+
+Sean PeasgoodInvestor RelationsSean@SophicCapital.com +1 (647) 260-9266
+
+
+Load-Date: November 14, 2024
+
+
+  

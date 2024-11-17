@@ -1,0 +1,103 @@
+
+
+                                                                                Page 1 of 2
+   FSU FACULTY NET MORE THAN $9M IN GRANTS TO DEVELOP AI FOR USE IN SCIENTIFIC RESEARCH
+
+
+
+
+FSU FACULTY NET MORE THAN $9M IN GRANTS TO DEVELOP AI FOR USE
+                   IN SCIENTIFIC RESEARCH
+                                                      US Fed News
+                                         October 16, 2024 Wednesday 12:32 PM EST
+
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+
+
+Length: 871 words
+
+Body
+
+
+TALLAHASSEE, Fla., Oct. 16 -- Florida State University issued the following news release:
+
+Two Florida State University researchers have earned more than $9 million in separate grants from the U.S.
+Department of Energy to develop foundation models for artificial intelligence that benefit science.
+
+Feng Bao, the Timothy Gannon Endowed Associate Professor in the Department of Mathematics, and Zecheng
+Zhang, assistant professor of mathematics, will use their grants over the next three years to develop privacy-
+preserving and energy-efficient AI models that tackle a range of public-facing climate issues and contribute to the
+preservation of collected green energy such as wind, wave and solar power. FSU is the only institution to be
+awarded multiple grants for this initiative and earned two of 11 grants awarded.
+
+"We're looking to solve real problems that scientists and the general public are facing," Bao said. "By creating
+foundation models, which are machine learning or deep learning models that can be used across a wide range of
+applications because they're trained on broad data, we're building a key component of AI and can assist scientists
+in a number of ways."
+
+Over the next three years Bao and Zhang will work with their respective teams alongside environmental scientists,
+climate scientists, computer scientists and other researchers to develop models that can be scaled for use in
+supercomputers - which can further optimize the models - at U.S. national laboratories including Oak Ridge
+National Laboratory.
+
+"While one model may not address every issue we're trying to fix, we can create various foundation models that,
+when given a new problem and some retraining, can quickly adapt to solve new problems," Zhang said. "A big part
+of math's role in AI is determining how much data a model needs in order to solve a problem."
+
+Existing AI systems have tools to predict weather events, map deforestation, track icebergs and their melt rates,
+identify pollution and more. Bao's $5.4 million project, titled "DyGenAI: Dynamic Generative Artificial Intelligence
+for Prediction and Control of High-Dimensional Nonlinear Complex Systems," will be programmed with massive
+amounts of observational data and scientific principles to develop models that improve the accuracy of weather
+event predictions such as hurricane forecasts.
+
+                                                                               Page 2 of 2
+  FSU FACULTY NET MORE THAN $9M IN GRANTS TO DEVELOP AI FOR USE IN SCIENTIFIC RESEARCH
+
+"Progress in AI is inspiring us to imagine faster and more-efficient ways to do science. These research efforts will
+make scientific AI both more trustworthy and more energy efficient, unlocking its potential to accelerate scientific
+discovery."
+
+- Ceren Susut, DOE Associate Director of Science Advanced Scientific Computing Research
+
+Because dynamic models adapt to solve new problems as the models take in new data, they can be programmed
+to provide predictions for exact geographic locations in a certain set of atmospheric conditions. These models will
+also be generative, meaning they can estimate unobservable conditions, such as those predicted in impending
+weather events, based on known data.
+
+"Dynamic generative models allow for fast data processing and the ability to quickly make a decision based on this
+new data," Bao said. "For example, if a model predicts a natural disaster like a hurricane based on real-time, local
+data, both emergency responders and citizens can have more time to prepare. Another model will also be used to
+inform preparations about securing and storing renewable energy, which is necessary because renewable energy
+sources are not always available due to weather conditions."
+
+Zhang's $4 million project "FedNeMO: Physics-Informed and Energy-Aware Federated Learning of Neural Multi-
+Operator Learners as Scientific Foundation Models" will process observational data, physical principles and energy
+principles to develop models that assist researchers working with the Earth's surface. While Bao's model will be
+used by meteorologists to prepare for changing weather, Zhang's model will be used to predict earthquakes and
+better investigate the Earth's structure, including identifying minerals underground.
+
+"By taking in data from sensors all over the world, which measure the Earth's activity, a model can predict even a
+potential earthquake," Zhang said. "I'm also planning to collaborate with scientists from our Department of Earth,
+Ocean and Atmospheric Science as well as the FAMU-FSU College of Engineering in developing these models."
+
+Funding for this DOE initiative is directed by the White House's executive order for the Safe, Secure and
+Trustworthy Development and Use of Artificial Intelligence, which supports work to develop foundation models for
+science and privacy-preserving AI technologies.
+
+"Progress in AI is inspiring us to imagine faster and more-efficient ways to do science," said Ceren Susut, DOE
+Associate Director of Science for Advanced Scientific Computing Research. "These research efforts will make
+scientific AI both more trustworthy and more energy efficient, unlocking its potential to accelerate scientific
+discovery."
+
+To learn more about research in the Department of Mathematics, visit math.fsu.edu. For any query with respect to
+this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+
+Load-Date: October 18, 2024
+
+
+  

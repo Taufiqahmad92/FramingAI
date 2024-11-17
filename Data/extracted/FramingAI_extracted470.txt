@@ -1,0 +1,107 @@
+
+
+                                                                                                       Page 1 of 2
+                                Advances in human-robot telemanipulation by CEAT faculty
+
+
+
+
+              Advances in human-robot telemanipulation by CEAT faculty
+                                                     Targeted News Service
+                                          September 9, 2024 Monday 9:17 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 717 words
+Byline: Targeted News Service
+Dateline: STILLWATER, Oklahoma
+
+Body
+
+
+Oklahoma State University issued the following news:
+
+Dr. Lingfeng Tao, assistant professor and coordinator of mechatronics and robotics, and Dr. He Bai, associate
+professor of mechanical and aerospace engineering, both from the College of Engineering, Architecture and
+Technology, have received a National Science Foundation EAGER award totaling $160,000 to fund their research
+on developing advancements to telemanipulation technologies that could transform healthcare, disaster response
+and more.
+
+Their project aims to advance teleoperation systems for robotic hands by transitioning from basic motion imitation to
+developing more intuitive and outcome-driven control systems. These advancements have the potential to
+significantly impact various industries by enhancing the precision and effectiveness of remote robotic manipulation.
+
+Innovative Approach to Telemanipulation
+
+Tao and his team aim to revolutionize human-robot collaboration by integrating advanced deep reinforcement
+learning algorithms and multi-modal perception systems into a bi-directional control and feedback telemanipulation
+systems.
+
+Dr. Tao with students Haoyang Wang and Haoran Guo who assisted with the research.
+
+These systems integrate diverse sensory technologies, including inertial measurement units, computer vision
+methods and convolutional neural networks, enabling the AI-controlled robot to accurately interpret and execute
+human commands based on desired task outcomes. The systems utilize multiple feedback devices such as visual,
+auditory and haptic to create a cohesive and intuitive experience for the operator. This system enhances human-
+robot interaction by providing comprehensive feedback, enabling the operator to make more informed decisions and
+perform tasks more effectively and safely.
+
+                                                                                                             Page 2 of 2
+                              Advances in human-robot telemanipulation by CEAT faculty
+
+"Our approach allows robots to interpret and execute human commands more accurately while minimizing the
+cognitive and physical demands on operators," Tao said. "This will make telemanipulation systems much easier to
+learn and use, requiring less training and making the technology more accessible across different sectors."
+
+Applications Across Key Industries
+
+The potential applications of this research span several critical industries:
+
+Health Care: Enhanced precision in telesurgery, allowing surgeons to perform delicate procedures remotely with
+improved control and safety. Disaster Response: Remote handling of hazardous materials or navigating through
+dangerous environments, such as collapsed structures, to perform search and rescue operations without putting
+human responders at risk. Space and Deep-Sea Exploration: Conducting complex tasks in space or deep-sea
+environments where direct human involvement is not feasible, such as assembling structures or repairing
+equipment. Manufacturing: Automating assembly lines where precise, flexible manipulation of objects is required,
+improving efficiency and reducing the need for human intervention in repetitive or dangerous tasks.
+
+Inspiring the Next Generation
+
+In addition to its industrial applications, this research is also helping to inspire future innovators. The team is actively
+involved in K-12 STEM education, bringing hands-on robotics demonstrations to students through outreach
+activities like 4-H Robotics Exploration Day and mentorship for the Stillwater High School Robotics Team.
+
+"We want to inspire students by showing how advanced robotics can solve real-world problems," Tao said.
+
+The research team is planning more educational initiatives, including summer camps and short lectures.
+
+Looking Ahead
+
+Tao notes that the most crucial aspect of this research is its focus on enhancing human-robot collaboration in
+complex and safety-critical tasks. By leveraging advanced perception systems, this research has the potential to set
+new standards in telemanipulation, making human-robot teaming safer, more precise and more intuitive across
+multiple industries.
+
+"We're excited to address these challenges and create solutions that will impact industries worldwide," Bai said.
+
+Learn more about their research by visiting Tao's webpage and Bai's webpage.
+
+***
+
+Original            text          here:            https://news.okstate.edu/articles/engineering-architecture-
+technology/2024/advances_in_human_robot_telemanipulation_by_ceat_faculty.html
+
+Copyright Targeted News Services
+
+MSTRUCK-8807222 MSTRUCK
+
+
+Load-Date: September 9, 2024
+
+
+  

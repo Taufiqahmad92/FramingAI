@@ -1,0 +1,116 @@
+
+
+                                                                                                  Page 1 of 3
+    Hitachi Vantara Expands Hybrid Cloud Storage Platform with Object Storage, All-QLC Flash and Advancing
+                                              Cloud Integration
+
+
+
+
+Hitachi Vantara Expands Hybrid Cloud Storage Platform with Object Storage,
+              All-QLC Flash and Advancing Cloud Integration
+                                                           PR Newswire
+                                         November 12, 2024 Tuesday 9:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1387 words
+Dateline: SANTA CLARA, Calif., Nov. 12, 2024
+
+Body
+
+
+PR NewswireVirtual Storage Platform One integrates object storage with block and file, expands dense capacity
+with QLC flash, and extends software-defined cloud integration to provide reduced cost, improved management of
+unstructured data, and unmatched energy efficiencySANTA CLARA, Calif., Nov. 12, 2024 /PRNewswire/ -- Hitachi
+Vantara, the data storage, infrastructure, and hybrid cloud management subsidiary of Hitachi, Ltd. (TSE: 6501),
+today announced the launch of new solutions available through itsVirtual Storage Platform Onedata platform.
+Designed to redefine storage and data management for AI and analytics workloads, the new suite includes an all-
+new quad-level cell (QLC) flash storage array with public cloud replication and an object storage appliance.
+Together, these solutions deliver simplicity, security, and sustainable scalability to help organizations optimize data
+management, ensuring they stay agile in an increasingly data-centric world.
+
+For      more     information        about      Hitachi     Vantara's      Virtual    Storage      Platform     One,
+visit.www.hitachivantara.com/products/storage-platforms/data-platformAs enterprises face mounting challenges in
+managing the costs and complexities of rapidly expanding hybrid and multi-cloud environments, the exponential
+growth of data continues to reshape the technological landscape. Many organizations are overwhelmed with finding
+ways to scale their data infrastructure and modernize applications, all while managing carbon footprints and IT
+budgets. A recentsurveyfound the larger the volumes of data a company works with, the more compute power it
+needs, and the higher the associated costs, and in data analytics processes, for example, more than two-thirds of
+the organizations surveyed experienced "bill shock" at least quarterly or more frequently.The addition of an all-QLC
+flash storage array is significant as this technology is easily scalable and reduces the cost per gigabyte compared
+to other flash types, making it a more economical choice for large-scale data storage needs without sacrificing
+performance. Hitachi Vantara engineering has focused on uptime and reliability, offering dual port QLC media to
+deliver data access if a hardware failure occurs. QLC flash storage offers higher density and lower power
+consumption compared to traditional storage solutions. This efficiency means that organizations can reduce their
+energy use, leading to lower carbon footprints. Additionally, the new object storage appliance is designed to easily
+scale to accommodate vast amounts of unstructured data that is prevalent in fueling numerous AI use cases, and
+each object is stored with rich metadata, which allows for easier categorization, searchability, and data lifecycle
+management, helping organizations quickly find and retrieve the data they need."Enterprises today are navigating
+an incredibly complex data landscape, with hybrid and multi-cloud environments and the growing influence of
+GenAI transforming how they operate," saidOctavian Tanase, chief product officer, Hitachi Vantara. "Our latest
+
+                                                                                                  Page 2 of 3
+    Hitachi Vantara Expands Hybrid Cloud Storage Platform with Object Storage, All-QLC Flash and Advancing
+                                              Cloud Integration
+
+Virtual Storage Platform One solutions are designed to address these challenges head-on, providing customers
+with the advanced tools they need to harness their data, drive innovation, and achieve sustainable growth. By
+simplifying infrastructure and enhancing scalability, we are empowering businesses to unlock the full potential of
+their data in ways that were previously unimaginable."The new suite delivers powerful solutions tailored to meet
+evolving needs. These latest offerings include:Virtual Storage Platform One Block – The all-QLC flash storage array
+with public cloud replication provides a new storage solution to harness QLC flash technology and deliver high-
+density, cost-effective storage ideal for large-capacity needs. With integrated public cloud replication, users can
+seamlessly backup and replicate data to the cloud for enhanced disaster recovery and data availability.Virtual
+Storage Platform One Object – The object storage appliance is engineered for scalability and provides a robust
+solution for managing massive volumes of unstructured data driven by AI workloads. It combines durability and
+reliability, with multi-node configurations that ensure data availability and integrity, making it ideal for industries like
+media, healthcare, and finance. As a result, customers can optimize costs and significantly reduce rack space,
+power consumption, and CO2 emissions.The new offerings complementVirtual Storage Platform One SDS
+Cloud, which is designed to protect critical data with zero impact on performance. This scalable, asynchronous
+solution also enables seamless replication from on-premises to the cloud (AWS), using snapshots to deliver real-
+time data for application development and testing in non-production environments. With support for multiple
+availability zones, bolsters operational resilience while simplifying database expansion, ensuring continuous
+protection and uninterrupted performance. The all-QLC flash storage array addition to the platform affirms Hitachi
+Vantara's commitment to energy-efficient technology, asrecognized by ENERGY STAR®, which ranked Virtual
+Storage Platform One in the top three best storage solutions for performance in energy efficiency. The
+comprehensive suite of integrated solutions provides an end-to-end data management experience, which
+seamlessly integrates storage and cloud, to create a unified and adaptable environment."The addition of all-QLC
+flash and object storage appliance provides a compelling solution for organizations looking to manage large-scale
+data environments efficiently,"said, Scott Sinclair, practice director for cloud, infrastructure and DevOps at
+Enterprise Strategy Group. "Hitachi Vantara continues to address the pressing needs of modern IT infrastructure,
+which helps businesses stay competitive in an era defined by data-driven innovation."For more information about
+Virtual Storage Platform One and its suite of solutions, please visithttps://www.hitachivantara.com/en-
+us/products/storage-platforms/data-platform.Additional ResourcesBlog: Growing Our Platform, to Help You Grow
+Your BusinessBlog: Elevating VSP One to a New Level with Samsung QLCVirtual Storage Platform One
+ObjectBlog: Hitachi Vantara Revolutionizes Midrange Storage with Virtual Storage Platform One Block Storage
+AppliancesBlog: Virtual Storage Platform One Block: Simplicity, Sustainability and PerformanceConnect With
+Hitachi VantaraLinkedInXFacebookAbout Hitachi VantaraHitachi Vantara is transforming the way data fuels
+innovation. A wholly owned subsidiary of Hitachi Ltd., Hitachi Vantara provides the data foundation the world's
+leading innovators rely on. Through data storage, infrastructure systems, cloud management and digital expertise,
+the company helps customers build the foundation for sustainable business growth. To learn more,
+visitwww.hitachivantara.com.About Hitachi, Ltd.Hitachi drives Social Innovation Business, creating a sustainable
+society through the use of data and technology. We solve customers' and society's challenges with Lumada
+solutions leveraging IT, OT (Operational Technology) and products. Hitachi operates under the 3 business sectors
+of "Digital Systems & Services" – supporting our customers' digital transformation; "Green Energy & Mobility" –
+contributing to a decarbonized society through energy and railway systems, and "Connective Industries" –
+connecting products through digital technology to provide solutions in various industries. Driven by Digital, Green,
+and Innovation, we aim for growth through co-creation with our customers. The company's revenues as 3 sectors
+for fiscal year 2023 (ended March 31, 2024) totaled 8,564.3 billion yen, with 573 consolidated subsidiaries and
+approximately 270,000 employees worldwide. For more information on Hitachi, please visit the company's website
+athttps://www.hitachi.com.HITACHI is a trademark or registered trademark of Hitachi, Ltd. All other trademarks,
+service marks, and company names are properties of their respective owners. View original content to download
+multimedia:https://www.prnewswire.com/news-releases/hitachi-vantara-expands-hybrid-cloud-storage-platform-
+with-object-storage-all-qlc-flash-and-advancing-cloud-integration-302302563.htmlSOURCE Hitachi Vantara
+
+
+Load-Date: November 12, 2024
+
+                                                                                               Page 3 of 3
+ Hitachi Vantara Expands Hybrid Cloud Storage Platform with Object Storage, All-QLC Flash and Advancing
+                                           Cloud Integration
+
+
+

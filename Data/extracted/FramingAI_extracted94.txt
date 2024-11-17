@@ -1,0 +1,155 @@
+
+
+                                                                                               Page 1 of 3
+       WISeKey Subsidiary WISeSat.Space Prepares for a January 2025 Launch of Next-Generation Satellite,
+                      Supporting European Satellite Independence and IoT Connectivit....
+
+
+
+
+ WISeKey Subsidiary WISeSat.Space Prepares for a January 2025 Launch of
+ Next-Generation Satellite, Supporting European Satellite Independence and
+                              IoT Connectivity
+                                                         GlobeNewswire
+                                            November 4, 2024 Monday 9:00 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: COMPANY ANNOUNCEMENT
+Length: 1584 words
+
+Body
+
+
+WISeKey Subsidiary WISeSat.Space Prepares for a January 2025 Launch of Next-Generation Satellite, Supporting
+European Satellite Independence and IoT Connectivity
+
+Launch Timed with WISeKey’s Davos Roundtable on Space Technology
+
+Geneva, Switzerland – November 4, 2024: WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ:
+WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations operating as a
+holding company, today announces that its subsidiary, WISeSat.Space, is preparing for the mid-January 2025
+launch of its next-generation satellite. This satellite, initially planned for Q4 2024, will now launch just days ahead of
+WISeKey’s January 22, 2025 event in Davos, which includes a roundtable focused on advancements in space
+technology.       For      more         information          about       the      Davos        annual      event     visit:
+https://www.wisekey.com/davos25/howspacewillbethenextinternet/.
+
+This launch represents a significant development in WISeSat.Space’s mission to provide secure IoT connectivity,
+advance climate change monitoring capabilities, and support European satellite independence with cutting-edge
+technology.
+
+WISeSat.Space’s new generation of low-orbit satellites leverages compact picosatellites equipped with SEALSQ
+Corp. (“SEALSQ”) (NASDAQ: LAES) semiconductor technology and WISeKey’s renowned cryptographic keys.
+These integrated solutions enhance the security, performance, and resilience of satellite-based IoT systems, and
+support a diverse range of applications including environmental monitoring, disaster management, smart
+
+                                                                                              Page 2 of 3
+      WISeKey Subsidiary WISeSat.Space Prepares for a January 2025 Launch of Next-Generation Satellite,
+                     Supporting European Satellite Independence and IoT Connectivit....
+
+agriculture, and industrial IoT solutions. The satellites are specifically designed to support low-power sensors,
+enabling data collection in remote and off-grid areas. WISeSat.Space’s picosatellites, which are smaller and more
+cost-effective than traditional satellites, make global IoT connectivity feasible by reducing launch costs and
+optimizing data transmission. The satellite technology incorporates Quantum-Resistant cryptographic keys, and
+offers future-proof security against potential quantum computing threats, a step critical to the long-term security of
+global IoT ecosystems.
+
+An essential component of WISeSat.Space’s strategy is the creation of a European-based, neutral satellite
+constellation. By anchoring operations in Europe, WISeSat.Space is able to ensure data sovereignty and reduce
+reliance on non-European providers for critical IoT and environmental data. This independence not only strengthens
+data security but also allows for robust, unencumbered international cooperation. A neutral European constellation
+addresses global trust concerns, positioning Europe as a leader in secure and autonomous satellite technology.
+This approach further aligns with EU objectives for strategic autonomy and technological resilience, fostering
+economic growth and high-tech job creation within the region.
+
+The advanced satellite set for January 2025 launch includes key enhancements to bolster connectivity for diverse
+IoT applications. The satellites' upgraded semiconductor technology, developed by SEALSQ, optimizes both
+processing and communication capabilities. This facilitates faster data relay and enhanced responsiveness, crucial
+for applications in real-time environmental monitoring, industrial automation, and smart agriculture. For climate
+change monitoring, the WISeSat constellation allows for the real-time tracking of environmental variables, enabling
+early detection and response to extreme weather events. The satellites contribute to disaster management through
+early warning systems, aiding vulnerable communities and ecosystems by providing timely, high-quality data. These
+capabilities not only support critical disaster preparedness but also allow policymakers to make informed decisions
+about climate resilience and adaptation.
+
+WISeSat.Space’s picosatellites employ a unique design focused on compactness and cost-effectiveness. Through
+the combination of low-orbit satellite networks and low-power, long-range sensors, WISeSat.Space provides a
+reliable network with low latency and high data accuracy—ideal for continuous tracking and monitoring across
+large, remote areas. These picosatellites are designed to operate with minimal power consumption, which is crucial
+for sustainable, long-term deployment in remote locations. Each satellite is embedded with WISeKey’s advanced
+cybersecurity protocols, ensuring that data is encrypted and secure from unauthorized access throughout its
+journey from sensor to end-user.
+
+The launch’s timing aligns with WISeKey’s annual event in Davos, where industry leaders, policymakers, and
+technologists will convene for a roundtable on space technology and its applications in IoT and climate monitoring.
+This roundtable will provide a platform to discuss how space-based systems can address global challenges and
+explore the role of satellite technology in building a sustainable and secure digital future. With the upcoming launch
+of this next-generation satellite, WISeSat.Space reaffirms its commitment to pioneering secure, scalable IoT
+solutions and advancing European autonomy in space technology. WISeKey looks forward to this critical addition to
+its constellation as it leverages space to enhance secure connectivity, climate resilience, and technological
+independence for the global community.
+
+About WISeSat.Space
+
+WISeSat AG is pioneering a transformative approach to IoT connectivity and climate change monitoring through its
+innovative satellite constellation. By providing cost-effective, secure, and global IoT connectivity, WISeSat is
+enabling a wide range of applications that support environmental monitoring, disaster management, and
+sustainable practices. The integration of satellite data with advanced climate models holds great promise for
+enhancing our understanding of climate change and developing effective strategies to combat its impacts. As the
+world continues to grapple with the challenges of climate change, initiatives like WISeSat’s IoT satellite constellation
+are essential for creating a more resilient and sustainable future.
+
+About WISeKEY:
+
+                                                                                              Page 3 of 3
+      WISeKey Subsidiary WISeSat.Space Prepares for a January 2025 Launch of Next-Generation Satellite,
+                     Supporting European Satellite Independence and IoT Connectivit....
+
+WISeKey International Holding Ltd (“WISeKey”, SIX: WIHN; Nasdaq: WKEY) is a global leader in cybersecurity,
+digital identity, and IoT solutions platform. It operates as a Swiss-based holding company through several
+operational subsidiaries, each dedicated to specific aspects of its technology portfolio. The subsidiaries include (i)
+SEALSQ Corp (Nasdaq: LAES), which focuses on semiconductors, PKI, and post-quantum technology products, (ii)
+WISeKey SA which specializes in RoT and PKI solutions for secure authentication and identification in IoT,
+Blockchain, and AI, (iii) WISeSat AG which focuses on space technology for secure satellite communication,
+specifically for IoT applications, and (iv) WISe.ART Corp which focuses on trusted blockchain NFTs and operates
+the WISe.ART marketplace for secure NFT transactions.
+
+Each subsidiary contributes to WISeKey’s mission of securing the internet while focusing on their respective areas
+of research and expertise. Their technologies seamlessly integrate into the comprehensive WISeKey platform.
+WISeKey secures digital identity ecosystems for individuals and objects using Blockchain, AI, and IoT technologies.
+With over 1.6 billion microchips deployed across various IoT sectors, WISeKey plays a vital role in securing the
+Internet of Everything. The company’s semiconductors generate valuable Big Data that, when analyzed with AI,
+enable predictive equipment failure prevention. Trusted by the OISTE/WISeKey cryptographic Root of Trust,
+WISeKey provides secure authentication and identification for IoT, Blockchain, and AI applications. The WISeKey
+Root of Trust ensures the integrity of online transactions between objects and people.For more information on
+WISeKey’s strategic direction and its subsidiary companies, please visit www.wisekey.com.
+
+DisclaimerThis communication expressly or implicitly contains certain forward-looking statements concerning
+WISeKey International Holding Ltd and its business. Such statements involve certain known and unknown risks,
+uncertainties and other factors, which could cause the actual results, financial condition, performance or
+achievements of WISeKey International Holding Ltd to be materially different from any future results, performance
+or achievements expressed or implied by such forward-looking statements. WISeKey International Holding Ltd is
+providing this communication as of this date and does not undertake to update any forward-looking statements
+contained herein as a result of new information, future events or otherwise.
+
+This press release does not constitute an offer to sell, or a solicitation of an offer to buy, any securities, and it does
+not constitute an offering prospectus within the meaning of the Swiss Financial Services Act (“FinSA”), the FinSa's
+predecessor legislation or advertising within the meaning of the FinSA. Investors must rely on their own evaluation
+of WISeKey and its securities, including the merits and risks involved. Nothing contained herein is, or shall be relied
+on as, a promise or representation as to the future performance of WISeKey.Press and Investor Contacts
+
+         WISeKey International Holding LtdCompany      WISeKey Investor Relations (US) The Equity Group Inc.Lena
+         Contact: Carlos MoreiraChairman & CEOTel:     CatiTel: +1 212 836-9611 / lcati@equityny.comKatie
+         +41 22 594 3000info@wisekey.com               MurphyTel: +1 212 836-9612 / kmurphy@equityny.com
+
+
+
+Load-Date: November 4, 2024
+
+
+  

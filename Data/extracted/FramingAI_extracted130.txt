@@ -1,0 +1,98 @@
+
+
+                                                                                                 Page 1 of 2
+  Cockroach Labs' 2025 Resilience Report Unveils Critical Outage Surge and Unprepared Enterprises Worldwide
+
+
+
+
+ Cockroach Labs' 2025 Resilience Report Unveils Critical Outage Surge and
+                   Unprepared Enterprises Worldwide
+                                                           PR Newswire
+                                           October 29, 2024 Tuesday 9:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1107 words
+Dateline: NEW YORK, Oct. 29, 2024
+
+Body
+
+
+PR NewswireSurvey of 1,000 Global Tech Leaders Highlights Urgent Need for Operational ResilienceNEW YORK,
+Oct. 29, 2024 /PRNewswire/ --Cockroach Labs, the pioneer in cloud-native distributed SQL databases with
+CockroachDB, today announced findings from its first comprehensive annual survey "The State of Resilience 2025:
+Confronting Outages, Downtime, and Organizational Readiness." The report reveals the urgent need for operational
+resilience among enterprises amid increasing outages. The survey engaged1,000 senior technology
+executivesglobally, painting a vivid picture of the current landscape. With the recent CrowdStrike outage still top of
+mind, the vulnerabilities inherent in modern IT environments have never been more evident, intensifying the urgent
+call for enhanced resilience.
+
+Downtime Concerns and Financial Impact: A Growing ThreatIn an era of rapid digital transformation,
+organizations face unprecedented challenges in maintaining operational resilience. The survey reveals significant
+concerns among enterprises:93% of senior technology executives worry about the impact of downtime, and
+alarmingly, 100% have reported experiencing revenue losses due to outages in the past year ranging from
+at least $10,000 to well over $1,000,000, underscoring the financial stakes involved. Notably, larger organizations
+tend to experience even greater losses; for those withover 1,000 employees and/or US$500 million in annual
+recurring revenue (ARR), the average outage-related losses soared to $495,000. Furthermore, a notable
+portion of theselarge enterprises (8%) reported losses exceeding US$1 million during the same period."This
+survey serves as a wake-up call for enterprises," said Spencer Kimball, CEO and Co-founder at Cockroach Labs.
+"Achieving this requires a collaborative effort among cloud partners, system integrators, and innovators like
+Cockroach Labs. It's about thriving in the face of challenges and making resilience a cornerstone of our digital
+future."Despite these clear risks, only20% of executives believe their organizations are fully prepared to
+prevent or respond to outages, while79% admit they are not equipped to comply with new operational
+resilience regulations including the Digital Operational Resilience Act (DORA)set to take effect in January
+2025 as well as the NIS2 Directive. Across all sizes and sectors, enterprises in this survey experiencean average
+of 86 outages per year, equating to average length of an outage of 196 minutes — over three hours of
+downtime—organizations must prioritize resilience to safeguard operations and maintain stakeholder trust.Key
+Highlights from the Survey Include:Widespread Operational Weaknesses: A staggering 95% of executives are
+aware of existing operational weaknesses that leave their organizations vulnerable to financial and operational
+damage due to unplanned outages. However, nearly half (48%) admit their companies are not doing enough to
+address these issues.High Cost of Service Disruption: Every organization surveyed reported suffering outage-
+
+                                                                                                 Page 2 of 2
+  Cockroach Labs' 2025 Resilience Report Unveils Critical Outage Surge and Unprepared Enterprises Worldwide
+
+related revenue losses over the last twelve months, with per-outage losses ranging from at least $10,000 to over
+$1,000,000, highlighting the severe economic consequences of insufficient resilience measures.Frequent Outages
+are the New Normal: Organizations reported an average of 86 outages annually, with 55% experiencing disruptions
+at least once a week. Notably, 70% of large enterprises indicated their outages typically take 60 minutes or more to
+resolve, with almost half experiencing downtime lasting two or more hours.Internal and External Consequences:
+The impact of unplanned outages extends beyond financial losses; they erode consumer and business partner
+confidence and damage internal trust in IT teams. Furthermore, frequent outages contribute to employee burnout,
+with 39% of respondents reporting increased workloads due to missed deadlines and accumulated requests.Spotty
+Preparation: Only one in three executives claimed their organizations have an organized approach to responding to
+downtime, with fewer than one-third conducting any failover testing. This lack of preparation exposes organizations
+to further risks and reinforces the need for enhanced resilience strategies.Overdue Investments in Resilience:
+Participants overwhelmingly indicated the need for investment in operational resilience, particularly in automation
+and AI-driven solutions (49%) and cloud infrastructure services (49%). These investments reflect a forward-looking
+mindset as organizations recognize the growing importance of AI in disaster prevention and outage recovery
+capabilities.Regulatory Compliance Concerns: With new operational resilience regulations looming, 79% of
+executives admitted their organizations are not fully prepared to comply with mandates such as the Digital
+Operational Resilience Act (DORA) and the NIS2 directive, with many expressing concern over potential fines and
+penalties.The survey was conducted by Cockroach Labs and Wakefield Research among1,000 senior cloud
+architects, engineers, and technology executivesacross North America, EMEA, and APAC between August
+29th and September 10th, 2024. It sheds light on the critical need for organizations to recognize their vulnerabilities
+and take proactive steps to fortify their operational resilience."As digital infrastructures become more complex, the
+risk of outages increases, creating significant financial and operational challenges," said Peter Mattis, CTPO at
+Cockroach Labs. "Our findings underscore the urgent need for organizations to develop robust IT resilience
+strategies that go beyond traditional disaster recovery."For more insights and recommendations on improving
+operational resilience, please download the full reporthere.About Cockroach Labs:Cockroach Labs is a pioneering
+software company at the forefront of database technology, dedicated to delivering resilient and scalable database
+solutions to run mission-critical workloads for the world's most important businesses. The company's clients
+includeBose,Form3,Hard Rock Digital, andShipt, Fortune 50 global financial institutions as well as retail and media
+industry leaders. With a mission to scale when others fail, Cockroach Labs is revolutionizing the way businesses
+manage their data with its innovative cloud native distributed SQL database, CockroachDB.Press
+Contacts:Katelyn Di Salvo
+
+Cockroach Labs         View original content to download multimedia:https://www.prnewswire.com/news-
+releases/cockroach-labs-2025-resilience-report-unveils-critical-outage-surge-and-unprepared-enterprises-
+worldwide-302289055.htmlSOURCE Cockroach Labs, Inc.
+
+
+Load-Date: October 29, 2024
+
+
+  

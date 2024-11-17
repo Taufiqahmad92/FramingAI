@@ -1,0 +1,60 @@
+
+
+                                                                                                    Page 1 of 2
+                            InterVision Recognized as AWS Lambda Service Delivery Partner
+
+
+
+
+          InterVision Recognized as AWS Lambda Service Delivery Partner
+                                                           PR Newswire
+                                          October 31, 2024 Thursday 9:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 457 words
+Dateline: ST. LOUIS, Oct. 31, 2024
+
+Body
+
+
+PR NewswireST. LOUIS, Oct. 31, 2024 /PRNewswire/ --InterVision, a leading information technology (IT) managed
+services provider, is proud to announce that it has achieved theAmazon Web Services (AWS) Service Delivery
+designation for AWS Lambdaafter successfully delivering AWS services to customers including a deep portfolio of
+related services — ranging from security-related disaster recovery and ransomware protection, assessment
+services, cloud cost optimization, cloud-based virtual desktop infrastructure (VDI) and an assortment of migration
+capabilities.
+
+ The AWS Service Delivery and AWS Service Ready Programs enable AWS customers to identify AWS Partners
+with experience and a deep understanding of specific AWS services and software solutions. These partners have
+passed a rigorous technical validation to ensure they are following best practices with AWS Lambda and have
+demonstrated proven customer success. "In today's artificial intelligence-driven landscape, the ability to quickly
+deploy and scale intelligent solutions is crucial, and this designation demonstrates our expertise in building the
+serverless foundations that power modern AI applications," said Brent Lazarenko, Head of AI Innovation at
+InterVision. "This recognition allows us to better support our customers as they navigate the intersectionality of
+cloud computing and AI, efficiently turning transformative ideas into reality."As an AWS Partner Network (APN)
+member, InterVision 's AWS Service Delivery designation highlights its technical proficiency in implementing AWS
+Lambda, and building or migrating solutions to a microservices architecture running on serverless
+computing.InterVision holds over 125 AWS certifications and successfully delivers over 250 professional services.
+AWS accreditations across seven disciplines reinforce InterVision 's commitment to helping customers meet their
+goals.About InterVisionInterVision is a leading IT managed services provider, delivering and supporting cloud,
+security and innovation for mid-to-enterprise and public sector organizations throughout the US. With 30 years of
+experience and one of the most comprehensive solution portfolios, InterVision drives business outcomes with an
+unparalleled focus on the customer and employee experience to help organizations be more competitive, compliant,
+and secure. The company has headquarters in St. Louis with locations in Boston, Richmond, Roanoke,
+Sacramento, San Francisco, Seattle, San Jose, Kosovo and India. Experience us atintervision.com.Media
+Contact:PANBlast for InterVision
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/intervision-recognized-
+as-aws-lambda-service-delivery-partner-302292379.htmlSOURCE InterVision
+
+
+Load-Date: October 31, 2024
+
+                                                                                  Page 2 of 2
+                  InterVision Recognized as AWS Lambda Service Delivery Partner
+
+
+
+

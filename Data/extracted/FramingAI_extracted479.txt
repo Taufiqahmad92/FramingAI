@@ -1,0 +1,117 @@
+
+
+                                                                                                  Page 1 of 3
+      NGA Unclassified Data Lake Fosters GEOINT Innovation, Partnership, Collaboration and Interoperability
+
+
+
+
+      NGA Unclassified Data Lake Fosters GEOINT Innovation, Partnership,
+                       Collaboration and Interoperability
+                                                     Targeted News Service
+                                        September 5, 2024 Thursday 11:17 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1021 words
+Byline: Targeted News Service
+Dateline: SPRINGFIELD, Virginia
+
+Body
+
+
+(TNSres) -- The National Geospatial-Intelligence Agency issued the following news:
+
+NGA recently unveiled a groundbreaking geospatial-intelligence advancement platform to improve innovation and
+collaboration with partners across industry, academia, and other data users. By harnessing NGA's vast commercial
+imagery holdings, coupled with the opportunity to leverage the speed of innovation across industry and academia,
+the NGA Unclassified Data Lake (NUDL) serves as the means and method to rapidly demonstrate, evaluate, and
+scale proven solutions.
+
+NUDL was designed in alignment with the NGA Data Strategy to fulfill industry and academia data needs. In 2022,
+Mr. Deepak Kundal, NGA's Chief Data Officer, engaged with Congressional staff on the conceptual idea to
+establish a robust data lake house architecture, marking a pivotal step towards achieving an overarching NGA data
+strategy objective - fostering an integrated modern data architecture that fosters partnerships and interoperability.
+"NUDL exemplifies our commitment in delivering shared data services and serves as a testament to NGA's pursuit
+of a cohesive and agile data ecosystem," said Mr. Kundal.
+
+NUDL was commissioned in April 2022 as a Congressionally Directed Action (CDA) to build a commercial imagery
+data lake that would both foster innovation and increase partnerships with industry, academia, government and
+GEOINT users. Since its initial launch and throughout development, the technology used in building the NUDL has
+proven useful in real-world applications, such as research initiatives and humanitarian assistance/disaster
+response operations.
+
+As an NGA cloud native system, NUDL features include the ability to interact with imagery and data with
+exploitation and geospatial features including SpatioTemporal Asset Catalog (STAC), Artificial
+Intelligence/Machine Learning/Computer Vision (AI/ML/CV) and Mosaic imagery tools allowing you to build, train,
+and deploy ML models and algorithms across data holdings, at scale. The NUDL was initially deployed on the
+External Cloud (XC) with a mirrored deployment scheduled for the Unclassified Cloud (UC) in summer 2024. This
+
+                                                                                                  Page 2 of 3
+      NGA Unclassified Data Lake Fosters GEOINT Innovation, Partnership, Collaboration and Interoperability
+
+approach ensures industry and academia can access and demonstrate their capabilities on the XC via traditional
+username and password authentication. Then, once a technology is selected for adoption, the UC side of NUDL will
+provide the opportunity to scale across all relevant data holdings through CAC-enabled authentication, widening the
+partnership to other government agencies in order to further interoperability and data sharing.
+
+"The NUDL is an innovative approach designed to serve as a nexus between academia, industry, and mission
+users. The platform provides a seamless and comprehensive solution for users to navigate the intersection of new
+technologies and mission-driven challenges and allows us to treat innovation as a pipeline, rather than a series of
+disparate, stove-piped efforts," said Chris Heath, lead engineer for NGA's Data Services Integrated Program Office.
+
+Simply stated, NUDL is a persistent service to not only demonstrate the capabilities of a proposed innovative
+solution, but to adopt and scale when the determination of enduring mission value is made.
+
+Since NGA granted NUDL authority to operate for the XC commercial cloud environment, the platform has hosted
+approximately 200TB of government and licensed commercial imagery, providing 12 months of rolling access to this
+data for dozens of pilot organizations across the GEOINT community. NUDL is now available to users from
+academia, industry, and other government entities who have written agreements in place with NGA. Since being
+previewed at the 2024 GEOINT Symposium in early May, NUDL has initiated the onboarding process for a
+multitude of new user groups. Some of the organizations who have onboarded users include, but are not limited to:
+United States Geological Survey, Federal Geographic Data Committee, National Oceanic and Atmospheric
+Administration, National Aeronautics and Space Administration, Taylor Geospatial Institute, Open Geospatial
+Consortium, Naval Research Labs, University of Missouri, and several internal NGA programs, to include Maven
+and Moonshot Labs . NGA wishes to onboard additional users from academia, industry and government who
+currently have, or wish to have, a partnership agreement with NGA.
+
+Even in initial stages of development, a number of opportunities presented themselves to leverage NUDL's
+advanced technology. First, the implementation of the Spatio-Temporal Asset Catalog within NUDL was
+demonstrated during a technology event in late 2022. This functionality proved useful to personnel supporting the
+Turkey earthquake in February of 2023. The catalog function in the NUDL code helped manage the constant flow of
+new and historical imagery data being used to support rescue and recovery operations.
+
+Later demonstrations of NUDL's application programming interface showcased its capabilities and fulfilled one of
+the CDA's milestones by accessing and ingesting NUDL's imagery content without having to rehost the imagery
+data. Another demonstration provided insight into a new technology approach for data management.
+
+Most recently, NGA's Analysis directorate utilized NUDL's test configuration in XC to fully automate data from public
+sources. The algorithm being hosted on NUDL supports data extraction, transformation, and transfer across
+security fabrics. This data is being used to fulfill our global mission responsibility. NUDL imagery access is restricted
+to entities who have written partnership agreements in place with NGA (current and future).
+
+A comprehensive user guide, which offers additional insight about the future of NUDL and a deep dive into its
+capabilities, can be found here (https://nudl.xc.nga.mil/user-docs/nudl-101.html), along with an onboarding guide
+(https://nudl.xc.nga.mil/user-docs/nudl-onboarding-guide.html) for those interested in using the platform.
+
+***
+
+Original text here: https://www.nga.mil/news/NGA_Unclassified_Data_Lake_Fosters_GEOINT_Innovati.html
+
+Copyright Targeted News Services
+
+MSTRUCK-8802100 MSTRUCK
+
+
+Load-Date: September 6, 2024
+
+                                                                                               Page 3 of 3
+   NGA Unclassified Data Lake Fosters GEOINT Innovation, Partnership, Collaboration and Interoperability
+
+
+

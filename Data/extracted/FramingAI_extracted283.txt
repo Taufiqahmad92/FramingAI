@@ -1,0 +1,205 @@
+
+
+                                                                                              Page 1 of 4
+     T-Mobile Readies to Keep Customers, Communities and First Responders Connected as Hurricane Milton
+                                           Approaches Landfall
+
+
+
+
+  T-Mobile Readies to Keep Customers, Communities and First Responders
+            Connected as Hurricane Milton Approaches Landfall
+                                                     Business Wire
+                                       October 8, 2024 Tuesday 12:43 AM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1789 words
+Dateline: BELLEVUE, Wash.
+
+Body
+
+T-Mobile (NASDAQ: TMUS) has activated its emergency operations and preparedness plan as Hurricane Milton
+approaches Florida, mobilizing its emergency teams to help keep customers, communities, first responders and
+others connected. In summary:
+
+This      press      release     features   multimedia.               View       the       full     release       here:
+https://www.businesswire.com/news/home/20241008322158/en/
+
+(Photo: Business Wire)
+    •     T-Mobile's network has been hardened to withstand anticipated extreme weather conditions along Milton's
+          projected path and the company's experienced emergency response teams are preparing portable
+          generators and heavy-duty network equipment to provide support when and where needed.
+    •     T-Mobile's emergency response team is actively working with federal and state public safety agencies as
+          well as Florida's State Emergency Operations Center (SEOC) in Tallahassee to identify early prioritization
+          needs immediately following the storm.
+    •     To keep employees safe, T-Mobile has temporarily closed stores, a Customer Experience Center and a T-
+          Mobile for Business Virtual Business Center, all of which are located in Milton's path. Customer calls will be
+          rerouted to other locations. The company's community support team is on standby to deploy relief supplies
+          as conditions allow.
+    •     T-Mobile and Starlink asked for and received a second Special Temporary Authority (STA) from the FCC to
+          operate our T-Mobile Starlink Direct-to-Cellular service over Hurricane Milton's projected path. Wireless
+          emergency alerts and SMS, including the ability to text 911, are now enabled in Florida as well as the
+          areas previously impacted by Hurricane Helene.
+    •     T-Mobile also stands ready to support cross-carrier roaming requests from other wireless providers as
+          needed.
+
+Network Modernization, Technology and Hardening
+
+                                                                                              Page 2 of 4
+     T-Mobile Readies to Keep Customers, Communities and First Responders Connected as Hurricane Milton
+                                           Approaches Landfall
+
+T-Mobile continues to make investments in its network nationwide to prepare for the unpredictable and challenging
+nature of extreme weather. This includes tapping into the capabilities of AI and data to help support real-time
+response and faster recovery. An experienced T-Mobile team who has deep familiarity with the challenges
+associated with massive storms like Milton is at the ready in Florida and knows what it takes to quickly recover
+network impacts. The team has taken steps to harden its network, using extensive analysis of historical data,
+customer density and meteorologist experts to proactively strengthen the network's infrastructure to help reduce
+interruptions. This includes adding overlapping coverage , installing back up power sources to towers and key
+network sites, building redundant backhaul routes for cell sites and core network, and performing ongoing
+inspection and maintenance of all facilities.
+
+T-Mobile's network modernization employs innovative technologies that aim to improve resilience , including:
+    •    Cognitive Self-Organizing Network (SON): A "smart" network that automatically assesses, manages and
+         optimizes performance during disasters, redistributing resources across the network and "healing"
+         coverage gaps by adjusting nearby towers.
+    •    24/7 Automatic Coverage Optimization: Continuously re-configuring antenna patterns to optimize signal
+         and expanding coverage area during service interruptions - over 100,000 tilts took place throughout
+         Hurricane Helene.
+    •    Guided Digital Antenna Tilting: Allows engineers to remotely fine-tune coverage, boosting signal for critical
+         areas such as rescue operations, Incident Command Centers, shelters, reunification centers and hospitals.
+    •    Automated Parameter Changes: AI enabled real-time network performance monitoring to adjust site
+         parameters to avoid congestion and increase data performance and connectivity.
+    •    Spectrum Layer Management: Automatically optimize power level on multi-band 5G network during
+         commercial power outages to extend backup generators and batteries runtime.
+    •    Network Hardening: Proactively strengthens network infrastructure to reduce interruptions using extensive
+         analysis of historical data, customer density and meteorologist experts. This includes adding overlapping
+         coverage , installing back up power sources to towers and key network sites, building redundant backhaul
+         routes for fiber, satellite or microwave, and performing ongoing inspection and maintenance of all facilities.
+
+This multi-faceted approach helped keep a vast majority of customers connected in the midst of Hurricane Helene
+recovery: approximately 10% of T-Mobile customers in the path experienced coverage loss in the first 24 hours
+following the storm even though 30% of T-Mobile's network sites were impacted. Within 72 hours, less than 1% of
+customers remained affected, primarily due to power outages and other challenging and unsafe conditions.
+
+Equipment Ready to Deploy
+
+T-Mobile's emergency management team, local teams and National Operations Centers are working together to
+monitor the network around the clock. Local network and market teams and field technicians use knowledge of the
+area to provide critical understanding of potential impact and implement real-time mitigation strategies. The teams
+are also pre-staging a fleet of equipment and relief supplies at our emergency response facilities in Live Oak,
+Florida and Plant City, Florida along with our Everglades Mobile Switching Office in Sunrise, Florida for rapid
+deployment and activation as conditions safely allow that will provide critical network connectivity, power and Wi-Fi
+for first responders, disaster organizations and communities at locations such as fire and police departments,
+incident command posts, shelters reunification centers, hospitals, local government facilities, stores providing
+community support and much more.
+
+T-Mobile's fleet includes:
+    •    Mobile Emergency Operations Centers (EOCs): Large RVs with network management and monitoring
+         equipment
+
+                                                                                             Page 3 of 4
+    T-Mobile Readies to Keep Customers, Communities and First Responders Connected as Hurricane Milton
+                                          Approaches Landfall
+
+    •   SatCOLTs and SatCOWs: Satellite cell-on-light-trucks and satellite cell-on-wheels that teams can drive to
+        impacted areas to temporarily restore or boost service.
+    •   Heavy Duty Wi-Fi and Charging Vehicles: A fleet of trucks and towable trailers equipped with 80 charging
+        ports that can be quickly deployed to provide Wi-Fi and device charging to anyone who needs it, even if
+        they aren't a T-Mobile customer.
+    •   Quick-deploy and Portable VSATs: Satellite dishes called "Very Small Aperture Terminals" that can provide
+        a layer of coverage across broad areas and quickly provide temporary wireless service to send and receive
+        data from T-Mobile's network.
+    •   Microwave Solutions: Network technology that offers high throughput and low latency for better data
+        usage.
+    •   Portable Generators: Portable power solutions that can be quickly set up to power sites and help
+        customers.
+    •   Search and Rescue and Heavy-Duty Drones: Search-and-rescue (SAR) drones are equipped with infrared
+        and thermal imaging cameras used to find people and objects. Heavy Lift Drones can fly for up to an hour,
+        cover up to 60 miles and carry up to 50 pounds to provide imaging, deliver supplies or illuminate an
+        operation.
+
+Late last week the teams at T-Mobile and Starlink asked for and received Special Temporary Authority (STA) from
+the FCC to operate our T-Mobile Starlink Direct-to-Cellular service over parts of North Carolina affected by
+Hurricane Helene. T-Mobile and Starlink have once again asked for and received STA from the FCC to do the same
+for areas in Florida affected by Hurricane Milton. In these areas, Wireless Emergency Alerts (WEA) are on and the
+teams have enabled basic texting (SMS), including the ability to text 911. While SpaceX's direct-to-cell constellation
+has not been fully deployed, this early test version could provide vital support as teams work to get infrastructure
+and services back online and help first responders with rescue efforts.
+
+T-Mobile also stands ready to support cross-carrier roaming requests from other wireless providers as part of the
+FCC's Mandatory Disaster Response Initiative to help ensure that emergency roaming is available.
+
+Public Safety and First Responders
+
+T-Mobile for Government is coordinating with federal, state and local authorities including first responder agencies
+and the Florida State Emergency Operations Center (SEOC) in Tallahassee to identify high-impact priorities for
+coverage restoration. The team is already preparing to deploy to support requests from first responders for
+additional network coverage and capacity once conditions safely allow.
+
+First responders, emergency officials and other eligible critical infrastructure customers can register for Wireless
+Priority Service (WPS) to get priority access and preemption on T-Mobile's network at no cost. When seconds
+matter during times of emergency or network congestion, WPS moves critical communications to the front of the
+line. Agencies needing communications assistance can also reach out to T-Mobile's 24-hour emergency hotline at
+888-639-0020 or email at ERTRequests@T-Mobile.com .
+
+Employees, Retail Stores, and Community Support
+
+T-Mobile has connected with all potentially impacted employees and will continue to support them as needed. With
+their safety in mind, the company has decided to temporarily close all retail stores that are located within Milton's
+projected impact area, as well as a Customer Experience Center and T-Mobile for Business Virtual Business
+Center. Customer contacts will be re-routed to other locations. Future updates on local store operations and hours
+will be available at the company's store locator . When it is safe to deploy, T-Mobile teams will roll relief support
+trucks full of charging supplies, including cables and battery packs, into communities where they are needed most.
+Locations may shift daily and are posted at https://www.t-mobile.com/news/emergency-response .
+
+                                                                                             Page 4 of 4
+    T-Mobile Readies to Keep Customers, Communities and First Responders Connected as Hurricane Milton
+                                          Approaches Landfall
+
+More Information
+
+For more information on T-Mobile's emergency response efforts and for tips to stay connected visit: https://www.t-
+mobile.com/news/emergency-response . Follow @TMobileNews on X, formerly known as Twitter, to stay up to date
+with the latest company news.
+
+About T-Mobile
+
+T-Mobile US, Inc. (NASDAQ: TMUS) is America's supercharged Un-carrier, delivering an advanced 4G LTE and
+transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile's customers benefit from
+its unmatched combination of value and quality, unwavering obsession with offering them the best possible service
+experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond.
+Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-
+Mobile, Metro by T-Mobile and Mint Mobile. For more information please visit: https://www.t-mobile.com
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20241008322158/en/
+
+
+CONTACT: Media Contact
+T-Mobile US, Inc. Media Relations
+
+MediaRelations@t-mobile.com Investor Relations Contact
+T-Mobile US, Inc.
+
+Investor.Relations@t-mobile.com
+
+https://investor.t-mobile.com
+
+
+http://www.businesswire.com
+
+
+
+Graphic
+
+
+(Photo: Business Wire)
+
+
+Load-Date: October 8, 2024
+
+
+  

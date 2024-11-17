@@ -1,0 +1,108 @@
+
+
+                                                                                                 Page 1 of 2
+     Veritas Makes Cyber Recovery Simpler, Smarter and Faster New AI-powered, user-centric cyber resilience
+                                capabilities remove guesswork during recovery
+
+
+
+
+         Veritas Makes Cyber Recovery Simpler, Smarter and Faster; New AI-
+        powered, user-centric cyber resilience capabilities remove guesswork
+                                  during recovery
+                                                    Business Wire
+                                     September 17, 2024 Tuesday 12:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 758 words
+Dateline: SANTA CLARA, Calif.
+
+Body
+
+Veritas Technologies , the leader in secure multi-cloud data resilience, today unveiled new AI-driven capabilities to
+further expand the strength and functionality of the Veritas cyber resilience portfolio. The new innovations, including
+AI-powered automation and user interface enhancements, provide data protection specialists and IT generalists
+with intelligent, easy-to-use solutions that remove the uncertainty from cyber recovery.
+
+This      press      release     features   multimedia.               View       the      full     release       here:
+https://www.businesswire.com/news/home/20240917562888/en/
+
+Veritas Alta View (Graphic: Business Wire)
+
+Deepak Mohan, executive vice president of engineering at Veritas, said: "Data security is becoming increasingly
+complex, and IT teams are under mounting pressure to ensure that data is always available, with only limited
+resources. That's why we're focused on making recovery simpler, smarter and faster. With expanded AI assistance
+and intuitive management, we eliminate the guesswork and trial and error from the recovery process. Organizations
+can now bounce back from ransomware attacks quickly and confidently, minimizing business disruption."
+
+New enhanced user interface and AI-driven features make cyber recovery simpler, smarter and faster through the
+following improvements:
+    •     Simplify navigation and operations - The Veritas Alta View management platform features an enhanced
+          highly intuitive user interface, streamlining navigation and making operations simple for both IT specialists
+          and multi-tasking generalists. The dashboard integrates AI-driven insights and a cyber risk score for real-
+          time, actionable analytics. Enhanced visualization tools allow users to monitor their entire data estate,
+          proactively manage risks and expedite cyber recovery.
+    •     Automate asset audits and policy creation - Veritas Alta Copilot automatically scans and identifies
+          unprotected assets, recommends and applies tailored protection and instantly integrates with existing
+          protection policies to ensure all critical data is covered.
+    •     Speed up threat detection and response - Enhanced security, accelerated threat detection and more rapid
+          ransomware response is now delivered through hash-based tracking of malware in backup data and blast
+
+                                                                                                Page 2 of 2
+    Veritas Makes Cyber Recovery Simpler, Smarter and Faster New AI-powered, user-centric cyber resilience
+                               capabilities remove guesswork during recovery
+
+        radius analysis. Once malware is identified, new functionality reduces the time to scan and assess the
+        spread across the entire estate by up to 93%.
+    •   Mitigate risks and cyberthreats with automated recovery blueprints - Proactive disaster management and
+        cyber recovery can now be achieved using a new interactive guide that enables IT teams to easily create,
+        automate, test and edit workflow plans. Blueprints can be customized at a granular level across multiple
+        domains, including complex hybrid, platform-as-a-service and container environments, ensuring tailored
+        and effective risk management.
+    •   Automate recovery point recommendations - Optimized recovery is now possible through proactive, in-
+        depth analysis that provides recommended recovery points. This reduces recovery time and potential data
+        loss by eliminating the need to manually identify the "last known good copy," relying instead on risk engine
+        analysis to minimize the dependence on costly malware scans.
+
+New Veritas Copilot features announced today will be available in October. All other capabilities will be delivered
+through updates to Veritas NetBackup , Veritas Alta Data Protection and Veritas Alta View , available in September.
+
+About Veritas
+
+Veritas Technologies is the leader in secure multi-cloud data management. Over 80,000 customers-including 91%
+of the Fortune 100-rely on Veritas to help ensure the protection, recoverability and compliance of their data. Veritas
+has a reputation for reliability at scale, which delivers the resilience its customers need against the disruptions
+threatened by cyberattacks, like ransomware. No other vendor can match Veritas' ability to execute, with support for
+800+ data sources, 100+ operating systems and 1,400+ storage targets through a single, unified approach.
+Powered by Cloud Scale Technology, Veritas is delivering today on its strategy for Autonomous Data Management
+that reduces operational overhead while delivering greater value. Learn more at veritas.com . Follow us on X at
+@veritastechllc .
+
+Veritas and the Veritas Logo are trademarks or registered trademarks of Veritas Technologies LLC or its affiliates in
+the US and other countries. Other names may be trademarks of their respective owners.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240917562888/en/
+
+
+CONTACT: PR
+
+VeritasPublicRelations@Veritas.com
+
+
+http://www.businesswire.com
+
+
+
+Graphic
+
+
+Veritas Alta View (Graphic: Business Wire)
+
+
+Load-Date: September 17, 2024
+
+
+  

@@ -1,0 +1,119 @@
+
+
+                                                                                                  Page 1 of 3
+    Nutanix is Positioned Furthest in Vision Among All Vendors in 2024 Gartner® Magic Quadrant™ for File and
+                            Object Storage Platforms Nutanix Unified Storage recogn....
+
+
+
+
+     Nutanix is Positioned Furthest in Vision Among All Vendors in 2024
+ Gartner® Magic Quadrant™ for File and Object Storage Platforms; Nutanix
+Unified Storage recognized for completeness of vision and ability to execute
+                                                         GlobeNewswire
+                                            November 4, 2024 Monday 6:01 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: CONTESTS/AWARDS
+Length: 1106 words
+
+Body
+
+SAN JOSE, Calif., Nov. 04, 2024 (GLOBE NEWSWIRE) -- Nutanix (NASDAQ: NTNX), a leader in hybrid
+multicloud computing, today announced it is positioned furthest in vision among all vendors in the 2024 Gartner
+Magic Quadrant for File and Object Storage Platforms. Nutanix believes this recognition is due to the company’s
+strong vision for an enterprise storage platform that unifies unstructured data across edge, public and private
+clouds. This, along with the ability to consolidate files, objects and block storage across virtual machines and
+containers enables customers to consolidate architectures, simplify operations and reduce cost.
+
+“Nutanix is widely recognized for block-based hyperconverged infrastructure, so it’s particularly rewarding to see
+our vision recognized in bringing consistent operational leverage to file and object use cases, which increasingly
+form the data backbone for modern applications and generative AI” said Lee Caswell, SVP, Product and Solutions
+Marketing at Nutanix.
+
+Nutanix believes the company was positioned furthest in vision for five key reasons:
+    •     Modern scale-out architecture: Nutanix Unified Storage (NUS) offers a modern scale-out architecture that
+          enables organizations to start small and efficiently scale out to very large volumes of multi-Petabyte data
+          while also scaling performance;
+    •     Software-defined storage: NUS provides a software-defined solution that can be deployed across any
+          server platform as well as any location - at the edge, in data centers or in public clouds;
+    •     Cloud operating model: Nutanix delivers a cloud operating model that extends the Nutanix hallmark of
+          management simplicity to storage and data;
+
+                                                                                                 Page 2 of 3
+   Nutanix is Positioned Furthest in Vision Among All Vendors in 2024 Gartner® Magic Quadrant™ for File and
+                           Object Storage Platforms Nutanix Unified Storage recogn....
+
+    •   Integrated cyber resilience: NUS offers integrated cyber resilience and data security capabilities aligned to
+        the National Institute of Standards and Technology (NIST) cybersecurity framework;
+    •   Unified platform and licensing: NUS delivers a unified storage platform for NFS, SMB, S3, and iSCSI with a
+        single license meter for any data access type.
+
+NUS is a software-defined data platform that uniquely consolidates access and management of siloed file, object,
+and block storage into a single platform. Powered by rich data services such as analytics, ransomware protection,
+lifecycle management, and data protection, NUS enables organizations to adapt to fast-changing applications'
+needs and shift their focus from data storage to more strategic data management. Additionally, in the past year,
+Nutanix showed significant advancements in high performance for AI workloads with top placement in MLPerf
+Storage benchmark for training, data protection with zero RPO/RTO metro sync, enhanced cyber resilience through
+Nutanix Data Lens with an innovative threat containment window followed by automated recovery, and expanded
+hybrid cloud integration with AWS.
+
+NUS is designed to power AI and modern cloud-native workloads by offering data locality, exceptional performance,
+linear scalability, and uncompromising security, supporting both training and inferencing use cases across
+industries. It also supports hybrid cloud use cases such as disaster recovery, cloud bursting, analytics, and cloud-
+based data replication and tiering. For video surveillance, NUS delivers high throughput and fault-tolerant storage,
+ensuring a high ROI for archival, retrieval, and analytics of video data. And finally, it enables workload consolidation
+by allowing all unstructured data workloads to run on a single platform, supporting both file and object services with
+multi-protocol capabilities based on application needs.
+
+"Our video surveillance system is important to physical security on campus, and we often need to add capacity and
+bandwidth,” said Jeff Blomendahl, IT Manager, University of Kansas Medical Center. “Nutanix makes it easy to
+grow the system and provide more resources as they are needed."
+
+More information on Nutanix and a complimentary copy of the report are available here.
+
+Source:Source: Gartner, Magic Quadrant for File and Object Storage Platforms, Chandra Mukhyala, Julia Palmer,
+Chandra Mukhyala, Jeff Vogel, 8 October 2024 GARTNER is a registered trademark and service mark, and MAGIC
+QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are
+used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted
+in its research publications, and does not advise technology users to select only those vendors with the highest
+ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research
+organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or
+implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+About NutanixNutanix is a global leader in cloud software, offering organizations a single platform for running
+applications and managing data, anywhere. With Nutanix, companies can reduce complexity and simplify
+operations, freeing them to focus on their business outcomes. Building on its legacy as the pioneer of
+hyperconverged infrastructure, Nutanix is trusted by companies worldwide to power hybrid multicloud environments
+consistently, simply, and cost-effectively. Learn more at www.nutanix.com or follow us on social media @nutanix.
+
+© 2024 Nutanix, Inc. All rights reserved. Nutanix, the Nutanix logo, and all Nutanix product and service names
+mentioned herein are registered trademarks or unregistered trademarks of Nutanix, Inc. (“Nutanix”) in the United
+States and other countries. Other brand names or marks mentioned herein are for identification purposes only and
+may be the trademarks of their respective holder(s). This press release is for informational purposes only and
+nothing herein constitutes a warranty or other binding commitment by Nutanix. This release may contain express
+and implied forward-looking statements, which are not historical facts and are instead based on Nutanix’s current
+expectations, estimates and beliefs. The accuracy of such statements involves risks and uncertainties and depends
+upon future events, including those that may be beyond Nutanix’s control, and actual results may differ materially
+and adversely from those anticipated or implied by such statements. Any forward-looking statements included
+
+                                                                                                 Page 3 of 3
+   Nutanix is Positioned Furthest in Vision Among All Vendors in 2024 Gartner® Magic Quadrant™ for File and
+                           Object Storage Platforms Nutanix Unified Storage recogn....
+
+herein speak only as of the date hereof and, except as required by law, Nutanix assumes no obligation to update or
+otherwise revise any of such forward-looking statements to reflect subsequent events or circumstances.
+Media Contact pr@nutanix.com
+
+
+
+Load-Date: November 4, 2024
+
+
+  
