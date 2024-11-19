@@ -7,18 +7,11 @@ output: html_document
 
 #In this R Markdown document, I am providing a summary of your final project. 
 
-#Firt I am adding here a list of packages and libraries, that I will be using at different stage, from reading files to the data analysis and visualization, from LDA Topic Modelling to Sentimental analysis.
+#to use the data and execute basic topic modeling with LADAL Method, I may need these packages and relevent libraries 
 
-#install.packages("tidyverse")
-#install.packages"textdata") 
-#install.packages("tidytext")
-#install.packages("quanteda")
-#install.packages("rio")
-#install.packages("janitor")
-#install.packages("dplyr")
-#install.packages("stringr")
-#install.packages("readr")
-
+```{r echo= T, results = 'hide', warning=F, error=F, message=F}
+library(tidyverse)
+library(pdftools)
 library(tidyverse)
 library(textdata)
 library(tidytext)
@@ -29,34 +22,6 @@ library(rio)
 library(dplyr)
 library(stringr)
 library(readr)
-
-#for visualization
-#install.packages("ggplot2")
-library(ggplot2)
-
-#to read the PDF files and run the packages I will be using following libraries 
-
-#install.packages("pdftools")
-library(tidyverse)
-library(pdftools)
-
-#to use the data and execute basic topic modeling with LADAL Method, I may need these packages and relevent libraries 
-
-# install.packages("here")
-# install.packages("tm")
-# install.packages("topicmodels")
-# install.packages("reshape2")
-# install.packages("wordcloud")
-# install.packages("pals")
-# install.packages("SnowballC")
-# install.packages("lda")
-# install.packages("ldatuning")
-# install.packages("kableExtra")
-# install.packages("DT")
-# install.packages("flextable")
-# install.packages("remotes")
-# install.packages("formattable")
-
 here::here()
 #topic modeling
 library(tm)
@@ -73,14 +38,11 @@ library(wordcloud)
 library(pals)
 library(SnowballC)
 library(flextable)
+```
 
 #I am Loading the data here from the folder, while reading the files, combining the text, spliting into the document. 
 
 ```{r}
-
-library(tidyverse)
-library(pdftools)
-
 #reading PDF file and converting it into text. 
 text <- pdf_text("./FramingAI_taufiq.PDF")
 writeLines(text, "./FramingAI_taufiq.text")
@@ -96,7 +58,7 @@ for (i in seq_along(documents)) {
 cat("Files created:", length(documents), "\n")
 FramingAI_index <- read_lines("./extracted/FramingAI_extracted1.txt")
 extracted_lines <-FramingAI_index[16:2360]
-cat(extracted_lines, sep = "\n")
+cat(head(extracted_lines, 20), sep = "\n")
 extracted_lines <- extracted_lines |> 
   as.data.frame() 
 ```
@@ -203,7 +165,8 @@ Organizations Highlighted:	FEMA, Homeland Security, Tech Companies, NGOs
 
 
 ```{r}
-data <- read_excel("./Artificial Intelligence_ OR _AI_ AND _disaster. R.XLSX")
+library(readxl)
+data <- read_excel("./AI_disaster. R.XLSX")
 
 head(data)
 
@@ -215,7 +178,7 @@ head(data)
 library(ggplot2)
 
 # Plotting the data
-ggplot(PD, aes(x = `Published date`, y = n)) +
+ggplot(data, aes(x = `Published date`, y = `Word count`)) +
   geom_line(color = "blue", size = 1) +
   geom_point(color = "red", size = 2) +
   labs(
