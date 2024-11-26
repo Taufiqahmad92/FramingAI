@@ -226,9 +226,10 @@ articles_df <- articles_df %>%
   #gets rid of blank rows
     filter(trimws(sentence) != "") 
 
-write_csv(articles_df, "/Users/taufiqahmad/Desktop/Code/FramingAI/data/articles_df.csv")
+write_csv(articles_df, "./articles_df.csv")
 ```
 
+#Bigrams
 
 ```{r}
 # Load required libraries
@@ -261,7 +262,7 @@ data("stop_words")
 # Define the expanded remove pattern for unwanted terms
 remove_pattern <- paste(
   "title|pages|publication date|publication subject|publication type|issn|language of publication: english|",
-  "document url|copyright|last updated|database|startofarticle|proquest document id|",
+  "document url|copyright|news|service|initially|filed|ms|virginia|alexandria|last updated|database|startofarticle|proquest document id|",
   "classification|https|--|people|alt|language|english|length|words|publication|type|morg|york|times|'new york times'|publication   info|illustration|date|caption|[0-9.]|","new york times", "identifier/keyword|twitter\\.|rauchway|keynes's|_ftn|enwikipediaorg|","wwwnytimescom|wwwoenbat|wwwpresidencyucsbedu|wwwalt|wwwthemoneyillusioncom|","aaa|predated|a_woman_to_reckon_with_the_vision_and_legacy_of_fran|ab_se|",
   "jcr:fec|ac|___________________|\\bwww\\b|[_]+",sep = ""
 )
@@ -288,38 +289,6 @@ bigrams
 ```
 
 
-### Another attempt to cleaning script
-```{r}
-clean_df <- articles_df %>%
-  mutate(text = str_squish(sentence)) %>% #gets rid of leading and trailing spaces + double spaces
-  mutate(text = tolower(text)) %>%
-  mutate(text = str_replace(text, "startofarticle", "")) %>%
-  mutate(text = gsub("issn:\\s+\\S+", "", text)) %>%
-  mutate(text = str_replace_all(text, c(
-    "copyright" = "",
-    "database: proquest central" = "",
-    "language of publication: english" = "",
-    "document url:\\s+\\S+" = "",
-    "proquest document id:\\s+\\S+" = "",
-    "publication subject:\\s+\\S+" = "",
-    "publication date:\\s+\\S+" = "",
-    "publication-type:\\s+\\S+" = "",
-    "pages:\\s+\\S+" = "",
-    "publication info" = "",
-    "last updated:\\s+\\S+" = "",
-    "interest periodicals--united states" = "",
-    "all rights resesrved" = "",
-    "load-date" = "",
-    "all rights reserved" = "", 
-    "https://en.wikipedia.org/wiki" = "",
-    "https://www.alt-m.org/" = "", 
-    "new york times" = "",
-    "states news service" = "",
-    "language: english" = ""
-  ))) 
-```
-
-
 
 ```{r}
 nrow(final_data)
@@ -335,10 +304,7 @@ top_20_bigrams <- bigrams |>
   mutate(bigram = paste(word1, " ", word2)) |> 
   select(bigram, n)
 ```
-
-
-
-
+#ggplot 
 
 ```{r}
 ggplot(top_20_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +
@@ -365,29 +331,43 @@ head(AI_excel)
 #I am presenting ggplot from one month data. 
 
 ```{r}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+
+# Clean and preprocess the data
 data1 <- AI_excel |> 
   janitor::clean_names() |> 
   mutate(published_date_bak = published_date) |> 
   separate(published_date, into = c("date", "year_day"), sep = ", ", extra = "merge", fill = "right") |> 
-  group_by(date) |> 
-  count(date) 
- 
-
-library(ggplot2)
+  mutate(date = as.Date(date, format = "%B %d")) |> # Convert to proper date format
+  mutate(week = floor_date(date, unit = "week", week_start = 1)) |> # Group by week (starting on Monday)
+  group_by(week) |> 
+  count(week)
 
 # Plotting the data
-ggplot(data1, aes(x =  date, y = n)) +
+ggplot(data1, aes(x = week, y = n)) +
   geom_line(color = "blue", size = 1) +
   geom_point(color = "red", size = 2) +
+  scale_x_date(date_labels = "%b %d, %Y", date_breaks = "1 week") + # Show labels for every week
   labs(
-    title = "Count of Press Releases Over Time",
-    x = "Published Date",
+    title = "Count of Press Releases Over Time (Weekly)",
+    x = "Published Week",
     y = "Number of Press Releases"
   ) +
   theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.major = element_line(size = 0.5, color = "gray"),
+    panel.grid.minor = element_blank()
+  )
+
 
 ```
+
+
+
+
 
 
 
