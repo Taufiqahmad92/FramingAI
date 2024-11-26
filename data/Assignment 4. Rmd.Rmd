@@ -189,7 +189,7 @@ head(final_index)
 ```
 
 ## Text compiler
-```{r}
+```{r echo= T, results = 'hide', warning=F, error=F, message=F}
 
 # Define function to loop through each text file 
 
