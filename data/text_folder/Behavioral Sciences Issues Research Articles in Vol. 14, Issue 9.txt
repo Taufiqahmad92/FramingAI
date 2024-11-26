@@ -1,0 +1,201 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Behavioral Sciences Issues Research Articles in Vol. 14, Issue 9
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Behavioral Sciences Issues Research Articles in Vol. 14, Issue 9
+Targeted News Service
+October 3, 2024 Thursday 9:10 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:2456 words
+Byline:Targeted News Service
+Dateline:BASEL, Switzerland 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+* 'Are We Sure That He Knew That You Don't Want to Have Sex?': Discursive Constructions of the Suspect in Police Interviews with Rape Complainants
+* "It Is as if I Gave a Gift to Myself": A Qualitative Phenomenological Study on Working Adults' Leisure Meaning, Experiences, and Participation
+* "It's Different for Girls!" The Role of Anxiety, Physiological Arousal, and Subject Preferences in Primary School Children's Math and Mental Rotation Performance
+* A Burnt-Out Health: Stigma towards Mental Health Problems as a Predictor of Burnout in a Sample of Community Social Healthcare Professionals
+* A Longitudinal Study of Cultural Consonance, Personal Agency, and Psychological Distress in Urban Brazil
+* A Prospective Examination of Mental Health Trajectories of Disaster-Exposed Young Adults in the COVID-19 Pandemic
+* A Study on the Leisure Sports Participation Behavior of the Elderly through Comparative Analyses by Age: Focusing on Leisure Participation Constraints and Price Sensitivity
+* Addressing Prompt Dependency in the Treatment of Challenging Behavior Maintained by Access to Tangible Items
+* Adult Attachment and Emotion Regulation Flexibility in Romantic Relationships
+* Affective Instability: Impact of Fluctuating Emotions on Regulation and Psychological Well-Being
+* Age Modifies the Interactive Effect of Loneliness and Social Support on Financial Exploitation Vulnerability in Older Adults
+* Association of Dietary Habits with Eating Disorders among Latvian Youth Aged 18-24
+* Associations of Implicit and Explicit Sexual Double Standard Endorsement and Sexual Assertiveness with Sexual and Interactional Competence in Emerging Adults
+* Beyond Magic: Fostering Literacy Resilience in Diverse Classrooms through Home-Based Approaches
+* Beyond the Whole: Reduced Empathy for Masked Emotional Faces Is Not Driven by Disrupted Configural Face Processing
+* Bridging the Connection between Fluency in Reading and Arithmetic
+* Building Social Support and Moral Healing on Nursing Units: Design and Implementation of a Culture Change Intervention
+* ChatGPT in Learning: Assessing Students' Use Intentions through the Lens of Perceived Value and the Influence of AI Literacy
+* Chinese Consumers' Attitudes toward and Intentions to Continue Using Skill-Sharing Service Platforms
+* Comparative Analysis of Stroke, Marital Intimacy, Marital Satisfaction and Divorce Intention According to the Type of Participation in Marital Leisure Sports Activities
+* Comparison of Effects of Implicit versus Explicit Learning of a Novel Skill in Young Gymnastic Athletes
+* Concept Maps to Assess System Understanding: Are Graphical Explanations More Accurate than Verbal Ones?
+* Considering the Role of Behavioural Fatigue in the COVID-19 Lockdown Debates in Great Britain: A Retrospective Analysis of a National Survey Assessing the Relationships between Capability, Opportunity, Motivation, and Behaviour
+* Correlates of Exercise Behavior Based on Socio-Ecological Theoretical Model among Chinese Urban Adults: An Empirical Study
+* Degraded Visibility Body-Specifically Affects Mental Rotation
+* Developing Servant Leadership through Experience and Practice: A Case Study in Service Learning
+* Development and Preliminary Validation of the Lovebird Scale
+* Development of a Best Practice Guidance on Online Peer Support for People with Young-Onset Dementia
+* Differentiated Empowering Leadership and Interpersonal Counterproductive Work Behaviors: A Chained Mediation Model
+* Difficulties among Teachers' Emotional Regulation: Analysis for the Development of Student Well-Being in Chilean Schools
+* Digital Platform for the Prevention of Suicidal Behaviour and Non-Suicidal Self-Injuries in Adolescents: The SmartCrisis-Teen Study Protocol
+* Do Attitudes towards Gender Equality Influence the Internalization of Ambivalent Sexism in Adolescence?
+* Does Self-Reported Trait Mindfulness Contribute to Reducing Perceived Stress in Women Who Practice Yoga and Are Physically Active?
+* Effective Teacher Professional Development for School-Based Mental Health Promotion: A Review of the Literature
+* Effects of Social Exclusion on Self-Evaluation: Domain Discrepancy Based on the Big Two Model
+* Effects of Technostress on Psychological Contract Violation and Organizational Change Resistance
+* Evaluating Adolescent Patient Outcomes and Staff Member Injuries at a General Psychiatric Inpatient Unit
+* Examining the Effect of Knowledge Seeking on Knowledge Contribution in Q&A Communities
+* Examining the Mechanisms of Virtual Reality Tourism's Impact on the Mental Well-Being of Long-Term Care Facility Residents: Perspectives on Presence and Flow
+* Exploring Attention Bias Mechanisms in Sub-Threshold Depression: ERP Insights into Biased Orientation and Disengagement
+* Exploring Burnout, Work Addiction, and Stress-Related Growth among Prehospital Emergency Personnel
+* Exploring Cervical Cancer Screening Uptake among Women in the United States: Impact of Social Determinants of Health and Psychosocial Determinants
+* Exploring Constraints and Sport Experiences: A Case Study of Adult Workers in Singapore
+* Exploring Egalitarianism: A Conceptual and Methodological Review of Egalitarianism and Impacts on Positive Intergroup Relations
+* Exploring How Stereotype Modification Mediates the Relationship between Social Dominance and Multicultural Acceptance
+* Exploring the Interplay between Stress Perception and Approach-Avoidance Achievement Goal Orientation among Rural Students in College: A Longitudinal Study in China
+* Exploring the Role of Sustainable Development Goals in Enhancing Courage, Proactive Career Behaviors, and Life Satisfaction
+* Factors Associated with Birth-Related Post-Traumatic Stress Disorder Symptoms and the Subsequent Impact of Traumatic Birth on Mother-Infant Relationship Quality
+* From Tradition to Innovation: Analyzing Strategies and Support for Enhancing Badminton Course Teaching Quality through Educational Technology
+* Gender Role Mindset and Beliefs about Own Personal Goals as a Guide for Young People's Behaviors towards the Romantic Partner
+* Grief Intervention in Suicide Loss Survivors through Cognitive-Behavioral Therapy: A Systematic Review
+* Grow Your Own School Mental Health Specialists: A Policy Pilot to Address Behavioral Health Workforce Shortages in Schools
+* High Impostors Are More Hesitant to Ask for Help
+* How Distressed Are Adolescent Students? A Mix-Method Study on High School Students in Northern Italy, Two Years after the Beginning of the COVID-19 Pandemic
+* How Income and Discrimination Shape the Acceptance of Newcomers in Europe: A Comparative Analysis of Native-Born and Immigrant Populations
+* How Teachers' Emotional Leadership Influences College Students' Learning Engagement
+* Imbalance between Employees and the Organisational Context: A Catalyst for Workplace Bullying Behaviours in Both Targets and Perpetrators
+* Implications of Cash Transfer Programs for Mental Health Promotion among Families Facing Significant Stressors: Using Ecological Systems Theory to Explain Successes of Conditional and Unconditional Programs
+* In-Person and Online Studies Examining the Influence of Problem Solving on the Fading Affect Bias
+* Levels of Empathy in Students and Professors with Patients in a Faculty of Dentistry
+* Links between Vaccination Fear-, Anxiety-, Alexithymia-, and Type D Personality-Related Vaccination Decisions: A Network Analysis in a Multicultural Sample
+* Maternal Perinatal Depression, Alexithymia, and Couple Functioning: Which Relationship Exists with Prenatal Attachment
+* Mechanisms Linking Social Media Use and Sleep in Emerging Adults in the United States
+* Mental Health and (Online) Behaviors during the COVID-19 Pandemic in Spain: A Network-Based Approach
+* Meta-Analysis of Collaborative Inhibition Moderation by Gender, Membership, Culture, and Memory Monitoring
+* Music Listening as Exploratory Behavior: From Dispositional Reactions to Epistemic Interactions with the Sonic World
+* Nature Connectedness Reduces Internet Gaming Disorder: The Chain Mediating Role of Intolerance of Uncertainty and Desire Thinking
+* Online and Offline Aggressive Behaviors in Adolescence: The Role of Self-Regulatory Self-Efficacy Beliefs
+* Patients' Perspectives on the Acceptability and Effectiveness of a Community Health Worker-Led Intervention to Increase Chronic Kidney Disease Knowledge and Screening among Underserved Latine Adults: The CARE 2.0 Study
+* Perfectionism and Emotion Regulation in the Study of Suicidal Ideation in Portuguese Young Adults
+* Predictive Utility of the Multi-Process Action Control Framework for Self-Reported and Device-Measured Physical Activity Behavior of Adolescents
+* Proactive Personality and Turnover Intention: The Mediating Role of Career Aspiration and the Moderating Effect of Organizational Career Management
+* Promoting Consumers' Sustainable Consumption of Online Retail Cold Chain Logistics Services: Extended Applications of SOR and Cognitive-Affective-Conative Theories
+* Prompting Strategy Use and Beyond: Examining the Relationships between Elaboration, Quantity, and Diversity of Learning Strategies on Performance
+* Psychological Well-Being and Self-Aging Attitudes Moderate the Association between Subjective Age and Age Discrimination in the Workplace
+* Psychological Well-Being of Young Athletes with Physical Disabilities: A Systematic Review
+* Psychosocial Support for Parents, Infants, Children, and Adolescents with Variations of Sex Characteristics: Results from a Pan-European Survey
+* Punishment after Life: How Attitudes about Longer-than-Life Sentences Expose the Rules of Retribution
+* Reframing Social and Emotional Development of the Gifted
+* Relationship between Family Variables and Career Adaptability: A Meta-Analysis
+* Relationship between Playing Musical Instruments and Subjective Well-Being: Enjoyment of Playing Instruments Scale
+* Reliability and Validity of the Comprehensive Assessment of Psychopathic Personality--Self-Report--German Version (CAPP-SR-GV) in a German Non-Criminal Sample
+* Research on the Purchase Intention of Social Commerce Consumers in Video Streams: Dual Pathways of Affection and Rationality
+* Risk Factors for Low Quality of Life among Women Using Different Types of Contraceptives in Saudi Arabia: A Questionnaire-Based Study
+* Scoping Review on the Use of Music for Emotion Regulation
+* Sexual Excitation in Young Women with Different Levels of Sexual Satisfaction in Relationships: A Laboratory Study
+* Shaping Student Relationships: The Role of Personality in Early Childhood Pre-Service Teachers
+* Smartphone Distraction and Academic Anxiety: The Mediating Role of Academic Procrastination and the Moderating Role of Time Management Disposition
+* Social Understanding of Disability: Determinants and Levers for Action
+* Support from Social Media during the COVID-19 Pandemic: A Systematic Review
+* Takotsubo Syndrome or Peripartum Cardiomyopathy? Depends on Who You Are Talking to
+* Teacher-Student Relationships and Coping Styles in Chinese Children: The Chain Mediating Role of Peer Relationships and Psychological Suzhi
+* Telerobotic Intergroup Contact: Acceptance and Preferences in Israel and Palestine
+* Ternary Moral Empathy Model from the Perspective of Intersubjective Phenomenology
+* The Association between Music Listening at Home and Subjective Well-Being
+* The Challenge-Hindrance-Threat Appraisal Framework and the Differential Effects on Employees' Work Well-Being and Behaviors
+* The Classification of Altruism Forms South Korean Coaches' Perspective
+* The Development of Ambiguity Processing Is Explained by an Inverted U-Shaped Curve
+* The Effect of Time Display Format on Cognitive Performance of Integrated Meteorological Radar Information
+* The Effects of the Medium of Notetaking on the Delayed Learning Effect of College Students: A Mediated Moderation Model
+* The Group Intertemporal Decision-Making Process
+* The Impact of Close Reading Strategies on Individual Innovativeness and Life Skills: Preservice Teachers
+* The Impact of Home Medication Management Practices on Medication Adherence
+* The Impact of Intensive Care Unit Nurses' Burnout Levels on Turnover Intention and the Mediating Role of Psychological Resilience
+* The Impact of Pressure Training on the Performance of Semi-Professional Female Rugby League Players
+* The Influence of Parents' Educational Expectations on Children's Development: The Chain Mediation Role of Educational Anxiety and Parental Involvement
+* The Interplay of Structuring and Controlling Teaching Styles in Physical Education and Its Impact on Students' Motivation and Engagement
+* The Relationship between Family Functioning, Emotional Intelligence, Loneliness, Social Support, and Depressive Symptoms among Undergraduate Students
+* The Relationship between Laissez-Faire Leadership and Cyberbullying at Work: The Role of Interpersonal Conflicts
+* The Self-Reference Effect in Metamemory and the Role of Beliefs in This Process
+* The Skill of Positive Solitude Moderates the Relationship between 24 Character Strengths and Flourishing in the Second Half of Life
+* Tool, Threat, Tutor, Talk, and Trend: College Students' Attitudes toward ChatGPT
+* Translation and Psychometric Evaluation of the Greek Version of the Attitudes toward Transgendered Individuals Scale
+* Unconscious Drivers of Consumer Behavior: An Examination of the Effect of Nature-Nurture Interactions on Product Desire
+* Unpacking the Dynamics of AI-Based Language Learning: Flow, Grit, and Resilience in Chinese EFL Contexts
+* Unraveling Investor Behavior: The Role of Hyperbolic Discounting in Panic Selling Behavior on the Global COVID-19 Financial Crisis
+* Unveiling the Role of Emotion Regulation in the Relationship between Intimate Partner Violence Increases and Post-Traumatic Stress Disorder: A Mediation Analysis
+* User Sentiment Analysis Based on Securities Application Elements
+* Veracity Judgments Based on Complications: A Training Experiment
+* What Affects the Value of Our Time? The Case of Buying a Present vs. Buying for Ourselves and the Impact of Decision-Making Styles
+* Which Receives More Attention, Online Review Sentiment or Online Review Rating? Spillover Effect Analysis from JD.com
+* You Reap What You Sow: Customer Courtesy and Employees' Prosocial Service Behavior
+* Young Children's Directed Question Asking in Preschool Classrooms
+The September 2024 edition of Behavioral Sciences can be viewed at https://www.mdpi.com/2076-328X/14/9. The journal is published by MDPI.
+[Category: Science]
+Copyright Targeted News Services
+MSTRUCK-8858151 MSTRUCK
+
+Load-Date:October 4, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

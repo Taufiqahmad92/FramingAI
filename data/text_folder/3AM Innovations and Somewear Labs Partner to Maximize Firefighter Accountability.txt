@@ -1,0 +1,72 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: 3AM Innovations and Somewear Labs Partner to Maximize Firefighter Accountability
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+3AM Innovations and Somewear Labs Partner to Maximize Firefighter Accountability
+PR Newswire
+September 24, 2024 Tuesday 9:00 AM EST
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Length:1062 words
+Dateline:BUFFALO, N.Y., Sept. 24, 2024 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgAI and 3D technology solutions for the public safety sector, andSomewear Labs, an industry leader in resilient communications for frontline teams, are proud to announce a new partnership. This collaboration leverages the unparalleled personnel tracking capabilities of 3AM's FLORIAN platform and Somewear Labs' patented software-defined network and multi-network hardware, to increase the safety and efficiency of firefighting teams."With the increasing threat of wildland fires encroaching on urban environments, the need for collaboration in the public safety tech space is greater than ever," - Patrick O'Connor, President and Co-founder 3AM InnovationsThis partnership reaffirms 3AM's commitment to firefighter safety and accountability by empowering agencies to leverage their preferred tracking technologies and seamlessly integrate the data into FLORIAN. This expanded interoperability now includes Somewear's resilient mesh and satellite-powered solutions, ensuring continuous tracking and communications in any environment. 
+Firefighters can now use their preferred tracking tools while FLORIAN consolidates all data into a unified, real-time view, empowering first responders to make informed decisions in high-stakes environments, enhancing both operational efficiency and personnel safety.Somewear Labs' first-of-its-kind multi-network device, Node, combines the efficiency of mesh radios with the resilience of satellite technology, providing unprecedented network redundancy. Somewear's routing logic, SmartRouting, manages communications across multiple networkscell, wifi, mesh, satellitewithout requiring operator intervention, ensuring that firefighter tracking data is always available in the FLORIAN platform. The availability of continuous real-time data at the command post and Emergency Operations Center (EOC) allows for faster decision-making and coordinated responses, which are essential in managing the fast-paced evolution of wildland fire."With the increasing threat of wildland fires encroaching on urban environments, the need for collaboration in the public safety tech space is greater than ever," said Patrick O'Connor, President and Co-founder of 3AM Innovations. "This partnership with Somewear Labs is a testament to that, combining our strengths to provide firefighters with every possible advantage on the fireground.""Our partnership with 3AM Innovations demonstrates Somewear's open and flexible integration framework that empowers us to connect with industry-leading situational awareness platforms like FLORIAN," said James Kubik, Co-founder and CEO of Somewear Labs. "This collaboration reinforces our commitment to providing a reliable software-defined network that delivers critical data directly into the operational workflows of first responders, ensuring they have the information they need to make informed decisions in high-stakes situations."This partnership is a solution to some of the key requirements laid out in theDingell Act, signed into law in 2019 to improve wildfire management through advanced technology and better resource tracking. As wildfires become more frequent and severe, this legislation underscores the need for innovative tools that reduce firefighter risk, enhance resource management, and lower both human and financial costs.To further highlight the importance of technology in wildfire management 3AM Innovations will be hosting an exclusive webinar "Navigating the Dingell Act: Insights and Solutions for the Fire Service" featuring Ret. Chief Kim Zagaris of the Western Fire Chiefs Association. The webinar will explore how tech innovators such as 3AM Innovations and Somewear Labs are addressing the challenges posed by the Dingell Act, ultimately leading to safer and more efficient firefighting operations.To view the Dingell Act webinar, and to learn more about FLORIAN, please visit3aminnovations.comFor more information about Somewear Labs, please visitsomewearlabs.com. To view Somewear's Disaster Management & Incident Response Symposium webinar "Prepare for the Unknown: Communications that will Work in the Face of Disaster," clickhere.About 3AM Innovations3AM Innovations delivers advanced AI and 3D technology solutions for the public safety sector. By empowering all public safety personnel with crucial information, we support effective incident management. Furthermore, 3AM integrates its core incident command platform, FLORIAN, with global partners to significantly expand its capabilities. We combine decades of incident command experience with advanced technology. Ultimately transforming the organized chaos of an emergency into actionable intelligence. To learn more about 3AM Innovations and our offerings, visitwww.3aminnovations.com.About Somewear LabsSomewear's software platform and hardware enable commercial and government teams to maintain situational awareness during high-pressure operations  in any environment. Somewear is headquartered in San Francisco, CA and trusted by a wide range of customers, from helicopter paramedics to wildland firefighters, to operators within the U.S. Department of Defense. The company's purpose is to build best-in-class solutions that keep people in touch, informed, and safe anywhere in the world.About the Dingell ActThe Dingell Act, formally known as the Conservation, Management, and Recreation Act, was signed into law in 2019 to improve wildfire management through technological advances and better resource tracking. This legislation aims to equip and prepare firefighters more effectively, reduce their exposure to risk, and lower both human and financial costs associated with wildfires.John D. Dingell Jr. Conservation, Management, and Recreation Act | US Forest Service (usda.gov)Media ContactEllie Bancroft, 3AM Innovations, 1 7168125616, ,www.3aminnovations.comKara Erwin, Somewear Labs, ,https://somewearlabs.com  View original content to download multimedia:https://www.prweb.com/releases/3am-innovations-and-somewear-labs-partner-to-maximize-firefighter-accountability-302256744.htmlSOURCE 3AM Innovations 
+
+Load-Date:September 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

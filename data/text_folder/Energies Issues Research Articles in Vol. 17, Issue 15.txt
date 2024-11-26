@@ -1,0 +1,316 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Energies Issues Research Articles in Vol. 17, Issue 15
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Energies Issues Research Articles in Vol. 17, Issue 15
+Targeted News Service
+October 11, 2024 Friday 7:50 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:4891 words
+Byline:Targeted News Service
+Dateline:BASEL, Switzerland 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+* Article - A Cloud-Edge Collaborative Multi-Timescale Scheduling Strategy for Peak Regulation and Renewable Energy Integration in Distributed Multi-Energy Systems
+* Article - A Comparative Analysis of Data Source's Impact on Renewable Energy Scenario Assessment--The Example of Ground-Mounted Photovoltaics in Germany
+* Article - A Coupled Model of Multiscaled Creep Deformation and Gas Flow for Predicting Gas Depletion Characteristics of Shale Reservoir at the Field Scale
+* Article - A Doublet State Palladium(I) N-Heterocyclic Carbene Complex as a Dopant and Stabilizer for Improved Photostability in Organic Solar Cells
+* Article - A Dual-Function Design of an Oscillating Water Column Integrated with a Slotted Breakwater: A Wave Flume Study
+* Article - A Hybrid ARIMA-LSTM Model for Short-Term Vehicle Speed Prediction
+* Article - A Hybrid Commutation Technique for Reducing Zero-Crossing Distortion in a Sliding Mode Controller for Single-Phase Grid-Tied Full-Bridge Inverters
+* Article - A Hybrid Energy System Based on Externally Fired Micro Gas Turbines, Waste Heat Recovery and Gasification Systems: An Energetic and Exergetic Performance Analysis
+* Article - A Medium- and Long-Term Residential Load Forecasting Method Based on Discrete Cosine Transform-FEDformer
+* Article - A Method of Adaptive Power Allocation for Fuel Cell Hybrid Power Systems Taking into Account Stack Performance
+* Article - A Multiparadigm Approach for Generation Dispatch Optimization in a Regulated Electricity Market towards Clean Energy Transition
+* Article - A New Method of Transformer Short-Circuit Impedance Regulation Based on Magnetic Shunts
+* Article - A New Power-Sharing Strategy with Photovoltaic Farms and Concentrated Diesel Generators to Increase Power System Resilience
+* Article - A Novel Multi-Timescale Optimal Scheduling Model for a Power-Gas Mutual Transformation Virtual Power Plant with Power-to-Gas Conversion and Comprehensive Demand Response
+* Article - A Novel Sustainable Approach for Site Selection of Underground Hydrogen Storage in Poland Using Deep Learning
+* Article - A Physics-Based Equivalent Circuit Model and State of Charge Estimation for Lithium-Ion Batteries
+* Article - A Study on the Efficient Degradation of Sulfur Hexafluoride by Pulsed Dielectric Barrier Discharge Synergistic Active Gas
+* Article - A Study on the Thermal Physical Property Changes in Formation Rocks during Rapid Preheating of SAGD
+* Article - Adaptability Evaluation of Power Grid Planning Scheme for Novel Power System Considering Multiple Decision Psychology
+* Article - Adaptive Bi-Directional LSTM Short-Term Load Forecasting with Improved Attention Mechanisms
+* Article - Adaptive Fast Integral Terminal Sliding Mode Control Strategy Based on Four-Switch Buck-Boost Converters
+* Article - Advanced Multi-Sampling PWM Technique for Single-Inductor MIMO DC-DC Converter in Electric Vehicles
+* Article - Advanced Static Var Generator in the Reactive Power Automatic Compensation System of an Underground Mine with a Thyristor Hoisting Machine
+* Article - Advancing Reservoir Evaluation: Machine Learning Approaches for Predicting Porosity Curves
+* Article - An Analysis of Greenhouse Gas Emissions in Electrolysis for Certifying Clean Hydrogen
+* Article - An Early Warning Model for Turbine Intermediate-Stage Flux Failure Based on an Improved HEOA Algorithm Optimizing DMSE-GRU Model
+* Article - An Efficiency Evaluation and Driving Effect Analysis of the Green Transformation of the Thermal Power Industrial Chain: Evidence Based on Impacts and Challenges in China
+* Article - An Experimental and Numerical Investigation of a Heat Exchanger for Showers
+* Article - An Improved Cascaded Boost Converter with an Ultra-High Voltage Gain Suitable for Dielectric Quality Tests
+* Article - An On-Line Sensor Fault Detection System for an AC Microgrid Secondary Control Based on a Sliding Mode Observer Model
+* Article - Analysis and Application of Fluid Components in High-Clay Matrix Shale Oil: A Case Study of Gulong Shale Oil
+* Article - Analysis of Cooling Technologies in the Data Center Sector on the Basis of Patent Applications
+* Article - Analysis of Multi-Biofuel Production during Cultivation of the Green Microalga Tetraselmis subscordiformis
+* Article - Analysis of Non-Road Mobile Machinery Homologation Standards in Relation to Actual Exhaust Emissions
+* Article - Analysis of the Relationships between Variables and Their Applications in the Energy Saving Field
+* Article - Analysis of the Year-Round Operation of Enhanced Natural Ventilation Systems under Transient Weather Conditions in Europe
+* Article - Application of an Improved Harmony Search Algorithm on Electric Vehicle Routing Problems
+* Article - Application of Dynamic Weight Mixture Model Based on Dual Sliding Windows in Carbon Price Forecasting
+* Article - Application of Electrical Protection on Subsea Electrically Trace Heated Pipe-in-Pipe Line
+* Article - Application of the Metalog Probability Distribution Family to Predict Energy Production by Photovoltaic Systems for the Purposes of Generating Green Hydrogen
+* Article - Applying a Current Sharing Method Based on Partial Energy Processing to Multiphase LLC Resonant Converters
+* Article - Assessment of Low-Carbon Flexibility in Self-Organized Virtual Power Plants Using Multi-Agent Reinforcement Learning
+* Article - Biogas-to-Power Systems Based on Solid Oxide Fuel Cells: Thermodynamic Analysis of Stack Integration Strategies
+* Article - Can Aqueous Na2SO4-Based Neutral Electrolyte Increase Energy Density of Monolithic Wood Biochar Electrode Supercapacitor?
+* Article - Can Energy-Consuming Rights Trading Policies Help to Curb Air Pollution? Evidence from China
+* Article - Case Study of the Impact of New Brazilian Legislation in the Year 2023 on the Economic Feasibility of Photovoltaic Microgeneration: Homes in the City of Fortaleza
+* Article - Classification Method of Heavy Oil Based on Chemical Composition and Bulk Properties
+* Article - Cold Storage and Release Characteristics of Phase Change Cold Storage Plate with Non-Uniform Fins
+* Article - Collaborative Planning of Distribution Network, Data Centres and Renewable Energy in the Power Distribution IoT via Interval Optimization
+* Article - Comprehensive Experimental Study of Biomass Conversion Behavior: From Particle Phenomena to Reactor Scale
+* Article - Computational Fluid Dynamic Investigation of Local Flow-Field Conditions in Lab Polymer Electrolyte Membrane Fuel Cells to Identify Degradation Stressors and Performance Enhancers
+* Article - Computing Interface Curvature from Height Functions Using Machine Learning with a Symmetry-Preserving Approach for Two-Phase Simulations
+* Article - Consecutive Year-by-Year Planning of Grid-Side Energy Storage System Considering Demand-Side Response Resources
+* Article - Control Optimization for Heat Source Temperature of Vacuum Belt Drying System Based on Fuzzy Control and Integral Control
+* Article - Controller Hardware in the Loop Platform for Evaluating Current-Sharing and Hot-Swap in Microgrids
+* Article - Convolutional Neural Network and Bidirectional Long Short-Term Memory (CNN-BiLSTM)-Attention-Based Prediction of the Amount of Silica Powder Moving in and out of a Warehouse
+* Article - Co-Pyrolysis of Sewage Sludge, Two-Component Special Municipal Waste and Plastic Waste
+* Article - Data Acquisition of Logging While Drilling at the Newly Discovered Gas Hydrate Reservoir in Hyuganada Sea, Japan
+* Article - Data-Driven Golden Jackal Optimization-Long Short-Term Memory Short-Term Energy-Consumption Prediction and Optimization System
+* Article - Dead-Time Free Modulation Scheme for IM Drive System Fed by Voltage Source Inverter
+* Article - Decarbonization of Heating and Cooling Systems of Buildings Located Nearby Surface Water Sources: Case Study
+* Article - Decarbonizing Hard-to-Abate Sectors with Renewable Hydrogen: A Real Case Application to the Ceramics Industry
+* Article - Decentralized Multi-Area Economic Dispatch in Power Systems Using the Consensus Algorithm
+* Article - Deep Learning Approaches for Power Prediction in Wind-Solar Tower Systems
+* Article - Design of Inductive Power Transfer Charging System with Weak Coupling Coefficient
+* Article - Development of an Auxiliary Indicator for Improving the Rationality and Reliability of the National-Level Carbon Productivity Indicator
+* Article - Development of Energy Poverty and Its Solutions through the Use of Renewables: The EU Case with a Focus on Slovakia
+* Article - Diffusion Properties of Gas Molecules in Oil-Paper Insulation System Based on Molecular Dynamics Simulation
+* Article - Discovering the Properties of a Problem of Scheduling Battery Charging Jobs to Minimize the Total Time with the Use of Harmonic Numbers
+* Article - Distributed and Multi-Agent Reinforcement Learning Framework for Optimal Electric Vehicle Charging Scheduling
+* Article - Distribution Network Reconfiguration Optimization Using a New Algorithm Hyperbolic Tangent Particle Swarm Optimization (HT-PSO)
+* Article - Droop Frequency Limit Control and Its Parameter Optimization in VSC-HVDC Interconnected Power Grids
+* Article - Eco-Friendly Polyurethane Foams Enriched with Waste from the Food and Energy Industries
+* Article - Eco-Innovation Method for Sustainable Development of Energy-Producing Products Considering Quality and Life Cycle Assessment (QLCA)
+* Article - Effect of Bore Parameters and Effective Mass Ratio on Launcher Effective Efficiency
+* Article - Effect of Supporting Carbon Fiber Anode by Activated Coconut Carbon in the Microbial Fuel Cell Fed by Molasses Decoction from Yeast Production
+* Article - Electrification of Agricultural Machinery: One Design Case of a 4 kW Air Compressor
+* Article - E-Methanol Production and Potential Export in the Northern Denmark Region for 2030 and 2045
+* Article - Energy Communities in the Transition to Renewable Sources: Innovative Models of Energy Self-Sufficiency through Organic Waste
+* Article - Energy Efficiency in Polish Farms
+* Article - Environmental Benefits of the West-East Natural Gas Transmission Project: Cross-Regional Energy Optimization and Transformation for Sustainable Development
+* Article - Estimation of Railway Line Impedance at Low Frequency Using Onboard Measurements Only
+* Article - Evaluation of Energy-Production Preferences Using ANP Methodology Based on a Comprehensive Residential Survey
+* Article - Evaluation of Prediction Model for Compressor Performance Using Artificial Neural Network Models and Reduced-Order Models
+* Article - Evaluation of Transport-Burnup Coupling Strategy in Double-Heterogeneity Problem
+* Article - Evaporative Fractionation as the Important Formation Mechanism of Light Oil Reservoirs in the Dongying Depression, NE China
+* Article - Experimental Study of Electromagnetic Interference from Concentrated Discharge Channels within the Soil to Adjacent Directly Buried Cables during Lightning Current Inflow to the Ground
+* Article - Experimental Study of Thermal Performance of Pulsating-Heat-Pipe Heat Exchanger with Asymmetric Structure at Different Filling Rates
+* Article - Experimental Study on the Impact of Lubricant on the Performance of Gravity-Assisted Separated Heat Pipe
+* Article - Experimental Study on the Influence of Planar Configuration on Wind Load Distribution Characteristics of High-Rise Buildings with Whole Wind Azimuths
+* Article - Exploiting Lubricant Formulation to Reduce Particle Emissions from Gas Powered Engines
+* Article - Exploring the Feasibility of Energy Extraction from the Bedretto Tunnel in Switzerland
+* Article - Fast Terminal Sliding-Mode Predictive Speed Controller for Permanent-Magnet Synchronous Motor Drive Systems
+* Article - Feasibility Analysis of an Electric Vehicle Charging Station with Solar Energy and Battery Storage
+* Article - Four-Wire Three-Level NPC Shunt Active Power Filter Using Model Predictive Control Based on the Grid-Tied PV System for Power Quality Enhancement
+* Article - Fuel Cell System Modeling Dedicated to Performance Estimation in the Automotive Context
+* Article - Fundamental Barriers to Green Energy Production in Selected EU Countries
+* Article - Green Transformation of Mining towards Energy Self-Sufficiency in a Circular Economy--A Case Study
+* Article - Grid-Forming Control for Solar Generation System with Battery Energy Storage
+* Article - Harmonic Sequence Component Model-Based Small-Signal Stability Analysis in Synchronous Machines during Asymmetrical Faults
+* Article - Has the EU Emissions Trading System Worked Properly?
+* Article - Hybrid ANPC Grid-Tied Inverter Design with Passivity-Based Sliding Mode Control Strategy
+* Article - Hydrogen Revolution in Europe: Bibliometric Review of Industrial Hydrogen Applications for a Sustainable Future
+* Article - Hydroprocessing Microbial Oils for Advanced Road Transportation, Aviation, and Maritime Drop-In Fuels: Industrially Relevant Scale Validation
+* Article - Identifying Economic Factors of Renewable Energy Consumption--A Global Perspective
+* Article - Impact of Building Envelope Materials on Energy Usage and Performance of Evaporative Cooling System in Residential Building
+* Article - Impact of Energy-Related Properties of Cities on Optimal Urban Energy System Design
+* Article - Impact of Renewable and Non-Renewable Energy Consumption on the Production of the Agricultural Sector in the European Union
+* Article - Impact of Renewable Energy, Business Climate, and Human Capital on CO2 Emissions: Empirical Evidence from BRICS Countries
+* Article - Improved Model-Free Predictive Control of a Three-Phase Inverter
+* Article - Improved Performance of Low-Frequency Harmonic Current Suppression Based on Hybrid Active Power Filter
+* Article - In-Depth Analysis of the Burst of a Liquefied Petroleum Gas Tank in Gravedona, Italy
+* Article - Insights into the Co-Exploration Potential of Gas in the Shale and Tight Sandstone of the Lower Silurian Formation in the Gongtan Syncline Area in Southeastern Sichuan Basin, SW China
+* Article - IntiGIS-Local: A Geospatial Approach to Assessing Rural Electrification Alternatives for Sustainable Socio-Economic Development in Isolated Communities--A Case Study of Guasasa, Cuba
+* Article - Inverter Multi-Machine Grid Integration Resonance Suppression Strategy by Active Damping
+* Article - Investigation of a Modified Wells Turbine for Wave Energy Extraction
+* Article - Investigation of Alternative Substances for Replacing Hydrogen in Methanation
+* Article - Investigation of Dead Time Losses in Inverter Switching Leg Operation: GaN FET vs. MOSFET Comparison
+* Article - Investigation of Removing Asphaltene-Resin-Paraffin Deposits by Chemical Method for Azerbaijan High-Paraffin Oil Production Process
+* Article - Investigation on Cryogenic Cavitation Characteristics of an Inducer Considering Thermodynamic Effects
+* Article - Leveraging Pumped Storage Power Plants for Innovative Stability Enhancement of Weakly Interconnected Power Systems
+* Article - Linear Active Disturbance Rejection Control for Flexible Excitation System of Pumped Storage Units
+* Article - Load Frequency Control of Multiarea Power Systems with Virtual Power Plants
+* Article - Local Energy Community to Support Hydrogen Production and Network Flexibility
+* Article - Long Short-Term Memory Autoencoder and Extreme Gradient Boosting-Based Factory Energy Management Framework for Power Consumption Forecasting
+* Article - Machine-Learning-Based Anomaly Detection for GOOSE in Digital Substations
+* Article - Maximum Power Transfer of a Photovoltaic Microgeneration System Using PSO-Based Dynamic Modeling
+* Article - Mechanical Damage to Coal and Increased Coal Permeability Caused by Water-Based Ultrasonic Cavitation
+* Article - Meteorological Data Mining and Synthesis for Supplementing On-Site Data for Regulatory Compliance
+* Article - Model Quality and Measurement Density Impact on Volt/Volt Ampere Reactive Optimization Performance
+* Article - Model-Free Temperature Control of Heat Treatment Process
+* Article - Modeling and Transmission Characteristics Study of a Resonant Underwater Wireless Electric Power Transmission System
+* Article - Monthly Hydropower Scheduling of Cascaded Reservoirs Using a Genetic Algorithm with a Simulation Procedure
+* Article - Multi-Criteria Decision-Making for Selecting Solar Window Film Sheets for Energy Saving in Buildings
+* Article - Multi-Objective Supervisory Control in More-Electric Aircraft Using Model Predictive Control: An ORCHESTRA Application
+* Article - Multi-Timescale Voltage Regulation for Distribution Network with High Photovoltaic Penetration via Coordinated Control of Multiple Devices
+* Article - Multi-Utility Solar Thermal Systems: Harnessing Parabolic Trough Concentrator Using SAM Software for Diverse Industrial and Residential Applications
+* Article - Multivariable Control-Based dq Decoupling in Voltage and Current Control Loops for Enhanced Transient Response and Power Delivery in Microgrids
+* Article - NILM for Commercial Buildings: Deep Neural Networks Tackling Nonlinear and Multi-Phase Loads
+* Article - Novel Approach to Analyzing Friction Losses by Modeling the Microflow of Lubricating Oil between the Piston Rings and Cylinder in Internal Combustion Engines
+* Article - Novel NSTEX System Based on Ti/CuO/NC Nanothermite Doped with NTO
+* Article - Numerical Investigation and Simulation of Hydrogen Blending into Natural Gas Combustion
+* Article - Numerical Investigation of Hydraulic Fractures Vertical Propagation Mechanism for Enhanced Tight Gas Recovery
+* Article - Numerical Investigation on the Effects of Gap Circulating Flow on Blower Performance under Design and Off-Design Conditions
+* Article - Numerical Study on Auxiliary Propulsion Performance of Foldable Three-Element Wingsail Utilizing Wind Energy
+* Article - On the Influence of Engine Compression Ratio on Diesel Engine Performance and Emission Fueled with Biodiesel Extracted from Waste Cooking Oil
+* Article - Optimal Bidding Scheduling of Virtual Power Plants Using a Dual-MILP (Mixed-Integer Linear Programming) Approach under a Real-Time Energy Market
+* Article - Optimal Operation of Virtual Power Plants Based on Stackelberg Game Theory
+* Article - Optimal Resilience and Risk-Driven Strategies for Pre-Disaster Protection of Electric Power Systems against Uncertain Disaster Scenarios
+* Article - Optimization Design of SOFC-GT Hybrid Power System for Aviation Application
+* Article - Optimization of Fuel Consumption by Controlling the Load Distribution between Engines in an LNG Ship Electric Propulsion Plant
+* Article - Optimization of Magnetic Core Structures for Enhanced Magnetic Coupling in Helical Coil Inductive Power Transmission
+* Article - Optimization of Practicality for Modeling- and Machine Learning-Based Framework for Early Fault Detection of Induction Motors
+* Article - Optimizing the Size of a Moving Annular Hollow Laser Heat Source
+* Article - Ownership, Patterns of Use and Electricity Consumption of Domestic Appliances in Urban Households of the West African Monetary and Economic Union: A Case Study of Ouagadougou in Burkina Faso
+* Article - Performance Assessment of an Integrated Low-Approach Low-Temperature Open Cooling Tower with Radiant Cooling and Displacement Ventilation for Space Conditioning in Temperate Climates
+* Article - Photocatalytic Hydrogen Production Enhancement of NiTiO3 Perovskite through Cobalt Incorporation
+* Article - Photovoltaics Energy Potential in the Largest Greek Cities: Atmospheric and Urban Fabric Effects, Climatic Trends Influences and Socio-Economic Benefits
+* Article - Planning a Hybrid Battery Energy Storage System for Supplying Electric Vehicle Charging Station Microgrids
+* Article - Power and Energy Losses in Medium-Voltage Power Grids as a Function of Current Asymmetry--An Example from Poland
+* Article - Power Factor Analysis of Grid-Connected Solar Inverter under Different Irradiance Levels throughout the Day
+* Article - Predictive Analysis of a Building's Power Consumption Based on Digital Twin Platforms
+* Article - Predictive Heating Control and Perceived Thermal Comfort in a Norwegian Office Building
+* Article - Primary Frequency Control with an Air Handling Unit
+* Article - Process Modeling and Optimization of Supercritical Carbon Dioxide-Enhanced Geothermal Systems in Poland
+* Article - Profitability Analysis of a Prosumer Photovoltaic Installation in Light of Changing Electricity Billing Regulations in Poland
+* Article - Properties of Chemically Stabilized Methanol-HVO Blends
+* Article - Pyrolytic Pathway of Wheat Straw Pellet by the Thermogravimetric Analyzer
+* Article - Reforming Climate and Development Finance for Clean Cooking
+* Article - Representing Carbon Dioxide Transport and Storage Network Investments within Power System Planning Models
+* Article - Research on a Three-Phase Soft-Switching Inverter Based on a Simple Auxiliary Snubber Circuit
+* Article - Research on Geological-Engineering Integration Numerical Simulation Based on EUR Maximization Objective
+* Article - Research on Parameter Correction of Distribution Network Model Based on CIM Model and Measurement Data
+* Article - Research on Photovoltaic Power Generation Characteristics of Small Ocean Observation Unmanned Surface Vehicles
+* Article - Research on the Control and Modulation Scheme for a Novel Five-Switch Current Source Inverter
+* Article - Research on the Optimization of the Heating Effect of Lithium-Ion Batteries at a Low Temperature Based on an Electromagnetic Induction Heating System
+* Article - Robust Secondary Controller for Islanded Microgrids with Unexpected Electrical Partitions under Fault Conditions
+* Article - Selected Reliability Aspects Related to the Power Supply of Security Systems
+* Article - Selection of Ferrite Depending on Permeability and Weight to Enhance Power Transfer Efficiency in Low-Power Wireless Power Transfer Systems
+* Article - Separation and Classification of Partial Discharge Sources in Substations
+* Article - Short-Circuit Current Calculation of Flexible Direct Current Transmission Lines Considering Line Distribution Parameters
+* Article - Short-Term Power Load Forecasting Method Based on Feature Selection and Co-Optimization of Hyperparameters
+* Article - Simulation of Vacuum Distillation Unit in Oil Refinery: Operational Strategies for Optimal Yield Efficiency
+* Article - Solar Energy Received on Flat-Plate Collectors Fixed on 2-Axis Trackers: Effect of Ground Albedo and Clouds
+* Article - Spark Timing Optimization through Co-Simulation Analysis in a Spark Ignition Engine
+* Article - Sparrow Search Algorithm Based on New Energy Power Hydrogen Synthesis Ammonia Economic Optimization of System Scheduling
+* Article - Stochastic Optimal Strategies and Management of Electric Vehicles and Microgrids
+* Article - Strategic Siting of Direct Air Capture Facilities in the United States
+* Article - Structural and Compositional Analysis of CZTSSe Thin Films by Varying S/(S+Se) Ratio
+* Article - Study of a Numerical Integral Interpolation Method for Electromagnetic Transient Simulations
+* Article - Study of the Thermal Performance of Solar Air Collectors with and without Perforated Baffles
+* Article - Study on Compatibility Evaluation of Multilayer Co-Production to Enhance Recovery of Water Flooding in Oil Reservoir
+* Article - Study on the Evolution Law of Temperature, Pressure, and Productivity near the Well for Gas Hydrate Exploitation by Depressurization
+* Article - Study on the Multiphase Flow Behavior in Jet Pump Drainage and Natural Gas Hydrate Production Wells with Combined Depressurization and Thermal Stimulation Method
+* Article - Taking Advantage of Spare Battery Capacity in Cellular Networks to Provide Grid Frequency Regulation
+* Article - Textile-Integrated Conductive Layers for Flexible Semiconductor-Based Photovoltaic Structures
+* Article - The Behavior of Terminal Voltage and Frequency of Wind-Driven Single-Phase Induction Generators under Variations in Excitation Capacitances for Different Operating Conditions
+* Article - The Economic Efficiencies of Investment in Biogas Plants--A Case Study of a Biogas Plant Using Waste from a Dairy Farm in Poland
+* Article - The Impact of Nuclear Energy Consumption, Green Technological Innovation, and Trade Openness on the Sustainable Environment in the USA
+* Article - The Importance of Public Sources of Financing the Development of Renewable Energy in Agriculture, Using the Example of Eastern Poland
+* Article - The Influence of Cyclic Loading on the Mechanical Properties of Well Cement
+* Article - The Stabilization of a Nonlinear Permanent-Magnet- Synchronous-Generator-Based Wind Energy Conversion System via Coupling-Memory-Sampled Data Control with a Membership-Function-Dependent H Approach
+* Article - The Threefold Role of the University in Fostering the Energy Transition: The Case of Bologna and Its Cesena Campus
+* Article - Thermal Performance Improvement of Cross-Flow Double-Layered Microchannel Heat Sinks through Proper Header Design
+* Article - Thermophysical Characterization of Materials for Energy-Efficient Double Diaphragm Preforming
+* Article - Three-Coil Wireless Charging System Based on S-PS Topology
+* Article - Tracking Biofuel Innovation: A Graph-Based Analysis of Sustainable Aviation Fuel Patents
+* Article - Trade-Off Analysis of Drive Dynamics Considering Speed and Current Loops
+* Article - Turbulent Boundary Layer Control with Multi-Scale Riblet Design
+* Article - Uncertain Scheduling of the Power System Based on Wasserstein Distributionally Robust Optimization and Improved Differential Evolution Algorithm
+* Article - Unlocking the Potential: An In-Depth Analysis of Factors Shaping the Success of Smart and Bidirectional Charging in a Cross-Country Comparison
+* Article - Virtualized Viscosity Sensor for Onboard Energy Management
+* Review - A Comprehensive Review Based on the Game Theory with Energy Management and Trading
+* Review - A Comprehensive Review of Syngas Production, Fuel Properties, and Operational Parameters for Biomass Conversion
+* Review - A Comprehensive Review on the Hydrogen-Natural Gas-Diesel Tri-Fuel Engine Exhaust Emissions
+* Review - A Pan-Asian Energy Transition? The New Rationale for Decarbonization Policies in the World's Largest Energy Exporting Countries: A Case Study of Qatar and Other GCC Countries
+* Review - A Review of End-of-Life Scenarios for Fibre-Reinforced Polymer Materials
+* Review - A Review on Recent Advances in the Energy Efficiency of Machining Processes for Sustainability
+* Review - A Review on the Application of Artificial Intelligence in Anomaly Analysis Detection and Fault Location in Grid Indicator Calculation Data
+* Review - A Survey of Multi-Agent Systems for Smartgrids
+* Review - Advancement of Bioenergy Technology in South Africa
+* Review - Advancing Fast Frequency Response Ancillary Services in Renewable-Heavy Grids: A Global Review of Energy Storage-Based Solutions and Market Dynamics
+* Review - Application and Challenge of High-Speed Pumps with Low-Temperature Thermosensitive Fluids
+* Review - Biomass-Fueled Organic Rankine Cycles: State of the Art and Future Trends
+* Review - Convective Heat Transfer in PWR, BWR, CANDU, SMR, and MSR Nuclear Reactors--A Review
+* Review - Cost Reduction in the Process of Biological Denitrification by Choosing Traditional or Alternative Carbon Sources
+* Review - Decoding the Developmental Trajectory of Energy Trading in Power Markets through Bibliometric and Visual Analytics
+* Review - Defect Engineering of Nickel-Based Compounds for Energy-Saving H2 Production
+* Review - Direct CO2 Hydrogenation over Bifunctional Catalysts to Produce Dimethyl Ether--A Review
+* Review - Enhancing the Performance of Savonius Wind Turbines: A Review of Advances Using Multiple Parameters
+* Review - European Green Deal, Energy Transition and Greenflation Paradox under Austrian Economics Analysis
+* Review - Hydrogen Purification Technologies in the Context of Its Utilization
+* Review - Long-Duration Energy Storage--A Literature Review on the Link between Variable Renewable Energy Penetration and Market Creation
+* Review - Molten Salt Electrodeposition: Review
+* Review - Review of Compensation Topologies Power Converters Coil Structure and Architectures for Dynamic Wireless Charging System for Electric Vehicle
+* Review - Review of Organic Waste-to-Energy (OWtE) Technologies as a Part of a Sustainable Circular Economy
+* Review - Review of Proton Exchange Membrane Fuel Cell-Powered Systems for Stationary Applications Using Renewable Energy Sources
+* Review - Review on Aging Risk Assessment and Life Prediction Technology of Lithium Energy Storage Batteries
+* Review - Supercapacitor-Assisted Energy Harvesting Systems
+* Review - Survey of Optimization Techniques for Microgrids Using High-Efficiency Converters
+* Review - Sustainable Management and Advanced Nutrient Recovery from Biogas Energy Sector Effluents
+* Review - Trends and Challenges after the Impact of COVID-19 and the Energy Crisis on Financial Markets
+* Review - Unmanned Aerial Vehicle (UAV)-Assisted Damage Detection of Wind Turbine Blades: A Review
+The Aug. 1, 2024, edition of Energies can be viewed at https://www.mdpi.com/1996-1073/17/15. The journal is published by MDPI.
+[Category: Energy]
+Copyright Targeted News Services
+MSTRUCK-8870732 MSTRUCK
+
+Load-Date:October 11, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

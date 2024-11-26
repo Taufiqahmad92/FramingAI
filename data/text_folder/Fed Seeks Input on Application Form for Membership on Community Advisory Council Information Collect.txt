@@ -1,0 +1,116 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Fed Seeks Input on Application Form for Membership on Community Advisory Council Information Collection
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Fed Seeks Input on Application Form for Membership on Community Advisory Council Information Collection
+Targeted News Service
+September 30, 2024 Monday 3:18 PM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:1386 words
+Byline:Targeted News Service
+Dateline:WASHINGTON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+SUMMARY:
+The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, with revision, the Application Form for Membership on the Community Advisory Council (FR 1401; OMB No. 7100-0371).
+DATES:
+Comments must be submitted on or before November 29, 2024.
+ADDRESSES:
+You may submit comments, identified by FR 1401, by any of the following methods:
+Agency Website: https://www.federalreserve.gov/ . Follow the instructions for submitting comments at https://www.federalreserve.gov/ apps/ foia/ proposedregs.aspx.
+Email: regs.comments@federalreserve.gov Include the OMB number or FR number in the subject line of the message.
+Fax: (202) 452-3819 or (202) 452-3102.
+Mail: Federal Reserve Board of Governors, Attn: Ann E. Misback, Secretary of the Board, Mailstop M-4775, 2001 C St. NW, Washington, DC 20551.
+All public comments are available from the Board's website at https://www.federalreserve.gov/ apps/ foia/ proposedregs.aspx as submitted, unless modified for technical reasons or to remove personally identifiable information at the commenter's request. Accordingly, comments will not be edited to remove any confidential business information, identifying information, or contact information. Public comments may also be viewed electronically or in paper in Room M-4365A, 2001 C St. NW, Washington, DC 20551, between 9:00 a.m. and 5:00 p.m. on weekdays, except for Federal holidays. For security reasons, the Board requires that visitors make an appointment to inspect comments. You may do so by calling (202) 452-3684. Upon arrival, visitors will be required to present valid government-issued photo identification and to submit to security screening in order to inspect and photocopy comments.
+Additionally, commenters may send a copy of their comments to the Office of Management and Budget (OMB) Desk Officer for the Federal Reserve Board, Office of Information and Regulatory Affairs, Office of Management and Budget, New Executive Office Building, Room 10235, 725 17th Street NW, Washington, DC 20503, or by fax to (202) 395-6974.
+FOR FURTHER INFORMATION CONTACT:
+Federal Reserve Board Clearance Officer--Nuha Elmaghrabi--Office of the Chief Data Officer, Board of Governors of the Federal Reserve System, nuha.elmaghrabi@frb.gov,(202) 452-3884.
+SUPPLEMENTARY INFORMATION:
+On June 15, 1984, OMB delegated to the Board authority under the Paperwork Reduction Act (PRA) to approve and assign OMB control numbers to collections of information conducted or sponsored by the Board. In exercising this delegated authority, the Board is directed to take every reasonable step to solicit comment. In determining whether to approve a collection of information, the Board will consider all comments received from the public and other agencies.
+During the comment period for this proposal, a copy of the proposed PRA OMB submission, including the draft reporting form and instructions, supporting statement (which contains more detail about the information collection and burden estimates than this notice), and other documentation, will be made available on the Board's public website at https://www.federalreserve.gov/ apps/ reportingforms/ home/ review or may be requested from the agency clearance officer, whose name appears above. On the page displayed at the link above, you can find the supporting information by referencing the collection identifier, FR 1401. Final versions of these documents will be made available at https://www.reginfo.gov/ public/ do/ PRAMain, if approved.
+Request for Comment on Information Collection Proposal
+The Board invites public comment on the following information collection, which is being reviewed under authority delegated by the OMB under the PRA. Comments are invited on the following:
+a. Whether the proposed collection of information is necessary for the proper performance of the Board's functions, including whether the information has practical utility;
+b. The accuracy of the Board's estimate of the burden of the proposed information collection, including the validity of the methodology and assumptions used;
+c. Ways to enhance the quality, utility, and clarity of the information to be collected;
+d. Ways to minimize the burden of information collection on respondents, including through the use of automated collection techniques or other forms of information technology; and
+e. Estimates of capital or startup costs and costs of operation, maintenance, and purchase of services to provide information.
+At the end of the comment period, the comments and recommendations received will be analyzed to determine the extent to which the Board should modify the proposal.
+Proposal Under OMB Delegated Authority To Extend for Three Years, With Revision, the Following Information Collection
+Collection title: Application Form for Membership on the Community Advisory Council.
+Collection identifier: FR 1401.
+OMB control number:7100-0371.
+General description of collection: The Application Form for Membership on the Community Advisory Council (Application) is used to obtain information about the experience and qualification of persons seeking to be considered for membership on the Board's Community Advisory Council (CAC). The Application collects an applicant's contact information; details regarding current employment and areas of expertise; a resume, which typically includes information about employment history, education, and training; and a cover letter explaining why the applicant is interested in serving on the CAC and their primary qualifications. Applicants can voluntarily elect to provide additional information to support their application.
+Proposed revisions: The Board proposes to modify the choices for the organization type, add choices for the areas of expertise on the application, and add two attestations. Organization type would now require a response should an applicant choose "Other" under non-profit or for-profit agencies. Additional subcategories under the government option would include "National," "State," and "Local." The four additional choices for primary and secondary areas of expertise would include "Artificial Intelligence," "Disaster Recovery and Resiliency," "Financial Education," and "Health." The application would have two attestations: (1) affirming there is no applicant relationship to an employee of the Board of Governors, Reserve Bank, or a Board or Reserve Bank advisory council, and (2) that no officer or senior executive of the applicant's current organization has a relationship to an employee of the Board of Governors, Reserve Bank, or a Board or Reserve Bank advisory council. If there is a relationship, applicants would be asked to disclose the name of the employee, director, advisory council member, officer, or senior executive with the relationship to the applicant. Applicants would be asked to indicate the nature of the relationship and whether the employee, director, advisory council member, officer, or senior executive is or was associated with the Board or a Reserve Bank and if at a Reserve Bank, indicate which one. Revisions would be effective as of the 2025 application period.
+Frequency: Annual.
+Respondents: Individuals seeking to be considered for membership on the CAC.
+Total estimated number of respondents: 300.
+Total estimated change in burden: 23.
+Total estimated annual burden hours: 323.
+Board of Governors of the Federal Reserve System, September 25, 2024.
+Benjamin W. McDonough, Deputy Secretary and Ombuds of the Board.
+[FR Doc. 2024-22323 Filed 9-27-24; 8:45 am]
+BILLING CODE 6210-01-P
+* * *
+View original text at: https://www.federalregister.gov/documents/2024/09/30/2024-22323/proposed-agency-information-collection-activities-comment-request
+TARGETED NEWS SERVICE (founded 2004) features non-partisan 'edited journalism' news briefs and information for news organizations, public policy groups and individuals; as well as 'gathered' public policy information, including news releases, reports, speeches. For more information contact MYRON STRUCK, editor, editor@targetednews.com, Springfield, Virginia; 703/304-1897; https://targetednews.com
+-1760049
+
+Load-Date:September 30, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

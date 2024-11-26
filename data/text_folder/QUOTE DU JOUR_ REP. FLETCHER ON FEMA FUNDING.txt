@@ -1,0 +1,57 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: QUOTE DU JOUR: REP. FLETCHER ON FEMA FUNDING
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+QUOTE DU JOUR: REP. FLETCHER ON FEMA FUNDING
+States News Service
+October 10, 2024 Thursday
+
+
+Copyright 2024 States News Service
+Length:191 words
+Byline:States News Service
+Dateline:WASHINGTON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Rep. Lizzie Fletcher (D-Houston) reiterated her push to fund a shortfall in federal disaster relief funds at Axios Houston's event on clean energy yesterday.
+State of play: Earlier this month, the Federal Emergency Management Agency revealed it does not have enough funding to cover the rest of the hurricane season, even before the catastrophic Hurricane Milton formed in the Gulf of Mexico.
+What they're saying: "They have to have the money," Fletcher said at the event in Houston. "They have to have the resources to do it."
+"If we could go back and do it, I would, and I think that we should. Certainly I hope that we will be able to move a package as quickly as possible after November."
+Between the lines: Fletcher and Rep. Wesley Hunt (R-Houston) led a bipartisan effort Oct. 3 urging House leadership to take up the issue quickly.
+Go deeper: Check out the full live stream of the event where we discussed the Infrastructure Reduction Act's impact on Texas, the Bayou City's future in hydrogen, AI's impact on the grid and more.
+View this article on Axios Houston.
+
+Load-Date:October 10, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

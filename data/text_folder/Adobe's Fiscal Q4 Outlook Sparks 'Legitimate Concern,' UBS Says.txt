@@ -1,0 +1,68 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Adobe's Fiscal Q4 Outlook Sparks 'Legitimate Concern,' UBS Says
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Adobe's Fiscal Q4 Outlook Sparks 'Legitimate Concern,' UBS Says
+MT Newswires Live Briefs
+September 13, 2024 Friday 3:41 PM EST
+
+
+Copyright 2024 MT Newswires All Rights Reserved
+
+### picture data found, picture dimensions are 9179 by 2249, depth 1
+pict002.png
+Length:111 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+Still, fiscal Q3 results on Thursday were "hardly a disaster," and the share slump "seems overdone," UBS said.
+On the bearish front, "there is no clear evidence that Adobe's AI products are lifting the numbers," and any AI revenue disclosure is possible in March at the earliest, UBS said.
+UBS trimmed its price target on Adobe to $550 from $560 and maintained its neutral rating on the stock.
+Adobe shares fell 8.3% in recent trading Friday.
+Price: 538.12, Change: -48.43, Percent Change: -8.26
+
+Load-Date:September 13, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

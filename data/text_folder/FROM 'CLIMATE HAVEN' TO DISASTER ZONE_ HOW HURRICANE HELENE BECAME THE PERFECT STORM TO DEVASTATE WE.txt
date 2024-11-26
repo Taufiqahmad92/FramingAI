@@ -1,0 +1,70 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: FROM 'CLIMATE HAVEN' TO DISASTER ZONE: HOW HURRICANE HELENE BECAME THE PERFECT STORM TO DEVASTATE WESTERN NORTH CAROLINA
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+FROM 'CLIMATE HAVEN' TO DISASTER ZONE: HOW HURRICANE HELENE BECAME THE PERFECT STORM TO DEVASTATE WESTERN NORTH CAROLINA
+States News Service
+October 1, 2024 Tuesday
+
+
+Copyright 2024 States News Service
+Length:699 words
+Byline:States News Service
+Dateline:BOSTON, Mass. 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+by Cynthia McCormick Hibbert
+October 1, 2024
+Before the aftermath of Hurricane Helene dumped more than 30 inches of rain on some parts of western North Carolina and led to historic flooding that has killed more than 30 people in the mountainous region, Asheville was known as a "climate haven."
+News reports say people were moving to the city that houses the historic Biltmore Estate to escape extreme heat in the summer, sea level rise and hurricanes.
+The mudslides and floods that have swept away children and their grandparents and others in the foothills and mountains of North Carolina were a risk that few saw as imminent, say Northeastern University professors Auroop Ganguly and Samuel Munoz.
+The catastrophe, says Ganguly, distinguished professor of civil and environmental engineering, is an example of a "gray swan" event.
+Gray swans happen when "places not thought to be at risk may not be immune anymore to the ravages of weather extremes that are relatively 'unprecedented' in the region," he says.
+The path of Hurricane Helene from landfall as a Category 4 hurricane in the Big Bend region of Florida's Gulf coastline to western North Carolina was "fairly unusual," says Munoz, associate professor of marine and environmental sciences at Northeastern's Marine Science Center.
+"Usually a hurricane hits land and then very quickly fizzles out," he says. That was not the case for Helene.
+It barrelled up into the Appalachian mountains, where its moisture was forced up into cooler air and rapidly condensed.
+"You had moisture-laden air hitting a mountain range, and that produced a lot of rain," Munoz says. Visualize the storm as a water-soaked sponge hitting a wall, he says. "You're squeezing out a lot of moisture quickly."
+While research is still underway on the exact ways climate change is affecting hurricanes, there is scientific consensus that warmer water and air temperatures mean that hurricanes will produce more precipitation, Munoz says.
+"Hurricanes may grow less frequent," Ganguly says. "But there have been claims that the warmer waters may fuel stronger hurricanes."
+Mountainous slopes expedited the movement of water, Munoz says. "You get a lot of rain hitting these steep slopes. That water moves fast and causes these flash floods."
+In the Asheville region, floods and mudslides closed hundreds of roads, damaged the water system, shut down cell service, isolated whole communities and killed at least 35 people in Buncombe County alone.
+It created what Ganguly calls a "textbook case" of cascading failures to critical infrastructure.
+In total at least 130 people have been killed in six states, including from falling trees and tornadoes associated with Helene, according to media reports. More than a million people were without power as of early Tuesday.
+Munoz says the National Weather Services forecast of the amounts of rain to deluge western North Carolina was "pretty spot on."
+"It's not clear how much these communities could have prepared for a deluge of that magnitude," he says.
+More recent floods in western North Carolina have been more localized, Munoz says. "There are other mechanisms that can produce a lot of rain, too."
+Unlike a black swan event, which is completely unexpected, flooding in North Carolina was a known risk but the extent of it shocked the region, Ganguly says.
+He says the path forward for proactive weather disaster management, including mitigating the risk of catastrophic flooding in the Appalachian region or anywhere else, will need to rely in part "on human ingenuity, ranging from hybrid physics-AI based weather prediction and network science-based complex systems control to risk-informed and science-driven decisions and policies."
+Recovery from natural disasters or man-made attacks begins with being prepared, researchers say
+Also vitally important are "community adoptions of safety protocols, especially to take care of those who are among the most vulnerable and the least able to help themselves," Ganguly says.
+"Perfect storms can happen in places where they hadn't happened before," he says. "They may be unprecedented, but they are not impossible any longer."
+
+Load-Date:October 2, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

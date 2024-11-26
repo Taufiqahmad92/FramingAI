@@ -1,0 +1,57 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: A SHOWCASE COMBINING KNOWLEDGE AND ACTION
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+A SHOWCASE COMBINING KNOWLEDGE AND ACTION
+States News Service
+October 7, 2024 Monday
+
+
+Copyright 2024 States News Service
+Length:1003 words
+Byline:States News Service
+Dateline:NEW YORK, NY 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+On the heels of announcing its new MS in Climate degree program, the Columbia Climate School held its first-ever Climate School Showcase, as part of its programming for Climate Week.
+The purpose of the showcase was to highlight the Climate School's mission to partner with organizations outside of Columbia to build climate solutions. The half-day event was held at the Forum, on Columbia's Manhattanville campus, and was open to the public; the glass walls of the Forum a metaphor for visibility and inclusion.
+"This showcase is meant to highlight the Climate School's cutting-edge research practice in climate science, finance and sustainabilitya comprehensive approach, given [the situation's] urgency," Jeff Shaman, interim dean of the Columbia Climate School, told a packed house, kicking off a half days' worth of panels and discussions. But research alone only goes so far, he said: The mission of the schoolthe first to be founded at Columbia University in 25 years"is to partner with constituencies outside of the academy to develop solutions globally, and not just in the university environment," Shaman said.
+The format of the showcase reflected this all-hands-on-deck approach. The panelists sat on the same level as audience members in order to foster an open dialog, and mingling was encouraged between discussions. The mood was serious and engaged, though there were frequent moments of levity. Ruth DeFries, chief academic officer at the Climate School, set the stage for the first discussion, Foundations: Climate Scholarship, Teaching and Practice. She looked at the all-female panel and quipped, "We do have amazing male scientists at the Climate School, too." There was a visual notetaker to capture in real time all the ideas that emerged from the two panels, and to express the dynamic component of the collaborative work being done at the Climate School: an active coming together of research and action. See the timelapse videos of the notetaker's work on foundations and actions.
+This panel served as an introduction to the Climate School, exploring the "foundational" knowledge underpinning scholarship at the school. Each panelist discussed their area of expertise, from seafloor mapping (Vicki Ferrini, senior research scientist at Lamont-Doherty Earth Observatory) and Earth systems and sustainability (Mingfang Ting, professor of climate) to AI and Analytics (Kara Lamb, associate research scientist, Department of Earth and Environmental Engineering) to climate finance (Lisa Sachs, director, Center on Sustainable Investment) and environmental justice (Sheila Foster, professor of climate).
+Each panelist not only discussed their research but also spoke to how each contributes to our collective knowledge of how to address the climate crisis. "A university builds knowledge, and that is what we do in the Climate School," said DeFries. "But that's not enough. We need to meld that foundational knowledge that we're building with the impact in the world to address this very, very big challenge that we face with climate and other issues related to sustainability," she added.
+Mingfang Ting, professor of climate at the Climate School, echoed this sentiment. We need to link research to action, she said. "We need to understand how the climate system will evolve and what worst case scenarios we should expect, in order to understand how we can take actions and build infrastructure and help deal with this kind of crisis." Sheila Foster, who trained as a lawyer and now researches how the climate crisis impacts marginalized communities, spoke directly to the issue of addressing the gap between research and action, as she has done with helping to shape New York City's approach to equity and climate justice. "If you want to redesign a system or make it work better, I think that you can do that from within, but also from without," she said. "Having this kind of outside role in helping institutions reshape themselves around helping to reshape the system is a really powerful reason to be in the university."
+After a break, the focus shifted to the five Action Collaboratives, which pose the question, "how we can catalyze knowledge for action," said Shaman, and aim to "accelerate impact and training the next generation of leaders to help bridge silos and make real change possible."
+Sandra Goldmark, associate dean of interdisciplinary engagement, added that these interdisciplinary teams are built on "a theory of change about how we, as a university, can make real change in the world beyond the school...We want to break down not just disciplinary barriers with the Action Collaboratives, but also institutional, cultural and political ones as well: and we're hoping you will help us do so."
+The panelists each spoke to one of the five Action Collaboratives: disasters (Jeff Schlegelmilch, director, National Center for Disaster Preparedness); food (Jessica Fanzo, professor of climate and director of the Food for Humanity Initiative); water (Radley Horton, professor of climate); the built environment (Kate Orff, professor at the Graduate School of Architecture, Planning and Preservation); and energy (Michael Burger, executive director of the Sabin Center for Climate Change Law). The panel was moderated by Johanna Lovecchio, director of impact programs at the Climate School.
+From left to right: Johanna Lovecchio; Jeff Schlegelmilch; Jessica Fanzo; Radley Horton; Michael Burger; Kate Orff.
+One theme that emerged, in addition to the need for building partnerships with organizations outside of the university, was the need not only to build community around these Action Collaboratives, but also to engage directly with the communities on the front lines of climate change. "What are the communities looking for? What are the answers they need to help foster a more equitable, more holistic, more sustained resistance [to climate impacts]?" said Schlegelmilch. "There is really no perspective that is not without value."
+
+Load-Date:October 15, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

@@ -1,0 +1,72 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: TeraWulf Monetizes Equity Interests in Nautilus Joint Venture to Fuel Expansion of HPC/AI and Bitcoin Mining at Flagship Lake Mariner Facility
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+TeraWulf Monetizes Equity Interests in Nautilus Joint Venture to Fuel Expansion of HPC/AI and Bitcoin Mining at Flagship Lake Mariner Facility
+GlobeNewswire
+October 3, 2024 Thursday 1:00 PM PT
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7618 by 2434, depth 1
+pict002.png
+Section:MANAGEMENT STATEMENTS
+Length:1648 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+2 MW AI/HPC Proof-of-Concept Project Nearing Completion; Targeting operations for 20 MW CB-1 in Q1 2025 and 50 MW CB-2 in Q2 2025
+Maintains Q1 2025 Target ~13 EH/s Operating Capacity While Upgrading Fleet Efficiency to 18.2 J/TH and Optimizing Operating Expenses
+Schedules Conference Call for Third Quarter 2024 Financial Results
+EASTON, Md., Oct. 03, 2024 (GLOBE NEWSWIRE) -- TeraWulf Inc. (Nasdaq: WULF) (TeraWulf or the Company), a leading owner and operator of vertically integrated, next-generation digital infrastructure powered by predominantly zero-carbon energy, today announced it has completed the sale of its 25% equity interest in the Nautilus Cryptomine joint venture ("Nautilus") to its partner, a subsidiary of Talen Energy Corporation (Talen), in a transaction valued at approximately $92 million that will help fuel expansion of HPC/AI and bitcoin mining at the Companys wholly-owned Lake Mariner facility and position TeraWulf for substantial value creation.
+This transaction allows TeraWulf to achieve a 3.4x return on its investment in Nautilus1. The $92 million consideration consists of $85 million in cash and approximately 30,000 Talen-contributed miners and related equipment valued at around $7 million. TeraWulf intends to reinvest this capital into the construction of the 20 MW CB-1 facility at Lake Mariner, which is designed for hosting HPC/AI data centers.
+In addition to the CB-1 facility, TeraWulf aims to complete the construction of the mining building 5, MB-5, and maintains its operational target of over 13 EH/s by Q1 2025. The Company also plans to enhance the efficiency of its mining fleet to achieve 18.2 J/TH.
+This transaction underscores TeraWulfs dedication to operational efficiency, cost management, and long-term shareholder value, while also demonstrating proactive risk management. By monetizing its interest ahead of the expiration of the $0.02/kWh power contract and ground lease in June 2027, TeraWulf strategically positions itself to redeploy resources to its Lake Mariner facility in New York, where it enjoys superior cost efficiency and lower expected future power prices. Furthermore, the sale of TeraWulf's minority interest in Nautilus will streamline its consolidated financial statements, enhancing transparency and comparability for shareholders.
+TeraWulf recently completed a 2 MW AI/HPC proof-of-concept project, designed to support both current and next-generation GPU technology. Additionally, the Company is constructing a 20 MW colocation building, CB-1, at Lake Mariner, engineered to handle a critical IT load of 16 MW with advanced liquid cooling and Tier 3 redundancy features. Re-investing the proceeds from this transaction keeps CB-1 on track to be operational in Q1 2025. The next building, CB-2, has a planned gross capacity of 50 MW and is targeted for completion in Q2 2025.
+Management Commentary
+This transaction further aligns TeraWulfs focus and investments with where we have the most operational efficiency, the greatest growth potential, and the best opportunity to drive incremental value for shareholders, said Paul Prager, Chief Executive Officer of TeraWulf. Monetizing our interest in Nautilus ahead of the 2027 expiration of the highly advantageous 2¢/kWh power contract allows us to capture a significant premium for our investment, provide significant capital to invest into our HPC/AI infrastructure and capitalize on our favorably structured miner purchase agreement to upgrade our mining fleet at a discount to the current market price.
+Prager added, Together, these actions are expected to bring CB-1 online in Q1 2025, significantly enhance our mining fleets efficiency, reduce our cost-to-mine, and improve overall profitability, all while maintaining our commitment to utilizing predominantly zero-carbon energy. We extend our thanks to Talen Energy for their collaboration, which has played a vital role in reaching this important milestone. We look forward to furthering our shared commitment to sustainable energy and digital infrastructure innovation.
+Looking ahead, we are focused on ensuring TeraWulf is best positioned to benefit from the growing demand for HPC/AI by meeting the needs of high-quality customers who are looking for power availability and infrastructure that can meet their substantial requirements over the long term, Prager concluded.
+Schedules Third Quarter 2024 Earnings Call
+The Company will hold its earnings conference call and webcast for the third quarter ended September 30, 2024 on Tuesday, November 12 at 5:00 p.m. Eastern Time. A press release detailing these results will be issued prior to the call on the same day. Additional details, including dial-in information, will be provided as the event approaches.
+About TeraWulf
+TeraWulf develops, owns, and operates environmentally sustainable, next-generation data center infrastructure in the United States, specifically designed for Bitcoin mining and high-performance computing. Led by a team of seasoned energy entrepreneurs, the Company owns and operates the Lake Mariner facility situated on the expansive site of a now retired coal plant in Western New York. Currently, TeraWulf generates revenue primarily through Bitcoin mining, leveraging predominantly zero-carbon energy sources, including nuclear and hydroelectric power. Committed to environmental, social, and governance (ESG) principles that align with its business objectives, TeraWulf aims to deliver industry-leading economics in mining and data center operations at an industrial scale.
+Forward-Looking Statements 
+This press release contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, as amended. Such forward-looking statements include statements concerning anticipated future events and expectations that are not historical facts. All statements, other than statements of historical fact, are statements that could be deemed forward-looking statements. In addition, forward-looking statements are typically identified by words such as plan, believe, goal, target, aim, expect, anticipate, intend, outlook, estimate, forecast, project, continue, could, may, might, possible, potential, predict, should, would and other similar words and expressions, although the absence of these words or expressions does not mean that a statement is not forward-looking. Forward-looking statements are based on the current expectations and beliefs of TeraWulfs management and are inherently subject to a number of factors, risks, uncertainties and assumptions and their potential effects. There can be no assurance that future developments will be those that have been anticipated. Actual results may vary materially from those expressed or implied by forward-looking statements based on a number of factors, risks, uncertainties and assumptions, including, among others: (1) conditions in the cryptocurrency mining industry, including fluctuation in the market pricing of bitcoin and other cryptocurrencies, and the economics of cryptocurrency mining, including as to variables or factors affecting the cost, efficiency and profitability of cryptocurrency mining; (2) competition among the various providers of cryptocurrency mining services; (3) changes in applicable laws, regulations and/or permits affecting TeraWulfs operations or the industries in which it operates, including regulation regarding power generation, cryptocurrency usage and/or cryptocurrency mining, and/or regulation regarding safety, health, environmental and other matters, which could require significant expenditures; (4) the ability to implement certain business objectives and to timely and cost-effectively execute integrated projects; (5) failure to obtain adequate financing on a timely basis and/or on acceptable terms with regard to growth strategies or operations (6) loss of public confidence in bitcoin or other cryptocurrencies and the potential for cryptocurrency market manipulation (7) adverse geopolitical or economic conditions, including a high inflationary environment; (8) the potential of cybercrime, money-laundering, malware infections and phishing and/or loss and interference as a result of equipment malfunction or break-down, physical disaster, data security breach, computer malfunction or sabotage (and the costs associated with any of the foregoing) (9) the availability, delivery schedule and cost of equipment necessary to maintain and grow the business and operations of TeraWulf, including mining equipment and infrastructure equipment meeting the technical or other specifications required to achieve its growth strategy; (10) employment workforce factors, including the loss of key employees; (11) litigation relating to TeraWulf and/or its business; and (12) other risks and uncertainties detailed from time to time in the Companys filings with the Securities and Exchange Commission (SEC). Potential investors, stockholders and other readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on which they were made. TeraWulf does not assume any obligation to publicly update any forward-looking statement after it was made, whether as a result of new information, future events or otherwise, except as required by law or regulation. Investors are referred to the full discussion of risks and uncertainties associated with forward-looking statements and the discussion of risk factors contained in the Companys filings with the SEC, which are available at www.sec.gov.
+Company Contact:Jason AssadDirector of Corporate Communications assad@terawulf.com (678) 570-6791
+1 Excludes the un-depreciated value of WULFs Nautilus miners.
+
+Load-Date:October 3, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

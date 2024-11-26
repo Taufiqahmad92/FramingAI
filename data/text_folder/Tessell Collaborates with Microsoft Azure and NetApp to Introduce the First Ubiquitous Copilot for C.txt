@@ -1,0 +1,176 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Tessell Collaborates with Microsoft Azure and NetApp to Introduce the First Ubiquitous Copilot for Cloud Databases with Enterprise-Grade PaaS First-of-its-kind solution empowers enterprises with seamless database management and significant cost reductions
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Tessell Collaborates with Microsoft Azure and NetApp to Introduce the First Ubiquitous Copilot for Cloud Databases with Enterprise-Grade PaaS; First-of-its-kind solution empowers enterprises with seamless database management and significant cost reductions
+GlobeNewswire
+September 24, 2024 Tuesday 10:30 AM PT
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7618 by 2434, depth 1
+pict002.png
+Section:PRODUCT / SERVICES ANNOUNCEMENT
+Length:918 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+This new solution delivers a unique offering for cloud database management that provides customers with unprecedented flexibility, cost optimization, and performance enhancements. Azure Saving Plans and NetApp effective capacity pricing are available, ensuring Co-Sell incentives and Microsoft Azure Consumption Credits (MACC) enablement. Moreover, the bundled solution includes 24x7x365 support with a 15-minute response time for issues related to Azure, ANF, and Tessell Oracle PaaS.
+For enterprises facing rising infrastructure and database licensing costs, this announcement marks a turning point. With Tessells new offering, customers can experience up to a 45% reduction in total cost of ownership (TCO) across four key vectors:
+        
+Infrastructure Optimization: Maximize cloud resources while reducing overhead.
+        
+Third-Party Software Optimization: Lower costs associated with external software.
+        
+Database License Optimization: Streamline licensing expenses.
+        
+Operational Cost Optimization: Minimize day-to-day operational costs.
+The integration of Tessell, Azure, and Azure NetApp Files ensures seamless database migration to Azure with guaranteed investment protection, delivering a robust foundation for database modernization and further integration into the Azure ecosystem, including Microsoft Fabric and Synapse. Other key features and benefits of the collaboration include:
+        
+Azure: Offers robust cloud infrastructure across multiple regions and availability zones, with extensive support for database workloads and flexible pricing options, including pay-as-you-go (PAYG) and reserved instances.
+        
+NetApp: Provides Microsoft 1st-party, enterprise-grade Azure NetApp Files storage with low-latency performance, high-performance instant snapshots, and scalable storage for any database or application.
+        
+Tessell: Delivers the only Oracle Managed Instance available on Azure, fully integrated with ANF, allowing for superior performance, multi-region disaster recovery, and enterprise-grade data protection.
+Tessell, Microsoft, and NetApp further showcased this innovative solution in a joint session at NetApp INSIGHT 2024 titled "Oracle Migration to Azure Enabled by Azure NetApp Files." This session, featuring key insights from Tessell's Head of Strategy and Alliances, Animesh Pillai, Microsofts Principal Product Manager, Ram Kakani, and NetApps Director of Product Management for NetApp Files, Geert van Teylingen, provided an in-depth look at how Azure NetApp Files supports Oracle Database@Azure and how Tessells DBaaS strategies enable seamless, scalable Oracle migrations. The session took place on Monday, September 23.
+Azure NetApp Files has been differentiating itself as the go-to storage platform for high-performance, low-latency file workloads. Providing a Volumes as a service experience makes the service very easy to deploy and scale, without interruptions  particularly important for business-critical applications like Oracle and databases, said Geert van Teylingen, Director Product Management, Azure NetApp Files at NetApp. "I am excited about the Tessell integration with ANF, as it empowers customers in the Database PaaS segment with cost efficiencies, enhanced performance, and improved operational efficiencies. Together, Azure, NetApp, and Tessell will continue to innovate and deliver value across all vectors  Data & AI, Modernization, and more."
+We are excited to introduce the first enterprise-grade cloud database solution that combines the versatility of Azure and Azure NetApp Files, the high-performance storage powered by NetApp, and the unified management capabilities of Tessell, said Bala Kuchibhotla, Co-Founder and CEO at Tessell. This collaboration breaks new ground in the cloud industry by providing businesses with an unprecedented level of control, performance, and cost savings, all within their preferred cloud environments.
+The new Copilot for Cloud Databases solution is available immediately to all Azure and NetApp customers. Customers can take advantage of Azure Saving Plans and NetApps effective capacity pricing models, ensuring maximum ROI on their cloud investments.
+For more information, visithttp://tessell.com .
+About TessellTessell is a multi-cloud DBaaS platform offering a comprehensive suite of database services. It supports a wide array of database engines, tailored for operational and transactional applications across all major cloud providers. Tessells value proposition is built on the pillars of choice, data delight, and governance, helping enterprises modernize their data infrastructure and maximize the economic benefits of cloud adoption.
+Media ContactLen FernandesFirecracker PR for Tesselllen@firecrackerpr.com 
+
+Load-Date:September 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

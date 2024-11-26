@@ -1,0 +1,173 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Urban Science Issues Research Articles in September 2024 Edition
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Urban Science Issues Research Articles in September 2024 Edition
+Targeted News Service
+October 10, 2024 Thursday 8:00 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:1559 words
+Byline:Targeted News Service
+Dateline:BASEL, Switzerland 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+* Article - A Strategic Multidirectional Approach for Picking Indicator Systems of Sustainability in Urban Areas
+* Article - Actuated Signal Timing Optimization for a No-Notice Evacuation with High Left-Turn Demands
+* Article - Air Quality Awareness--Empirical Evidence from a Comparative Perspective between Two European Cities
+* Article - Airbnb and Urban Housing Dynamics: Economic and Social Impacts in Greece
+* Article - An Age-Friendly Neighbourhood Index as a Long-Term Urban Planning Decision-Making Tool
+* Article - Application of the MAMCA Method in the Evaluation of Delivery Flows within City Centers: A Case Study of Rijeka
+* Article - Assessment of the Climate Environmental Vulnerability Index for Urban Settlements on the Mediterranean Coast: A Case Study in Sicily
+* Article - Charging Ahead: A Survey-Based Study of Italian Consumer Readiness for Electric Vehicle Adoption
+* Article - Collaborative Changes between Soil Fauna and Urbanization Gradients in Guangzhou's Remnant Forests
+* Article - Comparing Different Methodologies to Quantify Particulate Matter Accumulation on Plant Leaves
+* Article - Comprehensive Assessment of Flood Risk and Vulnerability for Essential Facilities: Iowa Case Study
+* Article - Depopulation and Residential Dynamics in Teruel (Spain): Sustainable Housing in Rural Areas
+* Article - Derivation of a GIS-Based Flood Hazard Map in Peri-Urban Areas of Greater Lome, Togo (West Africa)
+* Article - Ecological Design for Urban Regeneration in Industrial Metropolitan Areas: The Santa Cruz Refinery Case
+* Article - Effectiveness of Using Calcite as an Aerosol to Remediate the Urban Heat Island
+* Article - Enhancing Road Safety Strategies through Applying Combined Treatments for Different Crash Severity
+* Article - Fractal Analysis of Air Pollution Time Series in Urban Areas in Astana, Republic of Kazakhstan
+* Article - From Small to Mega: Evaluating Urban Scale
+* Article - Geographic Information System in the Optimization of Tourist Routes in the City of Faro (Algarve, Portugal)
+* Article - Green Corridors and Social Connectivity with a Sustainable Approach in the City of Cuzco in Peru
+* Article - House Sparrow Nesting Site Selection in Urban Environments: A Multivariate Approach in Mediterranean Spain
+* Article - Innovative Strategies for Bio-Waste Collection in Major Cities during the COVID-19 Pandemic: A Comprehensive Model for Sustainable Cities--The City of Athens Experience
+* Article - Integrating Hyperspectral Reflectance and Physiological Parameters to Detect Urban Tree Stress: A Study of Drought and Simulated Acid Rain
+* Article - Investigating the Effects of Tropical Plant Community Structures on Energy Exchange in Urban Green Areas for Climate Change Adaptation and Mitigation
+* Article - Leveraging Life Cycle Assessment and System Dynamics Model Analysis for an Integrated Household E-Waste Management System in Yaounde, Cameroon
+* Article - Logit and Probit Models Explaining Mode Choice and Frequency of Public Transit Ridership among University Students in Krakow, Poland
+* Article - Mapping Local Climate Zones (LCZ) Change in the 5 Largest Cities of Switzerland
+* Article - Mapping Nutritional Inequality: A Primary Socio-Spatial Analysis of Food Deserts in Santiago de Chile
+* Article - Mapping Urban Landscapes Prone to Hosting Breeding Containers for Dengue-Vector Mosquitoes: A Case Study in Bangkok
+* Article - Monitoring of Metal(loid)s Using Brachiaria decumbens Stapf Leaves along a Highway Located Close to an Urban Region: Health Risks for Tollbooth Workers
+* Article - Optimization of Embodied Energy and Construction Cost of Low-Income Housing in Urban India
+* Article - Optimizing Electric Vehicle Charging Station Locations: A Study on a Small Outlying Island in Hong Kong
+* Article - Polycentric Urban System, Territorial Development and Resilience of the Rural Population (Extremadura, Spain)
+* Article - Psychological Impacts of Urban Environmental Settings: A Micro-Scale Study on a University Campus
+* Article - Psychological Security of Urban Dwellers and the Subject-Spatial Environment of the City
+* Article - Quantifying the Impacts of Courtyard Vegetation on Thermal and Energy Performance of University Buildings in Hot Arid Regions
+* Article - Regional Innovation Systems as a Remedy for Structurally Affected Regions--Empirical Evidence from the Czech Republic
+* Article - Relocating the Urban Center: Lessons of Vilnius
+* Article - Resilient Urban Communities: A Case Study of the Cvjetno Housing Estate, a Modern Period Predecessor in Urban Planning in Croatia
+* Article - Resilient Urban-Design Strategies for Landslide Risk Mitigation in Huaraz, Peru
+* Article - Seasonal and Spatial Variations in Particulate Matter, Black Carbon and Metals in Delhi, India's Megacity
+* Article - Self-Sustainable Modular Design in Rural Housing and Experiential Tourism in El Callejon de Conchucos, Ancash
+* Article - Simultaneous Causality and the Spatial Dynamics of Violent Crimes as a Factor in and Response to Police Patrolling
+* Article - Spatial Analysis on the Service Coverage of Emergency Facilities for Fire Disaster Risk in an Urban Area Using a Web Scraping Method: A Case Study of Chiang Rai City, Thailand
+* Article - Spatiotemporal Dynamics of Land Use and Community Perception in Peri-Urban Environments: The Case of the Intermediate City in Indonesia
+* Article - Stormwater Management: An Integrated Approach to Support Healthy, Livable, and Ecological Cities
+* Article - Strategies and Actions' Definition for the New Territorial Government Plan of Voghera, Italy: Towards a Healthier City
+* Article - Student Attendance Patterns as Actionable Early Warning Indicators of High School Graduation Outcomes: Findings from an Urban Alternative Charter School
+* Article - Study into the Impact of the Pandemic on Travel Patterns within the Metropolitan Area of Rio de Janeiro
+* Article - Substantiation of the Monitoring Network of Talik Zones in Urbanized Permafrost Areas Based on GPR Profiling Data (Anadyr, Chukotka)
+* Article - Sustainable Construction: The Embodied Carbon Impact of Infrastructures and Landscaping
+* Article - The Carbon Emission Implications of Intensive Urban Land Use in Emerging Regions: Insights from Chinese Cities
+* Article - The Design of a Strategic Platform for the Smart Supervision of Public Expenditure for Colombia in the Context of Society 5.0
+* Article - The Evolving Theme of Health-Promoting Urban Form: Applying the Macrolot Concept for Easy Access to Open Public Green Spaces
+* Article - The Impact of Short-Term Rental Accommodation in Urban Tourism: A Comparative Analysis of Tourists' and Residents' Perspectives
+* Article - The Relationship between Urban Functional Structure and Insomnia: An Exploratory Analysis in Beijing, China
+* Article - The Spatial Pattern Evolution of Urban Innovation Actors and the Planning Response to Path Dependency: A Case Study of Guangzhou City, China
+* Article - Thermal Behaviour of Different Land Uses and Covers in the Urban Environment of the Spanish Mediterranean Based on Landsat Land Surface Temperature
+* Article - Towards a Retailess City? A Comparative Analysis of the Retail Desertification between a Global and a Local Commercial Strips in Barcelona
+* Article - Uncovering Spatial Patterns of Residential Settlements, Segregation, and Vulnerability of Urban Seniors Using Geospatial Analytics and Modeling Techniques
+* Article - Understanding Business Models in the Brazilian Context of Electric Mobility: A Proposed Framework
+* Article - Unlocking Trends: Socio-Demographic Insights into Bike Sharing from the 2017 National Household Travel Survey
+* Article - Unraveling the Tourism-Environment-Equity Nexus: A Neighborhood-Scale Analysis of Texas Urban Centers
+* Article - Urban Geoscience: The Challenge of Street Geology
+* Article - Urban Outmigration and Student Mobility towards Rural Schools: Are We in an Early Stage of Rural Revival?
+* Article - Urban Parks in Novi Sad (Serbia)--Insights from Landscape Architecture Students
+* Article - Using Spatial Analysis to Design a Solid Waste Collection System
+* Article - Vulnerated Urban Areas under Regeneration: Strategies to Prevent Neighborhood Expulsion in Barcelona or How to Improve without Expelling?
+* Article - Weekday-Holiday Differences in Urban Wind Speed in Japan
+* Review - AI Analytics for Carbon-Neutral City Planning: A Systematic Review of Applications
+* Review - Bibliometric Insights into Balancing Efficiency and Security in Urban Supply Chains
+* Review - From Organic Wastes to Bioenergy, Biofuels, and Value-Added Products for Urban Sustainability and Circular Economy: A Review
+* Review - Place Attachment and Related Aspects in the Urban Setting
+* Review - Urban Gardening--How Safe Is It?
+* Systematic Review - Computational Optimisation of Urban Design Models: A Systematic Literature Review
+The September 2024 edition of Urban Science can be viewed at https://www.mdpi.com/2413-8851/8/3. The journal is published by MDPI.
+[Category: Science]
+Copyright Targeted News Services
+MSTRUCK-8870627 MSTRUCK
+
+Load-Date:October 11, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

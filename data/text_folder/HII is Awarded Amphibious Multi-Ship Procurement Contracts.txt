@@ -1,0 +1,140 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: HII is Awarded Amphibious Multi-Ship Procurement Contracts
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+HII is Awarded Amphibious Multi-Ship Procurement Contracts
+GlobeNewswire
+September 24, 2024 Tuesday 3:15 PM PT
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7618 by 2434, depth 1
+pict002.png
+Section:BUSINESS CONTRACTS; PRODUCT / SERVICES ANNOUNCEMENT
+Length:633 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+"We greatly appreciate the stability that this award provides to all Ingalls shipbuilders and our surrounding communities, Ingalls President Kari Wilkinson said. It is an honor to continue our support of the joint Navy and Marine Corps mission to meet the minimum 31-amphibious-ship requirement.
+Approximately half of all Ingalls shipbuilders build amphibious ships today, with another 650 supplier partners in 39 states across the country that provide components for the construction of amphibious ships.
+We stand ready to reinforce an already strong team of capable shipbuilders with the ideas and skills of new shipbuilders that want to make a difference in the world, Wilkinson said. There is no greater sense of accomplishment than doing something difficult in support of our nations military.
+Photos accompanying this release are available at: https://hii.com/news/hii-is-awarded-amphibious-multi-ship-procurement-contracts/.
+To date, Ingalls has delivered 13 San Antonio-class ships and 15 large-deck amphibious ships to the U.S. Navy. Currently, the LHA production line includes the construction of Bougainville (LHA 8) and Fallujah (LHA 9). In addition, Ingalls has two Flight II LPDs under construction includingHarrisburg(LPD 30) andPittsburgh(LPD 31). In March 2023, Ingalls was awarded a modification to the contract for the procurement of the detail design and construction ofPhiladelphia(LPD 32), the 16th ship in theSan Antonio class. 
+HII builds LPD 17San Antonioand LHAAmericaclasses of amphibious warships. Designed and built for survivability and flexibility, U.S. Navy amphibious warships are unique combat warships that make possible complex joint U.S. military operations to respond swiftly to crisis anywhere in the world, from deterrence and major combat operations to humanitarian assistance and disaster relief.
+About HII
+HII is a global, all-domain defense provider. HIIs mission is to deliver the worlds most powerful ships and all-domain solutions in service of the nation, creating the advantage for our customers to protect peace and freedom around the world.
+As the nations largest military shipbuilder, and with a more than 135-year history of advancing U.S. national security, HII delivers critical capabilities extending from ships to unmanned systems, cyber, ISR, AI/ML and synthetic training. Headquartered in Virginia, HIIs workforce is 44,000 strong. For more information, visit:
+        
+HII on the web:hii.com
+        
+HII on Facebook:facebook.com/TeamHII
+        
+HII on X:x.com/WeAreHII
+        
+HII on Instagram:instagram.com/WeAreHII
+Contact: 
+Kimberly K. Aguillard228-355-5663Kimberly.K.Aguillard@hii-co.com 
+A photo accompanying this announcement is available at https://www.globenewswire.com/NewsRoom/AttachmentNg/927a1241-a160-489a-a7c7-f939aebf0198
+Amphib Multi-Ship Purchase
+Aerial view of HIIs Ingalls Shipbuilding division taken on Aug. 22, 2024 as USS Richard M. McCool, Jr. (LPD 29) departed from Ingalls to its commissioning site in Pensacola, Florida, while Bougainville (LHA 8) is shown under construction in the background. Ingalls was awarded a $9.6B multi-ship procurement contract for the construction of three San Antonio-class (LPD 17) amphibious ships and a contract modification for the next America-class (LHA 6) large-deck amphibious ship. 
+
+Load-Date:September 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

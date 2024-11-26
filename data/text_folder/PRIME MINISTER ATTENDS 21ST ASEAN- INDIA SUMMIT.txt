@@ -1,0 +1,62 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: PRIME MINISTER ATTENDS 21ST ASEAN- INDIA SUMMIT
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+PRIME MINISTER ATTENDS 21ST ASEAN-INDIA SUMMIT
+States News Service
+October 11, 2024 Friday
+
+
+Copyright 2024 States News Service
+Length:577 words
+Byline:States News Service
+Dateline:HO CHI MINH CITY, Vietnam 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+During the summit, leaders of ASEAN Member States highly valued India's commitment to place ASEAN at the center of its Act East policy and Indo-Pacific Oceans Initiative (IPOI), thus making positive contributions to the comprehensive development of the ASEAN-India relations.
+In 2023, trade between ASEAN and India reached US$100.7 billion while India's investment flows to ASEAN stood at US$5.63 billion.
+The number of Indian tourists to ASEAN reached 4.29 million last year, compared to 2.39 million tourists in 2022.
+Leaders of ASEAN and India agreed to boost people-centered development cooperation, expand cooperation in energy transition, climate change adaptation, green marine economy, terrorism and transnational crime combat, healthcare capacity building, among others.
+Both sides also agreed to continue dialogues, strengthen cooperation and organize maritime exercises to ensure security.
+Addressing the summit, Prime Minister urged ASEAN and India to continue nurturing the common foundation on culture, society and people to develop the bilateral relations in an increasingly strong and comprehensive manner.
+Building on the solid and long-lasting common foundation, ASEAN wishes to work with India, a close neighbor, sincere friend and comprehensively trustworthy partner of ASEAN, to make positive contributions to peace, stability, cooperation and prosperous and sustainable development in each side, in the region and the world as well, said Prime Minister Pham.
+He emphasized that ASEAN and India should share long-term common vision on peace, cooperation and development in the region and the world.
+Pham urged both sides to work together to promote dialogue, cooperation, trust building, settle disputes through peaceful means, cope with common challenges, and shape an open and inclusive regional architecture, and uphold international law.
+The Vietnamese Prime Minister welcomed and voiced support for India's initiatives such as the International Solar Alliance, the Global Biofuels Alliance, and the Coalition for Disaster Resilient Infrastructure, calling on India to support Viet Nam in pharmaceutical development.
+Pham also called for doubling efforts to develop dynamic, effective and substantive ASEAN-India relations, emphasizing the need for both sides to boost economic-trade-investment cooperation.
+ASEAN and India should expand cooperation in science, technology, innovation, especially in such fields like core technology, semiconductor chip, artificial intelligence, digital economy, high quality workforce training, cloud computing, the Internet of Things, suggested Prime Minister Pham.
+Pham called on India to continue cooperation and assistance for effective implementation of the Mekong-Ganga cooperation framework, contributing to fostering inclusive, even and sustainable development across the region.
+Concluding the summit, leaders of ASEAN and India adopted a Joint Statement on Strengthening ASEAN-India Comprehensive Strategic Partnership for Peace, Stability and Prosperity in the Region in the Context of the ASEAN Outlook on the Indo-Pacific (AOIP) with the Support of India's Act East Policy (AEP).
+As technology can enable rapid transformation for bridging the digital divide in the region and help accelerate progress towards inclusive and sustainable development, the leaders also adopted the ASEAN-India Joint Statement on Advancing Digital Transformation.
+
+Load-Date:October 11, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

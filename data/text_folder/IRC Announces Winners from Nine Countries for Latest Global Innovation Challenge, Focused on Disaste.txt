@@ -1,0 +1,60 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: IRC Announces Winners from Nine Countries for Latest Global Innovation Challenge, Focused on Disaster Risk Reduction
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+IRC Announces Winners from Nine Countries for Latest Global Innovation Challenge, Focused on Disaster Risk Reduction
+Targeted News Service
+October 15, 2024 Tuesday 8:49 PM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:511 words
+Byline:Targeted News Service
+Dateline:NEW YORK 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+The IRC has announced the winners of its latest global crowdsolving challenge. Launched in March of this year, the challenge was titled Sourcing and Enabling Traditional Disaster Risk Reduction for Rural Afghanistan and Somalia and focused on empowering communities in those two countries to address the immediate impacts of the climate crisis.
+Submissions for this challenge came in from a wide array of contexts and skill sets. The winners of this challenge are:
+Amgad (Egypt) this solution would use different plants in a set physical area with a range of water needs as an early detection system for impending drought. Natamykk (Canada) this solution would incorporate indigenous knowledge systems into AI-powered software with a focus on detecting and mitigating climate risks. Douglascorrigan (United States) this solution would draw on drought predictors observed in the bioactivities of a range of plants, trees, animals and insects across multiple contexts and incorporate those behaviors into prediction models. Daniel Moura (Brazil) this solution would use remote sensing data and analysis from across vast areas of forest and farmland to strengthen early warning systems focused on impending drought. Kyrbax (Greece) this solution would use the planting of a variety of trees which have shown bioactivity indicative of impending drought as an early warning system. Saadithya (India) this solution would use AI and chatbot technology to help geotag indigenous and traditional approaches to disaster risk reduction across digital maps of Afghanistan and Somalia.Samin (Netherlands) -this solution would integrate satellite data, AI and indigenous knowledge to help provide enhanced flood prediction. Jammel (Tunisia) this solution would enhance and expand use of an ancestral technique of rainwater storage, which has demonstrated centuries of effectiveness across the hyper-arid terrain of southern Tunisia. Mhrois (Brazil) this solution would focus on deploying grassroots awareness campaigns about impending droughts, using technology and tactics that have proven effectiveness across numerous contexts in sub-Saharan Africa. Tan Chee Sing (Malaysia) this solution would use AI-assisted weather forecast technologies to safeguard rainwater harvesting across Somalia and Afghanistan.
+All of these winners will receive at least a US$1000 share of the US$15,000 in their prize money to further iterate their solutions. Their submissions will inform the IRC's exploration of how local, indigenous, and traditional disaster risk reduction practices might be paired with emerging technologies to more effectively support agropastoralists in Afghanistan and Somalia, two countries at the epicenter of co-occurring climate and conflict crisis, to adapt and build resilience.
+***
+Original text here: https://www.rescue.org/press-release/irc-announces-winners-nine-countries-latest-global-innovation-challenge-focused
+Copyright Targeted News Services
+MSTRUCK-8876159 MSTRUCK
+
+Load-Date:October 16, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

@@ -1,0 +1,178 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Healthcare Journal Issues Research Articles in Vol. 12, Issue 19
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Healthcare Journal Issues Research Articles in Vol. 12, Issue 19
+Targeted News Service
+October 16, 2024 Wednesday 10:17 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:2179 words
+Byline:Targeted News Service
+Dateline:BASEL, Switzerland 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+* Article - A Comparative Study of Hospitalization Mortality Rates between General and Emergency Hospitalized Patients Using Survival Analysis
+* Article - A Phenomenological Approach to Medication Adherence in Elderly Patients: A Qualitative Study
+* Article - A Study on Internet News for Patient Safety Campaigns: Focusing on Text Network Analysis and Topic Modeling
+* Article - A Study on the Job Characteristics of Police Officers and the Status of Musculoskeletal Disorders
+* Article - Adapting and Validating a Patient Prompt List to Assist Localized Prostate Cancer Patients with Treatment Decision Making
+* Article - Adherence Patterns and Health Outcomes in Spanish Young Women Participating in a Virtual-Guided HIIT Program: Insights from the Randomized Controlled WISE Trial
+* Article - Assessing Patient Use of and Attitudes toward eHealth Services for Communication with Primary Care Centers in Saudi Arabia and Factors Affecting Usage
+* Article - Assessing the Relationships between Physical Activity, a Healthy Life, and Personal Happiness in European Union Countries
+* Article - Association between Periodontal Disease and Oral Benign, Potentially Malignant, Malignant, and Chronic Immune-Mediated Disorders: A Clinical Study
+* Article - Associations between the Number of Children, Depressive Symptoms, and Cognition in Middle-Aged and Older Adults: Evidence from the China Health and Retirement Longitudinal Study
+* Article - Athlete Perspectives on Concussion Recognition and Management in Gaelic Games: A Qualitative Analysis
+* Article - Bibliometric Analysis of Research on Exercise Intervention for Cancer-Related Cognitive Impairments
+* Article - Characteristics and Trends of Workplace Violence towards Frontline Health Workers under Comprehensive Interventions in a Chinese Infectious Disease Hospital
+* Article - Characteristics of Italian, German and Spanish Socio-Economic, Public Health and Long-Term Care Systems Associated with COVID-19 Incidence and Mortality in the First Pandemic Year: Lessons for Future Sustainability in an International Perspective
+* Article - Clinical Health Psychology Perspectives in Diabetes Care: A Retrospective Cohort Study Examining the Role of Depression in Adherence to Visits and Examinations in Type 2 Diabetes Management
+* Article - Comparative Study of Physical Activity, Leisure Preferences, and Sedentary Behavior among Portuguese, Italian, and Spanish University Students
+* Article - Complementary Musical Intervention for Patients in Palliative Care in Spain: A Randomized Controlled Trial
+* Article - Comprehensive Risk Analysis of Emergency Medical Response Systems in Serbian Healthcare: Assessing Systemic Vulnerabilities in Disaster Preparedness and Response
+* Article - Cost and Cost-Effectiveness of Distributing HIV Self-Tests within Assisted Partner Services in Western Kenya
+* Article - COVID-19 and Mortality in the Spinal Cord Injury Population: Examining the Impact of Sex, Mental Health, and Injury Etiology
+* Article - Cross-Cultural Adaptation, Reliability, and Validity of the Greek Version of the Fremantle Neck Awareness Questionnaire (FreNAQ-GR) in Patients with Chronic Neck Pain
+* Article - Current and Future Implementation of Digitally Delivered Psychotherapies: An Exploratory Mixed-Methods Investigation of Client, Clinician, and Community Partner Perspectives
+* Article - Depression, Anxiety, and Psychological Resilience in Healthcare Workers during the Pandemic (COVID-19)
+* Article - Development and Usability Assessment of Virtual Reality- and Haptic Technology-Based Educational Content for Perioperative Nursing Education
+* Article - Diagnostic Accuracy of Ultrasound Imaging and Shear Wave Elastography to Discriminate Patients with Chronic Neck Pain from Asymptomatic Individuals
+* Article - Dietary Habits, Awareness, and Knowledge among Polish Healthcare Providers and Healthcare Students
+* Article - Does Insulin Treatment Affect Umbilical Artery Doppler Indices in Pregnancies Complicated by Gestational Diabetes?
+* Article - Eating Habits Related to Pregnancy, Body Perception, Attractiveness and Self-Confidence
+* Article - Effectiveness of a Motivational Interviewing-Based Intervention in Decreasing Risky Alcohol Use in Primary Care Patients in Spain: A Controlled Clinical Trial
+* Article - EMDR-Teens-cPTSD: Efficacy of Eye Movement Desensitization and Reprocessing in Adolescents with Complex PTSD Secondary to Childhood Abuse: A Case Series
+* Article - Emotional Intelligence as Critical Competence in Nurses' Work Performance: A Cross-Sectional Study
+* Article - Enhancing Operating Room Efficiency: The Impact of Computational Algorithms on Surgical Scheduling and Team Dynamics
+* Article - Evaluating the SarQoL(R) Questionnaire as a Screening Tool for Sarcopenia among Korean Older Adults
+* Article - Exploration of Food Attitudes and Management of Eating Behavior from a Psycho-Nutritional Perspective
+* Article - Exploring Dietary Salt Knowledge, Attitude, and Practices among People of African Descent in the United Kingdom: A Qualitative Study
+* Article - Exploring the Relationship between Health Literacy and Depression among Individuals with Chronic Conditions: Insights from the KCHS
+* Article - Factors Affecting Glycemic Control in Patients with Type 2 Diabetes in Kalasin Province, Thailand: An Analytical Cross-Sectional Study
+* Article - Generating Consensus on Good Practices in the Care of Portuguese Internal Medicine Patients Facing Imminent Death: A Delphi Study
+* Article - Gestational Outcomes Related to the Occurrence of Gestational Diabetes Mellitus: A Cohort Study
+* Article - Health Attitudes of Women Living in Religious Communities--A Preliminary Study
+* Article - Health-Related Quality of Life in Long-Term Colorectal Cancer Survivors
+* Article - How Are Diagnosis-Related Groups and Staffing Allocation Systems Associated with the Complexity of Nursing Care? An Observational Study
+* Article - iCardioMonitor Digital Monitoring System for People with Heart Failure: Development and Evaluation of Its Accessibility and Usability
+* Article - Impact of COVID-19 Pandemic on Healthcare Utilization in People with Diabetes: A Time-Segmented Longitudinal Study of Alberta's Tomorrow Project
+* Article - Impact of Mobile Health Literacy, Stroke-Related Health Knowledge, Health Beliefs, and Self-Efficacy on the Self-Care Behavior of Patients with Stroke
+* Article - Impact of Multicomponent Training Frequency on Health and Fitness Parameters in Postmenopausal Women: A Comparative Study
+* Article - In the Shadow of the Pandemic: Examining Therapists' Perceptions of Work-Related Stress in the Late Stages of the COVID-19 Pandemic in Germany
+* Article - Individual Characteristics Associated with Fears and Prevention Behaviors Related to Respiratory Infectious Disease among South Korean Adults Using Complex Sample Design
+* Article - Individually Perceived Parameters of Residential Infrastructure and Their Relationship with Cardiovascular Risk Factors
+* Article - Influence of Academic Training and Professional Experience on the Management of Deep Caries Lesions
+* Article - Innovative Chair and System Designs to Enhance Resistance Training Outcomes for the Elderly
+* Article - Insights into Drug Donation Practices and Public Perceptions in Saudi Arabia
+* Article - Insights into Pharmacists' Participation in Professional Certification Programs in Saudi Arabia
+* Article - Interprofessional In Situ Simulation's Impact on Healthcare Personnel's Competence and Reported Need for Training in Cardiopulmonary Resuscitation--A Pilot Study in Norway
+* Article - Leveraging Quality Improvement and Shared Learning to Improve Infant Well-Child Visit Rates in Texas
+* Article - Missed Appointments and the Potential Correlation between Personal Characteristics, Personality, and Familial Characteristics and Missed Appointments for Adults with Diabetes Mellitus at the Primary Care Unit of Khon Kaen Province
+* Article - Multi-Regional Pelvic Floor Muscle Function Diagnosis System Based on Inflatable Stretchable Electrode Array
+* Article - Obstructed Defecation Syndrome: Analysis of the Efficacy and Mid-Term Quality of Life of an Innovative Robotic Approach
+* Article - Oral Health Behaviour, Care Utilisation, and Barriers among Students with Disabilities: A Parental Perspective
+* Article - Pain Resilience and Coping Behaviors in Individuals in a Collectivist Social Context
+* Article - Patient-Reported Outcomes of Depression and Fibromyalgia Symptoms Do Not Predict Non-Inflammatory versus Inflammatory Diagnoses at Initial Rheumatology Consultation
+* Article - Perceptions and Interest in Lung Cancer Screening by Smoking Status: A Cross-Sectional Study of HINTS 6 (2022)
+* Article - Predictive Factors for Onset of Moderate-to-Severe Disability Following Hospital Discharge Due to Rib Fractures
+* Article - Predictors of Poor Mental Health Outcomes in Healthcare Workers during COVID-19: A Two Waves Study
+* Article - Preparedness for Caregiving Role and Telehealth Use to Provide Informal Palliative Home Care in Portugal: A Qualitative Study
+* Article - Process Mapping to Support the Implementation of a Regional Strategy to Address the Opioid Epidemic
+* Article - Regulation of Cerebral Blood Flow Velocity by Transcutaneous Electrical Nerve Stimulation: A Preliminary Study
+* Article - Risks Associated with the Use of Intranasal Corticosteroids: An Analysis of Adverse Reactions Reported to EudraVigilance
+* Article - Self-Monitoring Practices and Use of Self-Monitoring Technologies by People with Rheumatic and Musculoskeletal Diseases: An International Survey Study
+* Article - Social Support and Adherence to Treatment Regimens among Patients Undergoing Hemodialysis
+* Article - Survey of Knowledge, Attitudes, and Levels of Confidence Regarding Age-Related Hyperkyphosis and Its Management among Thai Physiotherapists
+* Article - Switching from Cigarettes to Heated Tobacco Products in Japan--Potential Impact on Health Outcomes and Associated Health Care Costs
+* Article - The Associations between Depression and Sugar Consumption Are Mediated by Emotional Eating and Craving Control in Multi-Ethnic Young Adults
+* Article - The Effects of the Expansion of Dental Care Coverage for the Elderly
+* Article - The Impact of Smoking on Arterial Stiffness in Young Adults: A Prospective Analysis
+* Article - The Nursing Theory of Complex Adaptive Systems: A New Paradigm for Nursing
+* Article - The Relationship between Physical Activity and Quality of Life in Postmenopausal Women: A Cross-Sectional Study
+* Article - Transcutaneous Electrical Acupoint Stimulation for Elders with Amnestic Mild Cognitive Impairment: A Randomized Controlled Pilot and Feasibility Trial
+* Article - Translation, Cultural Adaptation of the Portuguese Provider Attitudes toward Cardiac Rehabilitation and Referral (PACRR-P) Scale and Assessment of Its' Measurement Properties
+* Article - Trends and Patterns of ICU E-Referrals in Saudi Arabia during 2020-2021: Results from the National Saudi Medical Appointments and Referrals Centre
+* Article - Understanding Non-Pharmacological Treatments for Fibromyalgia Functional and Well-Being Status: The Role of Literacy
+* Article - Work Situation of Midwives in Spain: Perception of Autonomy and Intention to Leave the Profession: A Cross-Sectional Study
+* Review - Avian Influenza: Lessons from Past Outbreaks and an Inventory of Data Sources, Mathematical and AI Models, and Early Warning Systems for Forecasting and Hotspot Detection to Tackle Ongoing Outbreaks
+* Review - Differentiating the Structural and Functional Instability of the Craniocervical Junction
+* Review - Enhancing EHR Interoperability and Security through Distributed Ledger Technology: A Review
+* Review - Perioperative Pain Management in Hemophilic Patient Undergoing Orthopedic Surgery: A Narrative Review
+* Review - Quantifying Physical Activity and Sedentary Behavior in Adults with Intellectual Disability: A Scoping Review of Assessment Methodologies
+* Review - Recent Developments in the Non-Pharmacological Management of Children's Behavior Based on Distraction Techniques: A Concise Review
+* Review - Streamlining Acute Stroke Processes and Data Collection: A Narrative Review
+* Review - Strengthening Health Security at Ground Border Crossings: Key Components for Improved Emergency Preparedness and Response--A Scoping Review
+* Review - The Impact of Caregiver Affiliate Stigma on the Psychosocial Well-Being of Caregivers of Individuals with Neurodegenerative Disorders: A Scoping Review
+* Review - What Evidence Exists to Support Palliative Allied Health Practice in Aged Care: A Scoping Review
+The Oct. 1, 2024, edition of the Healthcare Journal can be viewed at https://www.mdpi.com/2227-9032/12/19. The journal is published by MDPI.
+[Category: Health Care]
+Copyright Targeted News Services
+MSTRUCK-8877600 MSTRUCK
+
+Load-Date:October 16, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

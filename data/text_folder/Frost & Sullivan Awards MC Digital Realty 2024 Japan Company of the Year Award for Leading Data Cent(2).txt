@@ -1,0 +1,69 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Frost & Sullivan Awards MC Digital Realty 2024 Japan Company of the Year Award for Leading Data Center Solutions
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Frost & Sullivan Awards MC Digital Realty 2024 Japan Company of the Year Award for Leading Data Center Solutions
+PR Newswire
+September 26, 2024 Thursday 9:00 PM EST
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Length:1139 words
+Dateline:SAN ANTONIO, Sept. 26, 2024 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgAI workloadsSAN ANTONIO, Sept. 26, 2024 /PRNewswire/ --Frost & Sullivanrecently researched the data center services industry and, based on its findings, recognizesMC Digital Realty: A Mitsubishi Corporation and Digital Realty Company, with the 2024 Japan Data Center Services Company of the Year Award. MC Digital Realty offers a full spectrum of data center solutions to over 5,000 customers across more than 25 countries on six continents. 
+ "The company demonstrates a strong focus on the Japanese market through continued investments. Strategic partnerships and innovations aligning with transforming customer expectations enable the service provider to achieve success in the country," said Nishchal Khorana, Global Vice President of ICT at Frost & Sullivan.The company's state-of-the-art data centers are designed to meet the rigorous demands of AI workloads, providing flexible and customized facilities that can easily handle intensive model training and real-time inferencing. By leveraging the strength ofPlatformDIGITAL®Digital Realty's global data center platform, MC Digital Realty interconnects over 1,100 cloud and IT services, 1,200 network services in 25+ countries, 50+ metros, and 300+ data center locations on six continents. Additionally, MC Digital Realty's investments in liquid cooling solutions have enabled multiple data centers to handle the high-density demands of AI applications, solidifying the company's position as a market leader.The company regularly optimizes its operational resilience and disaster preparedness. It strategically locates its data centers in areas with low seismic risk and employs innovative seismic isolation technology to protect its infrastructure from natural disasters. Moreover, its commitment to turning data into actionable insights ensure uninterrupted customer service and unsurpassed reliability, helping the company stay at the top of its industry.MC Digital Realty also demonstrates its market leadership by leveraging its relationship with Mitsubishi Corporation to match electricity usage in its colocation data halls with 100% carbon-free and renewable energy. It integrates advanced cooling technologies and energy-efficient infrastructure to minimize its carbon footprint. By adopting these green practices, the company meets ever-evolving regulatory requirements and exceeds industry standards, setting a new benchmark for environmental responsibility in the market. This initiative aligns with the growing demand for sustainable practices and reflects the company's dedication to reducing its environmental impact."MC Digital Realty matches the electricity usage in the colocation service data hall at its NRT10 and KIX11 data centers with 100% carbon-free and renewable energy by purchasing FIT non-fossil certificates from MC Retail Energy. This commitment to renewable energy demonstrates sustainability prioritization and aligns with the growing demand for sustainable practices among customers," said Ojaswi Rana, Best Practices Research Analyst at Frost & Sullivan."We are deeply honored to receive this award from Frost & Sullivan, a testament to our unwavering dedication to innovation and setting standards of excellence in the dynamic data center industry. Leveraging the strength of PlatformDIGITAL, MC Digital Realty empowers businesses to harness the full potential of AI by delivering cutting-edge, sustainable facilities that anticipate future demands. This recognition validates our commitment to providing unparalleled flexibility, reliability, and environmental stewardship as we catalyze our clients' accelerated digital transformation," said Kosei Hatakeyama, Representative Director and CEO, MC Digital Realty, in accepting the award. Each year, Frost & Sullivan presents a Company of the Year Award to the organization that demonstrates excellence in terms of growth strategy and implementation in its field. The award recognizes a high degree of innovation with products and technologies, and the resulting leadership in terms of customer value and market penetration.Frost & Sullivan Best Practices Awards recognize companies in various regional and global markets for demonstrating outstanding achievement and superior performance in leadership, technological innovation, customer service, and strategic product development. Industry analysts compare market participants and measure performance through in-depth interviews, analyses, and extensive secondary research to identify best practices in the industry.About Frost & SullivanFor six decades, Frost & Sullivan has been world-renowned for its role in helping investors, corporate leaders, and governments navigate economic changes and identify disruptive technologies, megatrends, new business models, and companies to action, resulting in a continuous flow of growth opportunities to drive future success.Contact us: Start the discussion.Contact:Tarini Singh
+P: +91- 9953764546
+E:About MC Digital RealtyMC Digital Realty, Inc., established in September 2017, is a 50/50 joint venture between Mitsubishi Corporation and Digital Realty. The company provides the full spectrum of data center services in Japan, including colocation and interconnection solutions, by leveraging MC's real estate and infrastructure investment expertise and customer network, as well as Digital Realty's leading global data center platform, PlatformDIGITAL®, with 5,000+ customers across 300+ data centers on six continents. For more information about MC Digital Realty, please visithttps://www.mc-digitalrealty.com/or follow us onLinkedIn.Contact:MC Digital Realty Public Relations Office
+E:About Digital RealtyDigital Realty brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions. PlatformDIGITAL®, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx®) solution methodology for powering innovation and efficiently managing Data Gravity challenges. Digital Realty gives its customers access to the connected data communities that matter to them with a global data center footprint of 300+ facilities in 50+ metros across 25+ countries on six continents. To learn more about Digital Realty, please visitdigitalrealty.comor follow us onLinkedInandX.Contact:Sin Huay Ho
+P: +65 8125 8380
+E:  View original content to download multimedia:https://www.prnewswire.com/news-releases/frost--sullivan-awards-mc-digital-realty-2024-japan-company-of-the-year-award-for-leading-data-center-solutions-302259781.htmlSOURCE Frost & Sullivan 
+
+Load-Date:September 26, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

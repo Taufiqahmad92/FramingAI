@@ -1,0 +1,63 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: VIETNAMESE PRIME MINISTER ATTENDS 27TH ASEAN- JAPAN SUMMIT
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+VIETNAMESE PRIME MINISTER ATTENDS 27TH ASEAN-JAPAN SUMMIT
+States News Service
+October 11, 2024 Friday
+
+
+Copyright 2024 States News Service
+Length:602 words
+Byline:States News Service
+Dateline:HO CHI MINH CITY, Vietnam 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Prime Minister Pham hailed the success of the commemorative summit marking the 50th anniversary of the ASEAN-Japan relations in December 2023, desbribing the summit as a historic milestone heralding a new era of the bilateral cooperation.
+He suggested ASEAN and Japan cooperate to spur linkages in economics, trade, supply chain consolidation, infrastructure, national defense, maritime security, transnational crime combat, cybersecurity, along with natural disaster management and response.
+As economic, trade and investment cooperation remains the key driving force of the ASEAN-Japan relations, Pham called on Japanese investors to step up investments in ASEAN, suggested Japan assist ASEAN in joining Japanese bussiness' supply chains, developing auxiliary industries and high-quality workforce.
+He urged the two sides to promote new growth drivers from emerging fields like digital transformation, semiconductor, cloud computing, internet of things, energy transition, green economy, circular economy, smart agriculture among others.
+Pham also called on Japan to continue cooperation and assistance for ASEAN Member States and Mekong Sub-region to cope with climate change, accelerate food transition and implement their emission commitments, including through Japan's Asia Zero Emission Community (AZEC), in order to strength resilience and sustainability across the region.
+The Vietnamese Prime Minister underscored that ASEAN and Japan should strengthen strategic coordination for peace, security and stability in the region.
+From that perspective, he urged Japan to continue its support for ASEAN's common position on the East Sea, for peaceful resolution of disputes, for early formulation of an effective and substantive Code of Conduct in the East Sea in line with international law, especially the 1982 United Nations Convention on the Law of the Sea, towards building the East Sea into the sea of peace, stability, cooperation and sustainable development.
+At the summit, leaders of ASEAN Member States and Japan welcomed positive progress of the ASEAN-Japan relations over the recent past.
+Japan is the fourth largest trading partner of ASEAN, with the two-way trade reaching US$239.4 billion in 2023.
+The Northeast Asian nation is the 5th biggest investor in ASEAN, with the FDI flows to the bloc stood at US$14.5 billion last year.
+The leaders reaffirmed their resolve to continue close coordination in implementing their commitments, initiatives and the outcomes of the commemorative summit marking the 50th anniversary of the ASEAN-Japan relations, including the Joint Vision Statement and the plan to implement this Statement.
+The leaders agreed that ASEAN and Japan will continue strengthening economic, trade, investment cooperation, consolidating supply chain, promoting infrastructure connectivity.
+Both sides agreed to foster cooperation in the fields of defense, maritime security, transnational crime combat, cybersecurity, natural disaster management and prevention.
+The two sides will give high priority to cooperation in science, technology, innovation, artificial intelligence, digital transformation, green infrastructure development, energy, climate change, and people-to-people exchanges.
+Japanese Prime Minister Ishiba Shigeru underscored the importance of the ASEAN-Japan comprehensive strategic partnership, which has ceaselessly been consolidated and developed over the past five decades.
+Ishiba reaffirmed Japan's commitment to continue strengthening cooperation with and assistance for building a united ASEAN Community./.
+
+Load-Date:October 11, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

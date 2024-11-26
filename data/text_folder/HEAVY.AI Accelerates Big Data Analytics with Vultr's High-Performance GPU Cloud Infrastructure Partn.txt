@@ -1,0 +1,69 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: HEAVY.AI Accelerates Big Data Analytics with Vultr's High-Performance GPU Cloud Infrastructure Partnership enables enterprises across core sectors such as energy, public sector, and telecommunications to achieve substantial speed ...
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+HEAVY.AI Accelerates Big Data Analytics with Vultr's High-Performance GPU Cloud Infrastructure; Partnership enables enterprises across core sectors such as energy, public sector, and telecommunications to achieve substantial speed improvements and cost savings
+Business Wire
+September 10, 2024 Tuesday 1:00 PM GMT
+
+
+Copyright 2024 Business Wire, Inc.
+Length:1027 words
+Dateline:WEST PALM BEACH, Fla. 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg , the world's largest privately held cloud computing platform, today announced a partnership with GPU-accelerated analytics platform provider HEAVY.AI . Integrating Vultr's global NVIDIA GPU cloud infrastructure into its operations, HEAVY.AI can interactively query and visualize massive datasets, enabling faster, more efficient decision-making for customers across diverse sectors.
+"Partnering with Vultr has allowed us to leverage their highly performant, global NVIDIA GPU cloud infrastructure to provide our customers with better access to unparalleled speed and efficiency," said Jon Kondo, CEO of HEAVY.AI. "This integration ensures that our platform continues to deliver the rapid insights and cost savings that are critical for our customers' success."
+Now, thanks to Vultr's advanced GPU infrastructure, HEAVY.AI can deliver the best performance at an affordable price. The NVIDIA GH200 Grace Hopper(TM) Superchip joins NVIDIA A100 Tensor Core GPUs and Vultr Bare Metal instances to form a powerful trio that drives faster insights via HEAVY.AI's platform. With the NVIDIA GH200 running on Vultr Cloud, HEAVY.AI can deliver 5X or greater price performance when compared to 8XA100 instances, completing industry-standard analytic SQL benchmarks such as TPC-H100 in less than 4.5 seconds, and executing 11 of the 22 queries in less than 100 milliseconds.
+"Vultr is one of the first cloud providers to offer the revolutionary NVIDIA GH200 Grace Hopper Superchip," said Todd Mostak, Co-Founder and CTO of HEAVY.AI. "By tapping into the immense GPU compute and CPU-GPU bandwidth that is unique to the NVIDIA GH200, we now can offer our customers even greater performance and scale while significantly reducing costs, empowering businesses to derive insights faster and more efficiently than ever before."
+Building on its mission to democratize access to big data analytics, HEAVY.AI offers a comprehensive software suite that allows organizations to query, analyze, and visualize complex datasets, with a particular focus on location and time series data. With performance that is often orders of magnitude faster than CPU-based solutions, HEAVY.AI provides analysts, data scientists, data engineers, and geospatial professionals across industries with a complete view of their data, helping them understand the "what, when, and where" with unparalleled clarity.
+Through its collaborations with NVIDIA and now Vultr, HEAVY.AI has optimized its platform for the latest NVIDIA hardware to provide best-in-class performance, providing significant advantages to industries that rely on fast data processing. Specifically:
+        
+Energy: accelerating big data analytics for sectors such as renewable energy for wind, solar, and biomass.
+        
+Telecommunications: expediting faster and deeper understanding of LTE and 5G networks, and enhancing customer experiences.
+        
+Urban planning & smart cities: accelerating the sector with GeoAI solutions, which analyze urban data to optimize infrastructure, transportation, and public services; and driving advanced utility analytics on big smart meter, IoT, and Earth observation datasets, for hidden risks visualization, and uninterrupted uptime.
+        
+Environmental monitoring, geospatial intelligence, and disaster response: analyzing satellite and drone data to detect changes in land use; assessing damage from natural disasters faster; and automatic change detection and socio-economic analysis.
+"As enterprises across sectors look to train and scale their models, they are looking for industry and use case-specific solutions to help them accelerate growth and innovation," said Kevin Cochrane, CMO of Vultr. "Our partnership with HEAVY.AI is yet another example of Vultr being committed to unlocking the next frontier of GPU-accelerated analytics for some of the most data-intensive workloads across key sectors."
+This news follows the company's recent launch of its industry cloud solution, which delivers industry-vertical, cutting-edge cloud computing solutions that meet specific industry needs and regulatory requirements. Through its partnership with HEAVY.AI, Vultr is reaffirming its commitment to both empowering customers across verticals and building an ecosystem of best-of-breed technologies, tools, and services that enable them to easily build and scale cloud-native and AI-native initiatives.
+To learn more about the HEAVY.AI and Vultr partnership, visit us here .
+About HEAVY.AI
+HEAVY.AI provides a groundbreaking GPU-accelerated analytics platform that empowers organizations to instantly query and visualize multi-billion-record datasets, including geospatial and time-series data, delivering a complete view of what is happening, when, and where. By integrating massive data volumes from multiple sources, HEAVY.AI provides an immersive, real-time interactive visual analytics experience. Industry leaders in telecommunications, energy, government, utilities, and higher education rely on HEAVY.AI to drive high-impact decisions at unprecedented speeds. Born from research at Harvard and MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), HEAVY.AI is backed by GV, In-Q-Tel, New Enterprise Associates (NEA), NVIDIA, Tiger Global Management, Vanedge Capital, and Verizon Ventures. Headquartered in San Francisco, HEAVY.AI is reshaping data analytics. Learn more about HEAVY.AI .
+About Vultr
+Vultr is the world's largest privately-held cloud computing platform that delivers unparalleled ease of use, performance, pricing, and reach. With 1.5M customers across 185 countries, Vultr is the leading alternative hyperscaler, serving enterprise-grade businesses in financial services, telecom, healthcare & life sciences, retail, media & entertainment, manufacturing, and more.
+Vultr's Cloud Compute, Cloud GPU, Bare Metal, Managed Kubernetes, Managed Databases, Cloud Storage, and Networking solutions give customers global reach and performance while eliminating complexity and cost so that they can easily deploy and scale their cloud-native and AI-native applications worldwide.
+Learn more at: www.vultr.com .
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240910576934/en/
+
+CONTACT: Jordan Tewell
+415-666-6066
+10Fold Communications for HEAVY.AI
+heavyai@10fold.com Janabeth Ward
+Scratch Marketing + Media for Vultr
+vultrpr@scratchmm.com
+
+http://www.businesswire.com
+
+Load-Date:September 10, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

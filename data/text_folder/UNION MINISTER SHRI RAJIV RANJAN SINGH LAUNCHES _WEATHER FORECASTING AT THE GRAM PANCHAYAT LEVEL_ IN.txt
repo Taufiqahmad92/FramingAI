@@ -1,0 +1,58 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: UNION MINISTER SHRI RAJIV RANJAN SINGH LAUNCHES "WEATHER FORECASTING AT THE GRAM PANCHAYAT LEVEL" IN VIGYAN BHAWAN, NEW DELHI TODAY
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+UNION MINISTER SHRI RAJIV RANJAN SINGH LAUNCHES "WEATHER FORECASTING AT THE GRAM PANCHAYAT LEVEL" IN VIGYAN BHAWAN, NEW DELHI TODAY
+States News Service
+October 24, 2024 Thursday
+
+
+Copyright 2024 States News Service
+Length:1102 words
+Byline:States News Service
+Dateline:NEW DELHI, India 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+"Weather Forecasting at the Gram Panchayat Level" will become a milestone in Transforming the Indian Economy: Shri Rajiv Ranjan Singh
+Local Weather Forecasts Now Accessible to over 2.5 Lakh Gram Panchayats on 5-Day and Hourly basis
+Shri Rajiv Ranjan Singh alias Lalan Singh, Minister of Panchayati Raj, Shri (Dr.) Jitendra Singh, Minister of State (Independent Charge) for Science and Technology and Earth Sciences, and Prof. S. P. Singh Baghel, Minister of State for Panchayati Raj, launched Gram Panchayat-Level Weather Forecasting in Vigyan Bhawan, New Delhi today. This initiative, developed in collaboration between the Ministry of Panchayati Raj (MoPR) and the India Meteorological Department (IMD), Ministry of Earth Sciences (MoES), marks a major step forward in climate preparedness at the grassroots level. This significant endeavour is part of the Governments 100 Days Agenda and reflects a Whole of Government approach, with the Ministry of Panchayati Raj working closely with expert Departments to bring transformative changes in grassroots governance. The initiative will provide Gram Panchayats with a five-day weather forecast and hourly updates, enabling rural communities to better plan agricultural activities and prepare for weather-related risks.
+Union Minister of Panchayati Raj Shri Rajiv Ranjan Singh emphasized that Weather Forecasting at the Gram Panchayat Level is a key step towards empowering the Indian economy and enhancing the Ease of Living for rural populations. This initiative will transform rural governance by enabling Panchayats to address climate challenges and improve decision-making for agriculture and disaster preparedness. Shri Singh highlighted the crucial role of Panchayati Raj Institutions (PRIs) in disseminating timely weather information to rural citizens, ultimately improving livelihoods and fostering sustainable development. He said that weather forecasts at the Gram Panchayat level will be a milestone in empowering rural areas and boosting the agriculture-based economy. The Union Minister hailed Prime Minister Narendra Modis Ek Ped Maa Ke Naam as a historic initiative that links environmental protection with emotional values, aimed at increasing green cover. He praised the joint efforts of the Ministry of Panchayati Raj and IMD for this initiative, highlighting its potential to help farmers plan more effectively and reduce agricultural losses due to weather uncertainties.
+Minister of State (Independent Charge) for Science and Technology and Earth Sciences Shri (Dr.) Jitendra Singh commended the collaboration between MoPR and IMD, emphasizing that the availability of weather forecasts at the Gram Panchayat level will significantly boost disaster preparedness while also contributing to the creation of climate-resilient communities across India. He attributed the consistent improvement in the accuracy of weather forecasting over the last decade to the visionary leadership of the Prime Minister Narendra Modi. Dr. Singh highlighted that advanced technologies, such as AI, machine learning, and an extended observation network, have bolstered Indias global standing in various fields, including weather forecasting. He called upon PRIs to actively leverage this information to protect rural populations from the adverse effects of extreme weather events and further strengthen agricultural productivity. Dr. Jitendra Singh highlighted the Governments efforts to modernize agriculture, including Panchayat-level weather forecasts.
+Minister of State for Panchayati Raj Prof. S. P. Singh Baghel elaborated on the long-term benefits of this initiative, which aligns with the Governments vision of building smart, empowered, and self-reliant Panchayats. He emphasized the potential of this initiative to make a positive impact on the lives of rural citizens, particularly farmers, and stressed on the importance of raising widespread public awareness about its advantages. Prof. Baghel said that rural India will play a pivotal role in realizing the dream of a developed nation through such forward-thinking and transformative initiatives.
+During his address, Shri Vivek Bharadwaj, Secretary, MoPR, called upon Panchayats to actively disseminate weather-related information to the masses, ensuring that rural communities fully benefit from the initiative. While Dr. M. Ravichandran, Secretary, Ministry of Earth Sciences, and Dr. Mrutyunjay Mohapatra, Director General, India Meteorological Department, provided comprehensive insights into the technical aspects and benefits of Weather Forecasting at the Gram Panchayat Level. Shri Alok Prem Nagar, Joint Secretary, MoPR, highlighted the crucial role of Panchayats in driving this initiative forward.
+The launch event witnessed participation from dignitaries and senior officers from the Ministries of Panchayati Raj, Agriculture, Rural Development, National Disaster Management Authority (NDMA), Department of Science and Technology (DST), and other key stakeholders. Panchayat representatives from Haryana and Uttar Pradesh participated in the program with great enthusiasm, demonstrating keen interest in utilizing these weather forecasting tools to improve agricultural outcomes and safeguard their communities from climate-related challenges.
+In addition to the launch, a Training Workshop on Weather Forecasts at the Gram Panchayat Level was also organized for over 200 participants, including elected representatives of PRIs and State Panchayati Raj officials. The workshop provided hands-on training to enhance their understanding and use of weather forecasting tools, empowering them to build climate resilience in their respective regions.
+The weather forecasting data will be accessible through digital platforms such as Meri Panchayat app, eGramSwaraj, and Gram Manchitra, which play a crucial role in streamlining governance and fostering transparency at the grassroots level. The eGramSwaraj platform helps with project tracking and resource management, while the Meri Panchayat app promotes community engagement. The Gram Manchitra platform provides geospatial insights, aiding in spatial planning and development projects at the Panchayat level.
+The launch of the Gram Panchayat-Level Weather Forecasting system is a momentous milestone in empowering rural communities and building a climate-resilient India. It will help rural populations make informed decisions about agricultural activities, disaster preparedness, and infrastructure planning, ensuring a higher quality of life and contributing to the nations progress.
+
+Load-Date:October 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

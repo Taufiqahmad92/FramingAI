@@ -1,0 +1,65 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: GWU Media Tip Sheet FEMA Administrator Warns Misinformation is Undermining Hurricane Helene Response
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+GWU Media Tip Sheet FEMA Administrator Warns Misinformation is Undermining Hurricane Helene Response
+Targeted News Service
+October 8, 2024 Tuesday 3:47 PM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:793 words
+Byline:Targeted News Service
+Dateline:WASHINGTON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+FEMA Administrator Deanne Criswell voiced concerns about the impact of rampant misinformation surrounding Hurricane Helene, stating that false claims are discouraging survivors from seeking help and damaging responder morale.
+She attributed much of the misinformation to conspiracy theories fueled by GOP figures, including Donald Trump and Elon Musk, while urging the public to rely on official channels for disaster information.
+Faculty experts at the George Washington University are available to offer insight, analysis and commentary on the harmful impacts of disinformation and can help debunk FEMA misinformation. To schedule an interview with an expert, please contact GW Media Relations Specialist Tayah Frye at tayah.frye@gwu.edu
+Government Agency Funding
+Joe Cordes is professor of Economics, Public Policy and Public Administration, and International Affairs and a co-director of the George Washington Regulatory Studies Center. Dr. Cordes was a Brookings Economic Policy fellow in the Office of Tax Policy in the U.S. Department of the Treasury in 1980-81, and served as a senior economist on the Treasury's Tax Reform project in 1984. From 1989 to 1991 he was Deputy Assistant Director for Tax Analysis at the Congressional Budget Office. He was a Visiting Fellow at the Urban Institute in 1998-1999, and is currently an Associate Scholar in the Center on Nonprofits and Philanthropy at the Urban Institute. He has been a consultant to the DC Tax Revision Commission, the RAND Corporation, and numerous government agencies including the Congressional Budget Office, Internal Revenue Service Office of Research, the U.S. Treasury Department, National Institute of Standards and Technology, and the National Research Council.
+Misinformation/Disinformation
+Ethan Porter is an Associate Professor of Media and Public Affairs and of Political Science at George Washington University. He holds appointments in the School of Media and Public Affairs and the Political Science Department and is the Cluster Lead of the Misinformation/Disinformation Lab at GW's Institute for Data, Democracy and Politics. His research has appeared or is forthcoming in Proceedings of the National Academy of Sciences, Journal of Politics, British Journal of Political Science, Political Behavior, Political Communication and other journals.
+Neil Johnson, professor of physics, leads a new initiative in Complexity and Data Science which combines cross-disciplinary fundamental research with data science to attack complex real-world problems. He is an expert on how misinformation and hate speech spreads online and effective mitigation strategies. Johnson recently published new research on bad-actor AI online activity in 2024. The study predicts that daily, bad-actor AI activity is going to escalate by mid-2024, increasing the threat that it could affect election results.
+David Broniatowski, an associate professor of engineering management and systems engineering and the associate director for the Institute for Data, Democracy & Politics at the George Washington University. Broniatowski is also GW's lead principal investigator of the NSF-funded institute called TRAILS that explores trustworthy AI. He conducts research in decision making under uncertainty, collective decision making, the design and regulation of complex information flow systems, and how behavior spreads online.
+Disaster Management & Response
+Joseph Barbera, associate professor of engineering management and systems engineering, is a board-certified emergency physician with a 35-year history in developing emergency response systems and responding to local, national, and international emergencies and disasters. He has extensive experience participating in the management of response to earthquakes, tsunamis, and hurricanes, such as Katrina in 2005. Through the GW Institute for Crisis, Disaster, and Risk Management, he studies disaster response and recovery, risk management, and business continuity.
+Ramin Asgary is a professor of Global Health and Director of Humanitarian Health at the GW Milken Institute School of Public Health. His expertise focuses on refugee health and humanitarian assistance. He can discuss the humanitarian crisis, flooding, injuries and health problems in the aftermath of Hurricane Helene
+James P. Phillips is an associate professor of Emergency Medicine and Chief of Disaster and Operational Medicine at GW School of Medicine & Health Sciences. He can discuss treating mass casualties in disaster areas.
+-GW-
+***
+Original text here: https://mediarelations.gwu.edu/media-tip-sheet-fema-administrator-warns-misinformation-undermining-hurricane-helene-response
+Copyright Targeted News Services
+MSTRUCK-8864211 MSTRUCK
+
+Load-Date:October 8, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

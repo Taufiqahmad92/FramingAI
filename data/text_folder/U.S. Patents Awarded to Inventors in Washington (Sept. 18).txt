@@ -1,0 +1,468 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: U.S. Patents Awarded to Inventors in Washington (Sept. 18)
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+U.S. Patents Awarded to Inventors in Washington (Sept. 18)
+Targeted News Service
+September 18, 2024 Wednesday 2:03 PM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:10815 words
+Byline:Targeted News Service Targeted News Service
+Dateline:Alexandria, VA. 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+***
+Three-Dimensional Textile Preforms and Composite Parts Comprising Textile Preforms
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12091169 B2, initially filed June 7, 2022) developed by three inventors Waeil M. Ashmawi, Bellevue, Washington; Zayd I. Abdel-Kamel, Bothell, Washington; and Sahrudine Apdalhaliem, Seattle, Washington, for "Three-dimensional textile preforms and composite parts comprising textile preforms."
+***
+Contour Capacitive Image Data Compression
+ALEXANDRIA, Virginia, Sept. 17 -- SIGMASENSE, LLC., Austin, Texas has been assigned a patent (No. US 12093484 B2, initially filed Oct. 27, 2022) developed by three inventors Gerald Dale Morrison, Redmond, Washington; Michael Shawn Gray, Cedar Park, Texas; and Grant Howard McGibney, Calgary, Canada, for "Contour capacitive image data compression."
+***
+Distance to Obstacle Detection in Autonomous Machine Applications
+ALEXANDRIA, Virginia, Sept. 17 -- NVIDIA CORPORATION, Santa Clara, California has been assigned a patent (No. US 12093824 B2, initially filed June 28, 2023) developed by nine inventors Yilin Yang, Santa Clara, California; Bala Siva Sashank Jujjavarapu, Sunnyvale, California; Pekka Janis, Uusimaa, Finland; Zhaoting Ye, Santa Clara, California; Sangmin Oh, San Jose, California; Minwoo Park, Saratoga, California; Daniel Herrera Castro, Uusimaa, Finland; Tommi Koivisto, Uusimaa, Finland; and David Nister, Bellevue, Washington, for "Distance to obstacle detection in autonomous machine applications."
+***
+Remote User Interface
+ALEXANDRIA, Virginia, Sept. 17 -- APPLE INC., Cupertino, California has been assigned a patent (No. US 12093515 B2, initially filed Oct. 27, 2022) developed by seven inventors Imran Chaudhri, San Francisco, California; Stephen O. Lemay, Palo Alto, California; Alan C. Dye, San Francisco, California; Christopher Patrick Foss, San Francisco, California; Lawrence Y. Yang, Bellevue, Washington; David Chance Graham, Columbus, Ohio; and Jonathan P. Ive, San Francisco, California, for "Remote user interface."
+***
+Caching Techniques for Deep Learning Accelerator
+ALEXANDRIA, Virginia, Sept. 17 -- MICRON TECHNOLOGY, INC., Boise, Idaho has been assigned a patent (No. US 12094531 B2, initially filed Jan. 11, 2021) developed by three inventors Aliasger Tayeb Zaidy, Seattle, Washington; Patrick Alan Estep, Rowlett, Texas; and David Andrew Roberts, Wellesley, Massachusetts, for "Caching techniques for deep learning accelerator."
+***
+Mobile Stackable Tower
+ALEXANDRIA, Virginia, Sept. 17 -- An inventor from Spangle, Washington, Gerald W. Newman has been awarded a design patent (No. US D1042892 S1, initially filed June 2, 2023) for "Mobile stackable tower."
+***
+Smoke Tube
+ALEXANDRIA, Virginia, Sept. 17 -- MATERIAL GIRL INC, Omaha, Nebraska has been assigned a design patent (No. US D1042025 S1, initially filed Nov. 23, 2021) developed by Brock Moller, Bremerton, Washington, for "Smoke tube."
+***
+System and Method for Machine Learning for System Deployments Without Performance Regressions
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093255 B2, initially filed June 30, 2023) developed by fourteen inventors Irene Rogan Shaffer, Cambridge, Massachusetts; Remmelt Herbert Lieve Ammerlaan, Cambridge, Massachusetts; Gilbert Antonius, Cambridge, Massachusetts; Marc T. Friedman, Seattle, Washington; Abhishek Roy, Bellevue, Washington; Lucas Rosenblatt, Somerville, Massachusetts; Vijay Kumar Ramani, Boston, Massachusetts; Shi Qiao, Mercer Island, Washington; Alekh Jindal, Sammamish, Washington; Peter Orenberg, Braintree, Massachusetts; H M Sajjad Hossain, Waltham, Massachusetts; Soundararajan Srinivasan, Cambridge, Massachusetts; Hiren Shantilal Patel, Bothell, Washington; and Markus Weimer, Kirkland, Washington, for "System and method for machine learning for system deployments without performance regressions."
+***
+Laser Bond Inspection System and Method
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12092581 B2, initially filed Nov. 22, 2021) developed by Steven K. Brady, Renton, Washington, and Marc J. Piehl, Renton, Washington, for "Laser bond inspection system and method."
+***
+Semantic Deduplication of Event Logs
+ALEXANDRIA, Virginia, Sept. 17 -- ORACLE INTERNATIONAL CORPORATION, Redwood Shores, California has been assigned a patent (No. US 12093230 B1, initially filed Aug. 14, 2023) developed by Kourosh Lashgari, Sammamish, Washington, for "Semantic deduplication of event logs."
+***
+Display Screen or Portion Thereof With Graphical User Interface
+ALEXANDRIA, Virginia, Sept. 17 -- GOOGLE LLC, Mountain View, California has been assigned a design patent (No. US D1042477 S1, initially filed Sept. 27, 2021) developed by Hao Zeng, Seattle, Washington, for "Display screen or portion thereof with graphical user interface."
+***
+Third-Party Vehicle Operator Sign-In
+ALEXANDRIA, Virginia, Sept. 17 -- UBER TECHNOLOGIES, INC., San Francisco, California has been assigned a patent (No. US 12093362 B2, initially filed Jan. 30, 2023) developed by five inventors Mark Yen, San Francisco, California; Joseph Maliksi, Pittsburgh, Pennsylvania; Roman Kuzmenko, San Jose, California; Andrii Iasynetskyi, Redmond, Washington; and Matthew Charles Ellis Wood, Pittsburgh, Pennsylvania, for "Third-party vehicle operator sign-in."
+***
+Therapeutic Antibodies That Bind to the Serine Protease Domain of MASP-2 and Uses Thereof
+ALEXANDRIA, Virginia, Sept. 17 -- OMEROS CORPORATION, Seattle, Washington has been assigned a patent (No. US 12091468 B2, initially filed Aug. 15, 2023) developed by four inventors Thomas Dudler, Seattle, Washington; Peter Kurt Nollert von Specht, Seattle, Washington; Munehisa Yabuki, Seattle, Washington; and Sadam Yaseen, Seattle, Washington, for "Therapeutic antibodies that bind to the serine protease domain of MASP-2 and uses thereof."
+***
+Managing Alerts in a WCD System
+ALEXANDRIA, Virginia, Sept. 17 -- WEST AFFUM HOLDINGS DAC, Dublin, Ireland has been assigned a patent (No. US 12090333 B2, initially filed Aug. 1, 2023) developed by four inventors Zoie R. Engman, Kirkland, Washington; Amanda K. Hall, Seattle, Washington; Laura M. Gustavson, Redmond, Washington; and Aaron J. Piazza, Lake Forest Park, Washington, for "Managing alerts in a WCD system."
+***
+Device Credentials Management
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12095725 B2, initially filed March 22, 2017) developed by four inventors Rameez Loladia, Seattle, Washington; Ashutosh Thakur, Bellevue, Washington; William Alexander Stevenson, Seattle, Washington; and Ramkishore Bhattacharyya, Woodinville, Washington, for "Device credentials management."
+***
+System for Analyzing and Prescribing Content Changes to Achieve Target Readability Level
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093644 B2, initially filed Dec. 14, 2020) developed by six inventors Jayasudha Thota, Bellevue, Washington; Gabriele Masili, Mercer Island, Washington; Rodney Derek Brown, Fort Mill, South Carolina; Kartik Krishnan, Charlotte, North Carolina; Raymond Robert Ringhiser, Maple Valley, Washington; and Anusha Meka, Davidson, North Carolina, for "System for analyzing and prescribing content changes to achieve target readability level."
+***
+Enhance Control of Communication Sessions
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093219 B2, initially filed Dec. 29, 2021) developed by Samuel Robert Cundall, Mercer Island, Washington, for "Enhance control of communication sessions."
+***
+Non-Invasive Analyte Sensing and Notification System With Decoupled and Inefficient Transmit and Receive Antennas
+ALEXANDRIA, Virginia, Sept. 17 -- KNOW LABS, INC., Seattle, Washington has been assigned a patent (No. US 12089927 B2, initially filed Feb. 9, 2021) developed by Phillip Bosua, Seattle, Washington, for "Non-invasive analyte sensing and notification system with decoupled and inefficient transmit and receive antennas."
+***
+Stage Replication in a Cloud Data Lake
+ALEXANDRIA, Virginia, Sept. 17 -- SNOWFLAKE INC., Bozeman, Montana has been assigned a patent (No. US 12093281 B2, initially filed March 9, 2023) developed by five inventors Subramanian Muralidhar, Mercer Island, Washington; Polita Paulus, Kirkland, Washington; Sahaj Saini, Seattle, Washington; Saurin Shah, Kirkland, Washington; and Srinidhi Karthik Bisthavalli Srinivasa, Bellevue, Washington, for "Stage replication in a cloud data lake."
+***
+Location Aware Assignment of Resources for Push to Transfer (PTT) Communication Systems in a Fifth Generation (5G) Network or Other Next Generation Wireless Communication System
+ALEXANDRIA, Virginia, Sept. 17 -- AT&T MOBILITY II LLC, Atlanta, Georgia has been assigned a patent (No. US 12096314 B2, initially filed Dec. 30, 2022) developed by four inventors Lan Scott, Redmond, Washington; Jerry Shih, Cumming, Georgia; Junan Peng, Bellevue, Washington; and Erie Lai Har Lau, Redmond, Washington, for "Location aware assignment of resources for push to transfer (PTT) communication systems in a fifth generation (5G) network or other next generation wireless communication system."
+***
+Method and System for Identifying, Managing, and Monitoring Data Dependencies
+ALEXANDRIA, Virginia, Sept. 17 -- EBAY INC., San Jose, California has been assigned a patent (No. US 12093326 B2, initially filed Oct. 30, 2023) developed by five inventors Sizhong Liu, Shanghai, China; Zou Qingnan, Shanghai, China; Yi Liu, Shanghai, China; Ian Chi-Yee Ma, Vashon, Washington; and Haowen Zhu, Shanghai, China, for "Method and system for identifying, managing, and monitoring data dependencies."
+***
+Augmented Reality Notification System
+ALEXANDRIA, Virginia, Sept. 17 -- GM CRUISE HOLDINGS LLC, San Francisco, California has been assigned a patent (No. US 12091039 B2, initially filed Aug. 17, 2023) developed by six inventors Anthony Galliano, III, Seattle, Washington; Arun A. Mathews, New Castle, Washington; Charlotte Blanc, San Francisco, California; Pratik Palnitkar, Kirkland, Washington; John Logan Anderson, San Francisco, California; and Jacqueline Mary Shannon, Corte Madera, California, for "Augmented reality notification system."
+***
+ADL-UFE: All Deep Learning Unified Front-End System
+ALEXANDRIA, Virginia, Sept. 17 -- TENCENT AMERICA LLC, Palo Alto, California has been assigned a patent (No. US 12094481 B2, initially filed Nov. 18, 2021) developed by four inventors Yong Xu, Bellevue, Washington; Meng Yu, Bellevue, Washington; Shi-Xiong Zhang, Redmond, Washington; and Dong Yu, Bellevue, Washington, for "ADL-UFE: all deep learning unified front-end system."
+***
+Determination System, Determination Method, and Computer-Readable Recording Medium
+ALEXANDRIA, Virginia, Sept. 17 -- NIPPON TELEGRAPH AND TELEPHONE CORPORATION, Tokyo, Japan has been assigned a patent (No. US 12096221 B2, initially filed July 8, 2021) developed by three inventors David Ash, Kirkland, Washington; Shmuel Ur, Shorashim, Israel; and Vlad Dabija, Mountain View, California, for "Determination system, determination method, and computer-readable recording medium."
+***
+Liquid Lens With Gravity Sag Correction
+ALEXANDRIA, Virginia, Sept. 17 -- META PLATFORMS TECHNOLOGIES, LLC, Menlo Park, California has been assigned a patent (No. US 12092844 B2, initially filed March 5, 2021) developed by ten inventors Andrew John Ouderkirk, Redmond, Washington; Nagi Hosni Elabbasi, Southborough, Massachusetts; Spencer Allan Wells, Seattle, Washington; Christopher Stipe, Woodinvill, Washington; Kenneth Alexander Diest, Kirkland, Washington; Christopher Yuan Ting Liao, Seattle, Washington; Liliana Ruiz Diaz, Redmond, Washington; Laura Cressman, Carnation, Washington; Taha Masood, Sammamish, Washington; and James Howard Thomas Ransley, Medford, Massachusetts, for "Liquid lens with gravity sag correction."
+***
+Network of Networks
+ALEXANDRIA, Virginia, Sept. 17 -- STRIPE, INC., South San Francisco, California has been assigned a patent (No. US 12095773 B2, initially filed Jan. 6, 2023) developed by eight inventors Michael Julien Kovacs, Mississauga, Canada; Bowen Pan, Belmont, California; Gabriel Hurley, Oakland, California; Dmitriy Gak, Seattle, Washington; Timothy James Fontaine, San Francisco, California; Yuliya Gorlovetsky, Portola Valley, California; Mark Joseph Cavage, Kensington, California; and Brian Amaro, Mississauga, Canada, for "Network of networks."
+***
+Medical Intervention Device With Versatile Handle
+ALEXANDRIA, Virginia, Sept. 17 -- OLYMPUS CORPORATION, Tokyo, Japan has been assigned a patent (No. US 12089845 B2, initially filed Oct. 21, 2022) developed by six inventors Peter Lambe, Seattle, Washington; Winslow Harte, Kenmore, Washington; Bryan Cabatic, Shoreline, Washington; Razel D. Agustino, Seattle, Washington; Adam Lee Kosky, Palm Desert, California; and David Desmarais, Seattle, Washington, for "Medical intervention device with versatile handle."
+***
+Efficient Propagation of Routing Information for Compute Instances With Network Address Ranges of Multiple Address Families
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12095666 B1, initially filed Sept. 30, 2021) developed by five inventors David James Goodell, Seattle, Washington; Ethan Joseph Torretta, Edmonds, Washington; Bharadwaj Avva, Bothell, Washington; Joseph Elmar Magerramov, Bellevue, Washington; and Shovan Kumar Das, Medina, Washington, for "Efficient propagation of routing information for compute instances with network address ranges of multiple address families."
+***
+Ephemeral Artificial Reality Experiences
+ALEXANDRIA, Virginia, Sept. 17 -- META PLATFORMS TECHNOLOGIES, LLC, Menlo Park, California has been assigned a patent (No. US 12093447 B2, initially filed Jan. 13, 2022) developed by four inventors Alexander Michael Louie, Milpitas, California; Bernhard Poess, Redmond, Washington; Jossie E. Tirado Arroyo, Kenmore, Washington; and Michal Hlavac, Seattle, Washington, for "Ephemeral artificial reality experiences."
+***
+Facilitating Power Conservation for Devices Based on Likelihood of Power Usage Level
+ALEXANDRIA, Virginia, Sept. 17 -- AT&TMOBILITY II LLC, Atlanta, Georgia has been assigned a patent (No. US 12093112 B2, initially filed Nov. 23, 2022) developed by four inventors Stephen Thomas Hardin, Suwanee, Georgia; Erie Lai Har Lau, Redmond, Washington; Brian Greaves, Atlanta, Georgia; and Robert Osterwise, Cumming, Georgia, for "Facilitating power conservation for devices based on likelihood of power usage level."
+***
+Threaded Fastener Retention Detection
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12095206 B2, initially filed May 9, 2022) developed by three inventors Donghwi Kim, Kirkland, Washington; Jaejin Lee, Redmond, Washington; and Manish Shah, Redmond, Washington, for "Threaded fastener retention detection."
+***
+Efficient State Machines for Real-Time Dataflow Programming
+ALEXANDRIA, Virginia, Sept. 17 -- TYCO FIRE & SECURITY GMBH, Neuhausen am Rheinfall, Switzerland has been assigned a patent (No. US 12093666 B2, initially filed Jan. 18, 2022) developed by Jason Lucas, Renton, Washington, and Abhishek Sharma, Mountain View, California, for "Efficient state machines for real-time dataflow programming."
+***
+Optimizing Flights of a Fleet of Aircraft Using a Reinforcement Learning Model
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12094349 B2, initially filed July 26, 2021) developed by three inventors Kirk A. Vining, Renton, Washington; Alvin L. Sipe, Kenmore, Washington; and Dragos D. Margineantu, Bellevue, Washington, for "Optimizing flights of a fleet of aircraft using a reinforcement learning model."
+***
+Degassing Electrorheological Fluid
+ALEXANDRIA, Virginia, Sept. 17 -- NIKE, INC., Beaverton, Oregon has been assigned a patent (No. US 12090423 B2, initially filed June 13, 2023) developed by three inventors Steven H. Walker, Camas, Washington; Raymond L. Nicoli, Seattle, Washington; and Katherine Stegner, Seattle, Washington, for "Degassing electrorheological fluid."
+***
+Systems and Methods for Supporting Different Player Types in a Franchise Game Based on Ownership of Unique Digital Articles
+ALEXANDRIA, Virginia, Sept. 17 -- MYTHICAL, INC., Sherman Oaks, California has been assigned a patent (No. US 12090410 B2, initially filed March 17, 2023) developed by Chong Won Ahn, Rancho Palos Verdes, California, and Rudy Koch, Sammamish, Washington, for "Systems and methods for supporting different player types in a franchise game based on ownership of unique digital articles."
+***
+Water Leak Detection Systems and Methods for an Internal Cabin of an Aircraft
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Chicago, Illinois has been assigned a patent (No. US 12092550 B2, initially filed Nov. 28, 2023) developed by Darren Carl McIntosh, Mukilteo, Washington, for "Water leak detection systems and methods for an internal cabin of an aircraft."
+***
+Massage Device and System
+ALEXANDRIA, Virginia, Sept. 17 -- POLAR FUSION LLC, Kent, Washington has been assigned a patent (No. US 12090105 B2, initially filed July 8, 2021) developed by Spring S. Faussett, Kent, Washington, for "Massage device and system."
+***
+Processing Spoken Commands to Control Distributed Audio Outputs
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12094461 B2, initially filed Dec. 21, 2020) developed by three inventors Robert Williams, San Francisco, California; Steven Todd Rabuchin, Kirkland, Washington; and Gregory Michael Hart, Mercer Island, Washington, for "Processing spoken commands to control distributed audio outputs."
+***
+Digital Signaling Device for Signaling an Electrical Switch
+ALEXANDRIA, Virginia, Sept. 17 -- ONX, INC., Carrollton, Texas has been assigned a patent (No. US 12094667 B2, initially filed Sept. 18, 2023) developed by eleven inventors Sean Burke, Morgan Hill, California; Brian Reeves, Hamilton, Canada; Charles Edward Becze, Oakville, Canada; Yong Miao, Mississauga, Canada; Sanjiv Sirpal, Oakville, Canada; David Hull, Seattle, Washington; David Taylor, Brampton, Canada; Paul Edward Reeves, Oakville, Canada; Guli Meng, Mississauga, Canada; David Reeves, Burlington, Canada; and Mike Uhl, Seattle, Washington, for "Digital signaling device for signaling an electrical switch."
+***
+Network Expansion Optimization
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE ONNOVATIONS LLC, Overland Park, Kansas has been assigned a patent (No. US 12096235 B2, initially filed Dec. 21, 2021) developed by three inventors Dennis Jarret Guill, Jr., Richardson, Texas; Allan Orbigo, Bothell, Washington; and Jong Sung Yoon, Sammamish, Washington, for "Network expansion optimization."
+***
+Systems and Methods for Signaling Buffering Period Information in Video Coding
+ALEXANDRIA, Virginia, Sept. 17 -- SHARP KABUSHIKI KAISHA, Sakai, Japan has been assigned a patent (No. US 12096033 B2, initially filed Aug. 21, 2020) developed by Sachin G. Deshpande, Vancouver, Washington, for "Systems and methods for signaling buffering period information in video coding."
+***
+Enabling Communication With a Drone Over a Wide Geographical Area Using a Wireless Telecommunication Network
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE USA, INC., Bellevue, Washington has been assigned a patent (No. US 12095509 B2, initially filed Feb. 24, 2022) developed by Muhammad Tawhidur Rahman, Bellevue, Washington, for "Enabling communication with a drone over a wide geographical area using a wireless telecommunication network."
+***
+Multi-Tier Connections Messaging Framework
+ALEXANDRIA, Virginia, Sept. 17 -- SNAP INC., Santa Monica, California has been assigned a patent (No. US 12095722 B2, initially filed June 16, 2023) developed by six inventors Nathan Kenneth Boyd, Los Angeles, California; Benedict Copping, Los Angeles, California; Benjamin Ralph Hollis, Seattle, Washington; Susan Marie Territo, Los Angeles, California; Jeremy Baker Voss, Los Angeles, California; and Yu Wang, Mill Valley, California, for "Multi-tier connections messaging framework."
+***
+Instruction-Level Threat Assessment
+ALEXANDRIA, Virginia, Sept. 17 -- LACEWORK, INC., Mountain View, California has been assigned a patent (No. US 12095796 B1, initially filed Dec. 12, 2022) developed by three inventors Patrice Godefroid, Mercer Island, Washington; Curtis Condra, Seattle, Washington; and Yijou Chen, Cupertino, California, for "Instruction-level threat assessment."
+***
+Data Traffic Characterization Prioritization
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093389 B2, initially filed March 14, 2022) developed by Jonathan Ermey, Snoqualmie, Washington, for "Data traffic characterization prioritization."
+***
+RFID Tags With Public and Private Inventory States
+ALEXANDRIA, Virginia, Sept. 17 -- IMPINJ, INC., Seattle, Washington has been assigned a patent (No. US 12093767 B1, initially filed Oct. 21, 2022) developed by Christopher J Diorio, Shoreline, Washington, and Joel Peshkin, San Juan Capistrano, California, for "RFID tags with public and private inventory states."
+***
+Significance Ordered Prefix Tree for Compute-Efficient Root Cause Investigation
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12095606 B1, initially filed Oct. 31, 2023) developed by Mengmeng Jie, Kirkland, Washington, and Giancarlo Devich, Woodinville, Washington, for "Significance ordered prefix tree for compute-efficient root cause investigation."
+***
+Face Cradle Cover
+ALEXANDRIA, Virginia, Sept. 17 -- An inventor from Tumwater, Washington, Elizabeth Jane Brooks has been awarded a design patent (No. US D1042850 S1, initially filed Sept. 6, 2021) for "Face cradle cover."
+***
+Optimizing EN-DC Networks
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE INNOVATIONS LLC, Overland Park, Kansas has been assigned a patent (No. US 12096500 B1, initially filed Aug. 26, 2021) developed by Sreekar Marupaduga, Overland Park, Kansas, and Michael Benitez Guimba, Snoqualmie, Washington, for "Optimizing EN-DC networks."
+***
+Preserving Eventually Consistent Distributed State of Multi-Layer Applications
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE USA, INC., Bellevue, Washington has been assigned a patent (No. US 12093751 B2, initially filed July 16, 2020) developed by Sergey Slovetskiy, Bellevue, Washington, for "Preserving eventually consistent distributed state of multi-layer applications."
+***
+Techniques for Optimizing Wireless Deployments Using Location-Based Association Affinity
+ALEXANDRIA, Virginia, Sept. 17 -- ORACLE INTERNATIONAL CORPORATION, Redwood Shores, California has been assigned a patent (No. US 12096234 B2, initially filed June 17, 2021) developed by Bryan James Phillippe, Fall City, Washington, for "Techniques for optimizing wireless deployments using location-based association affinity."
+***
+Structural Arrangement for Strut-Braced Wing Assembly of an Aircraft
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12091155 B2, initially filed May 2, 2022) developed by four inventors William Sampedro-Thompson, Mill Creek, Washington; Ben C. Welte, Edmonds, Washington; Michael J. Gamble, Redmond, Washington; and Steven F. Hastings, Sammamish, Washington, for "Structural arrangement for strut-braced wing assembly of an aircraft."
+***
+Versatile Integration Framework for Software-As-A-Service (SaaS) Functionality
+ALEXANDRIA, Virginia, Sept. 17 -- AVALARA, INC., Seattle, Washington has been assigned a patent (No. US 12095881 B1, initially filed May 20, 2022) developed by five inventors Mac Turner, Seattle, Washington; Robert Erdman, Bremerton, Washington; Stefan Kim, Maple Valley, Washington; Angela Bartz, Kirkland, Washington; and Scott Seely, Galesville, Wisconsin, for "Versatile integration framework for software-as-a-service (SaaS) functionality."
+***
+IoT Enhanced Search Results
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093330 B2, initially filed April 11, 2018) developed by Abhineet Mishra, Bothell, Washington, and Venkata Kurumaddali, Hyderabad, India, for "IoT enhanced search results."
+***
+Similarity-Based Listing Recommendations in a Data Exchange
+ALEXANDRIA, Virginia, Sept. 17 -- SNOWFLAKE INC., Bozeman, Montana has been assigned a patent (No. US 12093229 B2, initially filed Feb. 22, 2023) developed by five inventors Orestis Kostakis, Redmond, Washington; Prasanna V. Krishnan, Palo Alto, California; Subramanian Muralidhar, Mercer Island, Washington; Shakhina Pulatova, San Francisco, California; and Megan Marie Schoendorf, San Francisco, California, for "Similarity-based listing recommendations in a data exchange."
+***
+Write Disturb Mitigation for Column Multiplexed Non-Linear Polar Material Based Multi-Capacitor Bit-Cell
+ALEXANDRIA, Virginia, Sept. 17 -- KEPLER COMPUTING INC., San Francisco, California has been assigned a patent (No. US 12094511 B1, initially filed June 6, 2022) developed by seven inventors Rajeev Kumar Dokania, Beaverton, Oregon; Mustansir Yunus Mukadam, Seattle, Washington; Tanay Gosavi, Portland, Oregon; James David Clarkson, El Sobrante, California; Neal Reynolds, Bremerton, Washington; Amrita Mathuriya, Portland, Oregon; and Sasikanth Manipatruni, Portland, Oregon, for "Write disturb mitigation for column multiplexed non-linear polar material based multi-capacitor bit-cell."
+***
+Platform System for Securing a Wheelchair in Position Within an Internal Cabin of a Vehicle
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12090097 B2, initially filed Jan. 31, 2023) developed by five inventors Cynthia Vandewall, Snohomish, Washington; Jared Bowen, Lynnwood, Washington; Alejandro Lozano Robledo, Cincinnati, Ohio; Juan Sebastian Ramirez Loaiza, Cincinnati, Ohio; and Luke Hart, Hebron, Kentucky, for "Platform system for securing a wheelchair in position within an internal cabin of a vehicle."
+***
+Display Screen With Graphical User Interface
+ALEXANDRIA, Virginia, Sept. 17 -- An inventor from Sammamish, Washington, Rishender Taneja has been awarded a design patent (No. US D1042509 S1, initially filed Jan. 12, 2022) for "Display screen with graphical user interface."
+***
+On-Screen Markers for Out-Of-Plane Needle Guidance
+ALEXANDRIA, Virginia, Sept. 17 -- FUJIFILM SONOSITE, INC., Bothell, Washington has been assigned a patent (No. US 12089986 B2, initially filed July 12, 2023) developed by three inventors Wendy Swan, Lake Forest Park, Washington; Keith Williams, Seattle, Washington; and Andrew Lundberg, Woodinville, Washington, for "On-screen markers for out-of-plane needle guidance."
+***
+Contaminant Resistant Product Packaging
+ALEXANDRIA, Virginia, Sept. 17 -- Two inventors, Charlotte C. Squires, Spokane Valley, Washington, and Cole Gunderson, Mapleton, Utah, have been awarded a patent (No. US 12091231 B1, initially filed Oct. 31, 2023) for "Contaminant resistant product packaging."
+***
+Systems and Methods for Augmented Reality
+ALEXANDRIA, Virginia, Sept. 17 -- MAGIC LEAP, INC., Plantation, Florida has been assigned a patent (No. US 12092817 B2, initially filed May 12, 2021) developed by Brian T. Schowengerdt, Seattle, Washington, and Mathew D. Watson, Bellevue, Washington, for "Systems and methods for augmented reality."
+***
+Security for Network Slicing in a Communication System
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE USA, INC., Bellevue, Washington has been assigned a patent (No. US 12096218 B2, initially filed March 23, 2020) developed by three inventors Ahmad Arash Obaidi, Sammamish, Washington; Christopher Joul, Bellevue, Washington; and Jean-Luc Bouthemy, Sammamish, Washington, for "Security for network slicing in a communication system."
+***
+Utilizing a Graph Neural Network to Generate Visualization and Attribute Recommendations
+ALEXANDRIA, Virginia, Sept. 17 -- ADOBE INC., San Jose, California has been assigned a patent (No. US 12093322 B2, initially filed March 15, 2022) developed by eight inventors Fayokemi Ojo, Baltimore, Maryland; Ryan Rossi, Santa Clara, California; Jane Hoffswell, Seattle, Washington; Shunan Guo, San Jose, California; Fan Du, Milpitas, California; Sungchul Kim, San Jose, California; Chang Xiao, Sunnyvale, California; and Eunyee Koh, San Jose, California, for "Utilizing a graph neural network to generate visualization and attribute recommendations."
+***
+Systems and Methods for Partitioning Video Blocks for Video Coding
+ALEXANDRIA, Virginia, Sept. 17 -- SHARP KABUSHIKI KAISHA, Sakai, Japan has been assigned a patent (No. US 12095991 B2, initially filed June 15, 2023) developed by five inventors Weijia Zhu, Vancouver, Washington; Christopher Andrew Segall, Vancouver, Washington; Kiran Mukesh Misra, Vancouver, Washington; Jie Zhao, Vancouver, Washington; and Michael Horowitz, Vancouver, Washington, for "Systems and methods for partitioning video blocks for video coding."
+***
+Customer Service Representative Dashboard With Micro-Applications
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE USA, INC., Bellevue, Washington has been assigned a patent (No. US 12093966 B2, initially filed Jan. 14, 2020) developed by six inventors Tanmaya Gaur, Kirkland, Washington; Kevin Lau, Issaquah, Washington; Valeri Reeves, Johns Creek, Georgia; Shashank Reddy Anugu, Bellevue, Washington; Sreenivasulu Thimmanapalli, Cumming, Georgia; and Gregory Wright, Marietta, Georgia, for "Customer service representative dashboard with micro-applications."
+***
+Protective Coatings for Concrete
+ALEXANDRIA, Virginia, Sept. 17 -- ZIRCONIA INC., Tukwila, Washington has been assigned a patent (No. US 12091369 B2, initially filed May 8, 2020) developed by Balamuralee Venkatesalu Balaguru, Seattle, Washington, and Benjamin Theodore Cook, Seattle, Washington, for "Protective coatings for concrete."
+***
+Grasping Virtual Objects With Real Hands for Extended Reality
+ALEXANDRIA, Virginia, Sept. 17 -- SNAP INC., Santa Monica, California has been assigned a patent (No. US 12093443 B1, initially filed Oct. 30, 2023) developed by Gurunandan Krishnan Gorumkonda, Kirkland, Washington, and Supreeth Narasimhaswamy, East Setauket, New York, for "Grasping virtual objects with real hands for extended reality."
+***
+Scanning Charged-Particle-Beam Microscopy With Energy-Dispersive X-Ray Spectroscopy
+ALEXANDRIA, Virginia, Sept. 17 -- MOCHII, INC., Seattle, Washington has been assigned a patent (No. US 12094684 B1, initially filed Aug. 5, 2019) developed by Christopher Su-Yan Own, Seattle, Washington, and Matthew Francis Murfitt, Seattle, Washington, for "Scanning charged-particle-beam microscopy with energy-dispersive x-ray spectroscopy."
+***
+Background Process for Importing Real-World Activity Data Into a Location-Based Game
+ALEXANDRIA, Virginia, Sept. 17 -- NIANTIC, INC., San Francisco, California has been assigned a patent (No. US 12090408 B2, initially filed April 12, 2021) developed by ten inventors Paul M. Franceus, San Francisco, California; Daphne Alesia Larose, El Cerrito, California; Ethan Jacob Chan, San Francisco, California; Joshua Y. Tang, San Francisco, California; Sang-Min Park, Sammamish, Washington; Yuegang Mao, Auburn, Washington; Rowan Rebholz Meara, Seattle, Washington; Laura Mae Warner, Bellevue, Washington; Matthew Kiichi Slemon, Redmond, Washington; and James William Otermat, San Leandro, California, for "Background process for importing real-world activity data into a location-based game."
+***
+Coffee Press
+ALEXANDRIA, Virginia, Sept. 17 -- STARBUCKS CORPORATION, Seattle, Washington has been assigned a design patent (No. US D1041989 S1, initially filed June 8, 2022) developed by Lovina Hsin-I Hua, Bellevue, Washington, for "Coffee press."
+***
+Distributed Generation of Addendum Part Data for a Segment Stored via a Database System
+ALEXANDRIA, Virginia, Sept. 17 -- OCIENT HOLDINGS LLC, Chicago, Illinois has been assigned a patent (No. US 12093231 B1, initially filed Aug. 28, 2023) developed by nine inventors George Kondiles, Chicago, Illinois; Andrew Michael Bass, Carmel, Indiana; Andrew Park, St. Charles, Illinois; Finley Jordan Lau, Chicago, Illinois; Alyssa Catherine Wagenmaker, Chicago, Illinois; Pieter Charles Jas Svenson, Seattle, Washington; Kevin Garner, League City, Texas; Susmita Saha, Chicago, Illinois; and Pavel Yusim, Chicago, Illinois, for "Distributed generation of addendum part data for a segment stored via a database system."
+***
+Detergent Sheets Comprising Activated Charcoal With Enhanced Cleaning and Stain Removal Efficacy
+ALEXANDRIA, Virginia, Sept. 17 -- VENUS LABORATORIES, INC., Cypress, California has been assigned a patent (No. US 12091639 B1, initially filed Jan. 17, 2024) developed by five inventors Jenna L. Arkin, Long Beach, California; Ryan K. Hood, Huntington Beach, California; Johanna Sandoval, Ontario, California; Marlene Raigoza, Montebello, California; and James W. Davis, Lacey, Washington, for "Detergent sheets comprising activated charcoal with enhanced cleaning and stain removal efficacy."
+***
+Systems and Methods for Manufacturing Aircraft
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12091196 B2, initially filed Dec. 6, 2022) developed by three inventors Jeremy Justice, Mill Creek, Washington; Daniel Richard Smith, Jr., Woodinville, Washington; and Darrell Darwin Jones, Mill Creek, Washington, for "Systems and methods for manufacturing aircraft."
+***
+Techniques for Simultaneously Accessing Multiple Isolated Systems While Maintaining Security Boundaries
+ALEXANDRIA, Virginia, Sept. 17 -- ORACLE INTERNATIONAL CORPORATION, Redwood Shores, California has been assigned a patent (No. US 12095755 B1, initially filed Oct. 6, 2023) developed by four inventors Danne Lauren Stayskal, Eastsound, California; Vladimir Cabildo, Kirkland, Washington; Jorge Enrique Reyes Salas, Kenmore, Washington; and Alaa Shaker, Seattle, Washington, for "Techniques for simultaneously accessing multiple isolated systems while maintaining security boundaries."
+***
+Scanning Display With Eye-Tracking
+ALEXANDRIA, Virginia, Sept. 17 -- META PLATFORMS TECHNOLOGIES, LLC, Menlo Park, California has been assigned a patent (No. US 12093450 B2, initially filed Oct. 25, 2022) developed by five inventors Mohamed Tarek Ahmed El-Haddad, Redmond, Washington; Babak Amirsolaimani, Redmond, Washington; Francesco Larocca, Kirkland, Washington; Yang Yang, Redmond, Washington; and Junjie Hu, Bellevue, Washington, for "Scanning display with eye-tracking."
+***
+Massively Parallel Compilation of Application Code
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12093669 B1, initially filed March 9, 2021) developed by four inventors Troy Aaron Johnson, Eagan, Minnesota; Stephen Markus Sachs, Berlin, Germany; Pate Motter, Seattle, Washington; and Luiz Antonio DeRose, Rosemount, Minnesota, for "Massively parallel compilation of application code."
+***
+Personalized HRTFs via Optical Capture
+ALEXANDRIA, Virginia, Sept. 17 -- DOLBY LABORATORIES LICENSING CORPORATION, San Francisco, California has been assigned a patent (No. US 12096200 B2, initially filed Aug. 24, 2023) developed by six inventors Mcgregor Steele Joyner, Alameda, California; Alex Brandmeyer, Berkeley, California; Scott Daly, Kalama, Washington; Jeffrey Ross Baker, Thousand Oaks, California; Andrea Fanelli, Seattle, Washington; and Poppy Anne Carrie Crum, Oakland, California, for "Personalized HRTFs via optical capture."
+***
+Large Area Group III Nitride Crystals and Substrates, Methods of Making, and Methods of Use
+ALEXANDRIA, Virginia, Sept. 17 -- SLT TECHNOLOGIES, INC., Los Angeles, California has been assigned a patent (No. US 12091771 B2, initially filed Feb. 10, 2021) developed by Drew W. Cardwell, Camas, Washington, and Mark P. D'Evelyn, Vancouver, Washington, for "Large area group III nitride crystals and substrates, methods of making, and methods of use."
+***
+Edge Computing Units for Operating Conversational Tools at Local Sites
+ALEXANDRIA, Virginia, Sept. 17 -- ARMADA SYSTEMS, INC., San Francisco, California has been assigned a patent (No. US 12093294 B1, initially filed March 21, 2024) developed by Venkata Bhanu Teja Pallakonda, Bryan, Texas, and Pragyana K. Mishra, Seattle, Washington, for "Edge computing units for operating conversational tools at local sites."
+***
+Computer-Generated Macros and Voice Invocation Techniques
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093703 B2, initially filed March 10, 2021) developed by three inventors Elnaz Nouri, Seattle, Washington; Carlos Toxtli Hernandez, Morgantown, West Virginia; and Ryen W. White, Woodinville, Washington, for "Computer-generated macros and voice invocation techniques."
+***
+External Quiesce of a Core in a Multi-Core System
+ALEXANDRIA, Virginia, Sept. 17 -- AMPERE COMPUTING LLC, Santa Clara, California has been assigned a patent (No. US 12093212 B2, initially filed Sept. 15, 2022) developed by three inventors Neerbhee Verma, Vancouver, Washington; Gerardo Fernandez, Beaverton, Oregon; and Harb Abdulhamid, Raleigh, North Carolina, for "External quiesce of a core in a multi-core system."
+***
+Actively Controlled Surfaces
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12091160 B2, initially filed Aug. 10, 2022) developed by four inventors Joshua Benjamin Guerry, Daniel Island, South Carolina; Peter Aaron Koch, Kent, Washington; Li Chun Chang, Mt. Pleasant, South Carolina; and Robert Hans Thim, Woodinville, Washington, for "Actively controlled surfaces."
+***
+Disturbed Systems Impact Evaluation and Operation Test Generation
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12093244 B1, initially filed May 11, 2023) developed by Jessica Lain Winkelman, Edmonds, Washington, for "Disturbed systems impact evaluation and operation test generation."
+***
+Computerized Control and Navigation of a Robotic Surgical Apparatus
+ALEXANDRIA, Virginia, Sept. 17 -- IX INNOVATION LLC, Seattle, Washington has been assigned a patent (No. US 12089905 B1, initially filed May 22, 2023) developed by five inventors Jeffrey Roh, Seattle, Washington; Justin Esterberg, Mesa, Arizona; John Cronin, Jericho, Vermont; Seth Cronin, Essex Junction, Vermont; and Michael John Baker, Georgia, Vermont, for "Computerized control and navigation of a robotic surgical apparatus."
+***
+Heat Transfer Apparatus for a Computer Environment
+ALEXANDRIA, Virginia, Sept. 17 -- INTEL CORPORATION, Santa Clara, California has been assigned a patent (No. US 12093092 B2, initially filed Jan. 4, 2022) developed by Devdatta P. Kulkarni, Olympia, Washington, and Timothy G. Hanna, Olympia, Washington, for "Heat transfer apparatus for a computer environment."
+***
+Air / Waste Water Separator
+ALEXANDRIA, Virginia, Sept. 17 -- MAG AEROSPACE INDUSTRIES, LLC, Carson, California has been assigned a patent (No. US 12090434 B2, initially filed April 19, 2022) developed by Deborah Anne Osborne, Redondo Beach, California, and Christoph Goeschel, Seattle, Washington, for "Air / waste water separator."
+***
+Frequency Band Selection for Integrated Access and Backhaul (IAB) in Wireless Communication Networks
+ALEXANDRIA, Virginia, Sept. 17 -- T-MOBILE INNOVATIONS LLC, Overland Park, Kansas has been assigned a patent (No. US 12096402 B2, initially filed Dec. 27, 2021) developed by David Charles Jones, Bellevue, Washington, for "Frequency band selection for integrated access and backhaul (IAB) in wireless communication networks."
+***
+Coordinated Dispatching of Autonomous Vehicle Fleet
+ALEXANDRIA, Virginia, Sept. 17 -- GM CRUISE HOLDINGS LLC, San Francisco, California has been assigned a patent (No. US 12094345 B2, initially filed March 30, 2023) developed by four inventors Jeffrey Brandon, Phoenix, Arizona; Alexander Willem Gerrese, San Francisco, California; Yifei Zhang, San Francisco, California; and Jeremy Stephen Juel, Seattle, Washington, for "Coordinated dispatching of autonomous vehicle fleet."
+***
+Bispecific Chimeric Antigen Receptors, Encoding Polynucleotides and Use of Receptors Thereof to Treat Cancer
+ALEXANDRIA, Virginia, Sept. 17 -- SEATTLE CHILDREN'S HOSPITAL, Seattle, Washington has been assigned a patent (No. US 12091459 B2, initially filed Jan. 31, 2023) developed by Michael Jensen, Bainbridge, Washington, for "Bispecific chimeric antigen receptors, encoding polynucleotides and use of receptors thereof to treat cancer."
+***
+Multi-Vehicle Transport Trailer
+ALEXANDRIA, Virginia, Sept. 17 -- BCL ROADRUNNER LLC, Airway Heights, Washington has been assigned a patent (No. US 12090909 B2, initially filed Feb. 5, 2021) developed by James Bradford Martin, Nine Mile Falls, Washington, and Kurt Warren Hankins, Brookfield, Missouri, for "Multi-vehicle transport trailer."
+***
+Optimizing Network Provisioning Through Cooperation
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12095610 B2, initially filed Feb. 17, 2022) developed by eight inventors Ranjita Bhagwan, Bangalore, India; Harsha Sharma, Bangalore, India; Parth Dhaval Thakkar, Champaign, Illinois; Sagar Bharadwaj Kalasibail Seetharam, Pittsburgh, Pennsylvania; Venkata N. Padmanabhan, Bangalore, India; Kathleen Voelbel, Bellevue, Washington; Vijay Rajeshkumar, Bothell, Washington; and Yogesh Bansal, Sammamish, Washington, for "Optimizing network provisioning through cooperation."
+***
+Multi-Pivot Timing Chain With Link Flexures
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12092151 B2, initially filed June 17, 2022) developed by James Trzaskos, Kirkland, Washington, for "Multi-pivot timing chain with link flexures."
+***
+Audio System for Spatializing Virtual Sound Sources
+ALEXANDRIA, Virginia, Sept. 17 -- META PLATFORMS TECHNOLOGIES, LLC, Menlo Park, California has been assigned a patent (No. US 12094487 B2, initially filed Sept. 21, 2021) developed by Pablo Francisco Faundez Hoffmann, Kenmore, Washington, and Peter Harty Dodds, Seattle, Washington, for "Audio system for spatializing virtual sound sources."
+***
+Systems/Methods of Carrier Aggregation Responsive to a Size of Data to Be Transmitted
+ALEXANDRIA, Virginia, Sept. 17 -- Two inventors, Peter D. Karabinis, Cary, North Carolina, and Dimitrios P. Karabinis, Edmonds, Washington, have been awarded a patent (No. US 12096345 B2, initially filed Aug. 2, 2023) for "Systems/methods of carrier aggregation responsive to a size of data to be transmitted."
+***
+IoT Event Detector Correctness Verification
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12093160 B1, initially filed Dec. 6, 2021) developed by thirteen inventors Vaibhav Bhushan Sharma, Cupertino, California; Andrew Jude Gacek, Maple Grove, Minnesota; Michael William Whalen, Edina, Minnesota; Saswat Padhi, Cambridge, Massachusetts; Andrew Apicelli, Seattle, Washington; Raveesh Yadav, Redmond, Washington; Samuel Bayless, Seattle, Washington; Roman Pruzhanskiy, Kent, Washington; Rajat Gupta, Seattle, Washington; Harshil Rajeshkumar Shah, Seattle, Washington; Fernando Dias Pauer, Lynnwood, Washington; Ankush Das, San Jose, California; and Dhivashini Jaganathan, Seattle, Washington, for "IoT event detector correctness verification."
+***
+Dynamically Generating and Updating Multipliers for a Transportation Matching System Using Machine Learning
+ALEXANDRIA, Virginia, Sept. 17 -- LYFT, INC., San Francisco, California has been assigned a patent (No. US 12094024 B1, initially filed Sept. 18, 2023) developed by six inventors Ricky Chachra, San Francisco, California; Tzu-Hsin Chiao, Seattle, Washington; Ashivni Shekhawat, Emeryville, California; Christopher Sholley, San Francisco, California; Jerome Hong-Phat Thai, Berkeley, California; and Adriel Frederick, Berkeley, California, for "Dynamically generating and updating multipliers for a transportation matching system using machine learning."
+***
+Managed Remediation of Non-Compliant Resources
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12095621 B2, initially filed Dec. 3, 2021) developed by six inventors Boo Boon Khoo, Bellevue, Washington; Lisa A. Winn, Seattle, Washington; Archana Sridhar Mungara, Hillsboro, Oregon; Dennis Ono Tjandra, Seattle, Washington; Thomas Smith, Rapid City, South Dakota; and Jamie Layne White, Seattle, Washington, for "Managed remediation of non-compliant resources."
+***
+Methods for Calibrating Offset of Optical Center Using Kinematic Mount
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12094170 B2, initially filed Nov. 21, 2022) developed by three inventors Michael C. Lin, Kirkland, Washington; Rhishikesh A. Sathe, Bothell, Washington; and Karlton David Powell, Lake Stevens, Washington, for "Methods for calibrating offset of optical center using kinematic mount."
+***
+Automatic Multi-Objective Hardware Optimization for Processing of Deep Learning Networks
+ALEXANDRIA, Virginia, Sept. 17 -- INTEL CORPORATION, Santa Clara, California has been assigned a patent (No. US 12093836 B2, initially filed Dec. 21, 2020) developed by seven inventors Mattias Marder, Haifa, Israel; Estelle Aflalo, Tel Aviv, Israel; Avrech Ben-David, Haifa, Israel; Shauharda Khadka, Lake Forest, Washington; Somdeb Majumdar, Mission Viejo, California; Santiago Miret, Oakland, California; and Hanlin Tang, San Francisco, California, for "Automatic multi-objective hardware optimization for processing of deep learning networks."
+***
+Patient Monitoring and Treatment Systems and Methods
+ALEXANDRIA, Virginia, Sept. 17 -- STRYKER CORPORATION, Portage, Michigan has been assigned a patent (No. US 12089985 B2, initially filed June 20, 2018) developed by four inventors Clinton T. Siedenburg, Everett, Washington; Arthur T. Lounsbery, Woodinville, Washington; Mitchell A. Smith, Sammamish, Washington; and Robert G. Walker, Seattle, Washington, for "Patient monitoring and treatment systems and methods."
+***
+Wheel Hub With Integrated Circular Brake Element
+ALEXANDRIA, Virginia, Sept. 17 -- CONSOLIDATED METCO, INC., Vancouver, Washington has been assigned a patent (No. US 12090781 B2, initially filed Aug. 4, 2020) developed by Taylor Moore, Vancouver, Washington, and Frank Severini, Portland, Oregon, for "Wheel hub with integrated circular brake element."
+***
+Footwear Insert Formed From a Composite Assembly Having Anti-Puncture and Anisotropic Properties
+ALEXANDRIA, Virginia, Sept. 17 -- CARBITEX, INC., Kennewick, Washington has been assigned a patent (No. US 12089697 B2, initially filed Aug. 10, 2021) developed by three inventors Arjun Shanker, Richland, Washington; Scott Calvin Woolley, Kennewick, Washington; and Tyler Ross Carpenter, Richland, Washington, for "Footwear insert formed from a composite assembly having anti-puncture and anisotropic properties."
+***
+Ultrasound Transmitter With Low Distortion and Concurrent Receive
+ALEXANDRIA, Virginia, Sept. 17 -- VERASONICS, INC., Kirkland, Washington has been assigned a patent (No. US 12089991 B2, initially filed May 18, 2022) developed by three inventors Laurence C. Brasfield, Pittsburgh, Pennsylvania; John A. Flynn, Seattle, Washington; and Ronald E. Daigle, Redmond, Washington, for "Ultrasound transmitter with low distortion and concurrent receive."
+***
+Method of Displaying Two Adjacent Photos on a Split Screen Digital Picture Frame
+ALEXANDRIA, Virginia, Sept. 17 -- AURA HOME, INC., San Francisco, California has been assigned a patent (No. US 12093303 B2, initially filed April 26, 2023) developed by seven inventors Ophir Frieder, Chevy Chase, Maryland; Abdur Chowdhury, San Francisco, California; Eric Jensen, Brooklyn, New York; Ben Cherry, San Francisco, California; Richard Sanford, Seattle, Washington; Alek Kolcz, Issaquah, Washington; and Prooshat Saberi, San Francisco, California, for "Method of displaying two adjacent photos on a split screen digital picture frame."
+***
+Powerline Communications for Lighting Systems
+ALEXANDRIA, Virginia, Sept. 17 -- SEALITE USA LLC, Tilton, New Hampshire has been assigned a patent (No. US 12096536 B2, initially filed Feb. 2, 2022) developed by three inventors Doug Donaldson, Kenmore, Washington; David Mark Shemwell, Newcastle, Washington; and Josh Putaansuu, Penacook, New Hampshire, for "Powerline communications for lighting systems."
+***
+Rules-Based Processing of Structured Data
+ALEXANDRIA, Virginia, Sept. 17 -- MANAGED HEALTH CARE ASSOCIATES, INC., Florham Park, New Jersey has been assigned a patent (No. US 12094588 B1, initially filed Oct. 30, 2020) developed by ten inventors Thomas J. Hermey, Boonton, New Jersey; Tillman E. Johnson, Chapin, South Carolina; Jhanvika Thakkar, Bridgewater, New Jersey; Timothy R. Tannert, Gibsonia, Pennsylvania; Shantanu V. Bhide, Sewickley, Pennsylvania; Shirin Vinayak, Short Hills, New Jersey; Glen R. McCloskey, Springfield Township, New Jersey; Neelanjana Panda, Jersey City, New Jersey; Milind Deodhar, Parsippany, New Jersey; and Rene' Charlene Bloemke, Woodland, Washington, for "Rules-based processing of structured data."
+***
+In-Memory Normalization of Cached Objects to Reduce Cache Memory Footprint
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093178 B2, initially filed June 28, 2023) developed by Subrata Biswas, Issaquah, Washington, for "In-memory normalization of cached objects to reduce cache memory footprint."
+***
+Generating Customized Products in Collaboration With Live Designers and Agents
+ALEXANDRIA, Virginia, Sept. 17 -- ZAZZLE INC., Menlo Park, California has been assigned a patent (No. US 12095834 B2, initially filed Oct. 6, 2023) developed by seven inventors Robert I. Beaver, III, San Francisco, California; Jeffrey J. Beaver, San Francisco, California; Sean Narvasa, Oakland, California; Leslie Young Harvill, Olympia, Washington; Petar S. Ivanov, Redwood City, California; Parker H. Bossier, New York, New York; and Christopher Collette, Los Altos, California, for "Generating customized products in collaboration with live designers and agents."
+***
+Patterned Anisotropic Films and Optical Elements Therewith
+ALEXANDRIA, Virginia, Sept. 17 -- META PLATFORMS TECHNOLOGIES, LLC, Menlo Park, California has been assigned a patent (No. US 12092850 B2, initially filed Oct. 16, 2020) developed by eight inventors Lu Lu, Kirkland, Washington; Xiayu Feng, Kent, Ohio; Mengfei Wang, Seattle, Washington; Hao Yu, Kent, Ohio; Ryan Li, Woodinville, Washington; Yun-Han Lee, Redmond, Washington; Junren Wang, Redmond, Washington; and Barry David Silverstein, Kirkland, Washington, for "Patterned anisotropic films and optical elements therewith."
+***
+Systems and Methods for Performing Binary Arithmetic Coding in Video Coding
+ALEXANDRIA, Virginia, Sept. 17 -- FG INNOVATION COMPANY LIMITED, Tuen Mun, Hong Kong has been assigned a patent (No. US 12095996 B2, initially filed Sept. 19, 2022) developed by Frank Bossen, Vancouver, Washington, for "Systems and methods for performing binary arithmetic coding in video coding."
+***
+Remote Diagnostic Testing and Treatment
+ALEXANDRIA, Virginia, Sept. 17 -- EMED LABS, LLC, Miami, Florida has been assigned a patent (No. US 12094606 B2, initially filed Oct. 23, 2023) developed by nine inventors Michael W. Ferro, Jr., Palm Beach, Florida; Sam Miller, Hollywood, Florida; Colman Thomas Bryant, Fort Lauderdale, Florida; Zachary Carl Nienstedt, Wilton Manors, Florida; Marco Magistri, Miami, Florida; Adam Charles Carlson, Miami, Florida; Igor Javier Rodriguez, Miami, Florida; James Thomas Heising, Richland, Washington; and John Ray Permenter, Miami, Florida, for "Remote diagnostic testing and treatment."
+***
+Systems and Methods for Structured Light Depth Computation Using Single Photon Avalanche Diodes
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12096145 B2, initially filed April 12, 2023) developed by three inventors Raymond Kirk Price, Carnation, Washington; Michael Bleyer, Seattle, Washington; and Christopher Douglas Edmonds, Carnation, Washington, for "Systems and methods for structured light depth computation using single photon avalanche diodes."
+***
+Online Index Creation for Multi-Version Database Without Table Locks
+ALEXANDRIA, Virginia, Sept. 17 -- SNOWFLAKE INC., Bozeman, Montana has been assigned a patent (No. US 12093248 B1, initially filed May 8, 2023) developed by six inventors Cristian Diaconu, Kirkland, Washington; Nikolaos Romanos Katsipoulakis, Redwood City, California; Alexander Miller, San Mateo, California; Dimitrios Tsirogiannis, Belmont, California; William Waddington, Stateline, Nevada; and Zhaohui Zhang, Redwood City, California, for "Online index creation for multi-version database without table locks."
+***
+Perspective-Dependent Display of Surrounding Environment
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12095978 B2, initially filed March 22, 2022) developed by three inventors Raymond Kirk Price, Redmond, Washington; Michael Bleyer, Seattle, Washington; and Christopher Douglas Edmonds, Carnation, Washington, for "Perspective-dependent display of surrounding environment."
+***
+Inflatable Device
+ALEXANDRIA, Virginia, Sept. 17 -- FUNBOY, LLC, Seattle, Washington has been assigned a design patent (No. US D1042705 S1, initially filed March 2, 2023) developed by Blake Miller Barrett, Seattle, Washington, and Maxwell Page Barrett, Seattle, Washington, for "Inflatable device."
+***
+Transmit Side of Low Voltage Drive Circuit (LVDC) With Non-Sync Data Channels
+ALEXANDRIA, Virginia, Sept. 17 -- SIGMASENSE, LLC., Austin, Texas has been assigned a patent (No. US 12093073 B2, initially filed June 14, 2023) developed by four inventors Richard Stuart Seger, Jr., Belton, Texas; Daniel Keith Van Ostrand, Leander, Texas; Gerald Dale Morrison, Redmond, Washington; and Timothy W. Markison, Mesa, Arizona, for "Transmit side of low voltage drive circuit (LVDC) with non-sync data channels."
+***
+Character Recognition on a Computing Device
+ALEXANDRIA, Virginia, Sept. 17 -- APPLE INC., Cupertino, California has been assigned a patent (No. US 12093525 B2, initially filed April 21, 2023) developed by ten inventors Joe Howard, San Jose, California; Ryan S. Dixon, Mountain View, California; Joshua McGlinn, Mooresville, North Carolina; Jonathan Lochhead, Scotts Valley, California; Benjamin W. Keighran, Palo Alto, California; William M. Bachman, San Jose, California; Elbert D. Chen, Cupertino, California; Jeffrey L. Robbin, Los Altos, California; Jennifer L. C. Folse, San Francisco, California; and Lynne Kress, Seattle, Washington, for "Character recognition on a computing device."
+***
+Classifying RF Interference Sources Using Machine Learning and Operations, Administration, and Management Data
+ALEXANDRIA, Virginia, Sept. 17 -- SPECTRUM EFFECT INC., Kirkland, Washington has been assigned a patent (No. US 12096258 B2, initially filed Dec. 8, 2021) developed by three inventors Jungnam Yun, Kirkland, Washington; Eamonn Gormley, Kirkland, Washington; and Jesus Alejandro Valdes Valdes, Saltillo, Mexico, for "Classifying RF interference sources using machine learning and operations, administration, and management data."
+***
+Neural Text-To-Speech Synthesis With Multi-Level Text Information
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12094447 B2, initially filed Dec. 13, 2018) developed by Huaiping Ming, Redmond, Washington, and Lei He, Redmond, Washington, for "Neural text-to-speech synthesis with multi-level text information."
+***
+Method, Apparatus, and Computer Program Product for Displaying Virtual Graphical Data Based on Digital Signatures
+ALEXANDRIA, Virginia, Sept. 17 -- HERE GLOBAL B.V., Eindhoven, Netherlands has been assigned a patent (No. US 12094163 B2, initially filed Feb. 3, 2023) developed by three inventors Ofer Melnik, Weehawken, New Jersey; Mark Thompson, Forest Park, Washington; and Alastair Sutherland, Seattle, Washington, for "Method, apparatus, and computer program product for displaying virtual graphical data based on digital signatures."
+***
+Port Level Policy Isolation in Overlay Networks
+ALEXANDRIA, Virginia, Sept. 17 -- TYCO FIRE & SECURITY GMBH, Neuhausen am Rheinfall, Switzerland has been assigned a patent (No. US 12095743 B2, initially filed July 7, 2023) developed by Ludwin Fuchs, Seattle, Washington, and Dustin Orion Lundquist, Vashon, Washington, for "Port level policy isolation in overlay networks."
+***
+Processor With Network Stack Domain and System Domain Using Separate Memory Regions
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093433 B2, initially filed March 13, 2023) developed by Mark Russinovich, Hunts Point, Washington, and Galen Clyde Hunt, Bellevue, Washington, for "Processor with network stack domain and system domain using separate memory regions."
+***
+Remoting Application Across a Network Using Draw Commands With an Isolator Application
+ALEXANDRIA, Virginia, Sept. 17 -- CLOUDFLARE, INC., San Francisco, California has been assigned a patent (No. US 12093429 B2, initially filed June 12, 2023) developed by six inventors Benjamin Buzbee, Woodinville, Washington; Killian Koenig, Seattle, Washington; Trevor Sundberg, Kirkland, Washington; Michael Conrad, Monroe, Washington; Darren Remington, Mesa, Arizona; and David Harnett, Seattle, Washington, for "Remoting application across a network using draw commands with an isolator application."
+***
+Method for Derivation of Picture Output for Non-Referenced Picture in Coded Video Stream
+ALEXANDRIA, Virginia, Sept. 17 -- TENCENT AMERICA LLC, Palo Alto, California has been assigned a patent (No. US 12095985 B2, initially filed May 1, 2023) developed by three inventors Byeongdoo Choi, Palo Alto, California; Shan Liu, Vancouver, Washington; and Stephan Wenger, Hillsborough, California, for "Method for derivation of picture output for non-referenced picture in coded video stream."
+***
+Data Ingestion Replication and Disaster Recovery
+ALEXANDRIA, Virginia, Sept. 17 -- SNOWFLAKE INC., Bozeman, Montana has been assigned a patent (No. US 12093152 B2, initially filed Jan. 24, 2023) developed by nine inventors Abdullah Al Mahmood, Bothell, Washington; Ruta Dhaneshwar, Redmond, Washington; Xin Huang, Bellevue, Washington; Ganeshan Ramachandran Iyer, Redmond, Washington; Jiaxing Liang, Bellevue, Washington; Nithin Mahesh, Kirkland, Washington; Raghav Ramachandran, Seattle, Washington; Purav B. Saraiya, Kirkland, Washington; and Yanyi Zhang, Bellevue, Washington, for "Data ingestion replication and disaster recovery."
+***
+Method and Apparatus for Combining Data to Construct a Floor Plan
+ALEXANDRIA, Virginia, Sept. 17 -- AI INC., Toronto, Canada has been assigned a patent (No. US 12094145 B2, initially filed Oct. 18, 2023) developed by four inventors Ali Ebrahimi Afrouzi, Henderson, Nevada; Chen Zhang, Redmond, Washington; Sebastian Schweigert, San Carlos, California; and Lukas Robinson, York, Canada, for "Method and apparatus for combining data to construct a floor plan."
+***
+Crab Fishing Trap
+ALEXANDRIA, Virginia, Sept. 17 -- An inventor from Mill Creek, Washington, Jong Lee has been awarded a patent (No. US 12089578 B1, initially filed Feb. 25, 2023) for "Crab fishing trap."
+***
+Techniques for Re-Bonding Playback Devices
+ALEXANDRIA, Virginia, Sept. 17 -- SONOS, INC., Santa Barbara, California has been assigned a patent (No. US 12093606 B2, initially filed Oct. 31, 2023) developed by four inventors Maria-Jose Ramos, Seattle, Washington; Jonathan Herbst, Seattle, Washington; Justin A. Gallo, Watertown, Massachusetts; and Ryan E. Kitson, Bay City, Oregon, for "Techniques for re-bonding playback devices."
+***
+T-Shirt With Printed Design
+ALEXANDRIA, Virginia, Sept. 17 -- An inventor from Seattle, Washington, Adam Silver has been awarded a design patent (No. US D1041797 S1, initially filed July 19, 2022) for "T-shirt with printed design."
+***
+System and Methods for Upsampling of Decompressed Genomic Data After Lossy Compression Using a Neural Network
+ALEXANDRIA, Virginia, Sept. 17 -- ATOMBEAM TECHNOLOGIES INC, Moraga, California has been assigned a patent (No. US 12095484 B1, initially filed Jan. 24, 2024) developed by three inventors Zhu Li, Overland Park, Kansas; Brian R. Galvin, Silverdale, Washington; and Paras Maharjan, Kansas City, Missouri, for "System and methods for upsampling of decompressed genomic data after lossy compression using a neural network."
+***
+Device and Method for Operating a Hybrid-Electric Propulsion System by Control of Equipment Dynamics
+ALEXANDRIA, Virginia, Sept. 17 -- THE BOEING COMPANY, Arlington, Virginia has been assigned a patent (No. US 12091180 B2, initially filed Dec. 20, 2021) developed by four inventors Raju Shankar Mattikalli, Sammamish, Washington; Hubert Wong, Huntington Beach, California; Camron R. Call, St. Charles, Missouri; and Kamiar J. Karimi, Kirkland, Washington, for "Device and method for operating a hybrid-electric propulsion system by control of equipment dynamics."
+***
+Universal Cloud Data Ingestion for Stream Processing
+ALEXANDRIA, Virginia, Sept. 17 -- LACEWORK, INC., Mountain View, California has been assigned a patent (No. US 12095794 B1, initially filed May 31, 2022) developed by eight inventors Gurunatha Karaje, Fremont, California; Helgi Sigurbjarnarson, Seattle, Washington; Jean-Philippe E. Martin, Mountain View, California; Ashwin Jayaprakash, Sunnyvale, California; Ulfar Erlingsson, Palo Alto, California; Anastasios Arvanitis, Pleasanton, California; Sai Samrat Karlapudi, Foster City, California; and Yijou Chen, Cupertino, California, for "Universal cloud data ingestion for stream processing."
+***
+Efficiently Replacing Software Breakpoint Instructions in Processor-Based Devices
+ALEXANDRIA, Virginia, Sept. 17 -- MICROSOFT TECHNOLOGY LICENSING, LLC, Redmond, Washington has been assigned a patent (No. US 12093164 B1, initially filed Feb. 24, 2023) developed by three inventors Thomas Philip Speier, Wake Forest, North Carolina; Leslie Mark Debruyne, Raleigh, North Carolina; and Pedro M. Teixeira, Kirkland, Washington, for "Efficiently replacing software breakpoint instructions in processor-based devices."
+***
+Electrocardiography Patch
+ALEXANDRIA, Virginia, Sept. 17 -- BARDY DIAGNOSTICS, INC., Bellevue, Washington has been assigned a patent (No. US 12089943 B2, initially filed April 26, 2024) developed by three inventors Jason Felix, Vashon Island, Washington; Jon Mikalson Bishay, Seattle, Washington; and Gust H. Bardy, Carnation, Washington, for "Electrocardiography patch."
+***
+System for Time Synchronization
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES, INC., Seattle, Washington has been assigned a patent (No. US 12095895 B1, initially filed Sept. 8, 2022) developed by three inventors Alexander Kanaris, San Jose, California; Berkant Tacer, Bellevue, Washington; and Carlo Murgia, Santa Clara, California, for "System for time synchronization."
+***
+In Vitro Analyte Sensor Using One or More Detector Arrays That Operate in Radio/Microwave Frequency Bands
+ALEXANDRIA, Virginia, Sept. 17 -- KNOW LABS, INC., Seattle, Washington has been assigned a patent (No. US 12092589 B1, initially filed March 11, 2021) developed by Phillip Bosua, Seattle, Washington, for "In vitro analyte sensor using one or more detector arrays that operate in radio/microwave frequency bands."
+***
+Emulating a Non-Relational Database on a Relational Database With a Distributed Data Store
+ALEXANDRIA, Virginia, Sept. 17 -- AMAZON TECHNOLOGIES,
+TARGETED NEWS SERVICE (founded 2004) features non-partisan 'edited journalism' news briefs and information for news organizations, public policy groups and individuals; as well as 'gathered' public policy information, including news releases, reports, speeches. For more information contact MYRON STRUCK, editor, editor@targetednews.com, Springfield, Virginia; 703/304-1897; https://targetednews.com
+-1757471
+
+Load-Date:September 18, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

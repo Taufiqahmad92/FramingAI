@@ -1,0 +1,85 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: 5 things to know for Oct. 8: Hurricane Milton, Immigration, Israel , Cyberattack, Marburg virus
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+5 things to know for Oct. 8: Hurricane Milton, Immigration, Israel, Cyberattack, Marburg virus
+CNN Wire
+October 8, 2024 Tuesday 10:55 AM GMT
+
+
+Copyright 2024 Cable News Network All Rights Reserved
+Length:1134 words
+Byline:By Alexandra Banner, CNN
+Dateline:(CNN) 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg$47 billion in losses for property owners. With many insurance companies raising prices or refusing to issue policies in disaster-prone areas, several families without coverage are now scrambling to find resources and assistance.
+Here's what else you need to know to Get Up to Speed and On with Your Day.
+1. Hurricane Milton
+Hurricane Milton, the planet's strongest storm this year, is expected to deliver severe impacts as it barrels toward Florida. While the storm strengthened to a Category 5 on Monday, forecasts show it will fluctuate in intensity before ultimately making landfall Wednesday as a Category 3. Milton's dangerous eye and eyewall could come ashore anywhere from Cedar Key in the north to Naples in the south, possibly in the Tampa or Fort Myers areas. More than 12 million people are under hurricane watches and warnings, and over 8 million are under tropical storm watches. Many flights in the region have been canceled and a mass exodus is occurring along roads as thousands follow mandatory evacuation orders ahead of Milton's arrival.
+2. Immigration
+Former President Donald Trump on Monday suggested undocumented immigrants who commit murder have "bad genes." Trump's dehumanizing rhetoric is another example of the former president trying to stoke fears about those in the country illegally. In a radio interview on "The Hugh Hewitt Show," Trump again distorted statistics on immigration and crime to attack Vice President Kamala Harris as he falsely claimed she was "allowing people to come through an open border, 13,000 of which were murderers." Separately, Harris discussed immigration in a wide-ranging "60 Minutes" interview that aired Monday. She maintained migration is a "long-standing problem" when asked about the Biden administration's approach to immigration policies but refused to answer whether officials should've cracked down sooner.
+3. Israel
+Israel will "continue to fight," Prime Minister Benjamin Netanyahu vowed on the anniversary of the October 7 Hamas attacks. A year into the war in Gaza, Israel's goals - including toppling Hamas, returning the hostages in Gaza to Israel, and returning Israelis displaced by fighting with Hezbollah to their homes - seem far from reach. On Monday, Israel intercepted dozens of strikes from multiple directions, including projectiles launched from Gaza and Lebanon. Meanwhile, the Israeli military has issued fresh evacuation orders to residents in Gaza as it ramps up its military operation in parts of the battered enclave. However, Palestinian residents who spoke with CNN said they fear there is no safe place to take shelter.
+4. Cyberattack
+American Water, the largest regulated water and wastewater utility company in the US, announced Monday that it was the victim of a cyberattack, prompting the firm to pause billing to customers. The New Jersey-based company - which provides services to more than 14 million people in 14 states and on 18 military installations - said it became aware of the unauthorized activity on Thursday and immediately took protective steps, including shutting down certain systems. American Water said staffers were working "around the clock" to investigate the nature and scope of the attack. The company also said customers will not face late charges while its systems are unavailable.
+5. Marburg virus
+The CDC announced Monday that health officials will soon start screening travelers from Rwanda to the US for Marburg virus. There are no confirmed cases of Marburg virus disease - a rare but deadly hemorrhagic disease similar to Ebola - outside of Rwanda, and officials have said that the current risk to the US is low. However, the Department of Health and Human Services said the CDC will begin public health entry screening next week in an effort to reduce the risk of the importation and spread of cases. As of Monday, there have been 56 confirmed cases of Marburg in Rwanda, with 36 people in isolation and treatment, and 12 deaths, according to the Ministry of Health. Many of the cases are in health care workers, the CDC says.
+BREAKFAST BROWSE
+Airline apologizes after R-rated film plays on every screen during Sydney-Tokyo flightFasten your seatbelts ... and cover your eyes? Qantas Airways issued an apology after a crew mistakenly played an explicit R-rated film on all the aircraft's screens.
+Thousands of parrots are flocking to this town in ArgentinaCNN visited an Argentine town invaded by screeching parrots. Their unwelcome arrival is ruffling feathers among residents.
+How to check your blood pressure the right wayCertain arm positions commonly used for blood pressure checks may lead to inaccurate results. Here's the right way to do it.
+Google's search dominance is unwindingGoogle maintains a huge share of American search advertising revenue but some analysts say Amazon could shake up its dominance of the market.
+Chiefs maintain unbeaten start to NFL seasonThe Kansas City Chiefs are celebrating a 5-0 start to the season after beating the New Orleans Saints on "Monday Night Football."
+IN MEMORIAM
+Cissy Houston, the two-time Grammy-winning singer and mother of Whitney Houston, died Monday while in hospice care for Alzheimer's disease. She was 91. An award-winning recording artist, Houston led a successful career over decades, recording 10 solo albums, four compilation albums, and five collaborative recordings.
+TODAY'S NUMBER
+6That's how many years a US citizen was sentenced to serve in a Russian prison for fighting for Ukraine, according to state media reports. Russian prosecutors accused the 72-year-old, originally from Michigan, of allegedly joining Ukrainian forces for monetary compensation.
+TODAY'S QUOTE
+"Although computers cannot think, machines can now mimic functions such as memory and learning. This year's laureates in physics have helped make this possible."
+- The Nobel Committee, announcing today that the 2024 Nobel Prize in physics has been awarded to John Hopfield and Geoffrey Hinton for their "foundational discoveries" in artificial intelligence. The prestigious honor, seen as the pinnacle of scientific achievement, carries a cash award of 11 million Swedish kronor ($1 million).
+TODAY'S WEATHER
+Check your local forecast here&gt;&gt;&gt;
+AND FINALLY ...
+HBO documentary may expose Bitcoin creator's secret identityDid you know that one of the richest people in the world is anonymous? Filmmaker Cullen Hoback embarked on a journey to discover who created Bitcoin, the first and most valuable cryptocurrency. Learn about the doc here. (HBO, like CNN, is owned by Warner Bros. Discovery) 
+ By Alexandra Banner, CNN 
+TM & © 2024 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+
+Load-Date:November 7, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

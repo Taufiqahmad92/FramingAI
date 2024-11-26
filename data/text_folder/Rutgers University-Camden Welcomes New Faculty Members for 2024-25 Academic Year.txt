@@ -1,0 +1,94 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Rutgers University-Camden Welcomes New Faculty Members for 2024-25 Academic Year
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Rutgers University-Camden Welcomes New Faculty Members for 2024-25 Academic Year
+Targeted News Service
+September 12, 2024 Thursday 1:17 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:1883 words
+Byline:Targeted News Service
+Dateline:CAMDEN, New Jersey 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+Rutgers University-Camden is pleased to extend a warm welcome to the 16 members of its new faculty cohort for the 2024-25 academic year. These distinguished scholars, researchers, and educators begin their Rutgers-Camden careers with high levels of attainment in their respective academic disciplines. Read below to learn more about the experience and expertise they will bring to their roles as they enter the beloved Camden community.
+Faculty of Arts and Sciences-Camden
+Naomi Fair Assistant Professor, Childhood Studies
+Naomi Fair is an assistant professor in the Department Childhood Studies. She received her doctorate from the University of Washington's College of Education. Drawing on the interdisciplinary field of disability studies and her own experiences as a former K-12 educator, her research focuses on the intersection of racism and ableism in schooling. She collaborates with teacher leaders working to disrupt this lineage of harm through transformative learning experiences, organizing, and participatory research.
+Carly Goodman Assistant Professor, History
+Carly Goodman is an assistant professor in the Department of History. Her book Dreamland: America's Immigration Lottery in an Age of Restriction received the First Book Award from the Immigration and Ethnic History Society. She serves as senior editor of Made by History at TIME Magazine, (formerly at the Washington Post) and previously served as a visiting assistant professor of history at La Salle University. She earned her doctorate in history from Temple University, and a bachelor of arts in history from Columbia University.
+Christina Jackson Assistant Professor, Sociology, Anthropology, and Criminal Justice
+Christina Jackson is an assistant professor of sociology in the Department of Sociology, Anthropology and Criminal Justice and the incoming coordinator of the Africana Studies program. She received her doctorate in sociology from the University of California, Santa Barbara and a bachelor of arts in sociology from Temple University. She completed a postdoctoral fellowship in Africana studies from Gettysburg College. Her research interests include urban sociology, spatial politics, cultural storytelling, public health, and inequality.
+Marilisa Jimenez Garcia Associate Professor, Childhood Studies
+Marilisa Jimenez Garcia is an associate professor of childhood studies. She is a specialist in Puerto Rican, Caribbean and Latinx studies. Her book Side by Side: US Empire, Puerto Rico, and the Roots of American Youth Literature and Culture won the 2023 Book Award from the Children's Literature Association. She teaches courses in U.S. studies, youth media and television, fantasy and science fiction, youth literature and social justice, and Latinx literature and media.
+Alejandro Loureiro Lorenzo Assistant Teaching Professor, Visual, Media, and Performing Arts
+Alejandro Loureiro Lorenzo is an assistant teaching professor of photography and the head of the photography program at Rutgers-Camden. His work has been exhibited internationally alongside artists such as Ai Weiwei, Huma Bhabha, and Tom Friedman. His research focuses on conceptual art and its evolution into movements such as neo-geo and the Pictures Generation, and their impact on the contemporary art market in the 21st century.
+Santanu Malakar Assistant Professor, Chemistry
+Santanu Malakar is an assistant professor in the Department of Chemistry. He received a doctorate in inorganic chemistry from Rutgers University-New Brunswick and a bachelor's degree in chemistry from the Indian Institute of Technology Bombay. His research focuses on creating viable catalytic strategies that will allow us to transition to renewable energy sources in the future. His research focuses on molecular organometallic reactions and the underlying fundamental principles through the lens of innovative computational and experimental strategies.
+Tom McAllister Assistant Teaching Professor, English and Communication
+Tom McAllister is an assistant teaching professor in the Department of English and Communication. He received a master of fine arts in fiction writing from the Iowa Writers' Workshop and a bachelor of arts degree from La Salle University. He is the author of four books, including a forthcoming essay collection and the critically acclaimed novel How to Be Safe. He is the nonfiction editor of Barrelhouse Magazine, and co-host of the long-running Book Fight podcast. His areas of interest include small press publishing, experimental nonfiction forms, literary noir, and novels in translation.
+Clinton McNair Assistant Professor, Public Policy and Administration
+Clinton McNair is an assistant professor in the Department of Public Policy and Administration. He holds a doctorate in political science from the University of Oklahoma, with a concentration on public administration and policy. In addition, he has a master of public administration from Baruch College as a National Urban Fellow, a master's degree in community development from Prairie View A&M University, and a bachelor of business administration in marketing from Lamar University. His research interests include social equity, nonprofits, disaster recovery, race, and local government.
+Longmei Shu Assistant Professor, Mathematical Sciences
+Longmei Shu is an assistant professor in the Department of Mathematical Sciences. She received a doctorate in mathematics from the Georgia Institute of Technology, a master's degree in applied mathematics, and a bachelor's degree in hydraulic engineering from Tsinghua University. She studies applied dynamical systems, local immunodeficiency, and evolutionary game theory.
+Katharine (K.J.) Winchell Assistant Teaching Professor, Chemistry
+K.J. Winchell is an assistant teaching professor in the Department of Chemistry. She received her doctoral degree in materials chemistry from the University of California, Los Angeles and her bachelor's degree from Amherst College. Her teaching practices focus on the interdisciplinary nature of chemistry and new laboratory activities for the modern chemistry student.
+School of Business-Camden
+Mark Brennan Assistant Professor, Operations Management
+Mark Brennan is an assistant professor of operations management. He works on the operational dimensions of inequality, showing how supply chains reproduce inequality, and strengthening them through applied projects, field research, and nationwide econometric studies. Focusing on the essential operations that keep people fed, housed, and healthy, he is working to broaden operation management's empirical evidence base, link ideas in supply chain and urban planning, and share this thinking in popular media including New Jersey newspapers. He earned a doctoral degree from MIT and a bachelor of arts from Johns Hopkins University.
+Thomas Fewer Assistant Professor, Strategy and Entrepreneurship
+Thomas Fewer is an assistant professor of management. He holds a doctorate in business administration with a specialization in strategic management from Drexel University, a master's degree in finance from Villanova University, and bachelor's degree in marketing from Rutgers University-Camden (SBC'15). He has written several award-winning scholarly works on public-private partnerships, public-purpose technologies, and business and politics. He is coauthor of the national bestseller Venture Meets Mission, which focuses on how entrepreneurs and government can collaborate to develop technology-based solutions to major societal challenges, including climate, health care, and food.
+Yuxiang (Sean) Zheng Assistant Professor, Accounting
+Yuxiang Zheng is an assistant professor of accounting. He holds a doctorate in business administration from the University of British Columbia, a master of science in finance and economics from the London School of Economics, and a bachelor of science in financial engineering from Wuhan University. His research interests include intangible assets, corporate social responsibility, big data, and machine learning.
+School of Nursing-Camden
+Arcilia Ortiz Director, School Nurse Certificate and MSN Program, Clinical Instructor
+As director of the school nurse certificate and master of science in nursing program at Rutgers-Camden, Arcilia M. Ortiz leads the education of future nursing professionals while also serving as a clinical instructor. Certified as a school nurse and sexual assault nurse examiner (SANE), her experience spans emergency room care, home health care, and community health education. A Camden native, she is passionate about implementing innovative solutions to address current challenges in health care accessibility and patient education within the community.
+Rutgers Law School
+Jessica Frisina Assistant Professor
+Jessica Frisina is an assistant professor of law. She holds a juris doctor from Harvard Law School and a bachelor of arts from Harvard College. Her research interests include police-citizen encounters, the treatment of youth in the criminal legal system, and the ethics of criminal practice. Prior to entering academia, she spent a decade in criminal defense, serving as a public defender at the New Jersey Office of the Public Defender (NJOPD), and as a youth defender, education advocate, and Equal Justice Works Fellow at the Michigan Children's Law Center in Detroit.
+Camilla Hrdy Associate Professor
+Camilla Hrdy joins the faculty as an associate professor of law. Professor Hrdy holds a juris doctor from Berkeley Law, a master of philosophy in history and philosophy of science and medicine from the University of Cambridge, and a bachelor of arts degree from Harvard University. Her primary teaching areas are intellectual property, trademarks, trade secrets, patents, contracts, and civil procedure. Her articles have appeared in over twenty law reviews, including Yale Law Journal and Stanford Law Review. She clerked for U.S. District Judge Janis Graham Jack in the Southern District of Texas.
+* * *
+About Rutgers-Camden
+Part of the Rutgers University system since 1950, Rutgers-Camden is home to more than 5,500 students and 700 faculty members. Just across the Delaware River from Philadelphia, the university offers the Rutgers experience, tradition, and prestige in a community-focused, close-knit environment.
+Rutgers-Camden holds the prestigious R2 designation for high levels of research activity and was named a Minority-Serving institution by the U.S. Department of Education. In addition to the College of Arts & Science, the university's vibrant urban campus houses the Rutgers Law School-Camden, Rutgers School of Nursing-Camden, and Rutgers School of Business-Camden.
+With over 55,000 alumni across all 50 states and six continents, Rutgers-Camden is a leading driver of educational opportunity and community engagement throughout the South Jersey and Delaware Valley regions. With a focus on serving area students and a vast network of world-renowned faculty and alumni, Rutgers-Camden is uniquely positioned to elevate the research, scholarship, and professional success of faculty and students.
+* * *
+Original text here: https://stories.camden.rutgers.edu/2024-25-new-faculty-members/index.html?_gl=1*400ra9*_gcl_au*MTM0ODg1MzU0MS4xNzI0MzE4MzIz
+Copyright Targeted News Services
+T40-MgEditor-8819493 T40-MgEditor
+
+Load-Date:September 21, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

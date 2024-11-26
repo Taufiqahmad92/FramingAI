@@ -1,0 +1,79 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Verizon Frontline survey: Network reliability, 5G, cybersecurity, top of mind for first responders
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Verizon Frontline survey: Network reliability, 5G, cybersecurity, top of mind for first responders
+GlobeNewswire
+September 17, 2024 Tuesday 5:00 AM PT
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7618 by 2434, depth 1
+pict002.png
+Section:RESEARCH ANALYSIS AND REPORTS
+Length:832 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+        
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+        
+A majority of first responders (66%) see 5G as a top priority or important
+        
+75% believed AI would be anywhere from somewhat important to a top priority for public safety agencies in the future
+BASKING RIDGE, N.J., Sept. 17, 2024 (GLOBE NEWSWIRE) -- Verizon Frontline today revealed the findings of a survey of nearly 1,700 public safety professionals from emergency medical services, fire and police departments, and emergency management agencies, including public safety answering points and emergency call centers.
+Now in its fourth year, the Verizon Frontline Public Safety Communications Survey, commissioned by Verizon Frontline and conducted by Lexipol, asked respondents about their current and future technology use, network connectivity and 5G, emergency preparedness, cybersecurity, and outlook on how 5G and advances in communications technology may impact their work in the field.
+The findings reflect first responders current priorities and their expectations for the future with regard to network connectivity, devices and other technologies, and the evolution of emergency response.
+Every day, for more than three decades, weve been working hand-in-hand with first responders and public safety agencies on the front lines so we can continue to meet their highly unique mission-critical communications needs, said Massimo Peselli, Chief Revenue Officer, Global Enterprise and Public Sector for Verizon Business. Each year, this survey provides us with another way to hear from public safety professionals across the nation and offers deeper insight into the ever-evolving technological requirements of those who sacrifice so much to protect our communities.
+The Results:
+Reliability and readiness growing in importance
+In terms of communications needs today, public safety professionals placed reliability at the top of the list. In fact, 65% of respondents stated that a reliable and resilient network was their top priority, up from 51% from last year. Additionally, almost a third of respondents (30%) cited reliability as the most important benefit of 5G connectivity.
+Natural disasters and the threat of cyberattacks remain a real concern for public safety professionals but this years survey results indicated diminished confidence in preparedness for both. As opposed to 2022, in which 69% of respondents felt prepared from a technology standpoint in the face of a natural disaster, this year that number decreased to 60%.
+From a cybersecurity perspective, a similar increase in concern can be seen. More than a third (34%) of respondents this year felt somewhat unprepared or neutral about preparedness for a cyberattack. Two years ago, only a quarter of respondents felt this way.
+First responders are embracing advances in communications tech 
+The survey data indicated that public safety usage of AI or smart solutions is far from achieving critical mass, with only a small percentage (14%) of public safety agencies reporting using AI or smart solutions today. There is, however, growing excitement on the role these technologies will play in shaping the future of the industry.
+In fact, 75% of respondents believe that AI and smart solutions will be important or even a top priority in the future. As far as how they felt they would benefit from this technology, public safety professionals named optimizing resource allocation (24%), enhancing situational awareness (23%) and improving early warning systems (20%) as the most valuable uses of AI.
+Additionally, even as deployables like portable satellite assets or cells on wheels (COWs) are gaining widespread adoption during emergency response operations, respondents see these assets only growing in importance. In fact, while 64% of respondents stated that deployable assets are important to the work they do today, 86% stated that they will become either important or a top priority in the future for public safety professionals.
+To see the full results of the Verizon Frontline Public Safety Communications Survey, click here.
+Verizon Communications Inc. (NYSE, Nasdaq: VZ) powers and empowers how its millions of customers live, work and play, delivering on their demand for mobility, reliable network connectivity and security. Headquartered in New York City, serving countries worldwide and nearly all of the Fortune 500, Verizon generated revenues of $134.0 billion in 2023. Verizons world-class team never stops innovating to meet customers where they are today and equip them for the needs of tomorrow. For more, visit verizon.com or find a retail location at verizon.com/stores.
+VERIZONS ONLINE MEDIA CENTER: News releases, stories, media contacts and other resources are available at verizon.com/news. News releases are also available through an RSS feed. To subscribe, visit www.verizon.com/about/rss-feeds/.
+Media contact: Eric Durieeric.durie@verizon.com 516-382-8219
+
+Load-Date:September 17, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

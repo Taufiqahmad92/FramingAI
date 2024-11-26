@@ -1,0 +1,76 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: SBA ANNOUNCES 14 NEW AWARDS FOR REGIONAL INNOVATION CLUSTER NETWORK TO DRIVE NATIONWIDE SMALL BUSINESS GROWTH, JOB CREATION AND INNOVATION
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+SBA ANNOUNCES 14 NEW AWARDS FOR REGIONAL INNOVATION CLUSTER NETWORK TO DRIVE NATIONWIDE SMALL BUSINESS GROWTH, JOB CREATION AND INNOVATION
+States News Service
+October 3, 2024 Thursday
+
+
+Copyright 2024 States News Service
+Length:1094 words
+Byline:States News Service
+Dateline:WASHINGTON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Today,Administrator Isabel Casillas Guzman,head of theU.S. Small Business Administration (SBA)and the voice in President Biden's Cabinet for America's more than 34 million small businesses,announced the expansion of the SBA's Regional Innovation Cluster (RIC) networkwith 14 new awards. These awards aim to enhance the reach and impact of the SBA's support for innovative small businesses and entrepreneurial support organizations across the country.
+"As the Biden-Harris Administration continues to deliver historic investments in America that strengthen innovation, manufacturing, and emerging industries, these 14 new awardees will serve as vital hubs connecting entrepreneurs with the resources needed to develop cutting-edge technologies critical to the nation's economic and security priorities," said Administrator Guzman."Our nation's entrepreneurs develop and commercialize innovative technologies in areas of global importance, including biotechnology, cybersecurity, smart manufacturing, and sustainable agriculture. The SBA's Regional Innovation Cluster network helps America's entrepreneurs start and scale their businesses in these highly competitive industries with a focus on leveraging regional strengths and collaboration strengthening America's competitiveness."
+"For the first time, the SBA is tailoring funding for emerging and mature clusters,"said Bailey DeVries, Associate Administrator for SBA's Office of Investment and Innovation. "The SBA recognizes innovation clusters across industries and technology verticals are at different stages in their lifespan, and the varied funding levels right-sizes our awards so clusters can grow and improve their support of small businesses and startups."
+The SBA launched the RIC Initiative in September 2010 to promote and support the development of clusters, which are geographically concentrated groups of interconnected businesses, suppliers, service providers, and associated institutions in a particular industry or field across the country. Clusters act as a networking hub for small businesses, convening several resources to help navigate the funding, procurement, and supply-chain opportunities in a specific industry. They also assist businesses in matching cutting-edge technology to industry needs and increase the number of innovative small businesses and entrepreneurs in the nation's supply chain.
+"For 14 years, the RIC Initiative has had an incredible impact in communities and industries across the country, supporting startups and small businesses as they enter the nation's supply chain. We look forward to continuing to expand our nation's innovation ecosystem and ensuring small businesses can match their cutting-edge technologies to industry opportunities," said SBA's Investment and Innovation Ecosystems Director Brittany Sickler.
+This funding makes awards for the first time at two funding levels: emerging and mature clusters. Emerging clusters develop and deploy small business support services in their designated regions and industries, and the RIC Initiative enables them to scale their current and future programming to reach more small businesses. Mature clusters have experience building and implementing programming to support small businesses, and the RIC Initiative enables them to increase the effectiveness of programming and operations to reach more small businesses and strengthen existing and new partnerships.
+The new Regional Innovation Clusters are:
+AgTech Innovation Alliancewill support AgriFoodTech small businesses in California's Central Valley.
+Applied Research Institutewill support small businesses in the biotech industry across central Indiana.
+Bounce Innovation Hub will support small businesses developing novel materials for medical devices and wearable sensors in Northeast Ohio.
+Celdara Medical will support life science small businesses across Vermont, New Hampshire, Maine, Delaware, and Rhode Island.
+CleanTech Alliance Washington will support small businesses in the clean technology industry in Washington state.
+Hyperion Technologies will support small businesses developing clean technologies in the Four Corners region of Arizona, New Mexico, Utah, and Colorado.
+Integrative Business Services will support artificial intelligence and optics small businesses in Southern Arizona.
+LSI Business Developmentwill support small, advanced manufacturers in Utah
+RIoT will support small businesses building internet of things (IoT) and data economy technologies in North Carolina.
+Shadow Ridge Analytics will support small businesses in the advanced engineering and critical materials industries in Southwest Montana.
+Southwestern College Foundation will support small businesses in the manufacturing and biotechnology industries in San Diego and Imperial Counties in California.
+StartUp Junkie Consulting will support small businesses in leveraging Lithium for the clean energy and electric vehicle transition across Northeast Texas, Southern Arkansas, Northern Louisiana, and West Mississippi.
+The Water Council will support small businesses in the water and resiliency industry in Wisconsin.
+UpSurge Baltimorewill support small businesses in cybersecurity and biotechnology industries across the Baltimore metropolitan area.
+To learn more about the RIC Initiative, including current RICs, please visit:Regional Innovation Clusters | U.S. Small Business Administration (sba.gov).
+###
+About SBA's Office of Investment and Innovation
+The U.S. Small Business Administration (SBA) Office of Investment and Innovation (OII) leads programs that provide the U.S. growth-oriented small business and startup community with access to financial capital, networks, assistance, and RandD funds to develop commercially viable innovations. Our work is underpinned by public-private partnerships that help small businesses on their trajectory from idea to IPO. Learn more atOffice of Investment and Innovation (OII).
+About the U.S. Small Business Administration
+The U.S. Small Business Administration makes the American dream of business ownership a reality. As the only go-to resource and voice for small businesses backed by the strength of the federal government, the SBA empowers entrepreneurs and small business owners with the resources and support they need to start, grow, or expand their businesses, or recover from a declared disaster.It delivers services through an extensive network of SBA field offices and partnerships with public and private organizations. Learn more atwww.sba.gov.
+
+Load-Date:October 4, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

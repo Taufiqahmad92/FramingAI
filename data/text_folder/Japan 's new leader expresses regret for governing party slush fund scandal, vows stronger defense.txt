@@ -1,0 +1,83 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Japan 's new leader expresses regret for governing party slush fund scandal, vows stronger defense
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Japan's new leader expresses regret for governing party slush fund scandal, vows stronger defense
+The Associated Press
+October 4, 2024 Friday 6:16 AM GMT
+
+
+Copyright 2024 Associated Press All Rights Reserved
+Section:INTERNATIONAL NEWS
+Length:537 words
+Byline:MARI YAMAGUCHI, Associated Press
+Dateline:TOKYO 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Ishiba replaced Fumio Kishida on Tuesday with the paramount mission of quickly pacifying public anger over financial misconduct in the Liberal Democratic Party and regaining support ahead of an Oct. 27 parliamentary election.
+I will achieve politics that is not for politicians but for the people, Ishiba said, pledging to provide sincere explanations and ensure that lawmakers abide by the rules.
+He set five policy pillars to uphold, including security, economy and disaster resilience.
+Ishiba said he will bolster Japan's military capability to defend itself from threats from China, Russia and North Korea under the framework of the Japan-U.S. security alliance.
+He did not mention two goals he advocated before taking office  making the Japan-U.S. security alliance more equitable and establishing a NATO-like collective defense system in Asia  apparently to avoid controversy ahead of the election that the LDP must win.
+Omitting those goals also saves him from possibly irking Washington, but may disappoint those who saw him as willing to speak up even when he risked disagreement with his own party.
+Ishiba noted violations of Japanese airspace last month by Chinese and Russian warplanes and North Koreas advancing missile technology and testing as examples of the worsening security environment that Japan faces and stressed the need for a further buildup of Japans military.
+He said he will promote a strategic, mutually beneficial relationship with China and increase communication on all levels to build stable and constructive ties. He also said he will further strengthen and expand Japans ties with South Korea and the trilateral cooperation Japan has with it and the United States.
+He called the Japan-U.S. security alliance a cornerstone of Japanese diplomacy and security as well as the foundation of peace and prosperity in the Indo-Pacific region and international society.
+The first public support ratings for Ishiba as prime minister were around 50% or even lower, the lowest levels for a new leader, according to Japanese media.
+Opposition leaders have criticized him for rushing to hold an election after only adding a new face and fresh image to the party without any concrete results. He plans to dissolve parliament next Wednesday for an election on Oct. 27, allowing only a few days of debate on his policies.
+On the economy, Ishiba said in his speech that he wants workers to have sustainable salary increases that exceed inflation, and will promote investment to create a virtuous cycle of growth and distribution. He promised economic support for low-income households and measures for regional revitalization and disaster resilience.
+Despite earlier supporting a phasing out of nuclear power following the Fukushima nuclear plant disaster, he pledged to maximize the use of nuclear energy and push for geothermal and other renewable sources to meet the soaring electricity needs of data centers in the age of AI.
+___
+Follow AP's Asia-Pacific coverage at https://apnews.com/hub/asia-pacific
+
+Load-Date:October 4, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

@@ -1,0 +1,57 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: 2024 WORLD MARITIME DAY ANCHORS FOCUS ON MARITIME SAFETY
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+2024 WORLD MARITIME DAY ANCHORS FOCUS ON MARITIME SAFETY
+States News Service
+September 26, 2024 Thursday
+
+
+Copyright 2024 States News Service
+Length:415 words
+Byline:States News Service
+Dateline:LONDON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Global maritime community marks 50 years of international ship safety treaty.
+World Maritime Day isobserved on the last Thursday of September each year to highlight the importance of maritime safety, security and protection of the marine environment.
+World Maritime Day on 26 September will highlight the importance of safety at sea in an era of significant transformations and new risks.
+Fifty years since the adoption of the International Convention for the Safety of Life at Sea (SOLAS) - the world's most important treaty for the safety of merchant ships the maritime community is at a crossroads, facing rapid advances in technology, global security challenges and the shift to green energy.
+This year's theme for World Maritime Day, "Navigating the future: Safety first!" recognizes that safety remains paramount in such a changing environment, whether it pertains to seafarers handling new green fuels, safeguarding passengers in the latest cruise ships, regulating AI-managed autonomous ships or ensuring cybersecurity in a digital world.
+Secretary-General of the International Maritime Organization (IMO), Arsenio Dominguez said: "2024 marks 50 years since the SOLAS treaty was adopted. We can be proud of the crucial role this convention has played in setting international safety standards for ship construction, equipment, and operation, preventing maritime disasters and protecting lives. But we cannot be complacent. World Maritime Day calls for collective effort to ensure we keep pace with the ongoing transformation in shipping."
+In his message, United Nations Secretary-General Antonio Guterres, said: "Today, the maritime sector is undergoing a profound transformation as it steers towards greater digitalization, automation and decarbonization. New technologies and designs offer the opportunity to make important contributions to climate action. I count on the commitment of regulators, seafarers and ship operators alike."
+50 years of SOLAS
+The International Convention for the Safety of Life at Sea (SOLAS) was first adopted in 1914, in response to the Titanic disaster. It is widely recognized as the most important international treaty on maritime safety.
+The Convention in force today was adopted on 1 November 1974. It contains 15 chapters covering key topics, such as life-saving appliances and arrangements, distress and safety communications and carriage of dangerous goods and many more.
+
+Load-Date:September 26, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

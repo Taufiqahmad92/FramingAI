@@ -1,0 +1,73 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: $15M for game theory with AI agents, quantum semiconductors for microelectronics and photonics
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+$15M for game theory with AI agents, quantum semiconductors for microelectronics and photonics
+Targeted News Service
+October 7, 2024 Monday 3:47 PM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:1347 words
+Byline:Targeted News Service
+Dateline:ANN ARBOR, Michigan 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+The DoD funds efforts to incorporate AI agents into game theory and develop microelectronics that can withstand a hot day on Venus or carry quantum information
+Molecular beam epitaxy is one approach to producing a new kind of ferroelectric semiconductor, which will be explored in a new Multidisciplinary University Research Initiative led by U-M. Another U-M-led MURI aims to update game theory to include AI and robotic agents in changing environments. Credit: Joseph Xu, Michigan Engineering
+Two Multidisciplinary University Research Initiatives have been awarded to the University of Michigan, which will advance game theory and develop a promissing new material for use in microelectronics and quantum photonics.
+Each grant represents a $7.5 million investment from the Department of Defense over five years. The game theory project is funded by the Office of Naval Research and led by Vijay Subramanian, professor of electrical and computer engineering. The quantum material-focused project is supported by the Army Research Office and headed by Zetian Mi, professor of electrical and computer engineering.
+Updating game theory for AI
+Game theory tries to predict the outcomes of the interactions of various players, based on the objectives those players are pursuing and taking into account limitations on each player's choices. It discovers likely outcomes that arise when no player, known more formally as an agent, can make progress toward their goals through their own actions.
+Game theory has conventionally focused on intelligent agents that have similar decision-making capabilities, but AI and robotic agents change the rules, with different limitations for sensing, processing information and taking action. In some cases--for instance, processing large amounts of data--they may be more capable than human agents.
+"A lot of these will rely on learning using the data that's collected, because these robots will have to sense their environment, sense what the humans are doing, and so on, to react to what the humans are doing," Subramanian said.
+The new project aims to update game theory so that it can include less capable, sometimes robotic agents powered by AI. They will explore multiple agents working as a team--for example, to respond to a disaster--as well as agents working against one another. As a secondary aim, the team will explore effects related to information exchange such as delays and partial awareness.
+The agents will form internal models of themselves and other agents, sort of like conceptualizing themselves and others, and they will also form models of their environments. These models will guide their decisions and actions. At first, they will operate in environments that don't change, but as the project progresses, the team will make the environments dynamic. For instance, in a disaster response scenario, agents may be initially limited to certain locations by debris, but their mobility improves over time as areas are cleared. Alternatively, an area may become cut off if a structure falls.
+Collaborators will bring real-world data to the project. For instance, park rangers have set up cameras that can monitor for poaching, but the poachers can learn to avoid those sites. In addition, the rangers collect information about how the park changes--the movements of the animals, locations that become dangerous after rain, the times of day when poachers are most active, and so on. In this way, they can produce dynamic maps that highlight areas where poaching activity is most likely. Meanwhile, the poachers are playing a similar game, Subramanian explained--identifying places they can go safely, and the places and times rangers might try to intercept them.
+Other interactions the team intends to model are between banks and regulators, and competing ride-sharing services that may introduce fully autonomous vehicles. The team includes expertise in machine learning, control, algorithms, economics and mathematics.
+New kind of semiconductor for next-generation microelectronics and quantum signals
+While old hard drives used to store information in slow-to-switch magnetic fields encoding 1s and 0s, and solid state drives use equally slow electric-charge switches, another MURI project aims to use faster switchable electric fields as part of an effort to develop a new class of ferroelectric devices. Switched with pulses of light, they could achieve millionfold speed increases over other memories, enabling storage of both classical and quantum states. Ferroelectric semiconductors maintain their electrical fields even when no power is applied, and those made with nitrogen, rather than oxygen, have the potential to operate at up to 1000degC, or 1832degF.
+This ability could enable more robust microelectronics for space missions nearer to the sun as well as in high temperature environments on earth--for instance, close to combustion engines, inside advanced nuclear reactors or deep in Earth's crust.
+In addition, the same semiconductor can pick up single-photon signals and change them into different kinds of photons, potentially linking quantum processors with conventional sensors and memories. Here, one key challenge is converting the energy of a photon 10,000-fold, from the microwave range into the visible, enabling quantum computing units to be connected through optical networks. The same quantum mechanisms can be optimized to switch memories at the speed of a light oscillation--roughly a quadrillionth of a second. This would enable lossless, ultrafast transitions between electronic states, which is essential for next-generation AI and quantum applications.
+These goals may be met with a single quantum material, made of gallium and nitrogen with various other elements that fine tune its properties. The team aims to create more perfect crystals to reduce energy losses, enhance material durability, maximize achievable energy shifts, lower the energy required for memory switching, and increase conversion efficiency.
+"There are tremendous opportunities with this new class of semiconductors," Mi said. "They can be seamlessly integrated with today's mainstream gallium nitride and silicon platforms, driving innovations for next-generation microelectronics and quantum photonics. What we explore in this MURI program is just a small glimpse of the potential these remarkable quantum semiconductors hold."
+The game theory project is called "New Game Theory for New Agents: Foundations and Learning Algorithms for Decision-Making Mixed-Agents," and the team includes Dirk Bergemann, Yale University (economics); Avrim Blum, Toyota Technological Institute Chicago (machine learning, computational learning theory); Rahul Jain, University of Southern California (reinforcement learning, stochastic control); Elchanan Mossel, Massachusetts Institute of Technology (mathematics, statistical inference); Milind Tambe, Harvard University (multi-agent systems, poaching at national parks); Omer Tamuz, California Institute of Technology (economics, mathematics); and Eva Tardos, Cornell University (algorithmic game theory, learning).
+The ferroelectric material project is called "Nanoscale and Transduction-Optimized Pristine Ferroelectric Nitrides (NanoTOP)," and the team includes Hongping Zhao, Ohio State (material synthesis); Alan Doolittle, Georgia Tech (material synthesis, device construction); Susan Trolier-McKinstry, Penn State (material characterization and devices); Hong Tang, Yale (signal conversion); Manos Kioupakis, U-M materials science and engineering (materials theory); Mack Kira, U-M electrical and computer engineering (quantum theory and design); and Robert Hovden, U-M materials science and engineering (material characterization).
+The device was built in the Lurie Nanofabrication Facility and studied at the Michigan Center for Materials Characterization.
+***
+Original text here: https://news.umich.edu/15m-for-game-theory-with-ai-agents-quantum-semiconductors-for-microelectronics-and-photonics/
+Copyright Targeted News Services
+MSTRUCK-8864302 MSTRUCK
+
+Load-Date:October 8, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

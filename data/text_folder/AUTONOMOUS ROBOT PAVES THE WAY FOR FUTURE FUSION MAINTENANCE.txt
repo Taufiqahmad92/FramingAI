@@ -1,0 +1,64 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: AUTONOMOUS ROBOT PAVES THE WAY FOR FUTURE FUSION MAINTENANCE
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+AUTONOMOUS ROBOT PAVES THE WAY FOR FUTURE FUSION MAINTENANCE
+States News Service
+September 19, 2024 Thursday
+
+
+Copyright 2024 States News Service
+Length:619 words
+Byline:States News Service
+Dateline:LONDON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+In a world-first, a fully autonomous robot has been used to inspect the inside of a fusion energy facility.
+From:
+UK Atomic Energy Authority
+In a world-first, a fully autonomous robot has been used to inspect the inside of a fusion energy facility.
+The United Kingdom Atomic Energy Authority (UKAEA) and the Oxford Robotics Institute (ORI), University of Oxford, have achieved a first-ever autonomous robot deployment in a fusion facility.
+The 35-day trial took place in UKAEA's Joint European Torus (JET) facility, which until its recent scientific operational shutdown, was one of the largest and most powerful fusion research machines in the world.
+In a step towards the commercial viability of fusion energy, a world-leading robotics alliance has successfully demonstrated that part of a fusion facility's maintenance can be carried out by an autonomous robot, thus making such work safer for humans and more cost efficient for its operator.
+Fusion powerplants will need regular maintenance. Traditionally, robotic inspections required humans to make decisions and to operate.
+"The project aimed to validate the reliability of autonomous robotic technology and instil trust and confidence in their use for safe and efficient inspections in fusion facilities over extended periods," said Dr Robert Skilton, Head of Research, at UKAEA's Remote Applications in Challenging Environments division.
+Such advancements pave the way for autonomous maintenance and decommissioning in future fusion facilities where human access may be limited owing to challenging conditions posed by radiation, vacuum-level pressure and extreme temperatures.
+JET provided the ideal opportunity to test ORI's autonomy platform "AutoInspect" controlling a Boston Dynamics Spot quadruped robot in an environment still hazardous after two high-powered deuterium-tritium experiments in the space of three years.
+"This deployment demonstrates that autonomous robots can enhance safety and cut costs. These 'next generation' solutions are becoming ready to be used in other industrial facilities such as nuclear decommissioning, environmental clean-up, and disaster relief," Dr Skilton continued.
+The inspection tasks within JET involved mapping the entire facility, taking sensor readings of its environment, and avoiding obstacles and personnel involved in the decommissioning process.
+To address these challenges, UKAEA's inspection payload was integrated with ORI's localisation and mission autonomy solutions, developed through a collaboration between Professors Hawes' and Fallon's teams. This setup was combined with Boston Dynamics' hardware and collision avoidance technology to enhance the robot's capabilities.
+This integrated robotic system collected essential data on JET's environment and overall status twice a day. This allowed the team to assess the feasibility of replacing human inspections with fully autonomous processes.
+Prof. Nick Hawes, Professor of AI and Robotics, University of Oxford, said of ORI's aims in the project, "Projects like this demonstrate the value of autonomous robots robots that can do things themselves without direct control of humans. They also ground our science in real use cases, and provide requirements and constraints that drive us to invent new AI and robotics algorithms."
+ORI's work in this project was supported by the Engineering and Physical Sciences Research Council through the Embodied Intelligence: From Sensing to Collaboration programme grant which aims to create autonomous systems that enhance human capability and potential.
+The results will assist planning for the next stages of the JET decommissioning and repurposing (JDR) programme.
+
+Load-Date:September 19, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

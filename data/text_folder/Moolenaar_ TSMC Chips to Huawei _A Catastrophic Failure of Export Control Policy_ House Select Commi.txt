@@ -1,0 +1,60 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Moolenaar: TSMC Chips to Huawei "A Catastrophic Failure of Export Control Policy" House Select Committee On The CCP Committee News Release
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Moolenaar: TSMC Chips to Huawei "A Catastrophic Failure of Export Control Policy"; House Select Committee On The CCP Committee News Release
+Congressional Documents and Publications
+October 23, 2024
+
+
+Copyright 2024 Federal Information and News Dispatch, Inc.
+Section:U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length:166 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgartificial intelligence (AI) accelerators, in a major circumvention of US export controls.
+"Reports that cutting-edge TSMC-manufactured chips have contributed to Huawei's AI development represent a catastrophic failure of US export control policy. AI accelerators, like the one that these chips fueled, are at the forefront of our technology race with the CCP, and I fear the damage done here will have significant consequences for our national security. Congress needs immediate answers from both BIS and TSMC about the scope and volume of this disaster. The U.S. government must take immediate steps to ensure this does not happen again."
+Read this original document at: https://selectcommitteeontheccp.house.gov/media/press-releases/moolenaar-tsmc-chips-huawei-catastrophic-failure-export-control-policy
+
+Load-Date:October 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

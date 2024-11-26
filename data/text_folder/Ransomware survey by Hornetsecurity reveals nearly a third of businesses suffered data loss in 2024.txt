@@ -1,0 +1,40 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Ransomware survey by Hornetsecurity reveals nearly a third of businesses suffered data loss in 2024
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Ransomware survey by Hornetsecurity reveals nearly a third of businesses suffered data loss in 2024
+PR Newswire
+October 15, 2024 Tuesday 8:00 AM EST
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Length:953 words
+Dateline:LONDON, Oct. 15, 2024 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgNumber of ransomware victims paying a ransom more than doubles over past yearTwo-thirds of businesses say generative AI technology has increased their fears of ransomware attacksLONDON, Oct. 15, 2024 /PRNewswire/ -- The number of ransomware victims who paid a ransom in 2024 (16.3%) more than doubled on the previous year (6.9%), according to new research from leading cybersecurity provider Hornetsecurity. Data loss has also increased dramatically, from 17.2% in 2023 to 30.2% in 2024. Alarmingly, 5% of organisations reported a complete loss of all affected data. 
+ These worrying trends come as data recovery rates have hit a new low. The increasing sophistication of cyberattacks has meant that the data recovery rate for businesses hit by ransomware has dropped from 87.4% in 2021 to just 66.3% this year.The survey also revealed that email and phishing attacks remain the most common vector of attack for ransomware, responsible for 52.3% of attacks. Despite a slight reduction in attack volume from 21.1% in 2021 to 18.6% in 2024, the severity of these criminal behaviours has increased.Commenting on the findings,Hornetsecurity CEO Daniel Hofmann said: "The evolving landscape of ransomware threats highlights the need for constant vigilance. The data shows that while fewer attacks are being reported, the outcomes are far more damaging, with potentially devastating consequences for organisations that fall victim to them."Criminals are constantly shifting tactics, and organisations of all sizes must invest in comprehensive security measures and ongoing cybersecurity awareness training to stay protected."Generative AI: a double-edged swordThe rise of generative AI technology has heightened fears of ransomware, with two-thirds (66.9%) of respondents indicating that AI has increased their apprehension about potential attacks.This comes as general concerns about ransomware remain high, with nearly 85% of companies expressing moderate to extreme worry. While 89.4% of businesses acknowledge their senior leadership's awareness of ransomware risks, only 56.3% report that leadership is actively engaged in prevention strategies. Additionally, 39.2% are content to leave the issue primarily to IT departments.The survey showed 84.1% of respondents view ransomware protection as a top IT priority, and 87% have established disaster recovery plans - and while this represents the majority, there are some concerns around the organisations that do not prioritise ransomware given its potentially ruinous consequences on a business's operations. When it comes to the 'why', one reason might be that some people (13.1%) mistakenly believe reliance on platforms like Microsoft 365 or Google Workspace negates the need for a formal plan.Training in cybersecurity: urgent refreshes requiredDespite 95.8% of respondents acknowledging the value of cybersecurity training, several concerns and misconceptions persist. The main issue is the time commitment, with 17.8% of respondents believing it is too demanding.Additional feedback includes the perception that users are 'untrainable' (14.4%), the high cost of training (12.3%), and the significant time burden on IT staff (10.6%). A smaller proportion (7.6%) view training as outdated.Hornetsecurity's research shows just over half (52.3%) of ransomware attacks stem from email and phishing attempts - and breaches of the human firewall. This shows the urgent need to overcome resistance to training, as employees are the first line of defence against cyber threats. To maintain effective security and adapt to evolving cybercriminal tactics, continuous and evolving training is essential.Awareness and insurance trendsAwareness of the impact of ransomware on Microsoft 365 data has improved significantly, with only 9.8% of respondents now uncertain about its vulnerability, down from 25.3% in 2022.In addition to this, the uptake of ransomware insurance has increased markedly, with 54.6% of organisations purchasing coverage in 2024, up from 37.9% in 2022.Daniel Hofmann added:"Generative AI is a game-changer in ransomware, making attacks smarter and organisations understandably more nervous. It's promising to see more businesses taking up ransomware insurance, but awareness isn't enough. Next-gen, AI-powered cybersecurity solutions are a crucial step in the battle against cybercriminals, but it is clear that organisations also need strong leadership, robust and engaging training, and constant vigilance to stay one step ahead."About the surveyResults gathered from a global quantitative survey of 502 IT professionals, conducted by Hornetsecurity in August 2024.About HornetsecurityHornetsecurity is a leading global provider of next-generation cloud-based security, compliance, backup, and security awareness solutions that help companies and organisations of all sizes around the world. Its flagship product, 365 Total Protection, is the most comprehensive cloud security solution for Microsoft 365 on the market. Driven by innovation and cybersecurity excellence, Hornetsecurity is building a safer digital future and sustainable security cultures with its award-winning portfolio. Hornetsecurity operates in more than 120 countries through its international distribution network of 12,000+ channel partners and MSPs. Its premium services are used by more than 75,000 customers.Photo -https://mma.prnewswire.com/media/2529687/Hornetsecurity.jpg
+Photo -https://mma.prnewswire.com/media/2529688/Hornetsecurity_2.jpg  View original content to download multimedia:https://www.prnewswire.com/news-releases/ransomware-survey-by-hornetsecurity-reveals-nearly-a-third-of-businesses-suffered-data-loss-in-2024-302275188.htmlSOURCE Hornetsecurity 
+
+Load-Date:October 15, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

@@ -1,0 +1,227 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Remote Sensing Journal Issues Research Articles in Vol. 16, Issue 15
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Remote Sensing Journal Issues Research Articles in Vol. 16, Issue 15
+Targeted News Service
+October 11, 2024 Friday 9:50 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:3236 words
+Byline:Targeted News Service
+Dateline:BASEL, Switzerland 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+* Article - A Comparison of Landforms and Processes Detection Using Multisource Remote Sensing Data: The Case Study of the Palinuro Pine Grove (Cilento, Vallo di Diano and Alburni National Park, Southern Italy)
+* Article - A Comprehensive Heritage BIM Methodology for Digital Modelling and Conservation of Built Heritage: Application to Ghiqa Historical Market, Saudi Arabia
+* Article - A Deep Learning Lidar Denoising Approach for Improving Atmospheric Feature Detection
+* Article - A Goaf-Locating Method Based on the D-InSAR Technique and Stratified Okada Dislocation Model
+* Article - A Lightweight CNN Based on Axial Depthwise Convolution and Hybrid Attention for Remote Sensing Image Dehazing
+* Article - A New and Robust Index for Water Body Extraction from Sentinel-2 Imagery
+* Article - A New Combination Approach for Gibbs Phenomenon Suppression in Regional Validation of Global Gravity Field Model: A Case Study in North China
+* Article - A New Perspective on the Scattering Mechanism of S-Band Weather Radar Clear-Air Echoes Based on Communication Models
+* Article - A Novel Approach for As-Built BIM Updating Using Inertial Measurement Unit and Mobile Laser Scanner
+* Article - A Novel Method for CSAR Multi-Focus Image Fusion
+* Article - A Novel Point Cloud Adaptive Filtering Algorithm for LiDAR SLAM in Forest Environments Based on Guidance Information
+* Article - A Novel Sample Generation Method for Deep Learning Lithological Mapping with Airborne TASI Hyperspectral Data in Northern Liuyuan, Gansu, China
+* Article - A Novel SAR Imaging Method for GEO Satellite-Ground Bistatic SAR System with Severe Azimuth Spectrum Aliasing and 2-D Spatial Variability
+* Article - A Phase-Only Optimization Null Control Method for FDA-MIMO Based on ADMM
+* Article - A Step-Wise Domain Adaptation Detection Transformer for Object Detection under Poor Visibility Conditions
+* Article - A Two-Component Polarimetric Target Decomposition Algorithm with Grassland Application
+* Article - A Waveform Design for Integrated Radar and Jamming Based on Smart Modulation and Complementary Coding
+* Article - Advanced GNSS Spoofing Detection: Aggregated Correlation Residue Likelihood Analysis
+* Article - Advantages of High-Temporal L-Band SAR Observations for Estimating Active Landslide Dynamics: A Case Study of the Kounai Landslide in Sobetsu Town, Hokkaido, Japan
+* Article - Agent-Based Spatial Dynamic Modeling of Diatraea saccharalis and the Natural Parasites Cotesia flavipes and Trichogramma galloi in Sugarcane Crops
+* Article - AI-Driven Computer Vision Detection of Cotton in Corn Fields Using UAS Remote Sensing Data and Spot-Spray Application
+* Article - An Accurate and Robust Multimodal Template Matching Method Based on Center-Point Localization in Remote Sensing Imagery
+* Article - An Analysis of the Mechanisms Involved in Glacial Lake Outburst Flooding in Nyalam, Southern Tibet, in 2018 Based on Multi-Source Data
+* Article - An Improved Multi-Target Tracking Method for Space-Based Optoelectronic Systems
+* Article - Analysis of Spatial and Temporal Variations in Evapotranspiration and Its Driving Factors Based on Multi-Source Remote Sensing Data: A Case Study of the Heihe River Basin
+* Article - Application of Digital Twin Technology in Synthetic Aperture Radar Ground Moving Target Intelligent Detection System
+* Article - Applying Knowledge-Based and Data-Driven Methods to Improve Ore Grade Control of Blast Hole Drill Cuttings Using Hyperspectral Imaging
+* Article - Assessing Golden Tides from Space: Meteorological Drivers in the Accumulation of the Invasive Algae Rugulopteryx okamurae on Coasts
+* Article - Assessing Habitat Suitability: The Case of Black Rhino in the Ngorongoro Conservation Area
+* Article - Automatic Detection of Quasi-Periodic Emissions from Satellite Observations by Using DETR Method
+* Article - Best Scanline Determination of Pushbroom Images for a Direct Object to Image Space Transformation Using Multilayer Perceptron
+* Article - Border-Enhanced Triple Attention Mechanism for High-Resolution Remote Sensing Images and Application to Land Cover Classification
+* Article - BPG-Based Lossy Compression of Three-Channel Remote Sensing Images with Visual Quality Control
+* Article - Characterizing Forest Plot Decay Levels Based on Leaf Area Index, Gap Fraction, and L-Moments from Airborne LiDAR
+* Article - Characterizing the Macro and Micro Properties of Precipitation during the Landfall of Typhoon Lekima by Using GPM Observations
+* Article - CMFPNet: A Cross-Modal Multidimensional Frequency Perception Network for Extracting Offshore Aquaculture Areas from MSI and SAR Images
+* Article - Code-Based Differential GNSS Ranging for Lunar Orbiters: Theoretical Review and Application to the NaviMoon Observables
+* Article - Comparing Three Freeze-Thaw Schemes Using C-Band Radar Data in Southeastern New Hampshire, USA
+* Article - Construction of High-Precision and Complete Images of a Subsidence Basin in Sand Dune Mining Areas by InSAR-UAV-LiDAR Heterogeneous Data Integration
+* Article - CPROS: A Multimodal Decision-Level Fusion Detection Method Based on Category Probability Sets
+* Article - Crop Water Status Analysis from Complex Agricultural Data Using UMAP-Based Local Biplot
+* Article - DDSR: Degradation-Aware Diffusion Model for Spectral Reconstruction from RGB Images
+* Article - Detection of Maize Crop Phenology Using Planet Fusion
+* Article - Directional Applicability Analysis of Albedo Retrieval Using Prior BRDF Knowledge
+* Article - Efficient and Robust Adaptive Beamforming Based on Coprime Array Interpolation
+* Article - Enhanced Window-Based Self-Attention with Global and Multi-Scale Representations for Remote Sensing Image Super-Resolution
+* Article - Ensemble Machine Learning on the Fusion of Sentinel Time Series Imagery with High-Resolution Orthoimagery for Improved Land Use/Land Cover Mapping
+* Article - Estimation of Coastal Wetland Vegetation Aboveground Biomass by Integrating UAV and Satellite Remote Sensing Data
+* Article - Estimation of Forest Stand Volume in Coniferous Plantation from Individual Tree Segmentation Aspect Using UAV-LiDAR
+* Article - Evaluating Daily Water Stress Index (DWSI) Using Thermal Imaging of Neem Tree Canopies under Bare Soil and Mulching Conditions
+* Article - Evaluation and Improvement of a CALIPSO-Based Algorithm for Cloud Base Height in China
+* Article - Evaluation of GPM IMERG Early, Late, and Final Run in Representing Extreme Rainfall Indices in Southwestern Iran
+* Article - Exploiting Soil and Remote Sensing Data Archives for 3D Mapping of Multiple Soil Properties at the Swiss National Scale
+* Article - Extraction of 10 m Resolution Global Mangrove in 2022
+* Article - Fast Robust Point Cloud Registration Based on Compatibility Graph and Accelerated Guided Sampling
+* Article - Fire-Net: Rapid Recognition of Forest Fires in UAV Remote Sensing Imagery Using Embedded Devices
+* Article - Flood Inundation Probability Estimation by Integrating Physical and Social Sensing Data: Case Study of 2021 Heavy Rainfall in Henan, China
+* Article - Flood Mapping of Synthetic Aperture Radar (SAR) Imagery Based on Semi-Automatic Thresholding and Change Detection
+* Article - Fusing Multispectral and LiDAR Data for CNN-Based Semantic Segmentation in Semi-Arid Mediterranean Environments: Land Cover Classification and Analysis
+* Article - Harmonized Landsat and Sentinel-2 Data with Google Earth Engine
+* Article - How Phenology Shapes Crop-Specific Sentinel-1 PolSAR Features and InSAR Coherence across Multiple Years and Orbits
+* Article - How Useful Are Moderate Resolution Imaging Spectroradiometer Observations for Inland Water Temperature Monitoring and Warming Trend Assessment in Temperate Lakes in Poland?
+* Article - Hyperspectral Image Denoising by Pixel-Wise Noise Modeling and TV-Oriented Deep Image Prior
+* Article - Impact of Tile Size and Tile Overlap on the Prediction Performance of Convolutional Neural Networks Trained for Road Classification
+* Article - Impacts of Climatic Fluctuations and Vegetation Greening on Regional Hydrological Processes: A Case Study in the Xiaoxinganling Mountains-Sanjiang Plain Region, Northeastern China
+* Article - Improvements to a Crucial Budyko-Fu Parameter and Evapotranspiration Estimates via Vegetation Optical Depth over the Yellow River Basin
+* Article - Improving the Gross Primary Productivity Estimation by Simulating the Maximum Carboxylation Rate of Maize Using Leaf Age
+* Article - Influence of Abnormal Eddies on Seasonal Variations in Sonic Layer Depth in the South China Sea
+* Article - Influence of Spotted Lanternfly (Lycorma delicatula) on Multiple Maple (Acer spp.) Species Canopy Foliar Spectral and Chemical Profiles
+* Article - InstLane Dataset and Geometry-Aware Network for Instance Segmentation of Lane Line Detection
+* Article - Interrupted-Sampling Repeater Jamming Countermeasure Based on Intrapulse Frequency-Coded Joint Frequency Modulation Slope Agile Waveform
+* Article - Investigating Intra-Pulse Doppler Frequency Coupled in the Radar Echo Signal of a Plasma Sheath-Enveloped Target
+* Article - Ionograms Trace Extraction Method Based on Multiscale Transformer Network
+* Article - Is Your Training Data Really Ground Truth? A Quality Assessment of Manual Annotation for Individual Tree Crown Delineation
+* Article - Land Cover Mapping in a Mangrove Ecosystem Using Hybrid Selective Kernel-Based Convolutional Neural Networks and Multi-Temporal Sentinel-2 Imagery
+* Article - Landslide Hazard Prediction Based on Small Baseline Subset-Interferometric Synthetic-Aperture Radar Technology Combined with Land-Use Dynamic Change and Hydrological Conditions (Sichuan, China)
+* Article - Landslide Susceptibility Assessment in Active Tectonic Areas Using Machine Learning Algorithms
+* Article - Land-Use and Land-Cover Changes in Cottbus City and Spree-Neisse District, Germany, in the Last Two Decades: A Study Using Remote Sensing Data and Google Earth Engine
+* Article - Leveraging Remote Sensing-Derived Dynamic Crop Growth Information for Improved Soil Property Prediction in Farmlands
+* Article - LSTT: Long-Term Spatial-Temporal Tensor Model for Infrared Small Target Detection under Dynamic Background
+* Article - LWSDNet: A Lightweight Wheat Scab Detection Network Based on UAV Remote Sensing Images
+* Article - Mapping Ratoon Rice Fields Based on SAR Time Series and Phenology Data in Cloudy Regions
+* Article - MBT-UNet: Multi-Branch Transform Combined with UNet for Semantic Segmentation of Remote Sensing Images
+* Article - Measuring Tilt with an IMU Using the Taylor Algorithm
+* Article - Methodology for Monitoring Silting and the Coastline of Small Ports Using Sentinel-2 Images: The Case of Port Cap Djinet Algeria
+* Article - Missing Region Completion Network for Large-Scale Laser-Scanned Point Clouds: Application to Transparent Visualization of Cultural Heritage
+* Article - Mitigation of Suppressive Interference in AMPC SAR Based on Digital Beamforming
+* Article - Multi-Feature Cross Attention-Induced Transformer Network for Hyperspectral and LiDAR Data Classification
+* Article - Multiple Land-Use Simulations and Driving Factor Analysis by Integrating a Deep Cascade Forest Model and Cellular Automata: A Case Study in the Pearl River Delta, China
+* Article - Multi-Scale Dynamics and Spatial Consistency of Economy and Population Based on NPP/VIIRS Nighttime Light Data and Population Imagery: A Case Study of the Yangtze River Delta
+* Article - Multi-Stage Frequency Attention Network for Progressive Optical Remote Sensing Cloud Removal
+* Article - Multi-Teacher D-S Fusion for Semi-Supervised SAR Ship Detection
+* Article - MVG-Net: LiDAR Point Cloud Semantic Segmentation Network Integrating Multi-View Images
+* Article - Near-Complete Sampling of Forest Structure from High-Density Drone Lidar Demonstrated by Ray Tracing
+* Article - Nonlinear Evolutionary Pattern Recognition of Land Subsidence in the Beijing Plain
+* Article - Oceanic Mesoscale Eddy Fitting Using Legendre Polynomial Surface Fitting Model Based on Along-Track Sea Level Anomaly Data
+* Article - On Unsupervised Multiclass Change Detection Using Dual-Polarimetric SAR Data
+* Article - Optimization of Remote-Sensing Image-Segmentation Decoder Based on Multi-Dilation and Large-Kernel Convolution
+* Article - Performance Analysis of an Aerial Remote Sensing Platform Based on Real-Time Satellite Communication and Its Application in Natural Disaster Emergency Response
+* Article - Phase Calibration in Holographic Synthetic Aperture Radar: An Innovative Method for Vertical Shift Correction
+* Article - Polarimetric Adaptive Coherent Detection in Lognorm-Texture-Distributed Sea Clutter
+* Article - Power Allocation Scheme for Multi-Static Radar to Stably Track Self-Defense Jammers
+* Article - Prediction of Ionospheric Scintillation with ConvGRU Networks Using GNSS Ground-Based Data across South America
+* Article - Predictions of Aboveground Herbaceous Production from Satellite-Derived APAR Are More Sensitive to Ecosite than Grazing Management Strategy in Shortgrass Steppe
+* Article - Quantifying the Relationship between Slope Spectrum Information Entropy and the Slope Length and Slope Steepness Factor in Different Types of Water-Erosion Areas in China
+* Article - Random Forest--Based Identification of Factors Influencing Ground Deformation Due to Mining Seismicity
+* Article - Realizing Small UAV Targets Recognition via Multi-Dimensional Feature Fusion of High-Resolution Radar
+* Article - Real-Time Wildfire Monitoring Using Low-Altitude Remote Sensing Imagery
+* Article - Reconstruction of Baltic Gridded Sea Levels from Tide Gauge and Altimetry Observations Using Spatiotemporal Statistics from Reanalysis
+* Article - Remote Sensing for Mapping Natura 2000 Habitats in the Briere Marshes: Setting Up a Long-Term Monitoring Strategy to Understand Changes
+* Article - Remote Sensing for Restoration Change Monitoring in Tropical Peat Swamp Forests in Malaysia
+* Article - Remote Sensing Integration to Geohazard Management at the Castle-Monastery of Panagia Spiliani, Nisyros Island, Greece
+* Article - Remote Sensing of Chlorophyll-a and Water Quality over Inland Lakes: How to Alleviate Geo-Location Error and Temporal Discrepancy in Model Training
+* Article - Research on Jianghan Plain Water System Dynamics and Influences with Multiple Landsat Satellites
+* Article - Research on Multi-Source Data Fusion and Satellite Selection Algorithm Optimization in Tightly Coupled GNSS/INS Navigation Systems
+* Article - Satellite-Based PT-SinRH Evapotranspiration Model: Development and Validation from AmeriFlux Data
+* Article - Scan-to-HBIM-to-VR: An Integrated Approach for the Documentation of an Industrial Archaeology Building
+* Article - Semi-Arid to Arid Scenario Shift: Is the Cabrobo Desertification Nucleus Becoming Arid?
+* Article - SHAP-Driven Explainable Artificial Intelligence Framework for Wildfire Susceptibility Mapping Using MODIS Active Fire Pixels: An In-Depth Interpretation of Contributing Factors in Izmir, Turkiye
+* Article - SimNFND: A Forward-Looking Sonar Denoising Model Trained on Simulated Noise-Free and Noisy Data
+* Article - Spatial Distribution of Cropping Systems in South Asia Using Time-Series Satellite Data Enriched with Ground Data
+* Article - Spatiotemporal Dynamics of Urban Green Space Coverage and Its Exposed Population under Rapid Urbanization in China
+* Article - Spatio-Temporal Dynamics of Vegetation and Its Driving Mechanisms on the Qinghai-Tibet Plateau from 2000 to 2020
+* Article - SSANet-BS: Spectral-Spatial Cross-Dimensional Attention Network for Hyperspectral Band Selection
+* Article - SSH-MAC: Service-Aware and Scheduling-Based Media Access Control Protocol in Underwater Acoustic Sensor Network
+* Article - Strip Adjustment of Multi-Temporal LiDAR Data--A Case Study at the Pielach River
+* Article - Surface Vector Current Retrieval by Single-Station High-Frequency Surface Wave Radar Based on Ocean Dynamics in the Taiwan Strait
+* Article - Synergizing a Deep Learning and Enhanced Graph-Partitioning Algorithm for Accurate Individual Rubber Tree-Crown Segmentation from Unmanned Aerial Vehicle Light-Detection and Ranging Data
+* Article - System Design of Ocean Temperature Measurement System Using Brillouin Lidar Based on Dual Iodine Cells
+* Article - Temporal Patterns of Vegetation Greenness for the Main Forest-Forming Tree Species in the European Temperate Zone
+* Article - Temporal-Difference Graph-Based Optimization for High-Quality Reconstruction of MODIS NDVI Data
+* Article - The Analysis of North Brazil Current Rings from Automatic Identification System Data and Altimetric Currents
+* Article - The Application of Remote Sensing Technology in Post-Disaster Emergency Investigations of Debris Flows: A Case Study of the Shuimo Catchment in the Bailong River, China
+* Article - The Impact of Meteorological Drought at Different Time Scales from 1986 to 2020 on Vegetation Changes in the Shendong Mining Area
+* Article - The Nonlinear Relationship and Synergistic Effects between Built Environment and Urban Vitality at the Neighborhood Scale: A Case Study of Guangzhou's Central Urban Area
+* Article - The Preparation Phase of the 2023 Kahramanmaras (Turkey) Major Earthquakes from a Multidisciplinary and Comparative Perspective
+* Article - The Typical ELF/VLF Electromagnetic Wave Activities in the Upper Ionosphere Recorded by the China Seismo-Electromagnetic Satellite
+* Article - The Unmanned Aerial Vehicle-Based Estimation of Turbulent Heat Fluxes in the Sub-Surface of Urban Forests Using an Improved Semi-Empirical Triangle Method
+* Article - Three-Dimensional Deformation Estimation from Multi-Temporal Real-Scene Models for Landslide Monitoring
+* Article - Time Series Prediction of Reservoir Bank Slope Deformation Based on Informer and InSAR: A Case Study of Dawanzi Landslide in the Baihetan Reservoir Area, China
+* Article - Trans-DCN: A High-Efficiency and Adaptive Deep Network for Bridge Cable Surface Defect Segmentation
+* Article - Unpaired Remote Sensing Image Dehazing Using Enhanced Skip Attention-Based Generative Adversarial Networks with Rotation Invariance
+* Article - Use of Landsat Imagery Time-Series and Random Forests Classifier to Reconstruct Eelgrass Bed Distribution Maps in Eeyou Istchee
+* Article - Utilizing Multi-Source Datasets for the Reconstruction and Prediction of Water Temperature in Lake Miedwie (Poland)
+* Article - Vegetation Water Content Retrieval from Spaceborne GNSS-R and Multi-Source Remote Sensing Data Using Ensemble Machine Learning Methods
+* Article - VE-LIOM: A Versatile and Efficient LiDAR-Inertial Odometry and Mapping System
+* Article - Water Resources Monitoring in a Remote Region: Earth Observation-Based Study of Endorheic Lakes
+* Article - Weed Species Identification: Acquisition, Feature Analysis, and Evaluation of a Hyperspectral and RGB Dataset with Labeled Data
+* Review - Identification of Landslide Precursors for Early Warning of Hazards with Remote Sensing
+* Review - Understanding Aerosol-Cloud Interactions through Lidar Techniques: A Review
+The Aug. 1, 2024,edition of Remote Sensing can be viewed at https://www.mdpi.com/2072-4292/16/15. The journal is published by MDPI.
+[Category: Computer Technology]
+Copyright Targeted News Services
+T40-MgEditor-8871440 T40-MgEditor
+
+Load-Date:October 11, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

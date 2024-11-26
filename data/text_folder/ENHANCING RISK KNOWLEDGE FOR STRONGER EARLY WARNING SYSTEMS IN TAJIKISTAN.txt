@@ -1,0 +1,56 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: ENHANCING RISK KNOWLEDGE FOR STRONGER EARLY WARNING SYSTEMS IN TAJIKISTAN
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+ENHANCING RISK KNOWLEDGE FOR STRONGER EARLY WARNING SYSTEMS IN TAJIKISTAN
+States News Service
+October 3, 2024 Thursday
+
+
+Copyright 2024 States News Service
+Length:422 words
+Byline:States News Service
+Dateline:DUSHANBE 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgDisaster Reduction (UNISDR):
+Source(s): United Nations Office for Disaster Risk Reduction - Regional Office for Europe and Central Asia
+DUSHANBE On October 3-4, an important workshop is taking place in Dushanbe within the framework of the "Strengthening resilience to disasters and climate change in Tajikistan" joint project of the UN Office for Disaster Risk Reduction and the Government of Switzerland.
+The joint project is complementing the global initiative "Early Warnings for All" (EW4All) and is titled "Advancing Risk Knowledge to Improve Tajikistan's Disaster Early Warning System." With participation from partners like UNDP, OCHA, CIMA Research Foundation, and Microsoft, the workshop is led by the Government of Tajikistan.
+Tajikistan, a country highly prone to natural disasters, has faced over 4,000 events in recent decades, causing an estimated $500 million in damages. This makes improving early warning systems (EWS) not just a priority, but a necessity.
+The workshop brings together key stakeholders to focus on one essential element: risk knowledge. This knowledge helps identify who is most at risk from disasters like floods or earthquakes and assesses the potential impacts. By understanding these risks, experts can craft tailored warnings to reach the most vulnerable communities in time. To do this, they analyze specific hazards, considering local vulnerabilities and the likely effects on those exposed.
+While early warning systems are proven to save lives and reduce damage, there are still significant gaps worldwide. Currently, one in three people globally remains unprotected by such systems. The EW4All initiative aims to close this gap by 2027, ensuring that everyone is covered by an effective EWS.
+Tajikistan has already begun its efforts, holding a national workshop in August 2023 to identify the gaps in its own systems. This led to the creation of a roadmap, officially endorsed in July 2024, which lays out a plan to improve early warnings across the country.
+At the Dushanbe workshop, participants are reviewing current approaches, receiving training, and learning about new tools, including Microsoft's AI-powered exposure mapping. These resources will help Tajikistan strengthen its ability to monitor, evaluate, and deliver life-saving warnings. The event is a key step toward creating a more resilient future for the country, ensuring that no community is left unprotected from the threats of natural disasters.
+
+Load-Date:October 4, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

@@ -1,0 +1,85 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: YOU'D NEVER FALL FOR AN ONLINE SCAM, RIGHT?
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+YOU'D NEVER FALL FOR AN ONLINE SCAM, RIGHT?
+States News Service
+September 27, 2024 Friday
+
+
+Copyright 2024 States News Service
+Length:1306 words
+Byline:States News Service
+Dateline:CAMBRIDGE, Mass 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Liz Mineo
+Harvard Staff Writer
+September 27, 2024
+Wrong, says cybersecurity expert. Con artists use time-tested tricks that can work on anyone regardless of age, IQ what's changed is scale.
+Online scams are on the rise. Last year, American consumers lost $12.5 billion due to cybercrime, which represents a 22 percent increase over the previous year, according to a report by the FBI. Cybercriminals use psychological trickery to dupe victims into giving up their money, and their tactics are becoming more sophisticated. They post fake ads on social media platforms, send emails with phishing links or malware, and recently in the Boston area, solicit payments for unpaid tolls via text message.
+The Gazette asked cybersecurity expert Bruce Schneier, an adjunct lecturer in public policy at the Harvard Kennedy School, what the government, tech companies, and consumers can do to prevent online scams. This interview has been edited for length and clarity.
+Many people think only older adults can be conned. Is there anyone who is free from falling for a scam?
+It's not a function of intelligence, or education, whether you'll fall for them. Scams affect people regardless of age, income levels, education, and IQ. In some ways, people who are smarter become victims precisely because they think it can't happen to them. They say, "I'm too smart, I would never fall for that," and they do because maybe it catches them on a bad day. Author and cyberspace activist Cory Doctorow wrote an essay about how he got scammed with a fake message from his bank the same day he was having a bank problem. Or remember the 2016 phishing email John Podesta, Hillary Clinton's campaign chairman, clicked on, which led to the DNC email hacking leak? It can happen to anyone.
+How has the scammers' modus operandi changed with the rise of technology?
+It's not different from the way it used to work in the past, where a con artist would bump into you on the street and start talking with you. The difference is that online they can do it millions of times. The speed and the scale are what has changed, but if you read about the big scams of the 1920s, they were just as profitable.
+According to the FBI, consumers lost $12.5 billion to cybercrime fraud last year.
+It's hard to know if the numbers are accurate. A lot of people don't report because it's embarrassing to be the victim of fraud. You feel terrible because you were tricked, you were fooled, and you're out a lot of money. I have sympathy for scam victims.
+Will AI make online scams harder to detect?
+We're starting to see AI-generated phishing emails, AI-generated fake videos, and AI-generated fake phone calls. And there are more targeted scams, where scammers target the CFO of a company pretending to be the CEO. If you ask me how to prevent it, the answer is I don't know.
+Cryptocurrency seems to be of the most common payment methods for scams. Why is that?
+It is an easy way to move money around. Online scams have been made easier by cryptocurrency, which allows instantaneous transfer of wealth in a way that can't be taken back. Scammers often ask their victims for a Bitcoin payment. You could track the rise of both ransomware and online scams to cryptocurrency.
+The banking system is better equipped to block suspicious transactions. If you try to wire money to Russia, the bank is going to call you and say, "What are you doing?" But if you send money to a scammer in Russia via cryptocurrency, nobody notices. More regulation would be valuable, just to make it harder for a regular person to buy and sell cryptocurrency. Cryptocurrency is a disaster in so many ways. I wrote an essay about it.
+Should a request for a Bitcoin payment be a red flag?
+Yes, but by the time the person who has fallen for the scam hears that a Bitcoin transaction must take place, they had already bought the scam, and what is normally a red flag isn't a red flag. The whole point of a scam is emotional trickery; a scam works because it works with emotions; and that's why it's hard to regulate or prevent it.
+What's the responsibility of social media companies to screen fake ads that can lead to scams?
+It would be great if Facebook, Twitter, and Instagram would screen fake advertisements. They don't do a good job because fake ads generate the same revenue as real ads. Why should they screen it? It's profitable.
+When we talk about the responsibility of social media companies, we must understand that the customers of Facebook are its advertisers. Us, the people using Facebook, are the product. Does Facebook have any responsibility to their customers? They certainly do, and they do well by their customers because they give them money. Do they do well by us, the product? We hope they do, but there's little economic incentive.
+Surveillance is the business model of the internet. Facebook and Google make money spying on you. They use your personal information to manipulate you, and they sell the right to manipulate you to ad companies. What a crappy business model that is. We could declare that business model illegal, but that is very unlikely, because it would involve a rethinking of how tech companies make money. But there are lots of alternatives. You can imagine requiring companies to be subscription-based or requiring advertising that's not personalized. Today, when you see an ad, it's a targeted ad that is sent to you based on the information tech companies have on you by tracking your searches and your posts.
+Should the government regulate social media companies and ask them to screen for fraud?
+I don't know of any regulation that will reduce online scams because if someone sends you a text message, and you start chatting with them, and they tell you about an investment opportunity, and you start giving them money, what new regulation can prevent that? It's already illegal.
+Yet, I would like to see more screening on the part of the companies. I think comprehensive privacy regulation in the United States is important, but several bills have gone nowhere. Europe has General Data Protection Regulation, which includes privacy protections and penalties for companies that don't comply. It's good but it's still not great. Already there are several states in the country that have GDPR-like legislation. In the class I teach every year, I pull a map of states that have privacy regulations, and every year, more states are following the trend.
+Don't click on unexpected emails or answer texts
+with links, which could lead to scams.
+Beware of romance, job, and investment opportunities that sound too good to be true.
+Do you have any advice on how to avoid falling for an online scam?
+I don't have any special advice to avoid falling for an online scam but the one you've gotten all your life: If it seems too good to be true, it is.
+Coming up with tips is hard because when you're in a vulnerable moment, you're not going to remember them or even listen to them. Scams target human psychology and like offline scams throughout history, they try to convince you of something that isn't true and get you to give money for something that isn't what you think it is. There is nothing new there. What is new is the scale and that they're made easier through cryptocurrency. But like offline scams, online scams can involve romance, investing, charity, and all sorts of things where human emotions can get the best of you; where suddenly you're not thinking, you're emoting, and you do something that turns out to be, in retrospect, stupid.
+You must have a good bullshit detector, but even if you do, you're going to make mistakes. I think I have a good bullshit detector, but I also think I've been lucky. I'm not going to say, "I would never fall for it," because the next week something might happen.
+
+Load-Date:September 28, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

@@ -1,0 +1,169 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Oracle and Amazon Web Services Announce Strategic Partnership
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Oracle and Amazon Web Services Announce Strategic Partnership
+PR Newswire
+September 9, 2024 Monday 4:00 PM EST
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Length:2044 words
+Dateline:AUSTIN, Texas and SEATTLE, Sept. 9, 2024 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgartificial intelligence (AI) and machine learning (ML) services, including Amazon Bedrock. 
+ Larry Ellison, Oracle Chairman and CTO, and Matt Garman, AWS CEO, will discuss the partnership on-stage atOracle CloudWorldon Tuesday, September 10 at 1:00 p.m. Pacific Daylight Time. With direct access to Oracle Exadata Database Service on AWS, including Oracle Autonomous Database on dedicated infrastructure and workloads running on Oracle Real Application Clusters (RAC), Oracle Database@AWS allows customers to bring together all of their enterprise data to drive breakthrough innovation. The new offering provides a low latency network connection between Oracle databases and applications on AWS. This allows customers to benefit from Oracle Autonomous Database, a fully automated and managed Oracle Database service, and the performance, availability, security, and cost-effectiveness of Oracle Exadata Database Service, while enjoying the security, agility, flexibility, and sustainability benefits provided by AWS."We are seeing huge demand from customers that want to use multiple clouds," said Larry Ellison, Oracle Chairman and CTO. "To meet this demand and give customers the choice and flexibility they want, Amazon and Oracle are seamlessly connecting AWS services with the very latest Oracle Database technology, including the Oracle Autonomous Database. With Oracle Cloud Infrastructure deployed inside of AWS datacenters, we can provide customers with the best possible database and network performance.""As far back as 2008, customers could run their Oracle workloads in the cloud, and since then, many of the world's largest and most security sensitive organizations have chosen to deploy their Oracle software on AWS," said Matt Garman, CEO at AWS. "This new, deeper partnership will provide Oracle Database services within AWS to allow customers to take advantage of the flexibility, reliability, and scalability of the world's most widely adopted cloud alongside enterprise software they rely on."Oracle Database@AWS will help customers continue to accelerate their migration to the cloud and modernize their IT environments. Customers can also benefit from:Zero-ETL integration between Oracle Database services and AWS Analytics services. Customers will be able to seamlessly and securely connect and analyze data across Oracle Database services and applications they already have running on AWS to get faster, deeper insights without having to build pipelines.Flexible options to simplify and accelerate migrating their Oracle databases to the cloud, including compatibility with proven migration tools such as Oracle Zero Downtime Migration.A simplified procurement experience via AWS Marketplace that enables customers to purchase Oracle Database services using their existing AWS commitments and use their existing Oracle license benefits, including Bring Your Own License (BYOL) and discount programs such as Oracle Support Rewards (OSR).A fully unified support experience from both AWS and Oracle as well as guidance through reference architectures, landing zones, and other collateral for customers to successfully build and run their most trusted enterprise applications in the cloud.Seamless integration with Amazon Simple Storage Service (Amazon S3) for an easy and secure way to perform database backups and restoration, and to aid with disaster recovery.Customers are able to easily launch their Oracle Database@AWS experience using familiar tools such as the AWS Management Console or via Command Line Interface (CLI) as well as AWS CloudFormation. They are also able to take advantage of AWS's multi-Availability Zone (AZ) architecture, which allows customers to architect their applications across multiple, independent locations allowing them to build and launch workloads with higher levels of availability. Oracle Database@AWS will be available in preview later in the year with broader availability in 2025 as it expands to new Regions to meet the needs of customers.Customers Benefit from the Best of OCI and AWSThe new Oracle Database@AWS capabilities enable organizations to utilize their existing skills and get started immediately with a fully integrated experience for deploying, managing, and using Oracle Autonomous Database and Oracle Exadata Database Service on AWS. Both companies will jointly go-to-market with Oracle Database@AWS, benefitting organizations globally and across multiple industries, including financial services, healthcare, manufacturing, retail, telecoms, and utilities."We've seen great value in using AWS as our preferred cloud provider for some of the transactional platforms we use at Best Buy," said Brian Tilzer, Chief Digital, Analytics and Technology Officer, Best Buy. "Our work with AWS unlocks the technological agility and scalability that helps Best Buy to personalize and humanize the consumer electronics shopping experience like nobody else can. This announcement makes it easier for us to move some of our database workloads to AWS and presents an exciting opportunity to further delight our customers.""As a leading financial services provider, Fidelity's mission is to strengthen the financial well-being of our customers," stated Joe Frazier, Head of Architecture and Platform Engineering, Fidelity Investments. "Digital modernization through innovation, technology, and strong relationships with trusted service providers is critical to supporting that mission. Today's announcement demonstrates the collaborative effort of industry leaders Oracle and AWS to provide companies like Fidelity with the optionality necessary to deploy our most critical workloads to cloud, which ultimately delivers better outcomes for the clients and businesses we serve.""The combination of AWS and Oracle Cloud Infrastructure database technologies makes it easy for us to combine the reliability and security of one of the world's leading clouds and one of our most critical enterprise software providers to accelerate our modernization journey with confidence," said Andrew Zitney, executive vice president and global chief technology officer, State Street. "By moving Oracle Exadata Database workloads to AWS, we will be able to unlock new innovation and value we can deliver to customers.""The collaboration between industry leaders like AWS and Oracle is great news for our customers," said Scott Petty, Chief Technology Officer, Vodafone. "The combination of AWS and Oracle complements our own strength and breadth of capabilities and will allow us to develop and deliver secure, resilient, and innovative services faster and at scale. In addition to giving Vodafone's developers access to the latest cloud and data technologies, this partnership also avoids unnecessary fragmentation, removes duplication, and reduces cost."Additional ResourcesLearn more about Oracle Cloud InfrastructureLearn more about OCI's distributed cloudLearn more about Oracle database services, Oracle Autonomous Database, Oracle Exadata Database Service and Oracle Base Database ServiceLearn more about Oracle on AWS MarketplaceLearn more about Oracle Applications on AWSLearn more about Amazon RDS for OracleAbout Oracle Distributed CloudOracle's distributed cloud delivers the benefits of cloud with greater control and flexibility.
+Oracle's distributed cloud lineup includes:Public cloud: Hyperscale public cloud regions serve any size of organization, including those requiring strict EU sovereignty controls. See the full list of regions here.Dedicated cloud: Customers can run all OCI cloud services in their own data centers with OCI Dedicated Region, while partners can resell OCI cloud services and customize the experience using Oracle Alloy. Oracle also operates separate U.S., UK, and Australian Government Clouds, and Isolated Cloud Regions for U.S. national security purposes. Each of these products provide a full cloud and AI stack that customers can deploy as a Sovereign Cloud.Hybrid cloud: OCI delivers key cloud services on-premises via Oracle Exadata Cloud@Customer and Compute Cloud@Customer and is already managing deployments in over 60 countries.Multicloud: Options including Oracle Database@AWS, Oracle Database@Azure, Oracle Database@Google Cloud, HeatWave MySQL on AWS and Microsoft Azure, Oracle Interconnect for Microsoft Azure, and Oracle Interconnect for Google Cloud allow customers to combine key capabilities from across clouds.About OracleOracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us atwww.oracle.com.About Amazon Web Services
+Since 2006, Amazon Web Services has been the world's most comprehensive and broadly adopted cloud. AWS has been continually expanding its services to support virtually any workload, and it now has more than 240 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, media, and application development, deployment, and management from 108 Availability Zones within 34 geographic regions, with announced plans for 18 more Availability Zones and six more AWS Regions in Mexico, New Zealand, the Kingdom of Saudi Arabia, Taiwan, Thailand, and the AWS European Sovereign Cloud. Millions of customersincluding the fastest-growing startups, largest enterprises, and leading government agenciestrust AWS to power their infrastructure, become more agile, and lower costs. To learn more about AWS, visit aws.amazon.com.Future Product DisclaimerThe preceding is intended to outline our general product direction. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, timing, and pricing of any features or functionality described for Oracle's products may change and remains at the sole discretion of Oracle Corporation.Forward-Looking Statements DisclaimerStatements in this article relating to Oracle's future plans, expectations, beliefs, and intentions are "forward-looking statements" and are subject to material risks and uncertainties. Many factors could affect Oracle's current expectations and actual results, and could cause actual results to differ materially. A discussion of such factors and other risks that affect Oracle's business is contained in Oracle's Securities and Exchange Commission (SEC) filings, including Oracle's most recent reports on Form 10-K and Form 10-Q under the heading "Risk Factors." These filings are available on the SEC's website or on Oracle's website athttp://www.oracle.com/investor. All information in this article is current as of September 9, 2024 and Oracle undertakes no duty to update any statement in light of new information or future events.TrademarksOracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud companyushering in the new era of cloud computing.  View original content to download multimedia:https://www.prnewswire.com/news-releases/oracle-and-amazon-web-services-announce-strategic-partnership-302242532.htmlSOURCE Oracle; AWS 
+
+Load-Date:September 9, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

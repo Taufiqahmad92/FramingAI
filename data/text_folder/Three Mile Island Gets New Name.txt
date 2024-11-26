@@ -1,0 +1,79 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Three Mile Island Gets New Name
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Three Mile Island Gets New Name
+News Release Wire
+September 20, 2024 Friday 4:34 PM EST
+
+
+Copyright 2024 Broadcast Interview Source, Inc. All Rights Reserved
+Length:335 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+
+		
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+TMI was the site of the nation's worst nuclear disaster in March 1979 after a loss of water coolant led to its partial meltdown and a radiation leak.
+The affected reactor, Unit 2, is still in a decommissioning stage.
+Constellation Energy, TMI owner, closed Unit 1 in 2019 for economic reasons.
+CCEC is expected to go online by 2028 after completion of a Nuclear Regulatory Commission safety and environmental review, and the acquisition of various state and local permits. 
+It will provide carbon-free power to Microsoft's AI operations over the next 20 years and add 835 megawatts to the grid.
+Joe Dominguez, CEO of Constellation, said Unit 1 was 'among the safest and most reliable nuclear plants on the grid' at the time of its premature shutdown.
+The reopened reactor will be named after Christopher Crane, the former CEO of Constellation's parent company, Exelon.
+He died in April after a short illness and complications from pneumonia. 
+Crane, who was a leading advocate for nuclear power, was 65.
+About: 
+O'Dwyer's has been covering public relations, marketing communications and related fields for 53 years. The company provides the latest news and information about PR firms and professionals, the media, corporations, legal issues, jobs, technology, and much more through its website, weekly newsletter, monthly magazine, directories, and guides ( O'Dwyer publications ).
+Our editors and writers have decades of experience covering the PR field. They come up with stories and insights that appear nowhere else. 
+We're the most quoted source on the PR field by major media because they know we have the answers. Both the  New York Times  and  Washington Post  have referred to O'Dwyer's as the "bible" of PR.
+The O'Dwyer Company is based in New York City at 271 Madison Avenue, the same address the company was founded at in 1968.
+http://www.Newsreleasewire.com/306809
+
+Load-Date:September 21, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

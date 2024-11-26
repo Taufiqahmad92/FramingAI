@@ -1,0 +1,77 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: GAME-CHANGING TECH TO REACH THE PUBLIC FASTER AS DEDICATED NEW UNIT LAUNCHED TO CURB RED TAPE
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+GAME-CHANGING TECH TO REACH THE PUBLIC FASTER AS DEDICATED NEW UNIT LAUNCHED TO CURB RED TAPE
+States News Service
+October 8, 2024 Tuesday
+
+
+Copyright 2024 States News Service
+Length:1407 words
+Byline:States News Service
+Dateline:LONDON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Science Secretary launches new Regulatory Innovation Office today to speed up public access to new technologies.
+From:
+Department for Science, Innovation and Technology and The Rt Hon Peter Kyle MP
+Published
+8 October 2024
+Regulatory Innovation Office to reduce the burden of red tape and speed up access to new technologies that improve our daily lives from AI in healthcare to emergency delivery drones
+Search begins for a Chair to lead the office, driving economic growth through regulatory reform that enables innovation
+New Office delivers on a key manifesto commitment and is among steps to back business in buildup to UK hosting International Investment Summit
+New technologies, like AI for better treatments in our NHS and drones delivering emergency supplies to all corners of the UK, could reach the public faster through a dedicated new office that will reduce the burden of red tape on innovation and help kickstart economic growth.
+The new Regulatory Innovation Office (RIO) will reduce the burden for businesses hoping to bring new products and services to the market in some of the UK's fastest-growing sectors through innovations like AI training software for surgeons to deliver more accurate surgical treatments for patients and drones which can improve business efficiency and quickly send critical deliveries to remote parts of the country.
+To do so, it will support regulators to update regulation, speeding up approvals, and ensuring different regulatory bodies work together smoothly. It will work to continuously inform the government of regulatory barriers to innovation, set priorities for regulators which align with the government's broader ambitions and support regulators to develop the capability they need to meet them and grow the economy.
+The announcement comes ahead of further plans to reduce the burden of red tape and support the government's key mission of kickstarting growth across the country. The new Office will also help set the scene for when the UK hosts the International Investment Summit on Monday 14 October, where the Chancellor will make clear that the UK is "open for business" as the government resets relations with trading partners around the globe.
+The launch of the RIO comes hot on the heels of a raft of public and private investments announced on Sunday (6 October) aimed at transforming cancer treatments for patients while bringing a wave of cutting-edge UK-made MedTech products to the global market.
+The RIO's mission will initially support the growth of four fast-growing areas of technology making a difference to people's lives before backing further technologies and sectors as the Office evolves. These are:
+Engineering biology this is the use of synthetic biology and biotechnology to create new products and services derived from organic sources. These technologies can improve health with new treatments like innovative vaccines, help create cleaner fuels and make food production more efficient and sustainable such as through pest resistant crops and cultivated meat. The new RIO will help regulators to bring those products to market safely and more quickly - realising the environmental and health benefits they can bring to our lives.
+Space the UK's space industry is growing fast, supporting everything from GPS on phones to vital communication systems, as new innovations improve our weather forecasting to disaster response systems. To sustain this growth, regulatory reform is needed for greater agility and clarity help foster competition, encourage investment, and open up market access.
+Artificial Intelligence and digital in healthcare with increasing pressures on the NHS, AI is set to revolutionise healthcare delivery so doctors can diagnose illnesses faster and improve patient care. It will help run hospitals more efficiently with medical staff able to spend less time on administration, cutting waiting times and it could enable more personalised medicines, tailoring treatment to individuals. RIO will support the healthcare sector to deploy AI innovations safely, improving NHS efficiency and patients' health outcomes.
+Connected and autonomous technology autonomous vehicles like drones can deliver emergency supplies to remote areas quickly and efficiently and work to approve this technology could play a key part in supporting emergency services to keep people safe. Greater support could also enable more drones to be used by businesses across the UK, building on projects like the drone service used by Royal Mail to deliver to Orkney and improving efficiency.
+The cross-cutting nature of these emerging technologies, which do not fit neatly into existing regulatory frameworks can mean a slower process in getting them onto the market. The new Office will work closely with government departments including the Department for Transport, the Department for Health and Social Care, and the Department for Environment Food and Rural Affairs to address regulatory barriers in these initial growth areas.
+The new office will also bring regulators together and working to remove obstacles and outdated regulations to the benefit of businesses and the public, unlocking the power of innovation from these sectors to generate tens of billions of pounds for the UK economy in the coming years.
+Science and Technology Secretary, Peter Kyle, said:
+The launch of the Regulatory Innovation Office, a key manifesto commitment, is a big step forward in bringing the UK's most promising new technologies to the public faster and safely while kickstarting economic growth.
+By speeding up approvals, providing regulatory certainty and reducing unnecessary delays, we're curbing the burden of red tape so businesses and our public services can innovate and grow, which means more jobs, a stronger economy, and a better quality of life for people across the UK.
+From breakthroughs that could help doctors diagnose illnesses earlier to satellite navigation for more accurate weather forecasting and getting emergency supplies to where they are needed, quickly and effectively, RIO will make sure UK companies are at the forefront of the next generation of technologies.
+The Science and Technology Secretary is also looking to appoint the RIO's first Chair to lead the charge in backing business and safe innovation, and work with regulators and partners to shape a regulatory environment that is fit for the future. Applications are now being welcomed for an ambitious, visionary leader committed to driving that change.
+The organisation has been established within DSIT, where it will incorporate the existing functions of the Regulatory Horizons Council and the Regulators' Pioneer Fund.
+Alongside the launch of the RIO, the government is already making progress in developing regulatory frameworks for emerging technologies, becoming the first country to outline how it will approach quantum regulation, offering certainty to the sector and encouraging the responsible development of the technology.
+This is set out in our response to the Regulatory Horizon Council's report on quantum technologies, also published today. It marks a crucial first step in regulating innovation in a technology that will increasingly underpin powerful computers, secure communications and advanced sensors, in sectors from healthcare to national security.
+Alongside this package of announcements, today we are announcing:
+A 1.6 million award to the Food Standards Agency (FSA) as part of round one of the Engineering Biology Sandbox Fund, which aims to test innovative regulatory approaches for products like cultivated meat. Cell-cultivated products are foods created through the isolation of cells from meat, seafood, fat, offal or eggs which are grown in a controlled environment. It could result in food production which is more environmentally friendly and sustainable, using just 1% of the land used for animal equivalents, while increasing food security. Programmes like this will help bring innovative food products to shop shelves safely but without unnecessary delay and at lower costs, giving consumers more choice.
+The publication of new voluntary screening guidance for synthetic nucleic acid. These technologies allow companies to 'print' DNA and RNA, enabling academics and businesses to study and engineer biological systems that help sectors like healthcare and accelerate our path to net-zero. The guidance emphasises the governme
+
+Load-Date:October 8, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

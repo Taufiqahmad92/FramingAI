@@ -1,0 +1,120 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: This Week in Health News: 12 Stories You Need to See
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+This Week in Health News: 12 Stories You Need to See
+PR Newswire
+October 18, 2024 Friday 6:32 AM EST
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Length:1357 words
+Dateline:NEW YORK, Oct. 18, 2024 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+ The list below includes the headline (with a link to the full text) and an excerpt from each story. Click on the press release headlines to access accompanying multimedia assets that are available for download.New CVS Health® Report Explores Ongoing Transformation of Community PharmacyMost consumers (81%) say they trust their local pharmacist and 83% say their pharmacist's recommendations are important to them, according to the Rx Report: Transforming Community Pharmacy to Make Healthier Happen Together.Aetna introduces SimplePay HealthThe new plan, for self-insured clients, works to further reduce costs, improve health outcomes and simplify the health care experience through a differentiated approach to health care coverage.Post-Hurricanes, BayCare Partners with HHS to Increase Emergency CareBayCare Health System has partnered with the federal government to establish the first Disaster Medical Assistance Team (DMAT) in the state of Florida after two recent hurricanes. The DMAT will increase West Central Florida's access to emergency care after the region was devastated by massive storms.New Data Reveals Elanco's Canine Parvovirus Monoclonal Antibody Treatment Significantly Improves Puppy Survival Rates and Relieves Operational Stress in Veterinary Clinics"Earlier this year, Elanco launched a bold mission to save 1 million puppies from parvovirus by 2030. I'm proud that in the first year, thousands of puppies have been saved as a result of the Canine Parvovirus Monoclonal Antibody, including Cookie, Mono and Luna, to name a few," said Bobby Modi, Executive Vice President, U.S. Pet Health.Deloitte Analysis: Consumer Demand for Virtual Health Outpaces Market OfferingsNinety-four percent of consumers want virtual health, yet nearly 50% of health systems are providing the same or fewer virtual visits compared to two years ago, according to Deloitte's report.Le-Vel Donates $225,000 in Vital Nutrition, Delivering 64,000 Meals to Aid Hurricane ReliefThe world leader in premium nutrition and lifestyle products donated approximately 64,000 of its meal replacement shakesvalued at nearly $225,000to Convoy of Hope to support those affected by the devastating aftermath of Hurricanes Helene and Milton.FDA Approves IMULDOSA (ustekinumab-srlf), Accord BioPharma's Biosimilar to STELARA® (ustekinumab), for the Treatment of Chronic Inflammatory ConditionsFor the millions of Americans living with chronic inflammatory conditions like psoriasis, psoriatic arthritis, Crohn's disease, and ulcerative colitis, which can be painful and can have a significant impact on quality of life, emotional well-being, and self-image, IMULDOSA has the potential to be an affordable treatment option that provides similar benefits to the current standard of care.WHO Foundation Pledges USD 50 Million to World Health OrganizationThis past week at the World Health Summit, the WHO Foundation announced a multi-year commitment of USD 50 million to the World Health Organization (WHO) for its work in 2025-2028, which it estimates will save 40 million lives.Peach State Health Plan and Centene Foundation Announce $100,000 Donation to Support Hurricane Relief Efforts in GeorgiaThe donation will aid community-based organizations in regions heavily impacted by Hurricanes Helene and Milton. The response efforts will include the distribution of emergency food, water and shelter supplies, provision of medical care and mental health resources, transportation for displaced individuals and families, housing and infrastructure rebuilding and more.Genomics Releases New Research Showing Significant Link Between Genetic Risk and ObesityThe new research shows that from a young age, a person's BMI is strongly correlated with their genetics, as measured using polygenic risk scores (PRS). The influence of genetics on BMI becomes more pronounced into young adulthood and middle age.Kidney Transplantation Among Those with HIV Infections Shown Safe and EffectiveResearchers at NYU Langone Health found it is just as safe and effective for people with HIV in need of kidney transplantation to get their organ from donors who are also HIV positive as it is from donors who are not infected with the virus.Medline partners with Microsoft to revolutionize healthcare supply chain operationsTogether, the two organizations are designing an innovative healthcare supply chain resiliency solution built on Microsoft 365 and powered by Azure AI that is easy to navigate, predictive and secure. The solution will aim to leverage AI-generated insights to save time, headaches and hassle while eliminating onerous technology implementation through integrated inventory management.For more news like this, check out all ofthe latest health-related releases from PR Newswire.Do you have a health press release to distribute?Sign up with PR Newswireto share your story with the audiences who matter most.Breast Cancer Awareness MonthWith the international health campaign in full swing, patient-focused organizations and non-profits reported on their efforts to fight the disease.Here are a few of the week's big releases:Breastcancer.org Survey Reveals Severe Side Effects and Gaps in Long-Term Care Discussions for Breast Cancer PatientsReducing Breast Cancer Risk Through Proactive Genetic ScreeningVirginia Cancer Specialists Reveals New Brand Direction for Their Comprehensive Breast Center, Expansion of High-Risk Breast Clinic, and New Hope-Inspired Slogan in Honor of October, Breast Cancer Awareness MonthTeam IEHP Raises $25,000 for Inland Empire MORE THAN PINK WalkHoag Joins Hospitals, Researchers and Patients Worldwide to Declare Global Lobular Breast Cancer Awareness Day on October 15thHelping Journalists Stay Up to Date on Industry NewsThese are just a few of the recent press releases that consumers and the media should know about. To be notified of releases relevant to their coverage area, journalists can set up a custom newsfeed withPR Newswire for Journalists.Once they're signed up, reporters, bloggers, and freelancers have access to the followingfreefeatures:Customization: Users can create customized newsfeeds that will deliver relevant news right to their inbox. Newsfeed results can be targeted by keywords, industry, subject, geography, and more.Photos and Videos: Thousands of multimedia assets are available to download and include in a journalist or blogger's next story.Subject Matter Experts: Journalists will have access to ProfNet, a database of industry experts to connect with as sources or for quotes in their articles.Related Resources: Our journalist- and blogger-focused blog, Beyond Bylines, features regular media news roundups, writing tips, upcoming events, and more.About PR NewswirePR Newswire is the industry's leading press release distribution partner with an unparalleled global reach of more than 440,000 newsrooms, websites, direct feeds, journalists and influencers and is available in more than 170 countries and 40 languages. From our award-winning Content Services offerings, integrated media newsroom and microsite products, Investor Relations suite of services, paid placement and social sharing tools, PR Newswire has a comprehensive catalog of solutions to solve the modern-day challenges PR and communications teams face. For 70 years, PR Newswire has been the preferred destination for brands to share their most important news stories across the world.For questions, contact the team at .  View original content to download multimedia:https://www.prnewswire.com/news-releases/this-week-in-health-news-12-stories-you-need-to-see-302279999.htmlSOURCE PR Newswire 
+
+Load-Date:October 18, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

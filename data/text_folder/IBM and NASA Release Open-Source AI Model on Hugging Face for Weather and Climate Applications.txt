@@ -1,0 +1,43 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: IBM and NASA Release Open-Source AI Model on Hugging Face for Weather and Climate Applications
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+IBM and NASA Release Open-Source AI Model on Hugging Face for Weather and Climate Applications
+PR Newswire
+September 23, 2024 Monday 8:00 AM EST
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Length:1261 words
+Dateline:YORKTOWN HEIGHTS, N.Y., Sept. 23, 2024 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpgAI foundation model offers insights beyond forecasting for scientists, developers, and businesses to better understand and analyze weather and climate dataYORKTOWN HEIGHTS, N.Y., Sept. 23, 2024 /PRNewswire/ -- IBM (NYSE:IBM) today announced a newAIfoundation model for a variety of weather and climate use cases, available in open-source to the scientific, developer, and business communities. Developed by IBM and NASA, with contributions from Oak Ridge National Laboratory, the model offers a flexible, scalable way to address a variety of challenges related to short-term weather as well as long-term climate projection. 
+ Because of its unique design and training regime, the weather and climate foundation model can tackle far more applications than existing weatherAI models, as outlined in apaperrecently published on arXiv, "Prithvi WxC: Foundation Model for Weather and Climate." Potential applications include creating targeted forecasts based on local observations, detecting and predicting severe weather patterns, improving the spatial resolution of global climate simulations, and improving how physical processes are represented in numerical weather and climate models. In one experiment in the above identified paper, the foundation model accurately reconstructed global surface temperatures from a random sample of only five percent original data, suggesting a broader application to problems in data assimilation.This model was pre-trained on 40 years of Earth observation data from NASA's Modern-Era Retrospective analysis for Research and Applications, Version 2 (MERRA-2). As a foundation model, it has a unique architecture which allows it to be fine-tuned to global, regional, and local scales. This flexibility makes it suited for a range of weather studies.The foundation model is available for download on Hugging Face, along with two fine-tuned versions of the model that tackle specific scientific and industry-relevant applications. These are:Climate and weather data downscaling: A common meteorological practice is downscalinginferring high-resolution outputs from low-resolution variables. Typical data inputs include temperature, precipitation, and surface winds, all of which can have varied resolutions. The model can depict both weather and climate data at up to 12x resolution, generating localized forecasts and climate projections. The fine-tuned downscaling model is available on the IBM Granite page on Hugging Face.Gravity wave parameterization: Gravity waves are ubiquitous throughout the atmosphere and can affect many atmospheric processes related to climate and weather, such as cloud formation and aircraft turbulence. Traditionally, existing numerical climate models have not sufficiently captured gravity waves, which leads to uncertainties in terms of how exactly gravity waves can affect climate processes. This weather and climate foundation model can help scientists better estimate gravity wave generation, to improve the accuracy of numerical weather and climate models and constrain uncertainty when simulating future weather and climate events. This gravity wave parameterization model is being released as part of the NASA-IBM Prithvi family of models on Hugging Face."Advancing NASA's Earth science for the benefit of humanity means delivering actionable science in ways that are useful to people, organizations, and communities. The rapid changes we're witnessing on our home planet demand this strategy to meet the urgency of the moment," said Karen St. Germain, director of the Earth Science Division of NASA's Science Mission Directorate. "The NASA foundation model will help us produce a tool that people can use: weather, seasonal, and climate projections to help inform decisions on how to prepare, respond, and mitigate." "This space has seen the emergence of large AI models that focus on a fixed dataset and single use case  primarily forecasting. We have designed our weather and climate foundation model to go beyond such limitations so that it can be tuned to a variety of inputs and uses," said Juan Bernabe-Moreno, Director of IBM Research Europe and IBM's Accelerated Discovery Lead for Climate and Sustainability. "For example, the model can run both on the entire earth as well as in a local context. With such flexibility on the technology side, this model is well-suited to help us understand meteorological phenomena such as hurricanes or atmospheric rivers, reason about future potential climate risks by increasing the resolution of climate models, and finally inform our understanding of imminent severe weather events.""As a premier research institution and computing facility, we're focused on supporting teams to make research breakthroughs across many areas of science," said Arjun Shankar, director of the National Center for Computational Sciences at Oak Ridge National Laboratory. "Our collaboration with IBM and NASA to support the creation of the Prithvi weather and climate foundation model was a key part of our goal to bring advanced computing and data to problems of national importance, in this case, for weather and climate applications, which need continued computational science and model skill improvements to be impactful."IBM has already collaborated with Environment and Climate Change Canada (ECCC) with a view to test the flexibility of the model with additional weather forecasting use cases. With the model, ECCC is exploring very short-term precipitation forecasts using a technique called precipitation nowcasting that ingests real-time radar data as input. The team is also testing the downscaling approach from global model forecasts at 15 km to km-scale resolution.This weather and climate model is part of a larger collaboration between IBM Research and NASA to use AI technology to explore our planet, and joins the Prithvi family of AI foundation models. Last year, IBM and NASA made the Prithvi geospatial AI foundation model the largest open-source geospatial AI model available on Hugging Face. This geospatial foundation model has since been used by governments, companies, and public institutions to examine changes in disaster patterns, biodiversity, land use, and other geophysical processes. The foundation model and the gravity wave parameterization model can be accessed through theNASA-IBM Hugging Facepage and the downscaling model can be accessed through theIBM Granite Hugging Face page.About IBMIBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 175 countries capitalize on insights from their data, streamline business processes, reduce costs and gain the competitive edge in their industries. Thousands of governments and corporate entities in critical infrastructure areas such as financial services, telecommunications and healthcare rely on IBM's hybrid cloud platform and Red Hat OpenShift to affect their digital transformations quickly, efficiently and securely. IBM's breakthrough innovations in AI, quantum computing, industry-specific cloud solutions and consulting deliver open and flexible options to our clients. All of this is backed by IBM's long-standing commitment to trust, transparency, responsibility, inclusivity and service.Media ContactBethany Hill McCarthy
+IBM Research Communications
+Ashley Peterson
+IBM Research Communications
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ibm-and-nasa-release-open-source-ai-model-on-hugging-face-for-weather-and-climate-applications-302255521.htmlSOURCE IBM 
+
+Load-Date:September 23, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

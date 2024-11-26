@@ -1,0 +1,628 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: HELENE RELIEF EFFORTS: NCANG DELIVERS 450,000 POUNDS OF CARGO AND COUNTING
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+HELENE RELIEF EFFORTS: NCANG DELIVERS 450,000 POUNDS OF CARGO AND COUNTING
+US Fed News
+October 7, 2024 Monday 12:31 PM EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:4959 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+* Published Oct. 7, 2024
+*
+By 2nd Lt. Mary McKnight, 145th Airlift Wing Public Affairs
+CHARLOTTE-DOUGLAS INTERNATIONAL AIRPORT BASE, N.C. (AFNS) -- Seven days after Hurricane Helene devastated Western North Carolina, the North Carolina Air National Guard delivered an additional 80,000 pounds of food, water, and other critical supplies to the Asheville Regional Airport.
+Senior Airman Rielly K. Coolidge, 156th Airlift Squadron loadmaster, and Master Sgt. Madeline D. Hefner, 156th Airlift Squadron loadmaster, observe as Tech. Sgt. Kaushika P. Silva, 156th Airlift Squadron loadmaster, marshals a hurricane relief pallet to a C-17 Globemaster III for delivery to Western North Carolina in support of humanitarian efforts following Tropical Storm Helene at the North Carolina Charlotte-Douglas, International Airport, October 3, 2024. The cargo delivered aboard the C-17 consisted of Meals Ready to Eat (MREs), water, medication and other vital supplies. (U.S. Air National Guard photo by Staff Sgt. Reanna Hartgrove)
+Photo Details
+/
+Download Hi-Res
+$(document).ready(function () {
+let isDesktopInit = false;
+let detailSize = "full";
+let displayhgt = "95vh";
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
+buttons: ['share'],
+caption: function (instance, item) {
+var caption = '';
+if (item.type === 'image') {
+if (isMobile()) {
+caption += '' +
+'' +
+'
+' +
+$(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare() +
+'' +
+'' +
+'
+SHOW PHOTO DETAILS ';
+}
+else {
+caption += $(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare();
+}
+}
+return caption;
+},
+afterLoad: function (instance, current) {
+//initial desktop view
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
+if (isMobile())
+$(".fancybox-caption__body").addClass("mobile");
+},
+afterShow: function (instance, current) {
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+if (isMobile())
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+},
+afterClose: function () {
+}
+}));
+let debounceTimer;
+$(window).on("resize", function (event) {
+if (isMobile())
+return;
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+event.stopImmediatePropagation();
+$(".fancybox-caption__body").removeClass("half");
+isDesktopInit = false;
+captionToggle();
+debounceTimer = setTimeout(function () {
+clearTimeout(debounceTimer);
+debounceTimer = null;
+recalculateImageSize();
+}, 1000);
+}
+});
+function recalculateImageSize() {
+// Fancy box miscalculates because of race conditions with new layout
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+var winWth = $(window).innerWidth();
+var winHgt = $(window).innerHeight()
+var ratio = Math.min(winWth / origImgWth,
+winHgt / origImgHgt);
+var newImgWth = (origImgWth * ratio);
+var newImgHgt = (origImgHgt * ratio);
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+$(".fancybox-content").removeAttr("style");
+$(".fancybox-content").css("width", newImgWth + "px");
+$(".fancybox-content").css("height", newImgHgt + "px");
+$(".fancybox-content").css("transform",
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+}
+function captionToggle() {
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+// Animation complete.
+closeDetails();
+});
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+}
+else {
+$(".fancybox-caption__body").addClass("af3-caption-body");
+$(".af3-caption-body").addClass(detailSize);
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+$(".fancybox-caption").addClass("af3-caption-bg");
+$(".base-caption-info").addClass("full-height");
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "none");
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+$(".fancybox-caption__body").prepend(prependClosing());
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+}
+}
+function getDetailsURL(fbObj) {
+return 'DETAILS';
+}
+function getDownloadURL(fbObj) {
+return 'DOWNLOAD';
+}
+function showFBShare() {
+return 'SHARE';
+}
+function closeDetails() {
+$(".af3-caption-body").removeClass(detailSize);
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+$(".fancybox-caption").removeClass("af3-caption-bg");
+$(".base-caption-info").removeClass("full-height");
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "block");
+if (detailSize === "half") {
+detailSize = "full";
+displayhgt = "90vh";
+$(".fancybox-caption").removeClass("desktop-init");
+}
+}
+function prependClosing() {
+return ''
+}
+function isMobile() {
+var isMobile = false; //initiate as false
+// device detection
+if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+|| /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+isMobile = true;
+}
+return isMobile;
+}
+});
+"We are standing in front of 18 pallets of cargo that's been prepped for delivery to Asheville, North Carolina," said Chief Master Sgt. Jeremy Mullins, 145th Airlift Wing command chief.
+The Federal Emergency Management Agency coordinated with the NCANG to drop off food, waterand supplies to be loaded onto a C-17 Globemaster III to be distributed throughout Western Carolina assisting those impacted by Hurricane Helene.
+"Airmen of all (Air Force specialty codes) have been working all day; civil engineers, first sergeants, loadmasters, and Airmen have stepped up outside of their AFSC skillset to ensure the mission is completed," Mullins said.
+The 145th AW has activated 119 service members from the following units within their organization: the 145th Wing Staff, the 145th Operations Group, the 145th Medical Group, the 145th Maintenance Group, the 145th Mission Support Group, the 145th Logistics Readiness Squadron, the 145th Security Forces Squadron, the 145th Force Support Squadron, the 145th Operations Support Squadron, the 145th Civil Engineer Squadron, the 145th Maintenance Squadron, the 145th Communications Squadron, the 118th Air Support Operations Squadron, the 263rd Combat Communications Squadron, the 156th Airlift Squadron and the 145th Comptroller Flight; all multi-capable Airmen, ready to aid the citizens of Western Carolina.
+"On the first day of the storm we activated our first response teams," said Col. Marshal T. Haylett, 145th AW commander. "Since then, we've been adding capabilities daily. We have road clearance teams as well as teams in Asheville receiving cargo from multiple agencies, organizing and distributing supplies further into Western North Carolina where they are in the most need."
+Members of the North Carolina Air National Guard palletize hurricane relief commodities for delivery to Western North Carolina in support humanitarian efforts following Tropical Storm Helene at the North Carolina Air National Guard, Charlotte-Douglas International Airport, N.C., Oct. 3, 2024. The pallets delivered aboard a C-17 Globemaster III consisted of meals, ready to eat; water; medication and other vital supplies. (U.S. Air National Guard photo by Staff Sgt. Reanna Hartgrove)
+Photo Details
+/
+Download Hi-Res
+$(document).ready(function () {
+let isDesktopInit = false;
+let detailSize = "full";
+let displayhgt = "95vh";
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
+buttons: ['share'],
+caption: function (instance, item) {
+var caption = '';
+if (item.type === 'image') {
+if (isMobile()) {
+caption += '' +
+'' +
+'
+' +
+$(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare() +
+'' +
+'' +
+'
+SHOW PHOTO DETAILS ';
+}
+else {
+caption += $(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare();
+}
+}
+return caption;
+},
+afterLoad: function (instance, current) {
+//initial desktop view
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
+if (isMobile())
+$(".fancybox-caption__body").addClass("mobile");
+},
+afterShow: function (instance, current) {
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+if (isMobile())
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+},
+afterClose: function () {
+}
+}));
+let debounceTimer;
+$(window).on("resize", function (event) {
+if (isMobile())
+return;
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+event.stopImmediatePropagation();
+$(".fancybox-caption__body").removeClass("half");
+isDesktopInit = false;
+captionToggle();
+debounceTimer = setTimeout(function () {
+clearTimeout(debounceTimer);
+debounceTimer = null;
+recalculateImageSize();
+}, 1000);
+}
+});
+function recalculateImageSize() {
+// Fancy box miscalculates because of race conditions with new layout
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+var winWth = $(window).innerWidth();
+var winHgt = $(window).innerHeight()
+var ratio = Math.min(winWth / origImgWth,
+winHgt / origImgHgt);
+var newImgWth = (origImgWth * ratio);
+var newImgHgt = (origImgHgt * ratio);
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+$(".fancybox-content").removeAttr("style");
+$(".fancybox-content").css("width", newImgWth + "px");
+$(".fancybox-content").css("height", newImgHgt + "px");
+$(".fancybox-content").css("transform",
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+}
+function captionToggle() {
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+// Animation complete.
+closeDetails();
+});
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+}
+else {
+$(".fancybox-caption__body").addClass("af3-caption-body");
+$(".af3-caption-body").addClass(detailSize);
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+$(".fancybox-caption").addClass("af3-caption-bg");
+$(".base-caption-info").addClass("full-height");
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "none");
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+$(".fancybox-caption__body").prepend(prependClosing());
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+}
+}
+function getDetailsURL(fbObj) {
+return 'DETAILS';
+}
+function getDownloadURL(fbObj) {
+return 'DOWNLOAD';
+}
+function showFBShare() {
+return 'SHARE';
+}
+function closeDetails() {
+$(".af3-caption-body").removeClass(detailSize);
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+$(".fancybox-caption").removeClass("af3-caption-bg");
+$(".base-caption-info").removeClass("full-height");
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "block");
+if (detailSize === "half") {
+detailSize = "full";
+displayhgt = "90vh";
+$(".fancybox-caption").removeClass("desktop-init");
+}
+}
+function prependClosing() {
+return ''
+}
+function isMobile() {
+var isMobile = false; //initiate as false
+// device detection
+if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+|| /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+isMobile = true;
+}
+return isMobile;
+}
+});
+Members of the North Carolina Air National Guard push a hurricane relief pallet into position on a C-17 Globemaster III for delivery to Western North Carolina in support of humanitarian efforts following Tropical Storm Helene at the North Carolina Air National Guard, Charlotte-Douglas International Airport, N.C., Oct. 3, 2024. The cargo delivered aboard the C-17 consisted of meals, ready to eat; water; medication and other vital supplies. (U.S. Air National Guard photo by Staff Sgt. Reanna Hartgrove)
+Photo Details
+/
+Download Hi-Res
+$(document).ready(function () {
+let isDesktopInit = false;
+let detailSize = "full";
+let displayhgt = "95vh";
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
+buttons: ['share'],
+caption: function (instance, item) {
+var caption = '';
+if (item.type === 'image') {
+if (isMobile()) {
+caption += '' +
+'' +
+'
+' +
+$(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare() +
+'' +
+'' +
+'
+SHOW PHOTO DETAILS ';
+}
+else {
+caption += $(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare();
+}
+}
+return caption;
+},
+afterLoad: function (instance, current) {
+//initial desktop view
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
+if (isMobile())
+$(".fancybox-caption__body").addClass("mobile");
+},
+afterShow: function (instance, current) {
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+if (isMobile())
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+},
+afterClose: function () {
+}
+}));
+let debounceTimer;
+$(window).on("resize", function (event) {
+if (isMobile())
+return;
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+event.stopImmediatePropagation();
+$(".fancybox-caption__body").removeClass("half");
+isDesktopInit = false;
+captionToggle();
+debounceTimer = setTimeout(function () {
+clearTimeout(debounceTimer);
+debounceTimer = null;
+recalculateImageSize();
+}, 1000);
+}
+});
+function recalculateImageSize() {
+// Fancy box miscalculates because of race conditions with new layout
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+var winWth = $(window).innerWidth();
+var winHgt = $(window).innerHeight()
+var ratio = Math.min(winWth / origImgWth,
+winHgt / origImgHgt);
+var newImgWth = (origImgWth * ratio);
+var newImgHgt = (origImgHgt * ratio);
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+$(".fancybox-content").removeAttr("style");
+$(".fancybox-content").css("width", newImgWth + "px");
+$(".fancybox-content").css("height", newImgHgt + "px");
+$(".fancybox-content").css("transform",
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+}
+function captionToggle() {
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+// Animation complete.
+closeDetails();
+});
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+}
+else {
+$(".fancybox-caption__body").addClass("af3-caption-body");
+$(".af3-caption-body").addClass(detailSize);
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+$(".fancybox-caption").addClass("af3-caption-bg");
+$(".base-caption-info").addClass("full-height");
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "none");
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+$(".fancybox-caption__body").prepend(prependClosing());
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+}
+}
+function getDetailsURL(fbObj) {
+return 'DETAILS';
+}
+function getDownloadURL(fbObj) {
+return 'DOWNLOAD';
+}
+function showFBShare() {
+return 'SHARE';
+}
+function closeDetails() {
+$(".af3-caption-body").removeClass(detailSize);
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+$(".fancybox-caption").removeClass("af3-caption-bg");
+$(".base-caption-info").removeClass("full-height");
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "block");
+if (detailSize === "half") {
+detailSize = "full";
+displayhgt = "90vh";
+$(".fancybox-caption").removeClass("desktop-init");
+}
+}
+function prependClosing() {
+return ''
+}
+function isMobile() {
+var isMobile = false; //initiate as false
+// device detection
+if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+|| /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+isMobile = true;
+}
+return isMobile;
+}
+});
+Members of the North Carolina Air National Guard load a light cart onto a C-17 Globemaster III for delivery to Western North Carolina at the North Carolina Air National Guard, Charlotte-Douglas International Airport, N.C., Oct. 3, 2024. The cargo delivered aboard the C-17 in support of humanitarian efforts following Tropical Storm Helene consisted of meals, ready to eat; water; medication and other vital supplies. (U.S. Air National Guard photo by Staff Sgt. Reanna Hartgrove)
+Photo Details
+/
+Download Hi-Res
+$(document).ready(function () {
+let isDesktopInit = false;
+let detailSize = "full";
+let displayhgt = "95vh";
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
+buttons: ['share'],
+caption: function (instance, item) {
+var caption = '';
+if (item.type === 'image') {
+if (isMobile()) {
+caption += '' +
+'' +
+'
+' +
+$(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare() +
+'' +
+'' +
+'
+SHOW PHOTO DETAILS ';
+}
+else {
+caption += $(this).find('figcaption').html() +
+getDetailsURL($(this).parent()) +
+getDownloadURL($(this).parent()) +
+showFBShare();
+}
+}
+return caption;
+},
+afterLoad: function (instance, current) {
+//initial desktop view
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
+if (isMobile())
+$(".fancybox-caption__body").addClass("mobile");
+},
+afterShow: function (instance, current) {
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+if (isMobile())
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+},
+afterClose: function () {
+}
+}));
+let debounceTimer;
+$(window).on("resize", function (event) {
+if (isMobile())
+return;
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+event.stopImmediatePropagation();
+$(".fancybox-caption__body").removeClass("half");
+isDesktopInit = false;
+captionToggle();
+debounceTimer = setTimeout(function () {
+clearTimeout(debounceTimer);
+debounceTimer = null;
+recalculateImageSize();
+}, 1000);
+}
+});
+function recalculateImageSize() {
+// Fancy box miscalculates because of race conditions with new layout
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+var winWth = $(window).innerWidth();
+var winHgt = $(window).innerHeight()
+var ratio = Math.min(winWth / origImgWth,
+winHgt / origImgHgt);
+var newImgWth = (origImgWth * ratio);
+var newImgHgt = (origImgHgt * ratio);
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+$(".fancybox-content").removeAttr("style");
+$(".fancybox-content").css("width", newImgWth + "px");
+$(".fancybox-content").css("height", newImgHgt + "px");
+$(".fancybox-content").css("transform",
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+}
+function captionToggle() {
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+// Animation complete.
+closeDetails();
+});
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+}
+else {
+$(".fancybox-caption__body").addClass("af3-caption-body");
+$(".af3-caption-body").addClass(detailSize);
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+$(".fancybox-caption").addClass("af3-caption-bg");
+$(".base-caption-info").addClass("full-height");
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "none");
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+$(".fancybox-caption__body").prepend(prependClosing());
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+}
+}
+function getDetailsURL(fbObj) {
+return 'DETAILS';
+}
+function getDownloadURL(fbObj) {
+return 'DOWNLOAD';
+}
+function showFBShare() {
+return 'SHARE';
+}
+function closeDetails() {
+$(".af3-caption-body").removeClass(detailSize);
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+$(".fancybox-caption").removeClass("af3-caption-bg");
+$(".base-caption-info").removeClass("full-height");
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+$(".fancybox-button").css("display", "block");
+if (detailSize === "half") {
+detailSize = "full";
+displayhgt = "90vh";
+$(".fancybox-caption").removeClass("desktop-init");
+}
+}
+function prependClosing() {
+return ''
+}
+function isMobile() {
+var isMobile = false; //initiate as false
+// device detection
+if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+|| /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+isMobile = true;
+}
+return isMobile;
+}
+});
+Since Helene touched down, the 145th AW has completed four C-17 missions, delivering 228 pallets equaling 50,000 pounds of various supplies and more than 400,000 pounds of water, meals ready to eat and medication.
+"The men and women of the 145th Airlift Wing remain an essential part of Helene relief efforts," Haylett said. "We will continue to be a part of the response for as long as we are needed."
+For Assistance:
+There is no right or wrong way to feel in response to the trauma of a hurricane. If you have been impacted by the storm and need someone to talk to, call or text the Disaster Distress Helpline at 800-985-5990. Help is also available to anyone, anytime in English or Spanish through a call, text or chat to 988. Learn more at 988Lifeline.org.
+If you are seeking a representative from the North Carolina Joint Information Center, please email ncempio@ncdps.gov or call 919-825-2599.
+If you would like general information, access to resources, or answers to frequently asked questions, please visit ncdps.gov/helene.
+If you are seeking information on resources for recovery help for a resident impacted from the storm, please email IArecovery@ncdps.gov
+U.S. Air Force Logo For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date:October 8, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

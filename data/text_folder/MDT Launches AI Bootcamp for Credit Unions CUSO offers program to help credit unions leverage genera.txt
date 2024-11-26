@@ -1,0 +1,51 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: MDT Launches AI Bootcamp for Credit Unions CUSO offers program to help credit unions leverage generative AI to streamline internal processes, increase efficiencies
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+MDT Launches AI Bootcamp for Credit Unions; CUSO offers program to help credit unions leverage generative AI to streamline internal processes, increase efficiencies
+Business Wire
+September 17, 2024 Tuesday 3:00 PM GMT
+
+
+Copyright 2024 Business Wire, Inc.
+Length:475 words
+Dateline:FARMINGTON HILLS, Mich. 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg (MDT), a CUSO that hosts the Symitar core processing system from Jack Henry(TM) to provide a private cloud alternative for core processing and IT needs, today announced the launch of its AI Bootcamp, a 10-week program that helps credit union clients establish a generative AI strategy and use cases within their organizations.
+Through the program, AI experts at MDT will lead weekly meetings with a selected team at the credit union, exploring how the technology could support the credit union's unique strategic goals, improve operational efficiencies and enhance member services. MDT will provide educational resources and sample policies, collaborate on ideas, oversee a credit union proof of concept team, help build use cases, and then, at the end of the program, provide ROI data and a board-ready report.
+"Generative AI has the potential to radically transform the way businesses operate, and if credit unions fail to form a strategy and experiment with how to best leverage it now, they risk falling behind," said Tracie Loudermilk, VP of Project Management & Consulting Solutions at MDT. "However, many credit unions simply don't know where to start. That's why we have created this unique program, providing the support and guidance credit unions need to gather relevant information, explore possibilities and then take action."
+"The rise of generative AI continues to supercharge technology's speed and impact. But, many credit unions are already stretched thin; many simply don't have the time or in-house expertise to research, evaluate and strategically implement this technology on their own," said Larry Nichols, CEO and President of MDT. "By launching our AI Bootcamp, we are empowering credit unions with the expertise and resources to embrace generative AI in the best way for their individual institutions, ultimately streamlining processes, boosting efficiencies and driving innovation."
+About Member Driven Technologies
+Member Driven Technologies (MDT) provides a private cloud alternative for core processing and IT needs. The CUSO hosts the Symitar core processing system from Jack Henry(TM), as well as dozens of seamlessly integrated solutions and supporting services to help run the entire institution, such as digital banking, payments, lending, cybersecurity and imaging. Rounding out its comprehensive suite, MDT also offers business continuity, disaster recovery and regulatory solutions as well as consulting, data analytics, email hosting and hardware purchasing services. By partnering with MDT, credit unions across the country are boosting efficiencies, enhancing security and reducing costs while maintaining a high level of control. Visit mdtmi.com or follow @memberdriven for more information.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240917765999/en/
+
+CONTACT: Media:
+Amber Bush
+amber@williammills.com
+
+http://www.businesswire.com
+
+Load-Date:September 17, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

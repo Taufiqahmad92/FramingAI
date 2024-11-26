@@ -1,0 +1,78 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: WISeKey Subsidiary WISeSat to Launch Second Proof of Concept for SEALCOIN Token
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+WISeKey Subsidiary WISeSat to Launch Second Proof of Concept for SEALCOIN Token
+GlobeNewswire
+October 14, 2024 Monday 6:20 AM PT
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7618 by 2434, depth 1
+pict002.png
+Section:COMPANY ANNOUNCEMENT
+Length:1659 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+Zug, Switzerland  October 14, 2024: WISeKey International Holding AG ("WISeKey", SIX: WIHN), a global leader in cybersecurity, blockchain, and IoT solutions, today announced that its subsidiary, WISeSat.Space (WISeSat), will conduct the second Proof of Concept (PoC) for SEALCOIN by transacting tokens via satellites to IoT devices. The PoC is set to take place during the launch of a new generation of WISeSat satellites, planned for January 2025. This milestone, once complete, will represent a major leap forward in secure, autonomous machine-to-machine (M2M) transactions using WISeSat's current satellite constellation.
+The launch of a new generation of WISeSat satellites will feature enhanced operational capabilities specifically designed to support M2M transactions from space. These next-generation satellites will further strengthen the WISeSat constellation, enabling secure and efficient decentralized transactions across a wide range of IoT devices, marking a new era in space-based digital ecosystems.
+This PoC will demonstrate SEALCOINs groundbreaking potential to facilitate decentralized transactions in the growing Internet of Things (IoT) ecosystem. Leveraging the SEALCOIN platform, the PoC will enable satellite-initiated transactions to IoT devices without human intervention. The tokens, based on Decentralized Ledger Technology (DLT), ensure secure, transparent, and tamper-proof exchanges, driving the creation of a scalable Transactional IoT (t-IoT) infrastructure.
+Previously, SEALCOIN successfully conducted a Proof of Concept (PoC) for Transactional-IoT (t-IoT) between two devices in early August. This milestone marked a significant step forward in the disintermediation of service providers for interconnected devices, showcasing the transformative potential of SEALCOINs innovative platform. For a video presentation of the initial PoC, please visithttps://youtu.be/daOvoOxqGvQ. 
+Transactional-IoT refers to the automated communication and transactions between devices within the Internet of Things (IoT) ecosystem. SEALCOINs PoC demonstrates the use of advanced technology embedded within a semiconductor device to validate and verify transactions autonomously. At the heart of this innovation is the Secure Element, an embedded security hardware that protects the private key and certificate representing the devices unique identity. Leveraging elliptic curve cryptography (ECC) compatible with Hederas Decentralized Ledger Technology (DLT), the device can simultaneously authenticate and sign transactions on-chain.
+SEALCOIN AG
+Backed by over 25 years of experience in cybersecurity and secure semiconductor chips, embedded firmware, and trusted hardware provisioning services, SEALCOIN AG, the WISeKey subsidiary housing the SEALCOIN project, is establishing itself as a trusted partner in safeguarding digital assets. SEALCOIN AG was formed in collaboration with The Hashgraph Group AG, and is poised to revolutionize decentralized services and IoT markets.
+The SEALCOIN platform will seamlessly integrate physical security infrastructure with DLT components, bridging the gap between traditional secure systems and the decentralized digital future. The platform will ensure that all autonomous device interactions occur within a transparent, secure ecosystem, with SEALCOINs TIOT token serving as the key enabler of these interactions. This system is designed to eliminate bottlenecks and vulnerabilities associated with centralized transaction models, ushering in a new era of M2M transactions.
+Bridging Satellite and IoT Ecosystems
+SEALCOINs first PoC was a success, validating the feasibility of M2M transactions within a terrestrial framework. The second PoC will expand this capability to space-based systems, with SEALCOIN tokens transacted via WISeSats satellite constellation to IoT devices on the ground. This innovative approach demonstrates the scalability of decentralized infrastructures to handle real-world applications, from energy trading to automated service exchanges.
+Towards a Decentralized IoT Marketplace
+With SEALCOINs TIOT token, IoT devices can autonomously negotiate, execute, and settle transactions securely, without the need for human intervention or centralized intermediaries. This decentralized marketplace allows devices to participate in service-for-payment exchanges and other automated processes, all powered by SEALCOINs TIOT token.
+Carlos Moreira, CEO of WISeKey, commented, This PoC marks an important step towards enabling seamless, decentralized M2M transactions from space. With the SEALCOIN token and WISeSat's satellite infrastructure, we are moving closer to a future where IoT devices can securely and autonomously manage transactions across vast, interconnected ecosystems. The upcoming launch of the new generation of WISeSat satellites in January 2025 will further accelerate our vision of a decentralized, space-powered IoT network.
+For more information on WISeSat, SEALCOIN, and their decentralized IoT solutions, please visit www.wisekey.com and www.sealcoin.com.
+About SEALCOIN AGSEALCOIN is a decentralized platform designed to facilitate secure, autonomous transactions between IoT devices. Built on Hedera Hashgraph, SEALCOIN allows devices to engage in seamless service-for-payment exchanges without the need for intermediaries. With a focus on privacy, scalability, and decentralized governance, SEALCOIN is poised to revolutionize the Internet of Things (IoT) landscape.About WISeSat.Space 
+WISeSat AG is pioneering a transformative approach to IoT connectivity and climate change monitoring through its innovative satellite constellation. By providing cost-effective, secure, and global IoT connectivity, WISeSat is enabling a wide range of applications that support environmental monitoring, disaster management, and sustainable practices. The integration of satellite data with advanced climate models holds great promise for enhancing our understanding of climate change and developing effective strategies to combat its impacts. As the world continues to grapple with the challenges of climate change, initiatives like WISeSat's IoT satellite constellation are essential for creating a more resilient and sustainable future.
+About WISeKey
+WISeKey International Holding Ltd (WISeKey, SIX: WIHN; Nasdaq: WKEY) is a Swiss-based computer infrastructure company specializing in cybersecurity, digital identity, blockchain, Internet of Things (IoT) solutions, and post-quantum semiconductors. As a computer infrastructure company, WISeKey provides secure platforms for data and device management across industries like finance, healthcare, and government. It leverages its Public Key Infrastructure (PKI) to ensure encrypted communications and authentication, while also focusing on next-generation security through post-quantum cryptography.
+WISeKey's work with post-quantum semiconductors is aimed at future-proofing its security solutions against the threats posed by quantum computing. These advanced semiconductors support encryption that can withstand the computational power of quantum computers, ensuring the long-term security of connected devices and critical infrastructure. Combined with its expertise in blockchain and IoT, WISeKey's post-quantum technologies provide a robust foundation for secure digital ecosystems at the hardware, software, and network levels.
+WISeKey operates as a holding company through several operational subsidiaries, each dedicated to specific aspects of its technology portfolio. The subsidiaries include (i) SEALSQ Corp (Nasdaq: LAES), which focuses on semiconductors, PKI, and post-quantum technology products, (ii) WISeKey SA which specializes in RoT and PKI solutions for secure authentication and identification in IoT, Blockchain, and AI, (iii) WISeSat AG which focuses on space technology for secure satellite communication, specifically for IoT applications, (iv) WISe.ART Corp which focuses on trusted blockchain NFTs and operates the WISe.ART marketplace for secure NFT transactions, and (v) SEALCOIN AG which focuses on decentralized physical internet with DePIN technology and house the development of the SEALCOIN platform.
+For more information on WISeKeys strategic direction and its subsidiary companies, please visit www.wisekey.com.
+DisclaimerThis communication expressly or implicitly contains certain forward-looking statements concerning WISeKey International Holding Ltd and its business. Such statements involve certain known and unknown risks, uncertainties and other factors, which could cause the actual results, financial condition, performance or achievements of WISeKey International Holding Ltd to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. WISeKey International Holding Ltd is providing this communication as of this date and does not undertake to update any forward-looking statements contained herein as a result of new information, future events or otherwise.
+This press release does not constitute an offer to sell, or a solicitation of an offer to buy, any securities, and it does not constitute an offering prospectus within the meaning of the Swiss Financial Services Act (FinSA), the FinSa's predecessor legislation or advertising within the meaning of the FinSA. Investors must rely on their own evaluation of WISeKey and its securities, including the merits and risks involved. Nothing contained herein is, or shall be relied on as, a promise or representation as to the future performance of WISeKey.
+Press and Investor Contacts
+
+		WISeKey International Holding LtdCompany Contact: Carlos MoreiraChairman & CEOTel:+41 22 594 3000info@wisekey.com 	WISeKey Investor Relations (US)The Equity Group Inc.Lena CatiTel: +1 212 836-9611 / lcati@equityny.comKatie MurphyTel: +1 212 836-9612 / kmurphy@equityny.com	
+
+
+Load-Date:October 14, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

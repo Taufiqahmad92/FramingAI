@@ -1,0 +1,89 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: EYEING SUSTAINABILITY: CHINA'S GREEN DEVELOPMENT AGENDA EMPOWERS SMALL ISLAND DEVELOPING COUNTRIES TO ADDRESS CLIMATE CHALLENGES, PROMOTE RESILIENCE: TOP REMOTE SENSING SCIENTIST
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+EYEING SUSTAINABILITY: CHINA'S GREEN DEVELOPMENT AGENDA EMPOWERS SMALL ISLAND DEVELOPING COUNTRIES TO ADDRESS CLIMATE CHALLENGES, PROMOTE RESILIENCE: TOP REMOTE SENSING SCIENTIST
+States News Service
+September 25, 2024 Wednesday
+
+
+Copyright 2024 States News Service
+Length:2336 words
+Byline:States News Service
+Dateline:BEIJING, China 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Editor's Note:
+China has long been committed to addressing global climate change and promoting sustainable development through technological innovation and international cooperation. Recently, the Global Times reporter Shan Jie (GT) interviewed Guo Huadong (Guo), an Academician of the Chinese Academy of Sciences and the Director-General of the International Research Center of Big Data for Sustainable Development Goals (CBAS), to discuss the role of big Earth data in helping Small Island Developing States (SIDS) achieve sustainable development and improve their disaster response capabilities.
+GT: How do you view the role of big Earth data in helping SIDS to achieve sustainable development goals and enhance disaster response capabilities? What kind of support can the CBAS provide to these countries?
+Guo: We have been done a lot of work in the field of big data technology, and it is widely recognized that big data plays a crucial role in helping SIDS achieve their sustainable development goals and address the challenges of natural disasters.
+Moreover, resources are also changing. Through big Earth data, we integrate various data sources, including satellite remote sensing, meteorology, and ecology, to offer a comprehensive, timely, and accurate means of monitoring and analyzing ecological environments and natural disasters. This plays a significant role in facilitating sustainable development goals.
+The challenges faced by SIDS make big data especially important. Our research center can contribute significantly in several ways. First, these countries lack data in their development processes, whereas our center has abundant big Earth data resources. Second, these countries also lack methodologies, but we have established a scientific big data platform and identified that our satellite data resources have significant advantages in terms of technological tools and model development. Third, these countries lack the relevant talent, and we can provide training.
+Our center has five major missions, with the fourth and fifth missions focusing on training talent in developing countries. The Small Island Developing States Capacity Building Workshop on Utilizing big Earth data for Sustainable Development Goals (SDGs) is one such example of our specific efforts in this regard.
+In conclusion, big Earth data provides strong support for SIDS in addressing climate change and promoting sustainable development. We are committed to continuing to drive technological innovation and capacity building in this area, supporting these nations achieve safer and greener development.
+GT: In September, you and your team released a series of data products for SIDS covering marine and land heatwaves, coral bleaching thermal stress, and etc. What new products will be released in the future?
+Guo: Climate change has triggered a series of disasters, which are key global concerns and have a significant impact on sustainable development. Our big Earth data research focuses on greenhouse gases, particularly carbon dioxide and methane emissions, as well as the carbon sequestration capacity of natural ecosystems. In terms of natural disasters, we monitor global floods, droughts, heatwaves, and other disaster types, and analyze the impact of these disasters on populations and economies using spatial information. The released global mangrove remote sensing product has already played a role in combating climate change and promoting sustainable development.
+To address global climate change and disaster challenges, we have made contributions in greenhouse gas emissions and natural disaster monitoring. For example, despite the increasing trend of global meteorological droughts, severe drought impacts have decreased due to human irrigation efforts, which shows the vital role of irrigation in mitigating drought. Looking ahead, climate change will continue to pose a long-term threat to humanity.
+Recently, we collaborated with scholars worldwide and published an article in Innovation from the perspective of global governance, proposing a synergy between climate change responses and sustainable development goals, aiming to enhance efficiency and reduce costs.
+GT: You have witnessed the development of China's remote sensing technology alongside the nation. Could you share your observations and insights?
+Guo: The development of remote sensing has been synchronized with China's reform and opening-up. China's reform began in 1978, the same year we started large-scale airborne remote sensing experiments, such as the Tengchong Airborne Remote Sensing Experiment, which used domestically developed payloads to observe resources in Tengchong, Southwest China's Yunnan Province. This experiment marked the beginning of China's remote sensing history.
+After that, our remote sensing communities conducted environmental remote sensing in the Beijing-Tianjin-Hebei region in North China, followed by remote sensing for site selection for the Ertan Hydropower Station in Southwest China's Sichuan.
+We refer to these three projects as the "three major battles," which officially opened the chapter of China's remote sensing history.
+At the same time, China's reform and opening-up also unfolded. Therefore, I have always believed that remote sensing has progressed in tandem with China's reform and opening-up. Over the last 46 years, China's remote sensing technology has made significant advances. In satellite remote sensing, China has developed meteorological satellites, ocean satellites, resource satellites, and environmental satellites, and even sustainable development satellite and other scientific satellite systems, with commercial satellites developing rapidly as well. The progress is not only in spaceborne remote sensing but also in airborne remote sensing and remote sensing data processing software.
+These remote sensing technologies have been applied extensively in resources, environment, energy, and other fields, achieving significant progress. China has become one of the global leaders in remote sensing technology, which has played a crucial role in monitoring resources and the environment, supporting national economic construction, social development, and national security.
+International cooperation has also been integral to the development of remote sensing. In 2016, I initiated the Digital Belt and Road program (DBAR), aimed at leveraging digital technology to promote the Belt and Road Initiative. Initially, 28 countries participated, and it has now expanded to 59 countries with nine international excellence centers. Remote sensing has played a vital role in advancing global cooperation and development.
+I also launched the "ABCC Plan," a comparative study of climate change remote sensing involving Australia, Brazil, China, and Canada. The aim of this plan is to utilize these countries' remote sensing capabilities to analyze and compare the impacts of global climate change.
+GT: After years of working with remote sensing satellites as your "eyes" to observe the Earth, how do you view the improvement of China's ecological environment?
+Guo: The improvements are clear. We often refer to remote sensing satellites as the "eyes in the sky," which offer a broader perspective than our human eyes. Remote sensing technology can observe objects across the full spectrum of electromagnetic waves, enabling effective observations even at night. For example, remote sensing satellites can detect not only the presence of water, but also analyze its transparency. High-resolution satellites can even accurately determine how many solar panels and wind turbines are installed in China.
+Every year from 2019, we write a report entitled Big Earth Data in Support of Sustainable Development Goals. These reports provide detailed assessments of progress toward sustainable development goals through big data analysis. For example, in 2023, we found that China had achieved more than half of the total environment-related sustainable development goals ahead of schedule, with over 52 among 92 indicators showing significant improvement. This is especially impressive given the global context of climate change, the pandemic, and economic slowdowns.
+GT: What role do you think digital Earth plays in global sustainable development? What are the main challenges in its practical application and promotion?
+Guo: The concept of digital Earth was proposed at the first International Symposium on Digital Earth in 1999. When a journalist asked me how I would describe digital Earth, I replied: "Digital Earth is about putting the Earth into a computer." Digital Earth gives us a comprehensive view of the Earth. As the concept of big data has evolved, digital Earth has entered the era of big data.
+Big data offers a new paradigm for digital Earth. Its primary task is to use various algorithms and tools to extract knowledge from diverse, massive, and complex Earth data, develop relevant theories, and explain the mechanisms of social and physical systems to ensure the protection and sustainable development of the Earth. This is critical for achieving global sustainable development goals.
+The challenges mainly lie in several areas: First, we need to strengthen research on theories, technologies, and methodologies to drive science and technology development through data. Second, with the rapid development of artificial intelligence and deep learning, data processing technologies must continuously innovate. Furthermore, it is essential to make our scientific platforms and data model resources accessible globally, especially for developing countries. In the future, we will build think tanks that leverage global resources to accelerate the realization of sustainable development goals.
+GT: How does CBAS contribute to national and international sustainable development progress?
+Guo: Since its inception, the center has achieved numerous accomplishments. We successfully launched China's first sustainable development science satellite, equipped with thermal infrared, glimmer, and multi-band imagers. The satellite data has been well utilized, with users from 104 countries worldwide downloading our data through SDGSAT-1 Open Science program, continuously promoting global data sharing.
+Our data is already being used by several United Nations agencies, including the United Nations Environment Programme (UNEP) and the Food and Agriculture Organization (FAO). Additionally, our reports on Big Earth Data in Support of the Sustainable Development Goals are released by state leaders at international events. For instance, the 2019 report was one of four official documents submitted by China's delegation to the 74th session of the United Nations General Assembly.
+The center has made significant contributions to international cooperation as well. We have signed memoranda of understanding with various UN agencies, such as UNEP and FAO. The center's SDGSAT-1 has been highly recognized by the central government and is listed as one of China's seven major actions to implement the 2030 Agenda.
+We have also initiated the International Forum on Big Data for Sustainable Development Goals (FBAS), which has now been held for four years and has become a high-level think tank in the field of sustainable development around the world. The center has established a global cooperation network, attracting eight international institutions and six domestic partners. We also formed a Fellowship program comprising internationally renowned scholars, including former presidents of the UN General Assembly and former directors-general of UNESCO, which has greatly enhanced the center's international influence.
+In 2023, Csaba Krosi, the President of the 77th United Nations General Assembly, visited the center and said he saw the most advanced technologies and achievements, and found like-minded partners. He said that his dream had come true that day, which was a great recognition of our work.
+GT: What is the state of global data sharing? Are there still barriers?
+Guo: In terms of data sharing, we have always believed that if data cannot be effectively shared, the potential of big data cannot be realized. Therefore, since the center's inception, we have attached great importance to data sharing. Our first sustainable development satellite has achieved global open sharing, and 104 countries are now using our data.
+I want to emphasize that while our satellite investment is not large, it has already provided significant data support to many countries. For instance, out of the 193 UN member states, 104 have used our data. More than 100 research papers have been published using our data, which is also a recognition of the scientific value of our work.
+Moreover, based on these data, we have released several reports for the United Nations and signed cooperation agreements with several international organizations to promote global data sharing and application.
+GT: What replicable and scalable experiences can be drawn from the SIDS training program?
+Guo: Although the number of SIDS is limited, they face common challenges, especially the threats posed by climate change and rising sea levels. The United Nations places great importance on these countries. In facing these challenges, they have a strong need for data and technical support.
+We provide data support and technical training for small island countries. For instance, we promise to offer the data they need and help them compile relevant reports. Through the training workshops, they have learned how to access and analyze big Earth data, enhancing their capacity to respond to climate change and disasters. This training model can be extended to other developing countries.
+Overall, the experiences from the SIDS training program can serve as valuable references for other developing nations, helping them address climate change and achieve sustainable development through data-driven solutions, capacity building, and international cooperation. (Global Times)
+
+Load-Date:September 25, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+

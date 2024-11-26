@@ -1,0 +1,100 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Pega Infinity '24 Updates Accelerate Generative AI-based Innovation for the Enterprise Latest release includes Pega GenAI enhancements and increased flexibility to accelerate transformation, improve customer and employee experienc...
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Pega Infinity '24 Updates Accelerate Generative AI-based Innovation for the Enterprise; Latest release includes Pega GenAI enhancements and increased flexibility to accelerate transformation, improve customer and employee experiences, and maximize efficiency
+Business Wire
+October 29, 2024 Tuesday 1:00 PM GMT
+
+
+Copyright 2024 Business Wire, Inc.
+Length:1192 words
+Dateline:CAMBRIDGE, Mass. 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg (NASDAQ: PEGA), the leading enterprise AI decisioning and workflow automation platform provider, today announced the general availability of Pega InfinityTM 24.2 . This latest release of Pega's core portfolio of cloud-ready products introduces new generative AI capabilities and enhancements that help enterprises boost employee productivity and innovate faster while optimizing customer experiences.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20241029022508/en/
+Pega GenAI Blueprint checklist helps accelerate development (Graphic: Business Wire)
+Pega Infinity '24.2 includes enhancements to its solutions across industries, including Pega PlatformTM , Pega Customer Decision HubTM , Pega Customer ServiceTM , and Pega Sales AutomationTM , which help organizations use AI to further accelerate digital transformation at enterprise scale. This includes delivering applications faster and with optimal business alignment, better engaging customers with contextualized experiences, and automating workflows to reduce manual work and optimize employee performance.
+New features in Pega Platform help improve user productivity while streamlining workflows so users can build, test, and go live faster than ever before, including:
+        
+Increased innovation with gen AI choice: Previewed at PegaWorld iNspire 2024 and available now, Pega has expanded its gen AI Large Language Model (LLM) flexibility beyond OpenAI to support Amazon Bedrock from Amazon Web Services (AWS) and Vertex AI from Google Cloud. Clients can now easily leverage the model that works best for their business needs to power their Pega GenAI capabilities.
+        
+Development acceleration with Pega GenAI Blueprint TM: Pega GenAI Blueprint instantly creates application design 'blueprints' by describing an app concept in natural language. Powered by Pega GenAI, developers importing blueprints into Pega's low-code App Studio can instantly access custom task lists with exact steps needed to successfully take blueprint designs live and into production. This helps reduce errors, maximize efficiency, and decrease time-to-market.
+        
+More effective, accessible user experiences: Enhancements to Pega ConstellationTM set new standards for creating the most effective user experience framework. These platform updates provide users with better accessibility, mobility, and high-end user performance.
+        
+Custom Pega GenAI Coaches across applications: Pega GenAI CoachTM is the generative AI-powered mentor that proactively advises users to help them achieve optimal outcomes in Pega. Initially introduced to support select Pega applications, developers can now add powerful "coaches" to any application on the Pega Platform for any persona. This means organizations have the flexibility and freedom to build custom coaches for whatever use case they need, such as a back-office productivity workflow, a customer-facing application, and everything in between.
+Pega Customer Decision Hub (CDH) updates help both marketers and data scientists leverage AI for deeper customer data insights to optimize every interaction, including:
+        
+Improved access and control for customer journey orchestration: Marketers can better configure customer journeys with pre-defined templates that accelerate the creation of outbound marketing messages, as well as tag journeys to key initiatives with campaign codes and access full campaign views from a dedicated landing page.
+        
+Create stronger brand voices: Using existing treatments, content inputs, and web pages, users can generate and integrate brand voice with Pega GenAI to create and refine Next-Best-Action treatments and maintain brand identity across all interactions.
+        
+New integrations for better real-time decisioning: Snowflake and Google BigQuery integrations enable teams to seamlessly leverage diverse data in Pega CDH to unlock deeper insights, and drive faster, more accurate decisions to elevate customer engagement.
+        
+New Pega Message Stream digital delivery service: Marketers can deliver, monitor, and optimize emails directly in Pega CDH without a separate email service provider, helping to better understand customer preferences and needs.
+Pega Customer Service and Pega Sales Automation enhancements help customers to self-solve while empowering agents and salespeople to do their best work, including:
+        
+Seamless self-service experiences across chat and messaging: A new multi-experience panel enables customers to self-serve more sophisticated requests with fast access to knowledge articles, customized offers, and next steps for easy resolution directly within live chat and virtual assistant interactions.
+        
+Automate contextual answers across channels: Agents can reduce manual searching and prompting and provide faster, more accurate answers during customer interactions with Pega GenAI Knowledge Buddy TM capabilities in Voice AI & Messaging AI , which quickly detect customers' intent in real-time and auto-generates responses.
+        
+Optimize virtual sales meetings to close deals faster: Pega Sales Automation now offers enhanced real-time video integration for Microsoft Teams, in addition to Zoom and Webex. During meetings, sellers benefit from Voice AI -powered suggestions based on live conversations with tips to improve outcomes.
+Pega Infinity updates are available now for Pega CloudTM clients. Coupled with the largest global collection of Pega expertise in the world, Pega Cloud ensures the most complete Pega experience available for Pega Infinity clients. This includes enhanced app deployment and performance, scalability and efficiency, security, and disaster recovery.
+For more information on Pega Infinity '24, visit https://www.pega.com/infinity .
+Quotes & Commentary:
+"Enterprises are embracing transformation enabled by AI and automation so they can quickly and effectively evolve as business and customer needs shift," said Kerim Akgonul, chief product officer, Pega. "Pega Infinity's latest enhancements supercharge enterprise efficiency and innovation with deeper generative AI capabilities that accelerate developer and employee productivity while delivering exceptional customer experiences across industries."
+Supporting Resources:
+        
+More information: Pega Infinity
+        
+Product information: Pega GenAI Knowledge Buddy and Pega GenAI Coach
+        
+Additional background: Pega GenAI and Pega GenAI Blueprint
+About Pegasystems
+Pega provides a powerful platform that empowers the world's leading organizations to unlock business-transforming outcomes with real-time optimization. Clients use our enterprise AI decisioning and workflow automation to solve their most pressing business challenges - from personalizing engagement to automating service to streamlining operations. Since 1983, we've built our scalable and flexible architecture to help enterprises meet today's customer demands while continuously transforming for tomorrow. For more information on how Pega empowers its clients to Build for Change®, visit www.pega.com .
+All trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20241029022508/en/
+
+CONTACT: Press:
+Ilena Ryan
+Pegasystems
+ilena.ryan@pega.com
+
+http://www.businesswire.com
+
+Graphic
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+pict003.jpg
+Pega GenAI Blueprint checklist helps accelerate development (Graphic: Business Wire)
+Pega GenAI Coach now available across applications for any use case (Graphic: Business Wire)
+Using Pega GenAI, Pega CDH maintains brand identity across interactions (Graphic: Business Wire)
+New multi-experience panel enables customers to self-serve more sophisticated requests (Graphic: Business Wire)
+Pega CDH updates improve access and control for customer journey orchestration (Graphic: Business Wire)
+
+Load-Date:October 29, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

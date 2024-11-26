@@ -1,0 +1,76 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: American Academy of Sleep Medicine: Survey Reveals Election and World Worries Keep Americans Awake
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+American Academy of Sleep Medicine: Survey Reveals Election and World Worries Keep Americans Awake
+Targeted News Service
+October 23, 2024 Wednesday 8:30 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:566 words
+Byline:Targeted News Service
+Dateline:DARIEN, Illinois 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+As the 2024 United States presidential election approaches, a survey from the American Academy of Sleep Medicine reveals that nearly half of people (46%) have lost sleep due to worries about the election. Election night itself adds another layer of fatigue, with 34% of respondents reporting that they feel tired the morning after Election Day.
+Election-related stress isn't the only factor affecting American's rest, however. The survey highlights that 81% of people have lost sleep due to financial concerns, while 57% report job security as a source of sleep loss. Additionally, more than half (54%) of adults have lost sleep due to worries about global conflict, and 41% of people have lost sleep due to worries about AI and emerging technology.
+"Worries surrounding the election and other major global issues can trigger a cycle of anxiety and sleeplessness, which takes a serious toll on mental and physical health," said Dr. Andrew Spector, sleep medicine physician and spokesperson for the AASM. "The world is stressful enough without adding the strain of sleepless nights."
+As the election draws closer, Spector offers the following tips:
+* Reduce your social media consumption, particularly before bedtime. Scrolling prevents sleeping, even if it isn't stressing you out.
+* Avoid alcohol close to bedtime. Even if you fall asleep faster, the quality of your sleep will be worse.
+* Normalize an active mind at night. Brains don't shut off at night any more than hearts and lungs do. Trying to clear your mind can be stressful and make it harder to fall asleep.
+* Take time for yourself. Before bed, do something that puts you in a relaxed state. It's ok if that involves a screen.
+* Don't obsess over your sleep. If you sleep a little less until the election is over, it's not a disaster. Just try to get back to your routine as soon as you can.
+"We live in an information-saturated world, which can overwhelm our ability to unwind at night," said Spector. "Incorporating small changes, like disconnecting from news and social media before bed, can help reduce sleep disturbances and ensure that we're better equipped to handle the stresses of daily life, including those that come with major events like an election."
+* * *
+About the Survey
+The American Academy of Sleep Medicine commissioned an online survey of 2,006 adults in the U.S. The overall margin of error fell within +/- 2 percentage points with a confidence interval of 95 percent. Fieldwork took place between May 16-24, 2024. Atomik Research is an independent market research agency.
+* * *
+About the American Academy of Sleep Medicine
+Established in 1975, the AASM advances sleep care and enhances sleep health to improve lives. The AASM has a combined membership of 12,000 accredited sleep centers and individuals, including physicians, scientists and other health care professionals who care for patients with sleep disorders. As the leader in the sleep field, the AASM sets standards and promotes excellence in sleep medicine health care, education and research.
+* * *
+REPORT: https://aasm.org/wp-content/uploads/2024/10/sleep-prioritization-survey-2024-election-worries.pdf
+* * *
+Original text here: https://aasm.org/survey-reveals-election-and-world-worries-keep-americans-awake/
+[Category: Medical]
+Copyright Targeted News Services
+MSTRUCK-8888834 MSTRUCK
+
+Load-Date:October 23, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

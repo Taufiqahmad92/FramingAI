@@ -1,0 +1,128 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: DHS S&T Awards More Than $1.7M to 19 Minority Serving Institutions for Summer Research Team Projects
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+DHS S&T Awards More Than $1.7M to 19 Minority Serving Institutions for Summer Research Team Projects
+Targeted News Service
+October 24, 2024 Thursday 9:10 AM EST
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+### picture data found, picture dimensions are 536 by 536, depth 1
+pict002.jpg
+Length:1150 words
+Byline:Targeted News Service
+Dateline:WASHINGTON 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+The Department of Homeland Security (DHS) Science and Technology Directorate (S&T) announced the recipients of more than $1.7 million in follow-on funding to 19 research teams from Minority Serving Institutions (MSI). These include Historically Black Colleges and Universities (HBCUs), Tribal Colleges and Universities (TCU), and Hispanic Serving Institutions (HSI) to fund homeland security-related research as part of S&T's Summer Research Team (SRT) Program, in partnership with DHS S&T Centers of Excellence (COE).
+The SRT awards, totaling $1,783,646.70 are administered by S&T's Office of University Programs (OUP). The funding goes to research teams comprised of MSI early career faculty members and students from across the United States and its territories.
+"We are thrilled to support these teams as they conduct important research to support critical homeland security missions," said S&T OUP Director Rebecca Medina. "We are particularly excited to have expanded research opportunities to more HBCUs, TCUs, and HSIs. Their unique perspectives are critical to accurately understand how effective certain homeland security technologies and operations may be for different communities around the nation. DHS is also proud to invest in building research capacity at MSIs."
+Each team was selected for its excellence in research, innovative ideas, leadership, and their commitment to advance homeland security-focused research. Faculty and students at these institutions partnered with S&T-supported COEs, developing homeland security course content, and creatively engaging in research relevant to the complex challenges that DHS faces.
+The 2024 SRT Teams include:
+Historically Black Colleges and Universities
+Fayetteville State University, Partner COE: Cross-Border Threat Screening and Supply Chain Defense (CBTS)
+Advanced Machine Learning for Coastal Resilience: Enhancing Water Level Data Accuracy and Integrity with High Resolution Data and Meteorological Indices
+Dr. Sambit Bhattacharya
+Hampton University, Partner COE: Criminal Investigations and Network Analysis (CINA)
+Sui Blockchain Object Models Gas Optimization and Analysis
+Dr. Nahid Ebrahimi Majd
+Jackson State University, Partner COE: Critical Infrastructure Resilience Institute (CIRI)
+Internet of Things (IoT) - Building, Computing, Resilience of Use Cases of Cyber-based Systems, by Education and Research
+Dr. Francis Tuluri
+North Carolina Central University, Partner COE: Center for Accelerated Operational Efficiency (CAOE)
+Disaster Telemedicine Planning for Medical Surge Following Catastrophic Disasters in Rural Communities in North Carolina
+Dr. Julian Muhammad
+Prairie View A&M University, Partner COE: Criminal Investigations and Network Analysis (CINA)
+Accurate Blood Simulant for Forensic Applications: Biologically Equivalent Simulant for Forensic Tracedrop (BEST)
+Dr. Jingbo Liu
+Southern University at New Orleans, Partner COE: Criminal Investigations and Network Analysis (CINA)
+Decompositional Impact on Microbial Communities: Could Petroleum Play a Role?
+Dr. Meiko Thompson
+Texas Southern University, Partner COE: Critical Infrastructure Resilience Institute (CIRI)
+Development of Educational Materials on Critical Infrastructure and Interdependencies
+Dr. Oluponmile Oloniliua
+Tribal Colleges and Universities
+Haskell Indian Nations University, Partner COE: National Counterterrorism Innovation, Technology and Education Center (NCITE)
+Pilot Training Program for Tribal Public Safety Officers
+Dr. Jessica Burghart
+Hispanic Serving Institutions
+California State University at Los Angeles, Partner COE: Cross-Border Threat Screening and Supply Chain Defense (CBTS)
+Saving the Prickly Pear Cactus from the Invasive Cactus Moth: Autonomous Inspection and Survey of South Texas Prickly Pear using Air Vehicles and AI
+Dr. Michael Frye
+California State University at San Marcos, Partner COE: Cross-Border Threat Screening and Supply Chain Defense (CBTS)
+Removing Arsenic from Natural and Commercial Fertilizer by Complexation Using Iron Compounds
+Dr. Gina Chiarella
+Mercy University, Partner COE: Critical Infrastructure Resilience Institute (CIRI)
+Synthagent Security to Achieve Critical Infrastructure Resilience
+Dr. Zhixiong Chen
+Texas A&M University-Kingsville, Partner COE: Center for Accelerated Operational Efficiency (CAOE)
+Enhancing DHS Threat Detection Through Identifying Pattern Recognition and Attention to Detail (PRAD) Traits in Job Applicants and Employees
+Dr. Ronnie Jia
+Texas A&M at San Antonio, Partner COE: Critical Infrastructure Resilience Institute (CIRI)
+Using Ensemble Machine Learning Models to Improve Resilience in Transportation for Mass Evacuations during Significant Disasters
+Dr. Jiang Guo
+Texas State University, Partner COE: Center for Accelerated Operational Efficiency (CAOE)
+Incorporating Machine Learning Algorithms into Discrete-Event Simulation for Enhanced Workforce Planning in Airport Screening Operations
+Dr. Eduardo Perez
+The City University of New York City College, Partner COE: Soft Target Engineering to Neutralize the Threat Reality (SENTRY)
+Modeling, Collaboration and Interaction of a Robot Dog with Environment, Camera Network, and People
+Dr. Zhigang Zhu
+University of North Texas, Partner COE: National Counterterrorism Innovation, Technology, and Education Center (NCITE)
+Exploring Frontline Interactions with Sovereign Citizens and Anti-Government Extremists: Insights into De-escalation and Procedural Justice
+Dr. Sarah Harper
+University of North Texas, Partner COE: Cross-Border Threat Screening and Supply Chain Defense (CBTS)
+Novel Imaging Strategies for Effective Pest Detection in Shipping Containers
+Dr. Maurizio Manzo
+University of Texas at El Paso, Partner COE: Cross-Border Threat Screening and Supply Chain Defense (CBTS)
+Enhancing Corn (Zea mays L.) Resilience Against Agroterrorism: Evaluating the Efficacy of FDA-Approved Metallic Oxide Nano-Fortifiers in Mitigating Fungal Pathogen Impact
+Dr. Hamidreza Sharifan
+University of the Incarnate Word, Partner COE: National Counterterrorism Innovation, Technology and Education Center (NCITE)
+Enhancing State-Level Election Policy: An Analysis of Legislative Approaches to Secure and Protect Elections and their Impact on Domestic Terrorism
+Dr. Daren Fisher
+For more information on S&T Office of University Programs, please visit: https://www.dhs.gov/science-and-technology/office-university-programs
+For more information on the Summer Research Team Program for Minority Serving Institutions, please visit: https://orise.orau.gov/dhseducation/
+Information on the DHS COEs can be found at: https://www.dhs.gov/science-and-technology/centers-excellence
+* * *
+Original text here: https://www.dhs.gov/science-and-technology/news/2024/10/23/st-awards-minority-serving-institutions-summer-research-team-projects
+Copyright Targeted News Services
+MSTRUCK-8891460 MSTRUCK
+
+Load-Date:October 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

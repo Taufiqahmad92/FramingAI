@@ -1,0 +1,70 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: Three Mile Island Nuclear Plant to Reopen as Microsoft Agrees to Purchase Power From It for 20 Years
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Three Mile Island Nuclear Plant to Reopen as Microsoft Agrees to Purchase Power From It for 20 Years
+Eco Watch
+September 24, 2024 Tuesday 11:30 AM GMT
+
+
+Copyright 2024 Eco Watch Provided by Syndigate Media Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7063 by 1614, depth 1
+pict002.png
+Length:798 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpgPennsylvania's Three Mile Island nuclear plant  which was powered by two pressurized light-water reactors  experienced a cooling malfunction that caused part of the core of the second reactor to melt, releasing radioactive material into the environment.
+Constellation Energy has plans to reopen Three Mile Island, and Microsoft has agreed to buy power from it for 20 years.
+Recent United States government zero-emissions energy incentives have spurred owners of closed-down nuclear plants to consider reopening them, reported Pennsylvania's WESA.
+Activists are asking the government of Pennsylvania to stop the reopening of the plant.
+The second nuclear reactor was shut down following the disaster, but the remaining reactor continued to operate until 2019, when it was closed for economic reasons, The New York Times reported.
+In need of increasing amounts of electricity to power the expansion of artificial intelligence (AI) at a growing number of data centers, Microsoft has contracted to purchase as much power as possible from the controversial plant for the next two decades.
+Constellation Energy has plans for a $1.6-billion refurbishment of the first reactor with a tentative restart in 2028.
+In an interview with NPR, Bill Gates sought to alleviate concerns about the shuttered plant's safety.
+"The safety case for this design is incredibly strong just because of the passive mechanisms involved. People have been talking about it for 60 years, that this is the way these things should work," Gates said. "There's no high pressure on the reactor. Nothing that's pushing to get out. Water, as it's heated up, creates high pressure. And we have no high pressure and no complex systems needed to guarantee the safety. The Nuclear Regulatory Commission is the best in the world, and they'll question us and challenge us."
+Facing competition from growing solar and wind power and inexpensive natural gas, 13 nuclear reactors were closed between 2021 and 2022, reported The New York Times.
+Nuclear power has been getting a second look from states and businesses seeking to take advantage of its ability to produce consistent electricity without dangerous greenhouse gas emissions.
+A tax credit was recently approved by Congress to help keep existing nuclear reactors operating for years.
+Workers at Constellation have been inspecting Three Mile Island's closed reactor for indicators of decay or corrosion and said its main power transformer would need to be replaced and it would need to restore its cooling systems and turbines.
+The plant will also need 600 workers to operate the site. The restored reactor would generate 835 megawatts of power  enough for more than 700,000 homes.
+A recent poll of Pennsylvania residents found that 57 percent were in support of reopening Three Mile Island "as long as it does not include new taxes or increased electricity rates," The New York Times reported.
+More From EcoWatch
+- Electricity Sources by State: How Does Your State Generate Power?
+- What Is the Public Utilities Commission?
+- Is Solar Worth It in Pennsylvania?
+Others are opposed to restarting the nuclear plant under any circumstances. Protestors gathered outside the gates of Three Mile Island last month with signs commemorating the accident.
+Physicist Edwin Lyman, a critic of nuclear power with the Union of Concerned Scientists, expressed concern that safely restarting a reactor after it having been out of commission for such a long time could end up being more of a technical challenge than anticipated.
+"No one's really done this before," Lyman said.
+Sasha Luccioni, AI start-up Hugging Face's top climate executive, commented that a single company acquiring such a large amount of energy highlights the seemingly boundless energy needs of AI.
+"It doesn't address the core issues that are making the current practice of AI unsustainable by definition," Luccioni said, as reported by The Washington Post. "Instead of monopolizing decommissioned nuclear power plants, we should be focusing on integrating sustainability into AI."
+According to the Nuclear Regulatory Commission (NRC), levels of released radioactive materials at Three Mile Island were low enough to not be expected to have negative impacts on health, but some of the area's residents have contested that claim, WESA reported.
+Joyce Corradi of Concerned Mothers and Women said restarting the nuclear reactor was unacceptable.
+"This is not a pro- or anti-nuclear issue to us. This is a health and safety issue," Corradi said.
+Following the shutdown of a nuclear plant, its owner must decommission the site within 60 years, during which time regular NRC inspections are required.
+The post Three Mile Island Nuclear Plant to Reopen as Microsoft Agrees to Purchase Power From It for 20 Years appeared first on EcoWatch.
+
+Load-Date:September 24, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

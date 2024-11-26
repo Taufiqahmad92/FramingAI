@@ -1,0 +1,106 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+Backblaze and Opti9 Partner to Bring High Performance and Low Cost Cloud Storage to Joint Customers; Offering Includes New Canadian Data Region for Backblaze and Integrates B2 Cloud Storage with Opti9s Managed Cloud Services, Security, Backup, and Disaster Recovery Solutions
+GlobeNewswire
+October 30, 2024 Wednesday 6:05 AM PT
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+### picture data found, picture dimensions are 7618 by 2434, depth 1
+pict002.png
+Section:PARTNERSHIPS
+Length:663 words
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+As part of the partnership, Backblaze announced plans to open a new data region in Canada. Opti9 will be the exclusive Canadian channel for Backblaze B2 Reserve and the Powered by Backblaze program.
+Backblaze and Opti9 focus on empowering businesses with the best cloud solutions available, said Jim Stechyson, President of Opti9. Being able to integrate the high performance and low total cost of ownership of Backblazes object storage into our set of solutions will greatly enhance our ability to drive success for our customers.
+Opti9 delivers managed cloud services, application development and modernization, backup and disaster recovery, security, and compliance solutions to businesses around the world. B2 Cloud Storage is secure, compliance-ready, always-hot object storage that is one-fifth the price of traditional cloud storage providers and can be used in any of the solutions Opti9 provides.
+Increasingly, companies seeking managed services support are demanding solutions made up of best-in-breed providers. While traditional cloud platforms work against this principle, Backblaze and solution providers like Opti9 are committed to delivering cloud solutions without the limitations, complexity, and high pricing that are holding businesses back.
+Businesses want modern storage solutions that serve their needs without worrying about out-of-control fees, complexity, or other limits, said Gleb Budman, CEO of Backblaze. Opti9 and Backblaze are both committed to delivering this value to customerscoming together means we can unlock growth for even more businesses around the world.
+The new Canadian data region gives businesses the freedom to access Backblazes open, interoperable cloud solution, while still allowing customers to benefit from local storage and compliance. Located in Toronto, Ontario, the data center has been assessed and maintains a security program that addresses the requirements of SOC 1 Type 2, SOC 2 Type 2, ISO 27001, PCI DSS, and HIPAA. The region will be available to customers in the first quarter of 2025. For more information on the Opti9 partnership and Canadian data region, please visit the Backblaze blog.
+About Backblaze
+Backblaze is the cloud storage innovator providing a modern alternative to traditional cloud providers. We deliver high performance, secure cloud object storage that customers use to develop applications, manage media, secure backups, build AI workflows, protect from ransomware, and more. Backblaze helps businesses break free from the walled gardens that traditional providers lock customers into, enabling them to use their data in open cloud workflows with the providers they prefer at a fraction of the cost. Headquartered in San Mateo, CA, Backblaze (NASDAQ: BLZE) was founded in 2007 and serves over 500,000 customers in 175 countries around the world. For more information, please go to www.backblaze.com.
+About Opti9
+Opti9 is a hybrid cloud solutions provider with offices in Garden City, NY, Omaha, NE, Overland Park, KS, St. Louis, MO, and Ottawa, ON and data centers in North America, Europe, and the APAC region.As an AWS Advanced Consulting Partner, Platinum Veeam Cloud & Service Provider, and Zerto Alliance Partner, Opti9 specializes in managed cloud services, application development and modernization, backup and disaster recovery, security, and compliance. With a business-first focus, Opti9 combines experience with innovation to deliver on its Right Workload, Right Cloud, Right Time approach. www.opti9tech.com
+Press Contact
+Jeanette FosterCommunications Manager, Backblaze jfoster@backblaze.com 
+
+Load-Date:October 30, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict004.jpg
+

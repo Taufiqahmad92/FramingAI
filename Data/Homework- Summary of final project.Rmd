@@ -5,7 +5,10 @@ date: "2024-11-16"
 output: html_document
 ---
 
-#In this R Markdown document, I am providing a summary of your final project. 
+#In this R Markdown document, I am providing a summary of your final project.
+
+here you can find the detial of the data on this repository
+#https://github.com/Taufiqahmad92/FramingAI
 
 #to use the data and execute basic topic modeling with LADAL Method, I may need these packages and relevent libraries 
 

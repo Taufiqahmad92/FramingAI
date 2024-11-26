@@ -1,0 +1,74 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+TITLE: FOREIGN MINISTRY SPOKESPERSON MAO NING'S REGULAR PRESS CONFERENCE ON SEPTEMBER 11, 2024
+
+-----------------
+
+### picture data found, picture dimensions are 5212 by 1058, depth 1
+pict001.png
+FOREIGN MINISTRY SPOKESPERSON MAO NING'S REGULAR PRESS CONFERENCE ON SEPTEMBER 11, 2024
+States News Service
+September 11, 2024 Wednesday
+
+
+Copyright 2024 States News Service
+Length:1225 words
+Byline:States News Service
+Dateline:BEIJING, China 
+Body
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict002.jpg
+Reuters: The European Chamber of Commerce in China today said its members were now scrutinizing their investments in China more closely as the challenges of doing business are beginning to outweigh the rewards, and profit margins in China had sunk for around two thirds of its members to equal or below the global average. Please could you provide any further comment on this matter?
+Mao Ning: I'd refer you to competent authorities for anything specific. What I can tell you is that the third Plenary Session of the 20th Central Committee of the Communist Party of China put forward over 300 important reform measures. China will remain firmly committed to high-standard opening up, foster a market-oriented, world-class business environment within a sound legal framework, and provide more opportunities to foreign companies in China, including those from the EU. China remains a vital engine driving global economic growth and a popular destination for foreign investment.
+CCTV: We noted that the Action Plan adopted at the just concluded Forum on China-Africa Cooperation Beijing Summit said that China and Africa will step up cooperation in the area of cybersecurity. Can you share more details with us?
+Mao Ning: Cybersecurity is a common challenge for all countries, and it is the common responsibility of the international community to defend the international order and uphold peace and security in cyber space. China is actively committed to deepening cybersecurity cooperation with countries of the world, including African countries. According to the Action Plan adopted at the FOCAC Beijing Summit, China and Africa will promote exchanges in such areas as cross-border data flow, legitimate application of new technologies, and internet laws and regulations, so as to jointly advance rules-making for global digital governance. The two sides will also encourage the contact and communication between their national computer emergency response teams, carry out cross-border handling of cybersecurity cases, information sharing, and experience exchange.
+We are now in the 2024 China Cybersecurity Week. While strengthening our own cybersecurity governance, we will continue working with various parties to jointly uphold cybersecurity so as to deliver more benefit of the Internet to people of all countries in the world.
+Reuters: On September 9, Viet Nam's Foreign Ministry made request to China via the Chinese Embassy in Hanoi, asking China to closely coordinate in flood prevention and control, following Typhoon Yagi. But then Vietnamese officials are saying that China has not coordinated with Viet Nam regarding Panlong Jiang, a tributary of the Red River. And the Vietnamese officials added that China later discharged water from Chinese hydro dams into Panlong Jiang, worsening floods along the Red River. Would the Foreign Ministry be able to provide any further comment?
+Mao Ning: Relevant statements that you mentioned don't square with facts."
+These days, owing to Typhoon Yagi, the border areas between China and Viet Nam were hit by severe flooding. China and Viet Nam maintain close and sound communication on cooperation against flood. To support Viet Nam's relief efforts, China is mitigating the flood by storing water in the hydropower stations on the tributary of the Yuanjiang-Honghe River. We will continue to make full use of relevant hydropower stations to regulate water flow and store water for future supply and jointly address the natural disaster.
+Beijing Daily: On September 10 local time, the US House of Representatives deliberated on and passed the Hong Kong Economic and Trade Office Certification Act, which trumpets the removal of the extension of certain privileges, exemptions, and immunities to the Hong Kong Economic and Trade Offices or even termination of the offices' operations. What is China's comment?
+Mao Ning: We strongly deplore and firmly oppose the US's egregious move of manipulating Hong Kong-related issues in an attempt to contain Hong Kong's development. We have lodged strong protests to the US side.
+The Hong Kong Economic and Trade Offices (HKETOs) are economic and trade organizations set up by the Hong Kong SAR government overseas. Their smooth operation is beneficial for Hong Kong and the host countries and regions as they serve to expand practical economic and trade cooperation. The act you mentioned politicizes normal economic and trade cooperation and uses the cooperation as a tool to deliberately vilify overseas institutions of Hong Kong, which is truly egregious. Hong Kong is the second largest source of trade surplus for the US and over 1,200 US companies make investment and do business in Hong Kong. Thus, the move by the US will eventually hurt its own interest.
+China urges the US to stop advancing that act to prevent further damage to the stability and growth of China-US relations. Otherwise, China will take strong and resolute countermeasures.
+NHK: China announced it will hold joint naval and air drills with Russia. Has the exercise started yet? What's the aim of the exercise?
+Mao Ning: The Ministry of National Defense released a readout on the specifics of China-Russia joint exercise, which you may refer to."
+What I can tell you is that China and Russia hold this joint exercise in order to deepen their mil-to-mil strategic coordination and strengthen the capacity to jointly address security threats."
+Dragon TV: The second Summit on Responsible AI in the Military Domain was held in Seoul, the ROK on September 9 and 10. China attended the summit. Could you share more details with us?
+Mao Ning: China attaches great importance to the development, security and governance of Artificial Intelligence (AI). Last October, President Xi Jinping put forward the Global Initiative for AI Governance, which gives a systemic view on China's governance propositions. The application of AI in the military domain bears on world peace and security, and humanity's wellbeing and future. China has been calling on the international community to uphold the vision of common, comprehensive, cooperative and sustainable security, reach consensus on how to standardize the application of AI in the military domain through dialogue and cooperation, and build an open, just and effective mechanism on security governance.
+In this spirit, China, upon invitation, sent a delegation to the second Summit on Responsible AI in the Military Domain in Seoul. The delegation elaborated on China's principles of AI governance: adopt a prudent and responsible attitude, adhere to the principle of developing AI for good, take a people-centered approach, implement agile governance, and uphold multilateralism, which were well recognized by other parties. China will remain open and constructive in working with other parties and deliver more tangibly for humanity through AI development."
+AFP: During today's presidential debate in the US, both Kamala Harris and Donald Trump mentioned US tariffs against China. Trump plans to raise the tariffs, and Harris didn't mention lifting the tariffs. What is China's comment?
+Mao Ning: The presidential elections are the United States' own affairs. We have no comment on that. That said, we are opposed to making China an issue in US elections.
+
+Load-Date:September 11, 2024
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+### picture data found, picture dimensions are 0 by 0, depth 1
+pict003.jpg
+
