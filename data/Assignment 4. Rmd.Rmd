@@ -1,72 +1,92 @@
 ---
 title: 'Assignment #4: Summary of your final project'
-author: "Taufiq"
+author: "Taufiq Ahmad"
 date: "2024-11-22"
 output: html_document
 ---
 
-#In an R Markdown document, provide a summary of your final project. Include a link to the source data that you have compiled in your GitHub repository, 
-
-In this Project I am analyze how U.S. organizations frame AI in press releases concerning disaster response and management. More specifically, i would focus on how  AI is framed in organizational press releases related to disaster management, what are key themes and dominant narratives related the discussions of AI in the context of natural disasters and crises in United States and finally what potential risks and ethical concerns regarding AI usage are highlighted in these communications?
-
-#Source of data compiled in your GitHub repository
-
-I am sharing here the source of data that is available at GitHub with new repository named "FramingAI".
-
-Reposotry : https://github.com/Taufiqahmad92/FramingAI
-Data : https://github.com/Taufiqahmad92/FramingAI/tree/main/Data
+## Framing Artificial Intelligence in Disaster Management: Analyzing U.S.                                Organizational Press Releases
 
 
-#Describe your data source
+#Project Overview:
 
-I have collected the data from Nexis Uni, especially focusing on the New Wires and press releases from PR Newswire, Business Wire etc. 
+This project investigates how U.S. organizations frame AI in press releases concerning disaster response and management. More specifically, I would focus on how  AI is framed in organizational press releases related to disaster management, what are key themes and dominant narratives related the discussions of AI in the context of natural disasters and crises in United States and finally what potential risks and ethical concerns regarding AI usage are highlighted in these communications?
 
-#Spell out your content analysis plan, including preliminary work on a code book
 
 #Objective of the Project: 
  
-  Analyze how U.S. organizations frame AI in press releases concerning disaster         response and management.
+Analyze how U.S. organizations frame AI in press releases during disaster response and management efforts.      
 
-#Research Questions:
+## RQs
 
-  1. How is AI framed in organizational press releases related to disaster management?
-  2. What themes and narratives dominate discussions of AI in the context of natural        disasters and crises?
-  3. What potential risks and ethical concerns regarding AI usage are highlighted in        these communications?
+  1. How is AI framed in organizational press releases related to disaster?
+  2. What are the dominant themes associated with AI in the context of disaster?
+  3. What are the risks and ethical concerns regarding AI in the context of disaster?
   
-#Data collected:
 
-      Data collected using Nexis Uni, spanning press releases from Nov. 1, 2023, to         Nov.1, 2024. Press releases that explicitly mention 'Artificial Intelligence' or       'AI' in conjunction with disasters, emergencies, or crisis management.
+## Data collection
 
+Data has been collected from the database Nexis Uni, focusing on press releases disseminated through major news wires. The collection period spans from July 1, 2024, to December 1, 2024, using the keywords "Artificial Intelligence" OR "AI" AND "disaster". The final dataset comprises 500 press releases sourced mainly from the following news wires:
 
-#Preliminary work on a code book is - In the Codebook Structure, I would define; 
+  1. States News Service
+  2. Targeted News Service
+  3. PR Newswire
+  4. Business Wire
+  5. GlobeNewswire
 
-Code Name - Definition	- Examples -	Coding Rules
-
-#few tentative Code Names
-AI Framing
-Ethical Concerns
-Misinformation Risks
-Public Trust
-AI Benefits
-AI Limitations
-Disaster Types
-Organizational Strategies
+These press releases explicitly mention "Artificial Intelligence" or "AI" in conjunction with disasters.
 
 
-#Provide a sample of the data and some descriptive statistics.
+## A Quick Overview of the data 
 
-Total Press Releases:       	8,00
-Time Period Covered:        	Nov. 1, 2023 – Nov. 1, 2024
-Average Releases Per Month: 	125
-Top Mentioned Keywords:       "Artificial Intelligence," "AI," "Disaster"
-Dominant headlines of the press release:   Ethical Concerns, Public Trust, Misinformation, AI Benefits, AI Limitations
-Most Active Month:	July 2024
-Least Active Month:	February 2024
-Regional Focus:	United States
-Organizations Highlighted:	FEMA, Homeland Security, Tech Companies, NGOs
+Total Press Releases: 500
+Time Period Covered: July 1, 2024 – December 1, 2024
+Average Releases Per Month: 110
+Top Mentioned Keywords: "Artificial Intelligence," "AI," "Disaster"
+
+Dominant Headlines of the Press Releases:
+  Ethical Concerns
+  Public Trust
+  AI Benefits
+  AI Limitations
+
+Regional Focus: United States
+
+Organizations Highlighted:
+  FEMA
+  Department of Homeland Security
+  Major Tech Companies
+  Non-Governmental Organizations (NGOs)
 
 
-#Load the appropriate software libraries
+## Data Analysis Approach 
+
+A computational textual analysis approach is employed to analyze the collected press releases. The analysis is conducted using R programming, leveraging various libraries and packages to facilitate data processing and analysis. The key steps include:
+
+Data Cleaning and Preparation:
+
+  1. Content Analysis:
+  2. Sentimental Analysis:
+  3. Topic Modeling & Thematic Analyis:
+  4. Visualization and Reporting:
+
+Expected Outcomes
+
+  1. Comprehensive Understanding
+  2. Theme Identification
+  3. Ethical Insights
+  4. Strategic Recommendations
+  
+##Repository Highlights
+
+  1. GitHub Repository: FramingAI
+  2. Data Access: FramingAI Data Repository
+  3. Codebook Structure
+  4. Data Samples
+  5. Descriptive Statistics
+  6. Analytical Tools
+
+## Appropriate libraries
 
 ```{r echo= T, results = 'hide', warning=F, error=F, message=F}
 library(tidyverse)
@@ -99,7 +119,8 @@ library(SnowballC)
 library(flextable)
 ```
 
-#I am Loading the data here from the folder, while reading the files, combining the text, spliting into the document. 
+## loading the Data
+#Here I am starting with uploading PDF data, reading the files, converting theim into text and them combining the text, and spliting into the documents. 
 
 ```{r}
 #reading PDF file and converting it into text. 
@@ -115,6 +136,7 @@ for (i in seq_along(documents)) {
   writeLines(documents[[i]], output_file) 
 }
 cat("Files created:", length(documents), "\n")
+
 FramingAI_index <- read_lines("../data/extracted/FramingAI_extracted1.txt")
 extracted_lines <-FramingAI_index[20:2360]
 cat(head(extracted_lines, 20), sep = "\n")
@@ -166,7 +188,7 @@ write_csv(final_data, "./final_data.csv")
 ```
 
 ## Raw text compiler 
-###created an index with the file path to the stories. And then compiled the stories into a dataframe
+###creating an index with the file path to the stories and then compiling the stories into a dataframe. 
 
 ```{r include=FALSE}
 
@@ -178,17 +200,19 @@ files <- list.files("../data/extracted", pattern="*.txt") %>%
  mutate(index = str_extract(filename, "\\d+")) |> 
   mutate(index = as.numeric(index))
 
+
 #Join the file list to the index
 
 final_index <- final_data |> 
   inner_join(files, c("index")) |> 
 mutate(filepath = paste0("../data/extracted/", filename))
 
+#Display the head of the complied dataframe with filenaems and content 
 head(final_index)
-
 ```
 
 ## Text compiler
+
 ```{r echo= T, results = 'hide', warning=F, error=F, message=F}
 
 # Define function to loop through each text file 
@@ -229,14 +253,13 @@ articles_df <- articles_df %>%
 write_csv(articles_df, "./articles_df.csv")
 ```
 
-#Bigrams
+## Bigrams
 
-```{r}
+```{r include=FALSE}
 # Load required libraries
 library(dplyr)
 library(stringr)
 library(tidytext)
-
 
 bigrams <- articles_df %>% 
   select(sentence) %>% 
@@ -259,14 +282,15 @@ bigrams <- articles_df %>%
 # Ensure `stop_words` data is available
 data("stop_words")
 
-# Define the expanded remove pattern for unwanted terms
+# Define the pattern to remove specific unwanted terms
 remove_pattern <- paste(
   "title|pages|publication date|publication subject|publication type|issn|language of publication: english|",
-  "document url|copyright|news|service|initially|filed|ms|virginia|alexandria|last updated|database|startofarticle|proquest document id|",
-  "classification|https|--|people|alt|language|english|length|words|publication|type|morg|york|times|'new york times'|publication   info|illustration|date|caption|[0-9.]|","new york times", "identifier/keyword|twitter\\.|rauchway|keynes's|_ftn|enwikipediaorg|","wwwnytimescom|wwwoenbat|wwwpresidencyucsbedu|wwwalt|wwwthemoneyillusioncom|","aaa|predated|a_woman_to_reckon_with_the_vision_and_legacy_of_fran|ab_se|",
-  "jcr:fec|ac|___________________|\\bwww\\b|[_]+",sep = ""
+  "document url|copyright|news|service|initially|vol|issue|filed|ms|virginia|alexandria|last updated|database|startofarticle|af|rights|october|reserved|september|research articles|proquest document id|",
+  "classification|https|--|people|alt|article|page|based|language|english|length|words|publication|type|morg|york|times|'new york times'|publication   info|illustration|date|caption|[0-9.]|new york times|identifier/keyword|twitter\\.|rauchway|keynes's|_ftn|enwikipediaorg|",
+  "wwwnytimescom|wwwoenbat|wwwpresidencyucsbedu|wwwalt|wwwthemoneyillusioncom|aaa|predated|a_woman_to_reckon_with_the_vision_and_legacy_of_fran|ab_se|",
+  "jcr:fec|ac|___________________|\\bwww\\b|[_]+",
+  sep = ""
 )
-
 # Process bigrams
 bigrams <- articles_df %>% 
   select(sentence) %>% 
@@ -288,23 +312,14 @@ bigrams <- articles_df %>%
 bigrams
 ```
 
-
-
-```{r}
-nrow(final_data)
-```
-```{r}
-ncol(final_data)
-```
-
-#top 20 bigrams
+## top 20 bigrams
 ```{r}
 top_20_bigrams <- bigrams |> 
    top_n(20) |> 
   mutate(bigram = paste(word1, " ", word2)) |> 
   select(bigram, n)
 ```
-#ggplot 
+## Visualization of bigrams  
 
 ```{r}
 ggplot(top_20_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +
@@ -318,17 +333,214 @@ ggplot(top_20_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +
 ```
 
 
-#Create ggplot chart showing the distribution of the data over time
+## Sentiment Analysis
 
-#Import the excel file
 ```{r}
-library(tidyverse)
-AI_excel  <- rio::import("../data/AI_disaster. R.XLSX") %>%
-  janitor::clean_names()
-head(AI_excel)
+library(textdata)
+library(quanteda)
 ```
 
-#I am presenting ggplot from one month data. 
+#Tokenize text
+
+```{r}
+text_tokenized <- articles_df %>% 
+  select(sentence) %>% 
+  unnest_tokens(word, sentence)
+```
+
+#Filter tokenized text
+```{r}
+text_tokenized <- articles_df %>% 
+  select(sentence) %>% 
+  mutate(sentence = str_replace_all(sentence, "- ", "")) %>% 
+  unnest_tokens(word, sentence) %>% 
+  filter(!word %in% stop_words$word) %>% 
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+```
+
+
+## word count 
+```{r}
+text_word_ct <- text_tokenized %>%
+  count(word, sort=TRUE)
+text_word_ct
+```
+
+## Loading NRC lexicon
+```{r}
+nrc_sentiments <- get_sentiments("nrc")
+
+nrc_sentiments %>% count(sentiment)
+
+nrc_sentiments %>% 
+  group_by(word) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  distinct()
+```
+
+## Counting Overall Sentiment with NRC
+```{r}
+sentiments_all <- text_tokenized %>%
+  inner_join(nrc_sentiments) 
+
+sentiments_all %>% 
+  group_by(word) %>% 
+    count(sentiment) %>% 
+  arrange(desc(n))
+```
+
+```{r}
+sentiments_all <- text_tokenized %>%
+  inner_join(nrc_sentiments) %>%
+  count(sentiment, sort = TRUE) %>% 
+  mutate(pct_total =round(n/sum(n), digits=2))
+
+sentiments_all
+```
+
+## Visualizing the sentimental Analysis 
+
+```{r}
+nrc_plot <- sentiments_all %>% 
+  ggplot(aes(x = reorder(sentiment, n), y = n, fill = sentiment)) + 
+  geom_bar(stat = "identity", position = "dodge", width = 0.7) +  
+  geom_text(aes(label = n), hjust = 1.2, size = 4, color = "white") +  
+  labs(
+    title = "Sentiment Analysis of Press Releases on AI and Disaster",
+    subtitle = "NRC Sentiment Analysis Breakdown",
+    caption = "Graphic by Taufiq Ahmad, Dec 1, 2024",
+    x = "Sentiment",
+    y = "Sentiment Score"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 12, hjust = 0.5),  # Center and bold title
+    plot.subtitle = element_text(size = 12, hjust = 0.5),  # Center subtitle
+    plot.caption = element_text(hjust = 0, size = 10, face = "italic"),
+    axis.text.x = element_text(size = 10, color = "grey40"),
+    axis.text.y = element_text(size = 12, color = "grey40"),
+    panel.grid.major.x = element_line(color = "grey90", linetype = "dotted"),  # Dotted grid lines
+    panel.grid.major.y = element_blank(),  # Remove unnecessary grid lines
+    legend.position = "none"  # Hide legend since colors are self-explanatory
+  ) +
+  scale_fill_manual(values = c(
+    "positive" = "#1f77b4",   # Blue
+    "negative" = "#d62728",   # Red
+    "trust" = "#2ca02c",      # Green
+    "fear" = "#9467bd",       # Purple
+    "anticipation" = "#ff7f0e", # Orange
+    "anger" = "#e377c2"       # Pink
+  )) +  # Vibrant colors for each sentiment
+  coord_flip()  # Flip for better readability
+
+# Print the enhanced plot
+print(nrc_plot)
+
+
+```
+
+
+## Checking the top words in some of the sentiments
+
+## Positive
+```{r}
+nrc_positive <- nrc_sentiments %>%
+  filter(sentiment == "positive")
+FramingAI_positive <- text_tokenized %>%
+  inner_join(nrc_positive) %>%
+  count(word, sort = TRUE)
+FramingAI_positive
+```
+
+## Trust
+```{r}
+#Trust
+nrc_trust <- nrc_sentiments %>%
+  filter(sentiment == "trust")
+FramingAI_trust <- text_tokenized %>%
+  inner_join(nrc_trust) %>%
+  count(word, sort = TRUE)
+FramingAI_trust
+```
+
+
+## Negative
+```{r}
+nrc_negative <- nrc_sentiments %>%
+  filter(sentiment == "negative")
+FramingAI_negative <- text_tokenized %>%
+  inner_join(nrc_negative) %>%
+  count(word, sort = TRUE)
+FramingAI_negative
+```
+
+
+## Fear
+```{r}
+nrc_fear <- nrc_sentiments %>%
+  filter(sentiment == "fear")
+FramingAI_fear <- text_tokenized %>%
+  inner_join(nrc_fear) %>%
+  count(word, sort = TRUE)
+FramingAI_fear
+```
+
+
+## Anticipation
+```{r}
+nrc_anticipation <- nrc_sentiments %>%
+  filter(sentiment == "anticipation")
+FramingAI_anticipation <- text_tokenized %>%
+  inner_join(nrc_anticipation) %>%
+  count(word, sort = TRUE)
+FramingAI_anticipation
+```
+
+## Anger
+```{r}
+nrc_anger <- nrc_sentiments %>%
+  filter(sentiment == "anger")
+FramingAI_anger <- text_tokenized %>%
+  inner_join(nrc_anger) %>%
+  count(word, sort = TRUE)
+FramingAI_anger
+```
+
+##combimation of All Sentiments 
+
+```{r include=FALSE}
+
+# Defining sentiments to analyze
+sentiments <- c("positive", "trust", "negative", "fear", "anticipation", "anger")
+
+# Process each sentiment and combine results into a single table
+final_table <- lapply(sentiments, function(sentiment) {
+  nrc_sentiments %>%
+    filter(sentiment == !!sentiment) %>%
+    inner_join(text_tokenized, by = "word") %>%
+    count(word, sort = TRUE) %>%
+    mutate(sentiment = sentiment)
+}) %>%
+  bind_rows() %>%
+  pivot_wider(names_from = sentiment, values_from = n, values_fill = 0)
+
+# View final table
+print(final_table)
+
+```
+
+#Import the excel file
+```{r include=FALSE}
+library(tidyverse)
+AI_disaster  <- rio::import("../data/AI_disaster. R.XLSX") %>%
+  janitor::clean_names()
+head(AI_disaster)
+```
+
+
+## visualization to show the distribution of the data over time
 
 ```{r}
 library(tidyverse)
@@ -336,7 +548,7 @@ library(janitor)
 library(lubridate)
 
 # Clean and preprocess the data
-data1 <- AI_excel |> 
+AI_ggplot <- AI_disaster |> 
   janitor::clean_names() |> 
   mutate(published_date_bak = published_date) |> 
   separate(published_date, into = c("date", "year_day"), sep = ", ", extra = "merge", fill = "right") |> 
@@ -346,7 +558,7 @@ data1 <- AI_excel |>
   count(week)
 
 # Plotting the data
-ggplot(data1, aes(x = week, y = n)) +
+ggplot(AI_ggplot, aes(x = week, y = n)) +
   geom_line(color = "blue", size = 1) +
   geom_point(color = "red", size = 2) +
   scale_x_date(date_labels = "%b %d, %Y", date_breaks = "1 week") + # Show labels for every week
@@ -365,9 +577,280 @@ ggplot(data1, aes(x = week, y = n)) +
 
 ```
 
+#Where most Press Release published 
+```{r include=FALSE}
+pr_published_by <- AI_disaster %>%
+  count(publication_4) %>%  
+  group_by(publication_4) %>%  
+  summarise(pr_published_by = sum(n)) %>%  
+  arrange(desc(pr_published_by)) %>% 
+ head(10)
+```
+
+
+## Visualize of NewsWires and Publishers 
+```{r}
+
+library(ggplot2)
+library(ggthemes) # For additional themes
+
+# for a bar chart
+ggplot(pr_published_by, aes(x = reorder(publication_4, -pr_published_by), y = pr_published_by, fill = pr_published_by)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  geom_text(aes(label = pr_published_by), vjust = -0.5, size = 4, color = "black") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue") +
+  theme_minimal(base_size = 12) +
+  labs(
+    title = "Top 10 Publications on AI and Disaster",
+    subtitle = "Number of press releases published by each publication",
+    x = "Publication",
+    y = "Count of Published PRs"
+  ) +
+  theme(
+    plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
+    plot.subtitle = element_text(size = 12, hjust = 0.5),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 9),
+    panel.grid.major = element_line(color = "grey80", linetype = "dashed")
+  )
+
+```
+
+## topic modeling
+
+```{r include=FALSE}
+#install.packages("here")
+#install.packages("tidytext")
+#install.packages("quanteda")
+#install.packages("tm")
+#install.packages("topicmodels")
+#install.packages("reshape2")
+#install.packages("ggplot2")
+#install.packages("wordcloud")
+#install.packages("pals")
+#install.packages("SnowballC")
+#install.packages("lda")
+#install.packages("ldatuning")
+#install.packages("kableExtra")
+#install.packages("DT")
+#install.packages("flextable")
+#install.packages("remotes")
+#remotes::install_github("rlesur/klippy")
+#install.packages("rio")
+#install.packages("readtext")
+#install.packages("formattable")
+```
+
+#Loading relevant libraries and packages for topic modelling
+
+```{r include=FALSE}
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+# load packages
+here::here()
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(readtext)
+#topic modeling
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+# from tutorial packages
+library(DT)
+library(knitr)
+library(kableExtra)
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+```
+
+### Import Data and process into corpus
+
+```{r}
+topic_data <- articles_df %>%
+  select(filename, sentence) %>%
+  as.data.frame() %>%
+  rename(doc_id = filename, text= sentence)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(topic_data))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+```
+
+
+```{r tm3a}
+#DTM: rows correspond to the documents in the corpus. Columns correspond to the terms in the documents. Cells correspond to the weights of the terms. (Girder)
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+topic_data <- topic_data[sel_idx, ]
+#5 term minimum[1] 1387 3019
+#5 term minimum[1] 308597 10339
+
+```
+
+```{r tm12}
+# number of topics
+# K <- 20
+K <- 6
+# set random number generator seed
+set.seed(9161)
+#Latent Dirichlet Allocation, LDA
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 1000, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+
+```
+
+### Extracting and visualizing the topics
+
+```{r}
+# Step 1: Check dimensions
+n_theta <- nrow(theta)
+n_topicdata<- length(topic_data)
+
+cat("Number of rows in theta: ", n_theta, "\n")
+cat("Number of documents in textdata: ", n_topicdata, "\n")
+
+# Check if textdata contains all the documents in theta
+common_ids <- intersect(rownames(theta), topic_data$doc_id) # Assuming textdata has a 'doc_id' column
+
+# Filter textdata to include only the documents present in theta
+topicdata_filtered <- topic_data[topic_data$doc_id %in% common_ids, ]
+
+# Check dimensions after filtering
+n_topicdata_filtered <- nrow(topicdata_filtered)
+cat("Number of documents in filtered textdata: ", n_topicdata_filtered, "\n")
+
+
+# Align rownames of theta with filtered textdata
+theta_aligned <- theta[rownames(theta) %in% topicdata_filtered$doc_id, ]
+
+# Step 2: Combine data
+full_data <- data.frame(theta_aligned, decade = topicdata_filtered)
+
+# get mean topic proportions per decade
+# topic_proportion_per_decade <- aggregate(theta, by = list(decade = textdata$decade), mean)
+# set topic names to aggregated columns
+colnames(full_data)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame <- melt(full_data)
+   
+#Examine topic names
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>%
+  unnest(cols = c(text))
+ 
+topics
+```
+
+
+## EXTRACTED TOPICS 
+
+1. program health committe research depart fund agenc univers word educ
+2. presid trump peopl nation hous state american jean-pierr elect secretari
+3. develop countri support china global cooper climat intern region secur
+4. servic news oper net million result quarter financi incom year
+5. data technolog solut market manag servic innov custom busi cloud
 
 
 
 
 
+## Topic 1:
+Words: program, health, committe, research, depart, fund, agenc, univers, word, educ
 
+**Assessment: This cluster is indicative of Health and Education Programs within governmental and academic institutions. Words like "committee," "department," "fund," and "agency" point to structured organizational efforts, while "university" and "education" emphasize the academic involvement.
+
+**Theme:
+Health and Education Research Programs in Government and Academia
+
+**Relevance to Project:
+Health and education sectors often play crucial roles in disaster management. Analyzing how AI is framed within these programs can reveal interdisciplinary approaches and the integration of AI in public health and educational responses to disasters.
+
+## Topic 2:
+Words: presid, trump, peopl, nation, hous, state, american, jean-pierr, elect, secretari
+
+**Assessment: This cluster revolves around Political Leadership and Governance in the United States. The inclusion of "Trump" and "president" highlights discussions related to specific political figures and their administrations. Words like "nation," "house," "state," and "secretary" indicate governance structures and political offices.
+
+**Theme:
+US Political Leadership and Governance
+
+**Relevance to Project:
+Political leadership significantly influences disaster response policies and the adoption of AI technologies. Examining this theme can uncover how political narratives and leadership styles shape the framing of AI in disaster management communications.
+
+## Topic 3:
+Words: develop, countri, support, china, global, cooper, climat, intern, region, secur
+
+**Assessment: This cluster pertains to Global Development and International Cooperation, with a focus on Climate and Security Issues. The presence of "China" suggests discussions around international relations, while "climate" and "security" indicate environmental and geopolitical concerns.
+
+**Theme:
+Global Development, Climate Cooperation, and International Security
+
+**Relevance to Project:
+AI's role in addressing global challenges like climate change and international security is pivotal in disaster management. This theme can provide insights into how organizations frame AI as a tool for fostering international cooperation and enhancing global disaster response capabilities.
+
+## Topic 4:
+Words: servic, news, oper, net, million, result, quarter, financi, incom, year
+
+**Assessment: This cluster focuses on Financial Performance and Operations within the Service and News Sectors. Words like "result," "quarter," "finance," "income," and "year" are indicative of financial reporting and business performance metrics.
+
+**Theme:
+Financial Performance and Operations of Service and News Sectors
+
+**Relevance to Project:
+Financial stability and operational efficiency are critical for organizations involved in disaster management. Understanding how AI-related financial results and operational successes are communicated can shed light on the economic framing of AI investments in disaster response.
+
+## Topic 5:
+Words: data, technolog, solut, market, manag, servic, innov, custom, busi, cloud
+
+**Assessment: This cluster is centered around Data Technology Solutions and Cloud-based Business Services. Terms like "data," "technology," "solutions," "market," "management," "service," "innovation," "custom," "business," and "cloud" highlight the focus on technological advancements and business innovations.
+
+**Theme:
+Data Technology Solutions and Cloud-based Business Services
+
+**Relevance to Project:
+AI heavily relies on data and cloud technologies for effective disaster management. This theme is directly relevant as it encompasses the technological infrastructure and innovative solutions that organizations leverage, which are likely emphasized in their press releases regarding disaster response.
+
+
+## Implications for Your Project:
+
+#Diverse Organizational Focus: The identified themes suggest that AI in disaster management is framed across various organizational domains, including research institutions, government agencies, political entities, global cooperatives, financial sectors, and technology companies.
+
+#Interdisciplinary Integration: AI is positioned as a multifaceted tool that intersects with health, education, political governance, global security, financial operations, and technological innovation. This highlights the interdisciplinary nature of AI applications in disaster management.
+
+#Ethical and Risk Considerations: Themes related to governance, international cooperation, and financial operations may incorporate discussions on the ethical implications and risks of AI deployment, aligning with your research objectives.
+
+#Strategic Communication: Understanding these themes can aid in analyzing the strategic narratives organizations use to communicate their AI initiatives, emphasizing benefits, addressing concerns, and positioning themselves within broader socio-political and economic contexts.
+
+
+
+#Source of data compiled in your GitHub repository
+
+I am sharing here the source of data that is available at GitHub with new repository named "FramingAI".
+
+Reposotry : https://github.com/Taufiqahmad92/FramingAI
+Data : https://github.com/Taufiqahmad92/FramingAI/tree/main/Data
