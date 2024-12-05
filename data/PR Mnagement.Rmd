@@ -1,5 +1,5 @@
 ---
-title: Final Project
+title: PR Mnagement- Final Paper working sheet. 
 
 author: "Taufiq Ahmad"
 date: "2024-11-22"
@@ -11,7 +11,7 @@ output: html_document
 
 #Project Overview:
 
-This project investigates how U.S. organizations frame AI in press releases concerning disaster response and management. More specifically, I would focus on how  AI is framed in organizational press releases related to disaster management, what are key themes and dominant narratives related the discussions of AI in the context of natural disasters and crises in United States and finally what potential risks and ethical concerns regarding AI usage are highlighted in these communications?
+This paper investigates how U.S. organizations frame AI in press releases concerning disaster response and management. More specifically, I would focus on how  AI is framed in organizational press releases related to disaster management, what are key themes and dominant narratives related the discussions of AI in the context of natural disasters and crises in United States and finally what potential risks and ethical concerns regarding AI usage are highlighted in these communications?
 
 
 #Objective of the Project: 
