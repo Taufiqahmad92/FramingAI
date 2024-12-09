@@ -1,0 +1,121 @@
+---
+title: "File paths and R project"
+author: "Taufiq"
+date: "2024-12-09"
+output: html_document
+---
+
+#This assignment is for the practice of file paths for current and future assignment working
+
+
+## Here is file my one asisgnment 
+### I am taling here about small steps to show hoe file paths works for an assignment. 
+
+#Impoertant libraries 
+
+```{r}
+library(tidyverse)
+library(pdftools)
+library(tidyverse)
+library(textdata)
+library(tidytext)
+library(quanteda)
+library(rio)
+library(janitor)
+library(rio)
+library(dplyr)
+library(stringr)
+library(readr)
+```
+
+```{r}
+# Load necessary library for PDF text extraction
+# Make sure the 'pdftools' package is installed. If not, install it using install.packages("pdftools")
+library(pdftools)
+
+# Step 1: Reading the PDF file and converting it into text
+# '../data/FramingAI.PDF' refers to a PDF file named 'FramingAI.PDF' located in the 'data' folder, one level up from the current working directory
+text <- pdf_text("../data/FramingAI.PDF")  
+# The pdf_text() function extracts text from each page of the PDF and returns a character vector
+
+# Step 2: Writing the extracted text to a plain text file
+# The extracted text is saved as 'FramingAI.text' in the same 'data' directory
+
+writeLines(text, "../data/FramingAI.text")  
+
+# Step 3: Defining the file path to the newly created text file
+
+file_path <- "../data/FramingAI.text"  
+
+
+# This variable holds the relative path to the text file for further processing
+
+# Step 4: Reading the text data from the file
+
+# readLines() reads the text file line by line into a character vector
+text_data <- readLines(file_path)  
+
+# Step 5: Combining all lines of text into a single string separated by newline characters
+
+
+
+# This is useful for splitting the text into separate documents later
+text_combined <- paste(text_data, collapse = "\n")  
+
+# Step 6: Splitting the combined text into individual documents
+# The delimiter "End of Document" is used to identify where one document ends and the next begins
+
+
+documents <- strsplit(text_combined, "End of Document")[[1]]  
+# strsplit() returns a list; [[1]] extracts the first element, which is the vector of split documents
+
+# Step 7: Defining the output directory where extracted documents will be saved
+
+
+# '../data/extracted' is a folder named 'extracted' inside the 'data' directory, one level up from the current working directory
+
+
+output_dir <- "../data/extracted"  
+
+# Step 8: Looping through each document and writing them to separate text files
+
+
+for (i in seq_along(documents)) {
+  
+  output_file <- file.path(output_dir, paste0("FramingAI_extracted", i, ".txt"))
+  
+  # Writing the current document's text to the corresponding output file
+  writeLines(documents[[i]], output_file)  
+}
+
+# Step 9: Displaying the number of files created
+cat("Files created:", length(documents), "\n")  
+
+# This helps verify that all documents have been successfully extracted and saved
+
+# Step 10: Reading a specific extracted file for further processing
+# Here, we're reading the first extracted document 'FramingAI_extracted1.txt' from the 'extracted' folder
+
+FramingAI_index <- readLines("../data/extracted/FramingAI_extracted1.txt")  
+# readLines() reads the file line by line into a character vector
+
+# Step 11: Extracting specific lines from the read file
+# Here, lines 20 to 2360 are extracted for analysis or further processing
+
+
+extracted_lines <- FramingAI_index[20:2360]  
+
+# Step 12: Displaying the first 20 lines of the extracted content
+cat(head(extracted_lines, 20), sep = "\n")  
+# head() retrieves the first 20 elements from 'extracted_lines'
+# sep = "\n" ensures each line is printed on a new line in the console
+
+# Step 13: Converting the extracted lines into a data frame
+# This structure is useful for further data manipulation and analysis
+
+
+extracted_lines <- extracted_lines |> 
+  as.data.frame()  
+# The pipe operator |> passes 'extracted_lines' to as.data.frame()
+
+```
